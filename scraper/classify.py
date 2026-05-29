@@ -38,6 +38,18 @@ def classify(item, classify_keywords):
     return origin
 
 
+def tag_by_defs(text, defs):
+    """defs = [{"id":..., "keywords":[...]}], 텍스트에 키워드가 있으면 그 id 목록 반환 (복수 가능)."""
+    text = (text or "").lower()
+    hits = []
+    for d in defs:
+        for kw in d.get("keywords", []):
+            if kw.lower() in text:
+                hits.append(d["id"])
+                break
+    return hits
+
+
 def dedupe(items):
     """제목(정규화)/URL 기준 중복 제거.
     중복 시: DART 우선 -> origin 우선순위 높은 쪽 -> 요약 긴 쪽."""

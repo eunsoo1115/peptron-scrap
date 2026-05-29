@@ -1,11 +1,23 @@
-# Peptron Scrap Master
+# PIR — Pipeline Intelligence Radar
 
-펩트론 관련 뉴스·공시를 **매일 자동으로 수집**해서 날짜별로 보여주는 사이트.
-GitHub Actions가 정해진 시간에 알아서 돌고, GitHub Pages로 무료 배포된다. **내 PC를 켜둘 필요 없음.**
+펩트론 파이프라인 중심의 **사내 경쟁·규제·임상 인텔리전스 플랫폼**.
+관련 뉴스·논문·임상을 **매일 자동 수집**해 파이프라인/회사별로 묶어 보여준다.
+GitHub Actions가 정해진 시간에 알아서 돌고, GitHub Pages로 배포된다. **내 PC를 켜둘 필요 없음.**
 
 수집 소스: **네이버 뉴스 API · 구글 뉴스 RSS(국내+해외) · 해외 전문매체 RSS · PubMed(논문) · ClinicalTrials.gov(임상)**
-화면 구조: **뉴스 / 논문 / 임상** 3개 레이어 → 각 레이어 안에서 카테고리 탭으로 필터
-분류 (6개): 펩트론 직접 / 비만·GLP-1(PT403 라인) / NPR-B·연골무형성증(PND3174 라인) / 서방형 플랫폼·경쟁사 / 규제·식약처 / 산업·시장
+
+화면 구조 (좌측 네비, 전부 `config.json` 기반 **동적 생성**):
+- **Dashboard** — 파이프라인별 News/Papers/Trials 건수 + 최근 업데이트 카드
+- **News** — 날짜별(국내/해외 토글, 달력 점프)
+- **Pipelines → PT403·PT404·PND3174·PT320** — 파이프라인별 관련 뉴스·논문·임상·경쟁사 한 화면
+- **Companies → (회사별)** — 회사 관련 뉴스·논문·임상 통합 필터
+- **Papers / Clinical Trials** — 누적(최근 3년) + 연도 범위 필터, 최신순
+- **Regulatory** — 규제·식약처·FDA·가이드라인 통합
+
+> 파이프라인·회사는 `config.json`의 `pipelines` / `companies`에 정의만 추가하면
+> 수집 태깅·메뉴·대시보드·뷰가 **자동 생성**된다. (PT405 등 추가 시 config만 수정)
+
+분류 (6개): 펩트론 직접 / 비만·GLP-1 / NPR-B·연골무형성증 / 서방형 플랫폼 / 규제 / 산업·시장
 
 ---
 
@@ -21,7 +33,10 @@ peptron-scrap-master/
 ├─ docs/                        ← GitHub Pages가 이 폴더를 사이트로 띄움
 │  ├─ index.html                ← 사이트 화면
 │  └─ data/                     ← 수집 결과 JSON (자동 생성·갱신)
-│     └─ manifest.json
+│     ├─ manifest.json          ← 날짜 목록·논문/임상 요약
+│     ├─ {날짜}.json            ← 그날 뉴스(국내+해외)
+│     ├─ papers.json            ← 논문 누적(최근 3년)
+│     └─ trials.json            ← 임상 누적(최근 3년)
 ├─ .github/workflows/
 │  └─ daily-scrape.yml          ← 매일 자동 실행 설정
 └─ requirements.txt

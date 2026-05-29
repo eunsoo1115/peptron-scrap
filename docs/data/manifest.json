@@ -1,6 +1,8 @@
 {
-  "site_title": "Peptron Scrap Master",
-  "site_subtitle": "RA Intelligence",
+  "site_title": "PIR",
+  "site_subtitle": "Pipeline Intelligence Radar",
+  "site_tagline": "Competitive · Regulatory · Clinical Intelligence",
+  "greet_name": "Eunsoo",
   "category_meta": {
     "core": {
       "tag": "펩트론 직접",
@@ -41,72 +43,127 @@
     "reg",
     "mkt"
   ],
-  "keywords": {
-    "core": [
-      "펩트론",
-      "Peptron",
-      "PT403",
-      "PND3174",
-      "스마트데포",
-      "SmartDepot"
-    ],
-    "obesity": [
-      "마운자로",
-      "위고비",
-      "젭바운드",
-      "오젬픽",
-      "터제파타이드",
-      "티르제파타이드",
-      "세마글루타이드",
-      "세마글루티드",
-      "GLP-1 비만",
-      "비만치료제 임상",
-      "경구 비만치료제"
-    ],
-    "npr": [
-      "복스조고",
-      "보소리타이드",
-      "vosoritide",
-      "연골무형성증",
-      "NPR-B",
-      "바이오마린"
-    ],
-    "platform": [
-      "지투지바이오",
-      "디앤디파마텍",
-      "인벤티지랩",
-      "장기지속형 주사제",
-      "서방형 주사제",
-      "PLGA 미립구",
-      "분무건조 주사제",
-      "미립구 약물전달"
-    ],
-    "reg": [
-      "식약처 임상시험계획 승인",
-      "식약처 의약품 고시",
-      "FDA 펩타이드 가이던스",
-      "의약품 IND 허가",
-      "의약품안전나라 전자제출"
-    ],
-    "mkt": [
-      "비만치료제 시장 전망",
-      "바이오헬스 R&D 정책",
-      "제약 기술수출"
-    ]
+  "updated_at": "",
+  "dates": [],
+  "papers": {
+    "total": 0,
+    "year_min": null,
+    "year_max": null
   },
-  "updated_at": "2026-05-29T20:44:35.673883+09:00",
-  "dates": [
+  "trials": {
+    "total": 0,
+    "year_min": null,
+    "year_max": null
+  },
+  "news_recent_total": 0,
+  "pipelines": [
     {
-      "date": "2026-05-29",
-      "total": 2014,
-      "counts": {
-        "core": 166,
-        "obesity": 710,
-        "npr": 275,
-        "platform": 494,
-        "reg": 207,
-        "mkt": 162
-      }
+      "id": "PT403",
+      "label": "PT403",
+      "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
+      "area": "Obesity",
+      "stage": "IND Preparation",
+      "color": "#2563eb",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
+    },
+    {
+      "id": "PT404",
+      "label": "PT404",
+      "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
+      "area": "Obesity",
+      "stage": "Preclinical",
+      "color": "#0d9488",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
+    },
+    {
+      "id": "PND3174",
+      "label": "PND3174",
+      "desc": "NPR-B · 연골무형성증",
+      "area": "Achondroplasia",
+      "stage": "Phase 1",
+      "color": "#7c3aed",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
+    },
+    {
+      "id": "PT320",
+      "label": "PT320",
+      "desc": "엑세나타이드 서방형 · 파킨슨",
+      "area": "Neurology",
+      "stage": "Clinical",
+      "color": "#ea7317",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
+    }
+  ],
+  "companies": [
+    {
+      "id": "peptron",
+      "label": "펩트론 (Peptron)",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
+    },
+    {
+      "id": "g2gbio",
+      "label": "지투지바이오 (G2GBIO)",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
+    },
+    {
+      "id": "inventage",
+      "label": "인벤티지랩 (Inventage Lab)",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
+    },
+    {
+      "id": "lilly",
+      "label": "일라이릴리 (Eli Lilly)",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
+    },
+    {
+      "id": "novo",
+      "label": "노보노디스크 (Novo Nordisk)",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
+    },
+    {
+      "id": "amgen",
+      "label": "암젠 (Amgen)",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
     }
   ]
 }

@@ -44,7 +44,7 @@ def collect_all(cfg):
     items = []
     display = cfg.get("max_per_query", 30)
 
-    # --- 국내: 네이버 + 구글뉴스(한국어) ---
+    # --- 국내 뉴스: 네이버 + 구글뉴스(한국어) → region=kr ---
     for cat, queries in cfg["queries"].items():
         for q in queries:
             print(f"수집: [{cat}] {q}")
@@ -52,10 +52,11 @@ def collect_all(cfg):
             for it in batch:
                 it["origin_cat"] = cat
                 it["layer"] = "news"
+                it["region"] = "kr"
             items += batch
             time.sleep(0.3)
 
-    # --- 해외: 구글뉴스(영문) ---
+    # --- 해외 뉴스: 구글뉴스(영문) → region=os ---
     for cat, queries in cfg.get("en_queries", {}).items():
         for q in queries:
             print(f"수집(EN): [{cat}] {q}")
@@ -63,10 +64,11 @@ def collect_all(cfg):
             for it in batch:
                 it["origin_cat"] = cat
                 it["layer"] = "news"
+                it["region"] = "os"
             items += batch
             time.sleep(0.3)
 
-    # --- 해외 전문매체 RSS (키워드 필터링) ---
+    # --- 해외 전문매체 RSS (키워드 필터링) → region=os ---
     rss_terms = cfg.get("rss_match_terms", {})
     order = cfg.get("category_order", [])
     for feed in cfg.get("rss_feeds", []):
@@ -78,31 +80,34 @@ def collect_all(cfg):
             if cat:
                 it["origin_cat"] = cat
                 it["layer"] = "news"
+                it["region"] = "os"
                 items.append(it)
                 kept += 1
         print(f"          {len(raw)}건 중 {kept}건 관련 기사 채택")
         time.sleep(0.3)
 
-    # --- 논문: PubMed ---
+    # --- 논문: PubMed (최근 N일 누적) ---
     pm = cfg.get("pubmed", {})
     if pm.get("enabled"):
         for cat, queries in pm.get("queries", {}).items():
             for q in queries:
                 print(f"수집(논문): [{cat}] {q}")
-                batch = sources.fetch_pubmed(q, recent_days=pm.get("recent_days", 30), email=pm.get("email", ""))
+                batch = sources.fetch_pubmed(q, recent_days=pm.get("recent_days", 1095),
+                                             retmax=pm.get("retmax", 100), email=pm.get("email", ""))
                 for it in batch:
                     it["origin_cat"] = cat
                     it["layer"] = "paper"
                 items += batch
-                time.sleep(0.4)  # NCBI 키 없으면 초당 3회 제한
+                time.sleep(0.4)
 
-    # --- 임상: ClinicalTrials.gov ---
+    # --- 임상: ClinicalTrials.gov (최근 N일 누적) ---
     ct = cfg.get("clinicaltrials", {})
     if ct.get("enabled"):
         for cat, queries in ct.get("queries", {}).items():
             for q in queries:
                 print(f"수집(임상): [{cat}] {q}")
-                batch = sources.fetch_clinicaltrials(q, recent_days=ct.get("recent_days", 60))
+                batch = sources.fetch_clinicaltrials(q, recent_days=ct.get("recent_days", 1095),
+                                                     pagesize=ct.get("pagesize", 100))
                 for it in batch:
                     it["origin_cat"] = cat
                     it["layer"] = "trial"
@@ -117,25 +122,31 @@ def collect_all(cfg):
         for it in dart_items:
             it["origin_cat"] = "core"
             it["layer"] = "news"
+            it["region"] = "kr"
         items += dart_items
 
     return items
 
 
 def to_records(items, cfg):
-    """분류 + 중복 제거 후 화면용 레코드로 변환."""
+    """분류 + 중복 제거 + 파이프라인·회사 태깅 후 화면용 레코드로 변환."""
     items = clf.dedupe(items)
     ck = cfg["classify_keywords"]
+    pdefs = cfg.get("pipelines", [])
+    cdefs = cfg.get("companies", [])
     records = []
     for it in items:
         cat = clf.classify(it, ck)
+        text = it.get("title", "") + " " + it.get("summary", "")
         published = it.get("published", "")
         time_label = ""
         date_label = ""
+        year = None
         try:
             d = dt.datetime.fromisoformat(published).astimezone(KST)
             time_label = d.strftime("%H:%M")
-            date_label = d.strftime("%m.%d")
+            date_label = d.strftime("%Y.%m.%d")
+            year = d.year
         except (ValueError, TypeError):
             pass
         rec = {
@@ -145,10 +156,14 @@ def to_records(items, cfg):
             "publisher": it.get("publisher", ""),
             "source": it.get("source", ""),
             "layer": it.get("layer", "news"),
+            "region": it.get("region", ""),
             "published": published,
             "time": time_label,
             "date": date_label,
+            "year": year,
             "category": cat,
+            "pipelines": clf.tag_by_defs(text, pdefs),
+            "companies": clf.tag_by_defs(text, cdefs),
         }
         if it.get("source") == "ctgov":
             rec["ct_status"] = it.get("ct_status", "")
@@ -175,14 +190,51 @@ def merge_existing(path, new_records):
     return clf.dedupe(combined)
 
 
+def accumulate_layer(filename, new_records, years=None, days=None):
+    """논문/임상/최근뉴스: 날짜에 가두지 않고 누적. 중복 제거 + 보존기간 + 최신순."""
+    path = os.path.join(DATA_DIR, filename)
+    old = []
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                old = json.load(f).get("items", [])
+        except (ValueError, OSError):
+            old = []
+    combined = clf.dedupe(old + new_records)
+
+    if days:
+        cutoff = dt.datetime.now(KST).date() - dt.timedelta(days=days)
+    else:
+        cutoff = dt.datetime.now(KST).date() - dt.timedelta(days=365 * (years or 3) + 1)
+    def keep(r):
+        try:
+            return dt.datetime.fromisoformat(r.get("published", "")).date() >= cutoff
+        except (ValueError, TypeError):
+            return True
+    combined = [r for r in combined if keep(r)]
+    combined.sort(key=lambda r: r.get("published", ""), reverse=True)
+
+    yrs = sorted({r["year"] for r in combined if r.get("year")})
+    payload = {
+        "updated_at": dt.datetime.now(KST).isoformat(),
+        "total": len(combined),
+        "year_min": yrs[0] if yrs else None,
+        "year_max": yrs[-1] if yrs else None,
+        "items": combined,
+    }
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+    print(f"누적 저장: {filename} ({len(combined)}건)")
+    return payload
+
+
 def write_day(date_str, records, cfg):
+    """뉴스(국내+해외)만 날짜별로 저장."""
     os.makedirs(DATA_DIR, exist_ok=True)
     path = os.path.join(DATA_DIR, f"{date_str}.json")
     records = merge_existing(path, records)
 
-    # 카테고리 순서대로, 그 안에서는 시간 내림차순 정렬
     order = {c: i for i, c in enumerate(cfg["category_order"])}
-    records.sort(key=lambda r: (order.get(r["category"], 99), r.get("published", "")), reverse=False)
     records.sort(key=lambda r: r.get("published", ""), reverse=True)
     records.sort(key=lambda r: order.get(r["category"], 99))
 
@@ -199,16 +251,49 @@ def write_day(date_str, records, cfg):
     }
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
-    print(f"저장: {path} ({len(records)}건)")
+    print(f"뉴스 저장: {path} ({len(records)}건)")
     return payload
 
 
+RESERVED = {"manifest.json", "papers.json", "trials.json", "news_recent.json"}
+
+def _load_items(filename):
+    p = os.path.join(DATA_DIR, filename)
+    if not os.path.exists(p):
+        return []
+    try:
+        with open(p, "r", encoding="utf-8") as f:
+            return json.load(f).get("items", [])
+    except (ValueError, OSError):
+        return []
+
+def _aggregate(defs, key, all_items):
+    """defs(파이프라인 or 회사)별로 layer 카운트 + 최신 published 집계."""
+    out = []
+    for d in defs:
+        did = d["id"]
+        sel = [it for it in all_items if did in (it.get(key) or [])]
+        counts = {"news": 0, "paper": 0, "trial": 0}
+        recent = ""
+        for it in sel:
+            counts[it.get("layer", "news")] = counts.get(it.get("layer", "news"), 0) + 1
+            p = it.get("published", "")
+            if p > recent:
+                recent = p
+        entry = {"id": did, "label": d.get("label", did),
+                 "news": counts["news"], "papers": counts["paper"], "trials": counts["trial"],
+                 "total": len(sel), "recent": recent}
+        for k in ("desc", "area", "stage", "color"):
+            if d.get(k):
+                entry[k] = d[k]
+        out.append(entry)
+    return out
+
 def rebuild_manifest(cfg):
-    """data 폴더의 날짜 파일들을 스캔해 manifest.json 재생성.
-    keep_days: 보관 일수. 0 이하이면 영구 보관(아무것도 삭제하지 않음)."""
+    """날짜별 뉴스 파일 스캔 + 논문/임상 누적 요약 + 파이프라인/회사 집계."""
     keep = cfg.get("keep_days", 0)
     files = sorted(
-        [f for f in os.listdir(DATA_DIR) if f.endswith(".json") and f != "manifest.json"],
+        [f for f in os.listdir(DATA_DIR) if f.endswith(".json") and f not in RESERVED],
         reverse=True,
     )
     if keep and keep > 0:
@@ -220,37 +305,53 @@ def rebuild_manifest(cfg):
         try:
             with open(os.path.join(DATA_DIR, fn), "r", encoding="utf-8") as f:
                 d = json.load(f)
-            entries.append({
-                "date": d.get("date", fn[:-5]),
-                "total": d.get("total", 0),
-                "counts": d.get("counts", {}),
-            })
+            entries.append({"date": d.get("date", fn[:-5]), "total": d.get("total", 0), "counts": d.get("counts", {})})
             valid.add(fn)
         except (ValueError, OSError):
             continue
 
-    # 보존기간 초과 파일 삭제 (keep_days > 0 일 때만)
     if keep and keep > 0:
         for fn in os.listdir(DATA_DIR):
-            if fn.endswith(".json") and fn != "manifest.json" and fn not in valid:
+            if fn.endswith(".json") and fn not in RESERVED and fn not in valid:
                 try:
                     os.remove(os.path.join(DATA_DIR, fn))
-                    print(f"정리: {fn} 삭제 (보존기간 초과)")
                 except OSError:
                     pass
 
+    def layer_meta(filename):
+        p = os.path.join(DATA_DIR, filename)
+        if not os.path.exists(p):
+            return {"total": 0, "year_min": None, "year_max": None}
+        try:
+            with open(p, "r", encoding="utf-8") as f:
+                d = json.load(f)
+            return {"total": d.get("total", 0), "year_min": d.get("year_min"), "year_max": d.get("year_max")}
+        except (ValueError, OSError):
+            return {"total": 0, "year_min": None, "year_max": None}
+
+    # 교차 집계 대상: 최근 뉴스 + 논문 + 임상
+    all_items = _load_items("news_recent.json") + _load_items("papers.json") + _load_items("trials.json")
+    pipelines = _aggregate(cfg.get("pipelines", []), "pipelines", all_items)
+    companies = _aggregate(cfg.get("companies", []), "companies", all_items)
+
     manifest = {
-        "site_title": cfg.get("site_title", "Scrap Master"),
+        "site_title": cfg.get("site_title", "PIR"),
         "site_subtitle": cfg.get("site_subtitle", ""),
+        "site_tagline": cfg.get("site_tagline", ""),
+        "greet_name": cfg.get("greet_name", ""),
         "category_meta": cfg.get("category_meta", {}),
         "category_order": cfg.get("category_order", []),
-        "keywords": cfg.get("queries", {}),
         "updated_at": dt.datetime.now(KST).isoformat(),
         "dates": entries,
+        "papers": layer_meta("papers.json"),
+        "trials": layer_meta("trials.json"),
+        "news_recent_total": len(_load_items("news_recent.json")),
+        "pipelines": pipelines,
+        "companies": companies,
     }
     with open(os.path.join(DATA_DIR, "manifest.json"), "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
-    print(f"manifest 갱신: {len(entries)}일치")
+    print(f"manifest: 뉴스 {len(entries)}일 · 논문 {manifest['papers']['total']} · 임상 {manifest['trials']['total']} · 파이프라인 {len(pipelines)} · 회사 {len(companies)}")
 
 
 def main():
@@ -258,8 +359,15 @@ def main():
     items = collect_all(cfg)
     print(f"\n총 원시 수집: {len(items)}건")
     records = to_records(items, cfg)
+    news = [r for r in records if r.get("layer") == "news"]
+    papers = [r for r in records if r.get("layer") == "paper"]
+    trials = [r for r in records if r.get("layer") == "trial"]
+
     date_str = day_key(records)
-    write_day(date_str, records, cfg)
+    write_day(date_str, news, cfg)
+    accumulate_layer("news_recent.json", news, days=30)     # 교차 뷰용 최근 뉴스
+    accumulate_layer("papers.json", papers, years=3)
+    accumulate_layer("trials.json", trials, years=3)
     rebuild_manifest(cfg)
     print("\n완료.")
 

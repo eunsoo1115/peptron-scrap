@@ -1,6 +1,6 @@
 {
-  "site_title": "Peptron Scrap Master",
-  "site_subtitle": "RA Intelligence",
+  "site_title": "PIR",
+  "site_subtitle": "Pipeline Intelligence Radar",
   "timezone": "Asia/Seoul",
   "max_per_query": 30,
   "keep_days": 0,
@@ -232,7 +232,7 @@
   "pubmed": {
     "enabled": true,
     "email": "",
-    "recent_days": 30,
+    "recent_days": 1095,
     "queries": {
       "core": [
         "Peptron",
@@ -265,11 +265,12 @@
         "microsphere drug delivery",
         "depot formulation peptide"
       ]
-    }
+    },
+    "retmax": 100
   },
   "clinicaltrials": {
     "enabled": true,
-    "recent_days": 60,
+    "recent_days": 1095,
     "queries": {
       "core": [
         "Peptron",
@@ -302,6 +303,138 @@
         "microsphere drug delivery",
         "depot formulation peptide"
       ]
+    },
+    "pagesize": 100
+  },
+  "pipelines": [
+    {
+      "id": "PT403",
+      "label": "PT403",
+      "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
+      "keywords": [
+        "PT403",
+        "세마글루타이드",
+        "세마글루티드",
+        "semaglutide",
+        "위고비",
+        "wegovy",
+        "오젬픽",
+        "ozempic"
+      ],
+      "area": "Obesity",
+      "stage": "IND Preparation",
+      "color": "#2563eb"
+    },
+    {
+      "id": "PT404",
+      "label": "PT404",
+      "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
+      "keywords": [
+        "PT404",
+        "티르제파타이드",
+        "터제파타이드",
+        "tirzepatide",
+        "마운자로",
+        "mounjaro",
+        "젭바운드",
+        "zepbound"
+      ],
+      "area": "Obesity",
+      "stage": "Preclinical",
+      "color": "#0d9488"
+    },
+    {
+      "id": "PND3174",
+      "label": "PND3174",
+      "desc": "NPR-B · 연골무형성증",
+      "keywords": [
+        "PND3174",
+        "보소리타이드",
+        "vosoritide",
+        "복스조고",
+        "voxzogo",
+        "연골무형성증",
+        "achondroplasia",
+        "NPR-B",
+        "CNP"
+      ],
+      "area": "Achondroplasia",
+      "stage": "Phase 1",
+      "color": "#7c3aed"
+    },
+    {
+      "id": "PT320",
+      "label": "PT320",
+      "desc": "엑세나타이드 서방형 · 파킨슨",
+      "keywords": [
+        "PT320",
+        "엑세나타이드",
+        "exenatide",
+        "파킨슨",
+        "parkinson"
+      ],
+      "area": "Neurology",
+      "stage": "Clinical",
+      "color": "#ea7317"
     }
-  }
+  ],
+  "companies": [
+    {
+      "id": "peptron",
+      "label": "펩트론 (Peptron)",
+      "keywords": [
+        "펩트론",
+        "peptron"
+      ]
+    },
+    {
+      "id": "g2gbio",
+      "label": "지투지바이오 (G2GBIO)",
+      "keywords": [
+        "지투지바이오",
+        "지투지",
+        "g2gbio",
+        "g2g bio"
+      ]
+    },
+    {
+      "id": "inventage",
+      "label": "인벤티지랩 (Inventage Lab)",
+      "keywords": [
+        "인벤티지랩",
+        "인벤티지",
+        "inventage"
+      ]
+    },
+    {
+      "id": "lilly",
+      "label": "일라이릴리 (Eli Lilly)",
+      "keywords": [
+        "일라이릴리",
+        "릴리",
+        "eli lilly",
+        "lilly"
+      ]
+    },
+    {
+      "id": "novo",
+      "label": "노보노디스크 (Novo Nordisk)",
+      "keywords": [
+        "노보노디스크",
+        "노보",
+        "novo nordisk",
+        "novo"
+      ]
+    },
+    {
+      "id": "amgen",
+      "label": "암젠 (Amgen)",
+      "keywords": [
+        "암젠",
+        "amgen"
+      ]
+    }
+  ],
+  "site_tagline": "Competitive · Regulatory · Clinical Intelligence",
+  "greet_name": "Eunsoo"
 }
