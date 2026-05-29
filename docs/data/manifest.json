@@ -43,118 +43,131 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "",
-  "dates": [],
+  "updated_at": "2026-05-29T23:16:54.793521+09:00",
+  "dates": [
+    {
+      "date": "2026-05-29",
+      "total": 1589,
+      "counts": {
+        "core": 167,
+        "obesity": 486,
+        "npr": 199,
+        "platform": 368,
+        "reg": 208,
+        "mkt": 161
+      }
+    }
+  ],
   "papers": {
-    "total": 0,
-    "year_min": null,
-    "year_max": null
+    "total": 1339,
+    "year_min": 2023,
+    "year_max": 2026
   },
   "trials": {
-    "total": 0,
-    "year_min": null,
-    "year_max": null
+    "total": 996,
+    "year_min": 2023,
+    "year_max": 2026
   },
-  "news_recent_total": 0,
+  "news_recent_total": 570,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
+      "news": 128,
+      "papers": 65,
+      "trials": 66,
+      "total": 259,
+      "recent": "2026-06-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
-      "color": "#2563eb",
-      "news": 0,
-      "papers": 0,
-      "trials": 0,
-      "total": 0,
-      "recent": ""
+      "color": "#2563eb"
     },
     {
       "id": "PT404",
       "label": "PT404",
+      "news": 107,
+      "papers": 65,
+      "trials": 75,
+      "total": 247,
+      "recent": "2026-06-01T00:00:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Preclinical",
-      "color": "#0d9488",
-      "news": 0,
-      "papers": 0,
-      "trials": 0,
-      "total": 0,
-      "recent": ""
+      "color": "#0d9488"
     },
     {
       "id": "PND3174",
       "label": "PND3174",
+      "news": 34,
+      "papers": 126,
+      "trials": 41,
+      "total": 201,
+      "recent": "2026-06-01T00:00:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "Phase 1",
-      "color": "#7c3aed",
-      "news": 0,
-      "papers": 0,
-      "trials": 0,
-      "total": 0,
-      "recent": ""
+      "color": "#7c3aed"
     },
     {
       "id": "PT320",
       "label": "PT320",
+      "news": 0,
+      "papers": 18,
+      "trials": 3,
+      "total": 21,
+      "recent": "2026-05-22T00:00:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
-      "color": "#ea7317",
-      "news": 0,
-      "papers": 0,
-      "trials": 0,
-      "total": 0,
-      "recent": ""
+      "color": "#ea7317"
     }
   ],
   "companies": [
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 0,
+      "news": 17,
       "papers": 0,
       "trials": 0,
-      "total": 0,
-      "recent": ""
+      "total": 17,
+      "recent": "2026-05-29T21:30:00+09:00"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 0,
+      "news": 8,
       "papers": 0,
       "trials": 0,
-      "total": 0,
-      "recent": ""
+      "total": 8,
+      "recent": "2026-05-22T09:53:30+09:00"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 0,
+      "news": 14,
       "papers": 0,
       "trials": 0,
-      "total": 0,
-      "recent": ""
+      "total": 14,
+      "recent": "2026-05-28T11:47:13+09:00"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 0,
+      "news": 56,
       "papers": 0,
       "trials": 0,
-      "total": 0,
-      "recent": ""
+      "total": 56,
+      "recent": "2026-05-29T22:38:07+09:00"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 0,
-      "papers": 0,
+      "news": 29,
+      "papers": 1,
       "trials": 0,
-      "total": 0,
-      "recent": ""
+      "total": 30,
+      "recent": "2026-05-29T20:33:37+09:00"
     },
     {
       "id": "amgen",
