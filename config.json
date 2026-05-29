@@ -1,0 +1,307 @@
+{
+  "site_title": "Peptron Scrap Master",
+  "site_subtitle": "RA Intelligence",
+  "timezone": "Asia/Seoul",
+  "max_per_query": 30,
+  "keep_days": 0,
+  "dart": {
+    "enabled": false,
+    "corp_name": "펩트론",
+    "stock_code": "087010"
+  },
+  "queries": {
+    "core": [
+      "펩트론",
+      "Peptron",
+      "PT403",
+      "PND3174",
+      "스마트데포",
+      "SmartDepot"
+    ],
+    "obesity": [
+      "마운자로",
+      "위고비",
+      "젭바운드",
+      "오젬픽",
+      "터제파타이드",
+      "티르제파타이드",
+      "세마글루타이드",
+      "세마글루티드",
+      "GLP-1 비만",
+      "비만치료제 임상",
+      "경구 비만치료제"
+    ],
+    "npr": [
+      "복스조고",
+      "보소리타이드",
+      "vosoritide",
+      "연골무형성증",
+      "NPR-B",
+      "바이오마린"
+    ],
+    "platform": [
+      "지투지바이오",
+      "디앤디파마텍",
+      "인벤티지랩",
+      "장기지속형 주사제",
+      "서방형 주사제",
+      "PLGA 미립구",
+      "분무건조 주사제",
+      "미립구 약물전달"
+    ],
+    "reg": [
+      "식약처 임상시험계획 승인",
+      "식약처 의약품 고시",
+      "FDA 펩타이드 가이던스",
+      "의약품 IND 허가",
+      "의약품안전나라 전자제출"
+    ],
+    "mkt": [
+      "비만치료제 시장 전망",
+      "바이오헬스 R&D 정책",
+      "제약 기술수출"
+    ]
+  },
+  "en_queries": {
+    "core": [
+      "Peptron",
+      "PT403",
+      "PND3174",
+      "SmartDepot"
+    ],
+    "obesity": [
+      "tirzepatide",
+      "semaglutide",
+      "Mounjaro",
+      "Wegovy",
+      "Zepbound",
+      "Ozempic",
+      "GLP-1 obesity",
+      "oral GLP-1",
+      "incretin obesity"
+    ],
+    "npr": [
+      "vosoritide",
+      "Voxzogo",
+      "achondroplasia",
+      "NPR-B agonist",
+      "CNP analog",
+      "BioMarin achondroplasia"
+    ],
+    "platform": [
+      "long-acting injectable peptide",
+      "sustained-release injectable",
+      "PLGA microsphere",
+      "microsphere drug delivery",
+      "depot injection",
+      "G2GBIO",
+      "D&D Pharmatech",
+      "Inventage Lab"
+    ],
+    "reg": [
+      "FDA peptide guidance",
+      "synthetic peptide impurities FDA",
+      "long-acting injectable guidance"
+    ],
+    "mkt": [
+      "obesity drug market",
+      "GLP-1 market",
+      "peptide therapeutics market"
+    ]
+  },
+  "rss_feeds": [
+    {
+      "name": "Fierce Pharma",
+      "url": "https://www.fiercepharma.com/rss/xml"
+    },
+    {
+      "name": "Fierce Biotech",
+      "url": "https://www.fiercebiotech.com/rss/xml"
+    },
+    {
+      "name": "Endpoints News",
+      "url": "https://endpts.com/feed/"
+    }
+  ],
+  "classify_keywords": {
+    "core": [
+      "펩트론",
+      "peptron",
+      "pt403",
+      "pnd3174",
+      "스마트데포",
+      "smartdepot"
+    ],
+    "reg": [
+      "가이드라인",
+      "가이던스",
+      "행정예고",
+      "의약품안전나라",
+      "전자제출",
+      "고시"
+    ]
+  },
+  "category_meta": {
+    "core": {
+      "tag": "펩트론 직접",
+      "tag_class": "t-core",
+      "desc": "회사·파이프라인·인사·IR"
+    },
+    "obesity": {
+      "tag": "비만·GLP-1",
+      "tag_class": "t-obesity",
+      "desc": "PT403 라인 · 마운자로·위고비 등"
+    },
+    "npr": {
+      "tag": "NPR-B·연골무형성증",
+      "tag_class": "t-npr",
+      "desc": "PND3174 라인 · 복스조고·바이오마린"
+    },
+    "platform": {
+      "tag": "서방형 플랫폼·경쟁사",
+      "tag_class": "t-platform",
+      "desc": "지투지·디앤디·인벤티지 등"
+    },
+    "reg": {
+      "tag": "규제·식약처",
+      "tag_class": "t-reg",
+      "desc": "MFDS · FDA · EMA 고시·가이드라인"
+    },
+    "mkt": {
+      "tag": "산업·시장",
+      "tag_class": "t-mkt",
+      "desc": "투자·정책·산업 일반"
+    }
+  },
+  "rss_match_terms": {
+    "core": [
+      "peptron",
+      "pt403",
+      "pnd3174",
+      "smartdepot"
+    ],
+    "obesity": [
+      "tirzepatide",
+      "semaglutide",
+      "mounjaro",
+      "wegovy",
+      "zepbound",
+      "ozempic",
+      "glp-1",
+      "incretin",
+      "obesity drug",
+      "weight loss drug"
+    ],
+    "npr": [
+      "vosoritide",
+      "voxzogo",
+      "achondroplasia",
+      "npr-b",
+      "biomarin",
+      "c-type natriuretic",
+      "cnp analog"
+    ],
+    "platform": [
+      "microsphere",
+      "plga",
+      "long-acting injectable",
+      "sustained-release",
+      "depot injection",
+      "g2gbio",
+      "d&d pharmatech",
+      "inventage",
+      "drug delivery platform"
+    ],
+    "reg": [
+      "peptide impurities",
+      "synthetic peptide",
+      "impurities guidance",
+      "peptide guidance",
+      "cmc guidance",
+      "injectable guidance"
+    ]
+  },
+  "category_order": [
+    "core",
+    "obesity",
+    "npr",
+    "platform",
+    "reg",
+    "mkt"
+  ],
+  "pubmed": {
+    "enabled": true,
+    "email": "",
+    "recent_days": 30,
+    "queries": {
+      "core": [
+        "Peptron",
+        "PT403",
+        "PND3174"
+      ],
+      "obesity": [
+        "GLP-1 obesity",
+        "GIP GLP-1",
+        "amylin obesity",
+        "GLP-1 glucagon",
+        "tirzepatide",
+        "semaglutide",
+        "retatrutide",
+        "survodutide",
+        "cagrilintide",
+        "incretin obesity"
+      ],
+      "npr": [
+        "NPR-B",
+        "CNP analog",
+        "C-type natriuretic peptide",
+        "achondroplasia",
+        "vosoritide"
+      ],
+      "platform": [
+        "long-acting injectable",
+        "sustained-release injectable",
+        "PLGA microsphere",
+        "microsphere drug delivery",
+        "depot formulation peptide"
+      ]
+    }
+  },
+  "clinicaltrials": {
+    "enabled": true,
+    "recent_days": 60,
+    "queries": {
+      "core": [
+        "Peptron",
+        "PT403",
+        "PND3174"
+      ],
+      "obesity": [
+        "GLP-1 obesity",
+        "GIP GLP-1",
+        "amylin obesity",
+        "GLP-1 glucagon",
+        "tirzepatide",
+        "semaglutide",
+        "retatrutide",
+        "survodutide",
+        "cagrilintide",
+        "incretin obesity"
+      ],
+      "npr": [
+        "NPR-B",
+        "CNP analog",
+        "C-type natriuretic peptide",
+        "achondroplasia",
+        "vosoritide"
+      ],
+      "platform": [
+        "long-acting injectable",
+        "sustained-release injectable",
+        "PLGA microsphere",
+        "microsphere drug delivery",
+        "depot formulation peptide"
+      ]
+    }
+  }
+}

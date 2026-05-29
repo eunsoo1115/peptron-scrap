@@ -1,0 +1,47 @@
+{
+  "site_title": "Peptron Scrap Master",
+  "site_subtitle": "RA Intelligence",
+  "category_meta": {
+    "core": {
+      "tag": "펩트론 직접",
+      "tag_class": "t-core",
+      "desc": "회사·파이프라인·인사·IR"
+    },
+    "obesity": {
+      "tag": "비만·GLP-1",
+      "tag_class": "t-obesity",
+      "desc": "PT403 라인 · 마운자로·위고비 등"
+    },
+    "npr": {
+      "tag": "NPR-B·연골무형성증",
+      "tag_class": "t-npr",
+      "desc": "PND3174 라인 · 복스조고·바이오마린"
+    },
+    "platform": {
+      "tag": "서방형 플랫폼·경쟁사",
+      "tag_class": "t-platform",
+      "desc": "지투지·디앤디·인벤티지 등"
+    },
+    "reg": {
+      "tag": "규제·식약처",
+      "tag_class": "t-reg",
+      "desc": "MFDS · FDA · EMA 고시·가이드라인"
+    },
+    "mkt": {
+      "tag": "산업·시장",
+      "tag_class": "t-mkt",
+      "desc": "투자·정책·산업 일반"
+    }
+  },
+  "category_order": [
+    "core",
+    "obesity",
+    "npr",
+    "platform",
+    "reg",
+    "mkt"
+  ],
+  "keywords": {},
+  "updated_at": "",
+  "dates": []
+}
