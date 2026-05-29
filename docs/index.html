@@ -52,10 +52,10 @@
   .mi .pd{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
   .mi .mc{margin-left:auto;font-size:11px;font-weight:700;color:var(--soft);}
 
-  .wrap{max-width:1440px;margin:0 auto;padding:0 36px 90px;}
+  .wrap{max-width:1440px;margin:0 auto;padding:34px 36px 90px;}
 
   /* hero */
-  .hero{margin:46px 0 40px;}
+  .hero{margin:8px 0 40px;}
   .hero .greet{font-size:30px;font-weight:700;color:var(--primary);margin-bottom:10px;}
   .hero h1{font-size:50px;font-weight:800;letter-spacing:-0.035em;line-height:1.04;}
   .hero p{font-size:16px;color:var(--muted);margin-top:14px;}
@@ -116,13 +116,15 @@
   .uli .ut{font-weight:600;flex:1;letter-spacing:-0.01em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
   .uli .ub{font-size:10.5px;font-weight:700;padding:3px 10px;border-radius:7px;flex-shrink:0;}
   .uli .ud{font-size:12px;color:var(--soft);font-variant-numeric:tabular-nums;flex-shrink:0;width:78px;text-align:right;}
-  .clogos{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;}
-  .clogo{background:#fff;border-radius:16px;padding:18px 10px;box-shadow:var(--sh-sm);cursor:pointer;text-align:center;transition:transform .16s,box-shadow .16s;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:9px;min-height:96px;}
+  .clogos{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;}
+  .clogo{background:#fff;border-radius:16px;padding:16px 12px;box-shadow:var(--sh-sm);cursor:pointer;text-align:center;transition:transform .16s,box-shadow .16s;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;min-height:84px;overflow:hidden;}
   .clogo:hover{transform:translateY(-3px);box-shadow:var(--sh);}
-  .clogo .wm{font-size:15px;font-weight:800;letter-spacing:-0.01em;color:var(--primary);}
+  .clogo .wm{font-size:13.5px;font-weight:700;letter-spacing:-0.01em;color:var(--primary);line-height:1.3;word-break:keep-all;}
   .clogo .nm{font-size:11px;color:var(--soft);font-weight:600;}
   .clogo img{height:22px;}
   .clogo .wordmark.blue{margin-bottom:2px;}
+  .clogo .logobox{height:40px;display:flex;align-items:center;justify-content:center;}
+  .clogo .logobox img{max-height:34px;max-width:120px;object-fit:contain;}
   .clogo.more{color:var(--soft);}
   .clogo.more .arc{width:34px;height:34px;border-radius:50%;background:#f1f5f9;display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:15px;}
 
@@ -311,7 +313,7 @@ function kpi(ic,items,lab){
   if(lm>0||d!==0){const cls=d>0?'':d<0?' dn':' flat';const ar=d>0?'↑':d<0?'↓':'·';delta='<div class="delta'+cls+'">'+ar+' '+Math.abs(d)+' vs 지난달</div>';}
   return '<div class="kpi"><div class="ic">'+ic+'</div><div class="num">'+tm+'</div><div class="lab">'+lab+'</div><div class="sub">This Month</div>'+delta+'</div>';
 }
-function greeting(){const h=new Date().getHours();const g=h<12?'Good Morning':h<18?'Good Afternoon':'Good Evening';const nm=(M.greet_name||'');return g+(nm?', '+nm:'');}
+function greeting(){return 'Welcome';}
 
 function render(){
   const W=document.getElementById('wrap');const bb=backBar();
@@ -328,7 +330,7 @@ function backBar(){return BACK.length?'<button class="backbtn" onclick="goBack()
 function viewDashboard(){
   const ps=M.pipelines||[];const news=CROSS.news||[],papers=CROSS.papers||[],trials=CROSS.trials||[];
   const reg=crossAll().filter(it=>it.category==='reg');
-  let h='<div class="topgrid"><div class="hero"><div class="greet">'+greeting()+' 🌊</div><h1>Pipeline<br>Intelligence Radar</h1><p>'+(M.site_tagline||'Competitive · Regulatory · Clinical Intelligence')+'</p></div>';
+  let h='<div class="topgrid"><div class="hero"><div class="greet">'+greeting()+' 👋</div><h1>Pipeline<br>Intelligence Radar</h1><p>'+(M.site_tagline||'Competitive · Regulatory · Clinical Intelligence')+'</p></div>';
   h+='<div class="kpis">'+kpi(IC.news,news,'New Articles')+kpi(IC.paper,papers,'New Publications')+kpi(IC.trial,trials,'Clinical Updates')+kpi(IC.reg,reg,'Regulatory Updates')+'</div></div>';
 
   h+='<div class="sectitle"><span class="t">Pipeline Overview</span><span class="more" onclick="toggleMenu(\'pipelines\',event)">View all pipelines ›</span></div><div class="cards">';
@@ -361,8 +363,9 @@ function uli(it){const ty=it.layer==='paper'?'paper':it.layer==='trial'?'trial':
   const d=(it.date||(it.published||'').slice(0,10).replace(/-/g,'.'));
   return '<div class="uli" onclick="window.open(\''+esc(it.url)+'\')"><span class="udot" style="background:'+dc+'"></span><span class="ut">'+esc(it.title)+'</span><span class="ub" style="background:'+bc+';color:'+bt+'">'+label+'</span><span class="ud">'+esc(d)+'</span></div>';}
 function clogo(c){
+  if(c.logo)return '<div class="clogo" onclick="setNav(\'company:'+c.id+'\')"><span class="logobox"><img src="'+esc(c.logo)+'" alt="'+esc(c.label)+'"></span></div>';
   if(c.id==='peptron')return '<div class="clogo" onclick="setNav(\'company:peptron\')"><span style="display:block;height:18px">'+LOGO_BLUE+'</span><span class="nm">Peptron</span></div>';
-  const short=esc(c.label.split('(')[0].trim());
+  const m2=c.label.match(/\(([^)]+)\)/);const short=esc(m2?m2[1]:c.label.split('(')[0].trim());
   return '<div class="clogo" onclick="setNav(\'company:'+c.id+'\')"><span class="wm">'+short+'</span></div>';
 }
 

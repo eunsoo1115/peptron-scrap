@@ -43,131 +43,122 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-05-29T23:16:54.793521+09:00",
-  "dates": [
-    {
-      "date": "2026-05-29",
-      "total": 1589,
-      "counts": {
-        "core": 167,
-        "obesity": 486,
-        "npr": 199,
-        "platform": 368,
-        "reg": 208,
-        "mkt": 161
-      }
-    }
-  ],
+  "updated_at": "",
+  "dates": [],
   "papers": {
-    "total": 1339,
-    "year_min": 2023,
-    "year_max": 2026
+    "total": 0,
+    "year_min": null,
+    "year_max": null
   },
   "trials": {
-    "total": 996,
-    "year_min": 2023,
-    "year_max": 2026
+    "total": 0,
+    "year_min": null,
+    "year_max": null
   },
-  "news_recent_total": 570,
+  "news_recent_total": 0,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 128,
-      "papers": 65,
-      "trials": 66,
-      "total": 259,
-      "recent": "2026-06-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
-      "color": "#2563eb"
+      "color": "#2563eb",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
     },
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 107,
-      "papers": 65,
-      "trials": 75,
-      "total": 247,
-      "recent": "2026-06-01T00:00:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Preclinical",
-      "color": "#0d9488"
+      "color": "#0d9488",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
     },
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 34,
-      "papers": 126,
-      "trials": 41,
-      "total": 201,
-      "recent": "2026-06-01T00:00:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "Phase 1",
-      "color": "#7c3aed"
+      "color": "#7c3aed",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
     },
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 0,
-      "papers": 18,
-      "trials": 3,
-      "total": 21,
-      "recent": "2026-05-22T00:00:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
-      "color": "#ea7317"
+      "color": "#ea7317",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": ""
     }
   ],
   "companies": [
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 17,
+      "news": 0,
       "papers": 0,
       "trials": 0,
-      "total": 17,
-      "recent": "2026-05-29T21:30:00+09:00"
+      "total": 0,
+      "recent": ""
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 8,
+      "news": 0,
       "papers": 0,
       "trials": 0,
-      "total": 8,
-      "recent": "2026-05-22T09:53:30+09:00"
+      "total": 0,
+      "recent": "",
+      "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 14,
+      "news": 0,
       "papers": 0,
       "trials": 0,
-      "total": 14,
-      "recent": "2026-05-28T11:47:13+09:00"
+      "total": 0,
+      "recent": "",
+      "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 56,
+      "news": 0,
       "papers": 0,
       "trials": 0,
-      "total": 56,
-      "recent": "2026-05-29T22:38:07+09:00"
+      "total": 0,
+      "recent": "",
+      "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 29,
-      "papers": 1,
+      "news": 0,
+      "papers": 0,
       "trials": 0,
-      "total": 30,
-      "recent": "2026-05-29T20:33:37+09:00"
+      "total": 0,
+      "recent": "",
+      "logo": "logos/novo.png"
     },
     {
       "id": "amgen",
@@ -176,7 +167,8 @@
       "papers": 0,
       "trials": 0,
       "total": 0,
-      "recent": ""
+      "recent": "",
+      "logo": "logos/amgen.png"
     }
   ]
 }

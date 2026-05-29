@@ -283,7 +283,7 @@ def _aggregate(defs, key, all_items):
         entry = {"id": did, "label": d.get("label", did),
                  "news": counts["news"], "papers": counts["paper"], "trials": counts["trial"],
                  "total": len(sel), "recent": recent}
-        for k in ("desc", "area", "stage", "color"):
+        for k in ("desc", "area", "stage", "color", "logo"):
             if d.get(k):
                 entry[k] = d[k]
         out.append(entry)
