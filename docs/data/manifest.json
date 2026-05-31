@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-05-31T20:05:59.751376+09:00",
+  "updated_at": "2026-06-01T07:45:33.650730+09:00",
   "dates": [
+    {
+      "date": "2026-06-01",
+      "total": 1587,
+      "counts": {
+        "core": 163,
+        "obesity": 501,
+        "npr": 201,
+        "platform": 356,
+        "reg": 207,
+        "mkt": 159
+      }
+    },
     {
       "date": "2026-05-31",
       "total": 1792,
@@ -88,19 +100,19 @@
     "year_max": 2026
   },
   "trials": {
-    "total": 1004,
+    "total": 1003,
     "year_min": 2023,
     "year_max": 2026
   },
-  "news_recent_total": 821,
+  "news_recent_total": 851,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 203,
+      "news": 214,
       "papers": 73,
       "trials": 66,
-      "total": 342,
+      "total": 353,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -110,11 +122,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 150,
+      "news": 157,
       "papers": 70,
       "trials": 75,
-      "total": 295,
-      "recent": "2026-06-01T00:00:00+09:00",
+      "total": 302,
+      "recent": "2026-06-01T07:24:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Preclinical",
@@ -127,7 +139,7 @@
       "papers": 127,
       "trials": 40,
       "total": 203,
-      "recent": "2026-06-01T00:00:00+09:00",
+      "recent": "2026-06-01T06:00:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "Phase 1",
@@ -151,19 +163,19 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 19,
+      "news": 20,
       "papers": 0,
       "trials": 0,
-      "total": 19,
+      "total": 20,
       "recent": "2026-05-31T05:00:48+09:00"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 10,
+      "news": 11,
       "papers": 0,
       "trials": 0,
-      "total": 10,
+      "total": 11,
       "recent": "2026-05-27T10:02:00+09:00",
       "logo": "logos/g2gbio.png"
     },
@@ -180,10 +192,10 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 79,
+      "news": 78,
       "papers": 0,
       "trials": 0,
-      "total": 79,
+      "total": 78,
       "recent": "2026-05-31T03:02:09+09:00",
       "logo": "logos/lilly.png"
     },
