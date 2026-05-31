@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-05-31T16:04:17.216363+09:00",
+  "updated_at": "2026-05-31T20:05:59.751376+09:00",
   "dates": [
     {
       "date": "2026-05-31",
-      "total": 1712,
+      "total": 1792,
       "counts": {
-        "core": 172,
-        "obesity": 558,
-        "npr": 210,
-        "platform": 387,
-        "reg": 217,
-        "mkt": 168
+        "core": 174,
+        "obesity": 600,
+        "npr": 211,
+        "platform": 401,
+        "reg": 227,
+        "mkt": 179
       }
     },
     {
@@ -83,7 +83,7 @@
     }
   ],
   "papers": {
-    "total": 1389,
+    "total": 1399,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -92,15 +92,15 @@
     "year_min": 2023,
     "year_max": 2026
   },
-  "news_recent_total": 802,
+  "news_recent_total": 821,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 196,
-      "papers": 71,
+      "news": 203,
+      "papers": 73,
       "trials": 66,
-      "total": 333,
+      "total": 342,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -110,10 +110,10 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 143,
-      "papers": 69,
+      "news": 150,
+      "papers": 70,
       "trials": 75,
-      "total": 287,
+      "total": 295,
       "recent": "2026-06-01T00:00:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
@@ -180,10 +180,10 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 77,
+      "news": 79,
       "papers": 0,
       "trials": 0,
-      "total": 77,
+      "total": 79,
       "recent": "2026-05-31T03:02:09+09:00",
       "logo": "logos/lilly.png"
     },
