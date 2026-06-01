@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-02T00:31:38.790229+09:00",
+  "updated_at": "2026-06-02T08:21:07.908209+09:00",
   "dates": [
     {
       "date": "2026-06-02",
-      "total": 1590,
+      "total": 1742,
       "counts": {
-        "core": 165,
-        "obesity": 507,
-        "npr": 199,
-        "platform": 351,
-        "reg": 206,
-        "mkt": 162
+        "core": 176,
+        "obesity": 566,
+        "npr": 212,
+        "platform": 381,
+        "reg": 226,
+        "mkt": 181
       }
     },
     {
@@ -107,24 +107,24 @@
     }
   ],
   "papers": {
-    "total": 1438,
+    "total": 1457,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1003,
+    "total": 1009,
     "year_min": 2023,
     "year_max": 2026
   },
-  "news_recent_total": 975,
+  "news_recent_total": 1013,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 243,
+      "news": 256,
       "papers": 81,
       "trials": 66,
-      "total": 390,
+      "total": 403,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -134,11 +134,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 179,
-      "papers": 73,
+      "news": 185,
+      "papers": 74,
       "trials": 75,
-      "total": 327,
-      "recent": "2026-06-01T21:45:12+09:00",
+      "total": 334,
+      "recent": "2026-06-02T06:03:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Preclinical",
@@ -204,21 +204,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 102,
+      "news": 110,
       "papers": 0,
       "trials": 0,
-      "total": 102,
-      "recent": "2026-06-01T21:54:00+09:00",
+      "total": 110,
+      "recent": "2026-06-02T06:00:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 55,
+      "news": 56,
       "papers": 1,
       "trials": 0,
-      "total": 56,
-      "recent": "2026-06-01T20:35:00+09:00",
+      "total": 57,
+      "recent": "2026-06-02T05:14:23+09:00",
       "logo": "logos/novo.png"
     },
     {
