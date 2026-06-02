@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-02T21:49:55.217409+09:00",
+  "updated_at": "2026-06-03T08:26:09.387099+09:00",
   "dates": [
+    {
+      "date": "2026-06-03",
+      "total": 1573,
+      "counts": {
+        "core": 165,
+        "obesity": 516,
+        "npr": 199,
+        "platform": 356,
+        "reg": 204,
+        "mkt": 133
+      }
+    },
     {
       "date": "2026-06-02",
       "total": 1965,
@@ -107,7 +119,7 @@
     }
   ],
   "papers": {
-    "total": 1472,
+    "total": 1484,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -116,15 +128,15 @@
     "year_min": 2023,
     "year_max": 2026
   },
-  "news_recent_total": 1111,
+  "news_recent_total": 1173,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 279,
-      "papers": 84,
+      "news": 296,
+      "papers": 86,
       "trials": 72,
-      "total": 435,
+      "total": 454,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -134,11 +146,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 197,
-      "papers": 75,
+      "news": 208,
+      "papers": 76,
       "trials": 76,
-      "total": 348,
-      "recent": "2026-06-02T21:22:42+09:00",
+      "total": 360,
+      "recent": "2026-06-03T06:17:23+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Preclinical",
@@ -147,10 +159,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 39,
+      "news": 38,
       "papers": 129,
       "trials": 40,
-      "total": 208,
+      "total": 207,
       "recent": "2026-06-02T20:37:44+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -161,9 +173,9 @@
       "id": "PT320",
       "label": "PT320",
       "news": 1,
-      "papers": 18,
+      "papers": 19,
       "trials": 4,
-      "total": 23,
+      "total": 24,
       "recent": "2026-06-02T00:00:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
@@ -175,60 +187,60 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 26,
+      "news": 27,
       "papers": 0,
       "trials": 0,
-      "total": 26,
+      "total": 27,
       "recent": "2026-06-02T15:01:02+09:00"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 13,
+      "news": 14,
       "papers": 0,
       "trials": 0,
-      "total": 13,
-      "recent": "2026-05-27T10:38:44+09:00",
+      "total": 14,
+      "recent": "2026-06-01T13:22:38+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 28,
+      "news": 29,
       "papers": 0,
       "trials": 0,
-      "total": 28,
+      "total": 29,
       "recent": "2026-06-02T11:16:02+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 124,
+      "news": 127,
       "papers": 0,
       "trials": 0,
-      "total": 124,
-      "recent": "2026-06-02T15:01:02+09:00",
+      "total": 127,
+      "recent": "2026-06-02T23:37:50+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 61,
+      "news": 63,
       "papers": 1,
       "trials": 0,
-      "total": 62,
+      "total": 64,
       "recent": "2026-06-02T10:04:22+09:00",
       "logo": "logos/novo.png"
     },
     {
       "id": "amgen",
       "label": "암젠 (Amgen)",
-      "news": 1,
+      "news": 2,
       "papers": 0,
       "trials": 0,
-      "total": 1,
-      "recent": "2026-05-08T16:00:00+09:00",
+      "total": 2,
+      "recent": "2026-06-02T21:56:20+09:00",
       "logo": "logos/amgen.png"
     }
   ]

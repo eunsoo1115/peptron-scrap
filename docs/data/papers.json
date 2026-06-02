@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-02T21:49:55.021867+09:00",
-  "total": 1472,
+  "updated_at": "2026-06-03T08:26:09.187430+09:00",
+  "total": 1484,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -487,6 +487,22 @@
       "companies": []
     },
     {
+      "title": "15-PGDH inhibition promotes muscle repair and strength recovery during GLP-1 receptor agonist-induced weight loss",
+      "summary": "Nalbandian M et al. · Proceedings of the National Academy of Sciences of the United States of America",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42228536/",
+      "publisher": "Proceedings of the National Academy of Scienc",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-09T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.09",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "API particle size governs in situ forming implant formation, microstructure evolution and performance",
       "summary": "Roy M et al. · International journal of pharmaceutics",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42097469/",
@@ -597,6 +613,108 @@
       "date": "2026.06.02",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "The GLP-1 agonist exenatide is associated with improved adherence to health behavior and lifestyle treatment in adolescents with obesity, a randomized controlled trial",
+      "summary": "Stenlid R et al. · Obesity facts",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42228680/",
+      "publisher": "Obesity facts",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT320"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Cost-Effectiveness and Budget-Impact Analysis of Semaglutide in Heart Failure with Preserved Ejection Fraction and Obesity in the German Health-Care System",
+      "summary": "Estler B et al. · PharmacoEconomics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42228345/",
+      "publisher": "PharmacoEconomics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Acute glucagon-like peptide-1 receptor agonist, semaglutide, attenuates cue-, drug-, and stress-induced fentanyl seeking in male Sprague-Dawley rats",
+      "summary": "Evans B et al. · Behavioural pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42228850/",
+      "publisher": "Behavioural pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Metformin as a multi-target modulator of atherosclerosis: integrated regulation of Nrf2/KLF2, mitochondrial homeostasis, inflammation, ferroptosis, and innate immunity",
+      "summary": "Alanazi M et al. · The Journal of pharmacy and pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42228790/",
+      "publisher": "The Journal of pharmacy and pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "A Dose of Perspective: A Multinational Survey of Patient and Clinician Views on Combination Therapy in CKD",
+      "summary": "Shah NA et al. · Kidney360",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42228487/",
+      "publisher": "Kidney360",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 Agonists Are Associated With a Significant Reduction in Breast Cancer Incidence in Women",
+      "summary": "McDonald ES et al. · JCO oncology practice",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42227662/",
+      "publisher": "JCO oncology practice",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.02",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -1846,6 +1964,40 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Renal or Hepatic Impairment Does Not Affect Pharmacokinetics, Safety, or Tolerability of Subcutaneous Cagrilintide",
+      "summary": "Nielsen MJF et al. · Clinical pharmacokinetics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42228334/",
+      "publisher": "Clinical pharmacokinetics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide-Associated Lithium Toxicity Necessitating Hemodialysis in Previously Stable Bipolar I Disorder",
+      "summary": "Patarroyo-Rodriguez L et al. · Journal of clinical psychopharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42227267/",
+      "publisher": "Journal of clinical psychopharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -5204,6 +5356,22 @@
       "companies": []
     },
     {
+      "title": "GLP-1 Receptor Agonists in Neuropathic Pain and Neurodegenerative Diseases: Mechanisms, Therapeutic Potentials, and Future Perspectives",
+      "summary": "Grasso M et al. · Current neuropharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42227394/",
+      "publisher": "Current neuropharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-05-20T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.05.20",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Multidimensional Predictors of Tirzepatide Efficacy: Clinical, Genetic, and Molecular Biomarkers for Glycemic, Weight, and Organ Protection",
       "summary": "Shin MH et al. · Pharmaceuticals (Basel, Switzerland)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42198465/",
@@ -5498,6 +5666,22 @@
       "date": "2026.05.19",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Pharmacovigilance Assessment of Thrombotic Adverse Events Linked to GLP-1 Receptor Agonists: Analysis of FAERS Reports from 2020-2025",
+      "summary": "Mansory EM et al. · Current drug safety",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42227478/",
+      "publisher": "Current drug safety",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-05-19T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.05.19",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -5864,6 +6048,22 @@
       "date": "2026.05.18",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 Medications in Oncology Nursing Practice",
+      "summary": "Watson JL · Clinical journal of oncology nursing",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42227798/",
+      "publisher": "Clinical journal of oncology nursing",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-05-18T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.05.18",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
