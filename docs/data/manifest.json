@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-03T22:23:56.061056+09:00",
+  "updated_at": "2026-06-04T08:26:53.536857+09:00",
   "dates": [
+    {
+      "date": "2026-06-04",
+      "total": 1596,
+      "counts": {
+        "core": 163,
+        "obesity": 510,
+        "npr": 198,
+        "platform": 360,
+        "reg": 205,
+        "mkt": 160
+      }
+    },
     {
       "date": "2026-06-03",
       "total": 1912,
@@ -119,7 +131,7 @@
     }
   ],
   "papers": {
-    "total": 1506,
+    "total": 1525,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -128,15 +140,15 @@
     "year_min": 2023,
     "year_max": 2026
   },
-  "news_recent_total": 1240,
+  "news_recent_total": 1290,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 325,
-      "papers": 88,
+      "news": 342,
+      "papers": 90,
       "trials": 74,
-      "total": 487,
+      "total": 506,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -146,11 +158,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 212,
-      "papers": 77,
+      "news": 224,
+      "papers": 79,
       "trials": 77,
-      "total": 366,
-      "recent": "2026-06-03T22:04:46+09:00",
+      "total": 380,
+      "recent": "2026-06-04T06:07:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Preclinical",
@@ -206,31 +218,31 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 30,
+      "news": 29,
       "papers": 0,
       "trials": 0,
-      "total": 30,
+      "total": 29,
       "recent": "2026-06-02T11:16:02+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 129,
+      "news": 132,
       "papers": 0,
       "trials": 0,
-      "total": 129,
-      "recent": "2026-06-03T20:00:01+09:00",
+      "total": 132,
+      "recent": "2026-06-04T05:30:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 77,
+      "news": 81,
       "papers": 1,
       "trials": 0,
-      "total": 78,
-      "recent": "2026-06-03T19:21:50+09:00",
+      "total": 82,
+      "recent": "2026-06-04T07:55:00+09:00",
       "logo": "logos/novo.png"
     },
     {
