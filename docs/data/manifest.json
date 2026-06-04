@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-04T22:03:21.079251+09:00",
+  "updated_at": "2026-06-04T22:21:12.388258+09:00",
   "dates": [
     {
       "date": "2026-06-04",
-      "total": 2725,
+      "total": 2733,
       "counts": {
         "core": 346,
-        "obesity": 826,
+        "obesity": 831,
         "npr": 329,
-        "platform": 556,
+        "platform": 557,
         "reg": 396,
-        "mkt": 272
+        "mkt": 274
       }
     },
     {
@@ -140,7 +140,7 @@
     "year_min": 2023,
     "year_max": 2026
   },
-  "news_recent_total": 1831,
+  "news_recent_total": 1835,
   "pipelines": [
     {
       "id": "PT403",
