@@ -191,6 +191,18 @@
   .dlbtn:hover{color:var(--pep-d);}
   .morebtn{text-align:center;font-size:13px;font-weight:700;color:var(--pep);background:#fff;border-radius:12px;padding:13px;margin-top:10px;cursor:pointer;box-shadow:var(--sh-sm);}
   .morebtn:hover{background:#f3f9ff;color:var(--pep-d);}
+  .rtabs{display:flex;gap:8px;margin:6px 0 20px;}
+  .rtab{font-size:13.5px;font-weight:700;color:var(--muted);background:#fff;border:1px solid var(--line);border-radius:10px;padding:9px 18px;cursor:pointer;display:flex;align-items:center;gap:7px;}
+  .rtab.on{color:#fff;background:var(--pep);border-color:var(--pep);}
+  .rtab .rc{font-size:11px;font-weight:800;background:rgba(0,0,0,.08);padding:1px 7px;border-radius:20px;}
+  .rtab.on .rc{background:rgba(255,255,255,.25);}
+  .reglist{display:flex;flex-direction:column;gap:1px;background:var(--line);border-radius:12px;overflow:hidden;}
+  .regitem{display:block;background:#fff;padding:13px 16px;text-decoration:none;transition:background .12s;}
+  .regitem:hover{background:#f3f8ff;}
+  .regitem .rtit{font-size:13.5px;font-weight:600;color:var(--ink);line-height:1.45;}
+  .regitem .rmeta{display:flex;gap:10px;margin-top:5px;align-items:center;}
+  .regitem .rno{font-size:11px;font-weight:700;color:var(--pep);background:var(--pep-bg,#e9f4ff);padding:1px 8px;border-radius:5px;}
+  .regitem .rdt{font-size:11.5px;color:var(--soft);}
   .ftr{text-align:center;padding:28px 20px 40px;font-size:11.5px;color:var(--soft);letter-spacing:.01em;}
   .ftr .beta{display:inline-block;font-size:9.5px;font-weight:800;color:#fff;background:var(--pep);padding:1px 7px;border-radius:5px;letter-spacing:.04em;vertical-align:middle;margin:0 2px;}
   .state{padding:60px 20px;text-align:center;color:var(--soft);}
@@ -237,6 +249,7 @@ function renderNav(){
   (M.pipelines||[]).forEach(p=>{ h+='<button class="lnk'+(NAV==='pipeline:'+p.id?' on':'')+'" onclick="setNav(\''+'pipeline:'+p.id+'\')">'+esc(p.label)+'</button>'; });
   h+=lnk('companies','Companies');
   h+=lnk('archive','Archive');
+  h+=lnk('regulatory','Regulatory');
   document.getElementById('links').innerHTML=h;
 }
 function lnk(id,label){return `<button class="lnk${NAV===id?' on':''}" onclick="setNav('${id}')">${label}</button>`;}
@@ -266,6 +279,10 @@ async function loadCross(){
   if(CROSS.trials===null){try{CROSS.trials=((await (await fetch('data/trials.json?_='+Date.now())).json()).items)||[];}catch(e){CROSS.trials=[];}}
 }
 function crossAll(){return [].concat(CROSS.news||[],CROSS.papers||[],CROSS.trials||[]);}
+let REG=null, REGTAB='MFDS';
+async function loadReg(){
+  if(REG===null){try{REG=((await (await fetch('data/regulatory.json?_='+Date.now())).json()).items)||[];}catch(e){REG=[];}}
+}
 async function loadDay(date){CUR_DATE=date;try{CUR_DAY=await (await fetch('data/'+date+'.json?_='+Date.now())).json();}catch(e){CUR_DAY={date:date,items:[]};}}
 
 async function setNav(nav,opts){
@@ -274,6 +291,7 @@ async function setNav(nav,opts){
   NAV=nav; CTAB='all'; YF=null; YT=null; REGION='all';
   renderNav();
   if(nav==='news'||nav==='archive'||nav.startsWith('archive:')){ if(!CUR_DAY||CUR_DAY.date!==CUR_DATE) await loadDay(CUR_DATE); await loadCross(); }
+  else if(nav==='regulatory'){ await loadReg(); }
   else { await loadCross(); }
   if(!opts.fromHistory){ try{ history.pushState({nav:nav},''); }catch(e){} }
   render(); window.scrollTo(0,0);
@@ -338,8 +356,41 @@ function render(){
   else if(NAV.startsWith('pipeline:')) W.innerHTML=bb+viewPipeline(NAV.slice(9));
   else if(NAV==='companies') W.innerHTML=bb+viewCompaniesList();
   else if(NAV.startsWith('company:')) W.innerHTML=bb+viewCompany(NAV.slice(8));
+  else if(NAV==='regulatory') W.innerHTML=bb+viewRegulatory();
 }
 function backBar(){return BACK.length?'<button class="backbtn" onclick="goBack()">← 뒤로</button>':'';}
+
+function setRegTab(t){REGTAB=t;render();}
+function viewRegulatory(){
+  const all=REG||[];
+  const agencies=['MFDS','FDA'];
+  let h='<div class="phead"><h1>Regulatory <span style="color:var(--soft);font-weight:700;font-size:18px">규제 모니터링</span></h1><span class="meta">의약품 관련 신규 고시·안내서·가이던스</span></div>';
+  // 기관 탭
+  h+='<div class="rtabs">';
+  agencies.forEach(a=>{const n=all.filter(x=>x.agency===a).length;h+='<button class="rtab'+(REGTAB===a?' on':'')+'" onclick="setRegTab(\''+a+'\')">'+a+' <span class="rc">'+n+'</span></button>';});
+  h+='</div>';
+  const rows=all.filter(x=>x.agency===REGTAB);
+  if(!rows.length){h+='<div style="font-size:13px;color:var(--soft);padding:20px 0">아직 수집된 항목이 없습니다. (스크래퍼 실행 후 표시)</div>';return h;}
+  // 게시판 순서: 등장 순(=config 순서) 유지
+  const boards=[];rows.forEach(r=>{if(boards.indexOf(r.board)<0)boards.push(r.board);});
+  boards.forEach(b=>{
+    const items=rows.filter(r=>r.board===b).sort((a,b)=>(b.published||'').localeCompare(a.published||''));
+    const key='reg-'+REGTAB+'-'+b;
+    const lim=MORE[key]?items.length:10;
+    h+='<div class="sec"><div class="sectitle sm"><span class="t">'+esc(b)+'</span><span class="ln"></span><span class="n">'+items.length+'</span></div>';
+    h+='<div class="reglist">';
+    items.slice(0,lim).forEach(it=>{
+      h+='<a class="regitem" href="'+esc(it.url)+'" target="_blank" rel="noopener">'
+        +'<div class="rtit">'+esc(it.title)+'</div>'
+        +'<div class="rmeta">'+(it.regno?'<span class="rno">'+esc(it.regno)+'</span>':'')+(it.date?'<span class="rdt">'+esc(it.date)+'</span>':'')+'</div>'
+        +'</a>';
+    });
+    h+='</div>';
+    if(items.length>10)h+='<div class="morebtn" onclick="toggleMore(\''+key+'\')">'+(MORE[key]?'접기 ▲':'+ 더보기 ('+(items.length-10)+'건)')+'</div>';
+    h+='</div>';
+  });
+  return h;
+}
 
 function viewDashboard(){
   const ps=M.pipelines||[];const news=CROSS.news||[],papers=CROSS.papers||[],trials=CROSS.trials||[];
