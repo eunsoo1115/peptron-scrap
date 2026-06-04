@@ -206,6 +206,9 @@
   .regsearch{width:100%;padding:10px 14px;border:1px solid var(--line);border-radius:10px;font-size:13px;font-family:inherit;margin-bottom:10px;color:var(--ink);background:#fff;}
   .regsearch:focus{outline:none;border-color:var(--pep);box-shadow:0 0 0 3px rgba(28,145,251,.12);}
   .regitem .rdept{font-size:11px;font-weight:700;color:#7c3aed;background:#f3effe;padding:1px 8px;border-radius:5px;}
+  .reggrid{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:start;}
+  .reggrid .regcol{margin:0;}
+  @media(max-width:760px){.reggrid{grid-template-columns:1fr;}}
   .hero-solo{padding-bottom:8px;}
   .ftr{text-align:center;padding:28px 20px 40px;font-size:11.5px;color:var(--soft);letter-spacing:.01em;}
   .ftr .beta{display:inline-block;font-size:9.5px;font-weight:800;color:#fff;background:var(--pep);padding:1px 7px;border-radius:5px;letter-spacing:.04em;vertical-align:middle;margin:0 2px;}
@@ -408,13 +411,15 @@ function viewRegulatory(){
   if(!rows.length){h+='<div style="font-size:13px;color:var(--soft);padding:20px 0">아직 수집된 항목이 없습니다. (스크래퍼 실행 후 표시)</div>';return h;}
   // 게시판 순서: 등장 순(=config 순서) 유지
   const boards=[];rows.forEach(r=>{if(boards.indexOf(r.board)<0)boards.push(r.board);});
+  h+='<div class="reggrid">';
   boards.forEach(b=>{
     const total=rows.filter(r=>r.board===b).length;
-    h+='<div class="sec"><div class="sectitle sm"><span class="t">'+esc(b)+'</span><span class="ln"></span><span class="n">'+total+'</span></div>';
+    h+='<div class="sec regcol"><div class="sectitle sm"><span class="t">'+esc(b)+'</span><span class="ln"></span><span class="n">'+total+'</span></div>';
     h+='<input class="regsearch" type="text" placeholder="🔍 '+esc(b)+' 내 검색 (제목·부서)" value="'+esc(REGQ[b]||'')+'" oninput="setRegQ(\''+esc(b)+'\',this.value)">';
     h+='<div id="reglist-'+esc(b)+'">'+regListHtml(b)+'</div>';
     h+='</div>';
   });
+  h+='</div>';
   return h;
 }
 
