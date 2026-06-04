@@ -86,7 +86,8 @@
   .sectitle .n{font-size:12px;color:var(--soft);font-weight:700;}
 
   /* pipeline cards */
-  .pcards{display:flex;flex-direction:column;gap:16px;}
+  .pcards{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:start;}
+  @media(max-width:860px){.pcards{grid-template-columns:1fr;}}
   .pcard{position:relative;background:var(--card);border-radius:22px;padding:22px 24px;box-shadow:var(--sh);cursor:pointer;transition:transform .2s,box-shadow .2s;overflow:hidden;animation:rise .4s ease both;border-left:5px solid var(--pc,var(--pep));}
   .pcard .pchead{display:flex;align-items:flex-start;gap:14px;}
   .pcard .pcttl{flex:1;}
