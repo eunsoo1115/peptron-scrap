@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-04T21:24:56.291198+09:00",
+  "updated_at": "2026-06-04T21:55:04.922947+09:00",
   "dates": [
     {
       "date": "2026-06-04",
-      "total": 1973,
+      "total": 2006,
       "counts": {
         "core": 178,
-        "obesity": 691,
+        "obesity": 706,
         "npr": 209,
-        "platform": 428,
-        "reg": 263,
-        "mkt": 204
+        "platform": 440,
+        "reg": 268,
+        "mkt": 205
       }
     },
     {
@@ -140,15 +140,15 @@
     "year_min": 2023,
     "year_max": 2026
   },
-  "news_recent_total": 1398,
+  "news_recent_total": 1404,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 369,
+      "news": 372,
       "papers": 95,
       "trials": 76,
-      "total": 540,
+      "total": 543,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -175,11 +175,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 232,
+      "news": 235,
       "papers": 81,
       "trials": 78,
-      "total": 391,
-      "recent": "2026-06-04T21:05:16+09:00",
+      "total": 394,
+      "recent": "2026-06-04T21:19:23+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Preclinical",
@@ -300,21 +300,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 134,
+      "news": 135,
       "papers": 0,
       "trials": 0,
-      "total": 134,
-      "recent": "2026-06-04T05:30:00+09:00",
+      "total": 135,
+      "recent": "2026-06-04T21:19:23+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 83,
+      "news": 84,
       "papers": 1,
       "trials": 0,
-      "total": 84,
-      "recent": "2026-06-04T08:49:00+09:00",
+      "total": 85,
+      "recent": "2026-06-04T21:30:11+09:00",
       "logo": "logos/novo.png"
     },
     {
