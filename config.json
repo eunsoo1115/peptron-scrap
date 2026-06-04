@@ -1,6 +1,6 @@
 {
-  "site_title": "PIR",
-  "site_subtitle": "Pipeline Intelligence Radar",
+  "site_title": "PepTracker",
+  "site_subtitle": "PepTracker",
   "timezone": "Asia/Seoul",
   "max_per_query": 30,
   "keep_days": 0,
@@ -323,7 +323,24 @@
       ],
       "area": "Obesity",
       "stage": "IND Preparation",
-      "color": "#2563eb"
+      "color": "#ea7317",
+      "chips": [
+        {
+          "label": "Semaglutide",
+          "match": [
+            "세마글루티드",
+            "세마글루타이드",
+            "semaglutide"
+          ]
+        },
+        {
+          "label": "Wegovy",
+          "match": [
+            "위고비",
+            "wegovy"
+          ]
+        }
+      ]
     },
     {
       "id": "PT404",
@@ -341,7 +358,26 @@
       ],
       "area": "Obesity",
       "stage": "Preclinical",
-      "color": "#0d9488"
+      "color": "#7c3aed",
+      "chips": [
+        {
+          "label": "Tirzepatide",
+          "match": [
+            "티르제파타이드",
+            "터제파타이드",
+            "tirzepatide"
+          ]
+        },
+        {
+          "label": "Mounjaro",
+          "match": [
+            "마운자로",
+            "mounjaro",
+            "젭바운드",
+            "zepbound"
+          ]
+        }
+      ]
     },
     {
       "id": "PND3174",
@@ -360,7 +396,24 @@
       ],
       "area": "Achondroplasia",
       "stage": "Phase 1",
-      "color": "#7c3aed"
+      "color": "#0d9488",
+      "chips": [
+        {
+          "label": "CNP analogue",
+          "match": [
+            "cnp",
+            "npr-b",
+            "c-type natriuretic"
+          ]
+        },
+        {
+          "label": "Achondroplasia",
+          "match": [
+            "achondroplasia",
+            "연골무형성증"
+          ]
+        }
+      ]
     },
     {
       "id": "PT320",
@@ -375,7 +428,25 @@
       ],
       "area": "Neurology",
       "stage": "Clinical",
-      "color": "#ea7317"
+      "color": "#2563eb",
+      "chips": [
+        {
+          "label": "Exenatide",
+          "match": [
+            "엑세나타이드",
+            "exenatide"
+          ]
+        },
+        {
+          "label": "Parkinson",
+          "match": [
+            "파킨슨",
+            "parkinson",
+            "glp-1",
+            "glp1"
+          ]
+        }
+      ]
     }
   ],
   "companies": [
@@ -385,7 +456,8 @@
       "keywords": [
         "펩트론",
         "peptron"
-      ]
+      ],
+      "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
@@ -440,6 +512,23 @@
       "logo": "logos/amgen.png"
     }
   ],
-  "site_tagline": "Competitive · Regulatory · Clinical Intelligence",
-  "greet_name": "Eunsoo"
+  "site_tagline": "",
+  "greet_name": "Eunsoo",
+  "exclude_keywords": [
+    "연예인",
+    "배우",
+    "아이돌",
+    "가수",
+    "모델",
+    "다이어트 후기",
+    "살뺀",
+    "감량 후기",
+    "천연 위고비",
+    "천연 마운자로",
+    "후기",
+    "브이로그",
+    "먹어봤",
+    "효과 봤",
+    "식단"
+  ]
 }

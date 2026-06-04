@@ -5,13 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
 <meta name="googlebot" content="noindex, nofollow">
-<title>PIR · Pipeline Intelligence Radar</title>
+<title>PepTracker</title>
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css" rel="stylesheet">
 <style>
   *{box-sizing:border-box;margin:0;padding:0;}
   :root{
-    --bg:#f6f8fb; --card:#fff; --primary:#0f172a; --pep:#0077c8; --pep-d:#005fa3;
+    --bg:#f6f8fb; --card:#fff; --primary:#0f172a; --pep:#1c91fb; --pep-d:#0a6fd0;
     --muted:#64748b; --soft:#94a3b8; --line:#eef1f5; --line2:#f3f5f8;
     --up:#0c8a4a; --dn:#dc2626;
     --sh-sm:0 1px 3px rgba(15,23,42,.04); --sh:0 10px 30px rgba(15,23,42,.05); --sh-lg:0 18px 44px rgba(15,23,42,.11);
@@ -21,7 +21,7 @@
   ::-webkit-scrollbar{width:9px;height:9px;}::-webkit-scrollbar-thumb{background:#d3d9e0;border-radius:5px;}
 
   /* ===== top: tier 1 (blue) ===== */
-  .topbar{background:#0077c8;}
+  .topbar{background:#1c91fb;}
   .tb-in{max-width:1440px;margin:0 auto;height:56px;padding:0 36px;display:flex;align-items:center;gap:18px;}
   .tb-logo{display:flex;align-items:center;}
   .tb-sp{flex:1;}
@@ -37,7 +37,7 @@
   /* ===== top: tier 2 (white nav) ===== */
   .subnav{background:#fff;box-shadow:var(--sh-sm);position:sticky;top:0;z-index:50;}
   .sn-in{max-width:1440px;margin:0 auto;height:64px;padding:0 36px;display:flex;align-items:center;gap:30px;}
-  .pir{font-size:27px;font-weight:800;letter-spacing:.04em;flex-shrink:0;}
+  .pir{font-size:24px;font-weight:800;letter-spacing:.01em;flex-shrink:0;}
   .pir .i{color:var(--pep);}
   .pir-sub{font-size:12.5px;color:var(--muted);font-weight:500;margin-left:10px;}
   .links{display:flex;align-items:center;gap:6px;margin-left:auto;flex-wrap:wrap;}
@@ -63,8 +63,9 @@
   /* layout: hero+kpi row */
   .topgrid{display:grid;grid-template-columns:1fr 1.15fr;gap:30px;align-items:start;margin-bottom:46px;}
   .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;}
+  .kpis.k3{grid-template-columns:repeat(3,1fr);}
   .kpi{background:var(--card);border-radius:22px;padding:20px;box-shadow:var(--sh);}
-  .kpi .ic{width:38px;height:38px;border-radius:11px;background:#e8f2fb;color:var(--pep);display:flex;align-items:center;justify-content:center;margin-bottom:16px;}
+  .kpi .ic{width:38px;height:38px;border-radius:11px;background:#e9f4ff;color:var(--pep);display:flex;align-items:center;justify-content:center;margin-bottom:16px;}
   .kpi .ic svg{width:19px;height:19px;}
   .kpi .num{font-size:30px;font-weight:800;letter-spacing:-0.03em;line-height:1;}
   .kpi .lab{font-size:13px;font-weight:600;margin-top:9px;}
@@ -72,8 +73,8 @@
   .kpi .delta{font-size:11.5px;font-weight:700;margin-top:11px;color:var(--up);}
   .kpi .delta.dn{color:var(--dn);}
   .kpi .delta.flat{color:var(--soft);}
-  @media(max-width:1100px){.topgrid{grid-template-columns:1fr;}.kpis{grid-template-columns:repeat(4,1fr);}}
-  @media(max-width:720px){.kpis{grid-template-columns:repeat(2,1fr);}.hero h1{font-size:36px;}}
+  @media(max-width:1100px){.topgrid{grid-template-columns:1fr;}}
+  @media(max-width:720px){.kpis,.kpis.k3{grid-template-columns:1fr;}.hero h1{font-size:36px;}}
 
   /* section header */
   .sectitle{display:flex;align-items:center;margin:0 0 18px;}
@@ -91,7 +92,7 @@
   .pcard:hover{transform:translateY(-4px);box-shadow:var(--sh-lg);}
   @keyframes rise{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
   .pcard .dots{position:absolute;top:20px;right:20px;width:62px;height:62px;opacity:.9;}
-  .pcard .area{display:inline-block;font-size:11px;font-weight:700;padding:4px 11px;border-radius:999px;}
+  /*area*/.pcard .area{display:inline-block;font-size:11px;font-weight:700;padding:4px 11px;border-radius:999px;}
   .pcard .pn{font-size:28px;font-weight:800;letter-spacing:-0.02em;margin-top:14px;color:var(--pc);}
   .pcard .pd{font-size:13.5px;color:var(--muted);margin-top:5px;}
   .pcard .stage{display:inline-block;font-size:11.5px;font-weight:700;color:var(--muted);background:#f3f5f8;padding:5px 12px;border-radius:8px;margin-top:14px;}
@@ -117,6 +118,14 @@
   .uli .ub{font-size:10.5px;font-weight:700;padding:3px 10px;border-radius:7px;flex-shrink:0;}
   .uli .ud{font-size:12px;color:var(--soft);font-variant-numeric:tabular-nums;flex-shrink:0;width:78px;text-align:right;}
   .clogos{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;}
+  .clogos.big{grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:18px;}
+  .ccardbig{background:#fff;border-radius:20px;padding:26px 22px;box-shadow:var(--sh);cursor:pointer;transition:transform .18s,box-shadow .18s;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;min-height:130px;}
+  .ccardbig:hover{transform:translateY(-4px);box-shadow:var(--sh-lg);}
+  .ccardbig .logobox{height:46px;display:flex;align-items:center;justify-content:center;}
+  .ccardbig .logobox img{max-height:40px;max-width:150px;object-fit:contain;}
+  .ccardbig .wm{font-size:17px;font-weight:800;color:var(--primary);}
+  .ccardbig .cstat{font-size:12px;color:var(--soft);font-weight:600;}
+  .ccardbig .cstat b{color:var(--pep-d);}
   .clogo{background:#fff;border-radius:16px;padding:16px 12px;box-shadow:var(--sh-sm);cursor:pointer;text-align:center;transition:transform .16s,box-shadow .16s;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;min-height:84px;overflow:hidden;}
   .clogo:hover{transform:translateY(-3px);box-shadow:var(--sh);}
   .clogo .wm{font-size:13.5px;font-weight:700;letter-spacing:-0.01em;color:var(--primary);line-height:1.3;word-break:keep-all;}
@@ -178,6 +187,12 @@
   .wordmark{font-weight:800;letter-spacing:.14em;font-size:21px;}
   .wordmark.white{color:#fff;}
   .wordmark.blue{color:var(--pep);font-size:16px;letter-spacing:.1em;}
+  .dlbtn{font-size:12px;font-weight:600;color:var(--pep);cursor:pointer;margin-right:14px;white-space:nowrap;}
+  .dlbtn:hover{color:var(--pep-d);}
+  .morebtn{text-align:center;font-size:13px;font-weight:700;color:var(--pep);background:#fff;border-radius:12px;padding:13px;margin-top:10px;cursor:pointer;box-shadow:var(--sh-sm);}
+  .morebtn:hover{background:#f3f9ff;color:var(--pep-d);}
+  .ftr{text-align:center;padding:28px 20px 40px;font-size:11.5px;color:var(--soft);letter-spacing:.01em;}
+  .ftr .beta{display:inline-block;font-size:9.5px;font-weight:800;color:#fff;background:var(--pep);padding:1px 7px;border-radius:5px;letter-spacing:.04em;vertical-align:middle;margin:0 2px;}
   .state{padding:60px 20px;text-align:center;color:var(--soft);}
   .state .ic{font-size:30px;opacity:.4;margin-bottom:12px;}
   .state .t{font-size:14.5px;font-weight:600;color:var(--muted);}
@@ -191,10 +206,11 @@
   <div class="tb-upd" id="upd"></div>
 </div></div>
 <div class="subnav"><div class="sn-in">
-  <div><span class="pir">P<span class="i">I</span>R</span><span class="pir-sub" id="psub">Pipeline Intelligence Radar</span></div>
+  <div><span class="pir">Pep<span class="i">Tracker</span></span></div>
   <div class="links" id="links"></div>
 </div></div>
 <div class="wrap" id="wrap"><div class="state"><div class="ic">◌</div><div class="t">불러오는 중…</div></div></div>
+<div class="ftr">PepTracker <span class="beta">BETA</span> · © 2026 Peptron RA팀 · Created by Eunsoo Lee · Internal use only</div>
 
 <script>
 const DOW=['일','월','화','수','목','금','토'];
@@ -209,8 +225,7 @@ function hex2rgba(h,a){h=h.replace('#','');const n=parseInt(h,16);return 'rgba('
 
 async function boot(){
   try{ M=await (await fetch('data/manifest.json?_='+Date.now())).json(); }catch(e){ document.getElementById('wrap').innerHTML='<div class="state"><div class="ic">◌</div><div class="t">데이터가 아직 없습니다. 수집 실행 후 표시됩니다.</div></div>'; return; }
-  document.getElementById('tblogo').innerHTML=LOGO_WHITE;
-  document.getElementById('psub').textContent=M.site_subtitle||'Pipeline Intelligence Radar';
+  document.getElementById('tblogo').innerHTML=LOGO_WHITE;document.getElementById('tblogo').style.cursor='pointer';document.getElementById('tblogo').onclick=function(){setNav('dashboard');};
   if(M.updated_at){const u=new Date(M.updated_at);document.getElementById('upd').innerHTML='Last updated <b>'+u.toLocaleString('ko-KR',{year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'}).replace(/\. /g,'.').replace('.','.')+'</b>';}
   if(M.dates&&M.dates.length)CUR_DATE=M.dates[0].date;
   document.addEventListener('click',function(e){ if(!e.target.closest('.lnk')&&!e.target.closest('.menu')){ if(MENU){MENU=null;renderNav();} } });
@@ -218,12 +233,10 @@ async function boot(){
 }
 
 function renderNav(){
-  const pAct=NAV.startsWith('pipeline:'),cAct=NAV.startsWith('company:');
   let h=lnk('dashboard','Dashboard');
-  h+=drop('pipelines','Pipelines',pAct,(M.pipelines||[]).map(p=>({nav:'pipeline:'+p.id,label:p.label,color:p.color,cnt:p.total})));
-  h+=lnk2(cAct,'companies','Companies');
-  h+=drop('companies2','Companies2',false,[]).replace(/[\s\S]*/,'');  // placeholder no-op
-  h+=lnk('news','News')+lnk('papers','Papers')+lnk('trials','Trials')+lnk('regulatory','Regulatory');
+  (M.pipelines||[]).forEach(p=>{ h+='<button class="lnk'+(NAV==='pipeline:'+p.id?' on':'')+'" onclick="setNav(\''+'pipeline:'+p.id+'\')">'+esc(p.label)+'</button>'; });
+  h+=lnk('companies','Companies');
+  h+=lnk('archive','Archive');
   document.getElementById('links').innerHTML=h;
 }
 function lnk(id,label){return `<button class="lnk${NAV===id?' on':''}" onclick="setNav('${id}')">${label}</button>`;}
@@ -260,7 +273,7 @@ async function setNav(nav,opts){
   if(!opts.fromBack && nav!==NAV) BACK.push(NAV);
   NAV=nav; CTAB='all'; YF=null; YT=null; REGION='all';
   renderNav();
-  if(nav==='news'){ if(!CUR_DAY||CUR_DAY.date!==CUR_DATE) await loadDay(CUR_DATE); }
+  if(nav==='news'||nav==='archive'||nav.startsWith('archive:')){ if(!CUR_DAY||CUR_DAY.date!==CUR_DATE) await loadDay(CUR_DATE); await loadCross(); }
   else { await loadCross(); }
   if(!opts.fromHistory){ try{ history.pushState({nav:nav},''); }catch(e){} }
   render(); window.scrollTo(0,0);
@@ -321,37 +334,33 @@ function render(){
   else if(NAV==='news') W.innerHTML=bb+viewNews();
   else if(NAV==='papers') W.innerHTML=bb+viewAccum('paper');
   else if(NAV==='trials') W.innerHTML=bb+viewAccum('trial');
-  else if(NAV==='regulatory') W.innerHTML=bb+viewRegulatory();
+  else if(NAV==='archive'||NAV.startsWith('archive:')) W.innerHTML=bb+viewArchive(NAV.indexOf(':')>0?NAV.slice(8):'');
   else if(NAV.startsWith('pipeline:')) W.innerHTML=bb+viewPipeline(NAV.slice(9));
+  else if(NAV==='companies') W.innerHTML=bb+viewCompaniesList();
   else if(NAV.startsWith('company:')) W.innerHTML=bb+viewCompany(NAV.slice(8));
 }
 function backBar(){return BACK.length?'<button class="backbtn" onclick="goBack()">← 뒤로</button>':'';}
 
 function viewDashboard(){
   const ps=M.pipelines||[];const news=CROSS.news||[],papers=CROSS.papers||[],trials=CROSS.trials||[];
-  const reg=crossAll().filter(it=>it.category==='reg');
-  let h='<div class="topgrid"><div class="hero"><div class="greet">'+greeting()+' 👋</div><h1>Pipeline<br>Intelligence Radar</h1><p>'+(M.site_tagline||'Competitive · Regulatory · Clinical Intelligence')+'</p></div>';
-  h+='<div class="kpis">'+kpi(IC.news,news,'New Articles')+kpi(IC.paper,papers,'New Publications')+kpi(IC.trial,trials,'Clinical Updates')+kpi(IC.reg,reg,'Regulatory Updates')+'</div></div>';
+  let h='<div class="topgrid"><div class="hero"><div class="greet">'+greeting()+' 👋</div><h1>PepTracker</h1>'+(M.site_tagline?'<p>'+esc(M.site_tagline)+'</p>':'')+'</div>';
+  h+='<div class="kpis k3">'+kpi(IC.news,news,'New Articles')+kpi(IC.paper,papers,'New Publications')+kpi(IC.trial,trials,'Clinical Updates')+'</div></div>';
 
   h+='<div class="sectitle"><span class="t">Pipeline Overview</span><span class="more" onclick="toggleMenu(\'pipelines\',event)">View all pipelines ›</span></div><div class="cards">';
   ps.forEach((p,i)=>{const col=p.color||'#0077c8';const rc=p.recent?new Date(p.recent).toLocaleDateString('ko-KR',{year:'numeric',month:'2-digit',day:'2-digit'}).replace(/\. /g,'.').replace(/\.$/,''):'—';
     h+='<div class="pcard" style="--pc:'+col+';animation-delay:'+(i*55)+'ms" onclick="setNav(\'pipeline:'+p.id+'\')">'+dotGraphic(col)+
       (p.area?'<span class="area" style="background:'+hex2rgba(col,0.12)+';color:'+col+'">'+esc(p.area)+'</span>':'')+
-      '<div class="pn">'+esc(p.label)+'</div><div class="pd">'+esc(p.desc||'')+'</div>'+
+      '<div class="pn">'+esc(p.label)+'</div>'+
       (p.stage?'<div class="stage">'+esc(p.stage)+'</div>':'')+
       '<div class="met">'+metCell(IC.news,p.news,'News')+metCell(IC.paper,p.papers,'Papers')+metCell(IC.trial,p.trials,'Trials')+'</div>'+
       '<div class="foot">Last Update <b>'+rc+'</b><span class="ar">›</span></div></div>';});
   h+='</div>';
 
-  h+='<div class="botgrid"><div><div class="sectitle sm"><span class="t">Recent Updates</span><span class="more" onclick="setNav(\'news\')">View all news ›</span></div><div class="panel">';
-  const recent=crossAll().slice().sort((a,b)=>(b.published||'').localeCompare(a.published||'')).slice(0,6);
-  if(!recent.length)h+='<div style="color:var(--soft);padding:10px 0">항목 없음</div>';
-  recent.forEach(it=>h+=uli(it)); h+='</div></div>';
-  h+='<div><div class="sectitle sm"><span class="t">Companies</span><span class="more" onclick="toggleMenu(\'companies\',event)">View all ›</span></div><div class="clogos">';
-  const cos=(M.companies||[]).filter(c=>c.total>0).slice(0,5);
-  cos.forEach(c=>h+=clogo(c));
-  h+='<div class="clogo more" onclick="toggleMenu(\'companies\',event)"><span class="arc">›</span><span class="nm">More</span></div>';
-  h+='</div></div></div>';
+  h+='<div class="sectitle" style="margin-top:46px"><span class="t">Companies</span><span class="more" onclick="setNav(\'companies\')">View all ›</span></div>';
+  h+='<div class="clogos big">';
+  const cos=(M.companies||[]).filter(c=>c.total>0);
+  cos.forEach(c=>h+=clogoBig(c));
+  h+='</div>';
   return h;
 }
 function metCell(ic,n,l){return '<div class="m"><div class="mi2">'+ic+'</div><b>'+n+'</b><span>'+l+'</span></div>';}
@@ -362,6 +371,12 @@ function uli(it){const ty=it.layer==='paper'?'paper':it.layer==='trial'?'trial':
   const bg={news:'#eaf1ff',paper:'#e7f6ef',trial:'#fff2e6'};const bc=reg?'#fdf0e3':bg[ty];const bt=reg?'#c2680a':({news:'#2563eb',paper:'#0c8a4a',trial:'#c2680a'})[ty];
   const d=(it.date||(it.published||'').slice(0,10).replace(/-/g,'.'));
   return '<div class="uli" onclick="window.open(\''+esc(it.url)+'\')"><span class="udot" style="background:'+dc+'"></span><span class="ut">'+esc(it.title)+'</span><span class="ub" style="background:'+bc+';color:'+bt+'">'+label+'</span><span class="ud">'+esc(d)+'</span></div>';}
+function clogoBig(c){
+  const inner = c.logo ? '<span class="logobox"><img src="'+esc(c.logo)+'" alt="'+esc(c.label)+'"></span>'
+    : (c.id==='peptron' ? '<span style="display:block;height:22px">'+LOGO_BLUE+'</span>'
+    : '<span class="wm">'+esc((c.label.match(/\(([^)]+)\)/)||[])[1]||c.label.split('(')[0].trim())+'</span>');
+  return '<div class="ccardbig" onclick="setNav(\'company:'+c.id+'\')">'+inner+'<div class="cstat">News <b>'+c.news+'</b> · Papers <b>'+c.papers+'</b> · Trials <b>'+c.trials+'</b></div></div>';
+}
 function clogo(c){
   if(c.logo)return '<div class="clogo" onclick="setNav(\'company:'+c.id+'\')"><span class="logobox"><img src="'+esc(c.logo)+'" alt="'+esc(c.label)+'"></span></div>';
   if(c.id==='peptron')return '<div class="clogo" onclick="setNav(\'company:peptron\')"><span style="display:block;height:18px">'+LOGO_BLUE+'</span><span class="nm">Peptron</span></div>';
@@ -396,25 +411,107 @@ function viewAccum(layer){
   else{h+=tableHead([layer==='paper'?'게재일':'갱신일',layer==='paper'?'저널':'상태·단계']);rows.forEach(it=>h+=(layer==='paper'?rowPaper(it):rowTrial(it)));h+=tableEnd();}
   return h;
 }
-function viewRegulatory(){
-  const all=crossAll().filter(it=>it.category==='reg');all.sort((a,b)=>(b.published||'').localeCompare(a.published||''));
-  let h='<div class="phead"><h1>Regulatory</h1><span class="sub">규제·식약처·FDA·가이드라인 통합</span></div>';
-  let f=all;if(FILTER)f=f.filter(it=>(it.title+' '+it.summary).toLowerCase().includes(FILTER));
-  if(!f.length)return h+emptyState('규제 관련 항목이 없습니다.');
-  h+=tableHead(['날짜','유형']);f.forEach(it=>h+=rowCross(it));h+=tableEnd();return h;
+function viewArchive(pid){
+  if(!CUR_DATE) return '<div class="phead"><h1>Archive</h1></div>'+emptyState('아직 뉴스 데이터가 없습니다.');
+  let items=(CUR_DAY?CUR_DAY.items:[]);
+  if(pid) items=items.filter(it=>(it.pipelines||[]).includes(pid));
+  const t=CUR_DATE.split('-').map(Number),dw=DOW[new Date(t[0],t[1]-1,t[2]).getDay()];
+  const a=M.dates.map(x=>x.date),mn=a[a.length-1],mx=a[0];
+  const pObj=pid?(M.pipelines||[]).find(x=>x.id===pid):null;
+  let h='<div class="phead"><h1>Archive</h1><span class="sub">'+t[0]+'.'+String(t[1]).padStart(2,'0')+'.'+String(t[2]).padStart(2,'0')+' '+dw+'요일'+(pObj?' · '+esc(pObj.label):'')+'</span></div>';
+  // 파이프라인 필터 칩
+  h+='<div class="ctabs"><button class="ctab'+(!pid?' on':'')+'" onclick="setNav(\'archive\')">전체</button>';
+  (M.pipelines||[]).forEach(p=>{h+='<button class="ctab'+(pid===p.id?' on':'')+'" onclick="setNav(\'archive:'+p.id+'\')">'+esc(p.label)+'</button>';});
+  h+='</div>';
+  // 날짜 네비
+  h+='<div class="toolbar"><div class="datenav"><button onclick="shiftDay(1)">◀</button><input type="date" value="'+CUR_DATE+'" min="'+mn+'" max="'+mx+'" onchange="jumpDate(this.value)"><button onclick="shiftDay(-1)">▶</button></div>';
+  h+='<div class="seg"><button class="'+(REGION==='all'?'on':'')+'" onclick="setRegion(\'all\')">전체</button><button class="'+(REGION==='kr'?'on':'')+'" onclick="setRegion(\'kr\')">국내</button><button class="'+(REGION==='os'?'on':'')+'" onclick="setRegion(\'os\')">해외</button></div>';
+  h+='<div class="tbar">'+items.length+'건</div></div>';
+  let rows=items;if(REGION!=='all')rows=rows.filter(it=>(it.region||'kr')===REGION);if(FILTER)rows=rows.filter(it=>(it.title+it.publisher).toLowerCase().includes(FILTER));
+  if(!items.length)h+=emptyState('이 날짜에 해당하는 뉴스가 없습니다.');
+  else if(!rows.length)h+=emptyState('조건에 맞는 뉴스가 없습니다.');
+  else{h+=tableHead(['시각','출처']);rows.forEach(it=>h+=rowNews(it));h+=tableEnd();}
+  return h;
 }
 function viewPipeline(id){
-  const p=(M.pipelines||[]).find(x=>x.id===id)||{id:id,label:id};const col=p.color||'#0077c8';
+  const p=(M.pipelines||[]).find(x=>x.id===id)||{id:id,label:id};const col=p.color||'var(--pep)';
+  CUR_PIPE=p;
   const mine=crossAll().filter(it=>(it.pipelines||[]).includes(id));mine.sort((a,b)=>(b.published||'').localeCompare(a.published||''));
-  const news=mine.filter(it=>it.layer==='news'),papers=mine.filter(it=>it.layer==='paper'),trials=mine.filter(it=>it.layer==='trial');
+  const today=(M.dates&&M.dates.length)?M.dates[0].date:null;
+  const newsToday=mine.filter(it=>it.layer==='news'&&it.date===(today?today.replace(/-/g,'.'):'__'));
+  const papers=mine.filter(it=>it.layer==='paper'),trials=mine.filter(it=>it.layer==='trial');
   const cc={};mine.forEach(it=>(it.companies||[]).forEach(c=>{cc[c]=(cc[c]||0)+1;}));
-  let h='<div class="phead"><h1 style="color:'+col+'">'+esc(p.label)+'</h1><span class="sub">'+esc(p.desc||'')+(p.stage?' · '+esc(p.stage):'')+'</span><span class="meta">News '+news.length+' · Papers '+papers.length+' · Trials '+trials.length+'</span></div>';
+  let h='<div class="phead"><h1 style="color:'+col+'">'+esc(p.label)+'</h1>'+(p.stage?'<span class="sub">'+esc(p.stage)+'</span>':'')+'<span class="meta">오늘 뉴스 '+newsToday.length+' · 논문 '+papers.length+' · 임상 '+trials.length+'</span></div>';
   const comps=Object.keys(cc).sort((a,b)=>cc[b]-cc[a]);
   if(comps.length){h+='<div class="sec"><div class="sectitle sm"><span class="t">관련 경쟁사</span><span class="ln"></span></div><div class="comp">';
     comps.forEach(c=>{const lbl=((M.companies||[]).find(x=>x.id===c)||{}).label||c;h+='<span class="compc" onclick="setNav(\'company:'+c+'\')"><b>'+esc(lbl)+'</b> '+cc[c]+'</span>';});h+='</div></div>';}
-  h+=secTable('관련 뉴스',news,'news')+secTable('관련 논문',papers,'paper')+secTable('관련 임상',trials,'trial');
-  if(!mine.length)h+=emptyState('아직 이 파이프라인에 연결된 항목이 없습니다.');
+  // 관련 뉴스: 오늘치만 + 지난 뉴스 더보기 (칩 필터 없음)
+  h+='<div class="sec"><div class="sectitle sm"><span class="t">관련 뉴스 <span style="color:var(--soft);font-weight:600">· 오늘</span></span><span class="ln"></span>'+dlBtn('news')+'<span class="more" onclick="setNav(\'archive:'+id+'\')">지난 뉴스 더보기 ›</span></div>';
+  if(!newsToday.length)h+='<div style="font-size:12.5px;color:var(--soft);padding:4px 0">오늘 등록된 뉴스가 없습니다.</div>';
+  else{h+=tableHead(['시각','출처']);newsToday.forEach(it=>h+=rowNews(it));h+=tableEnd();}
+  h+='</div>';
+  h+=secTableMore('관련 논문',papers,'paper','paper',p)+secTableMore('관련 임상',trials,'trial','trial',p);
   return h;
+}
+// 섹션별 칩/더보기 상태
+const CHIP={news:null,paper:null,trial:null};
+const MORE={};
+let CUR_PIPE=null;
+function setChip(section,label){CHIP[section]=(CHIP[section]===label)?null:label; render();}
+function toggleMore(key){MORE[key]=!MORE[key];render();}
+function chipBar(p,section){
+  const chips=(p.chips||[]);if(!chips.length)return '';
+  let h='<div class="ctabs">';
+  h+='<button class="ctab'+(!CHIP[section]?' on':'')+'" onclick="setChip(\''+section+'\',null)">전체</button>';
+  chips.forEach(c=>{h+='<button class="ctab'+(CHIP[section]===c.label?' on':'')+'" onclick="setChip(\''+section+'\',\''+esc(c.label)+'\')">'+esc(c.label)+'</button>';});
+  return h+'</div>';
+}
+function chipFilter(rows,section){
+  const lab=CHIP[section];if(!lab||!CUR_PIPE)return rows;
+  const def=(CUR_PIPE.chips||[]).find(c=>c.label===lab);if(!def)return rows;
+  const ms=(def.match||[]).map(s=>s.toLowerCase());
+  return rows.filter(it=>{const blob=((it.title||'')+' '+(it.summary||'')).toLowerCase();return ms.some(m=>blob.includes(m));});
+}
+function secTableMore(title,rows,layer,section,p){
+  const filtered=chipFilter(rows,section);
+  let h='<div class="sec"><div class="sectitle sm"><span class="t">'+title+'</span><span class="ln"></span><span class="n">'+filtered.length+'</span>'+dlBtn(section)+'</div>';
+  h+=chipBar(p,section);
+  if(!rows.length){h+='<div style="font-size:12.5px;color:var(--soft);">항목 없음</div></div>';return h;}
+  if(!filtered.length){h+='<div style="font-size:12.5px;color:var(--soft);padding:4px 0">선택한 키워드에 해당하는 항목이 없습니다.</div></div>';return h;}
+  const cols=layer==='paper'?['게재일','저널']:['갱신일','상태·단계'];
+  const key=section+'-'+(CHIP[section]||'all');
+  const lim=MORE[key]?filtered.length:10;
+  h+=tableHead(cols);filtered.slice(0,lim).forEach(it=>h+=(layer==='paper'?rowPaper(it):rowTrial(it)));h+=tableEnd();
+  if(filtered.length>10)h+='<div class="morebtn" onclick="toggleMore(\''+key+'\')">'+(MORE[key]?'접기 ▲':'+ 더보기 ('+(filtered.length-10)+'건)')+'</div>';
+  return h+'</div>';
+}
+// CSV 다운로드
+function dlBtn(section){return '<span class="dlbtn" onclick="downloadCSV(\''+section+'\')">⬇ CSV</span>';}
+function csvCell(s){s=(s==null?'':String(s));if(/[",\n]/.test(s))s='"'+s.replace(/"/g,'""')+'"';return s;}
+function downloadCSV(section){
+  let rows=[],cols,name;
+  if(CUR_PIPE){
+    const id=CUR_PIPE.id;
+    const mine=crossAll().filter(it=>(it.pipelines||[]).includes(id));
+    if(section==='news'){const today=(M.dates&&M.dates.length)?M.dates[0].date.replace(/-/g,'.'):'';rows=mine.filter(it=>it.layer==='news'&&it.date===today);}
+    else if(section==='paper')rows=mine.filter(it=>it.layer==='paper');
+    else rows=mine.filter(it=>it.layer==='trial');
+    rows=chipFilter(rows,section);
+    name=id+'_'+section;
+  }
+  rows=rows.slice().sort((a,b)=>(b.published||'').localeCompare(a.published||''));
+  if(section==='paper'){cols=['날짜','저널','분류','제목','파이프라인','회사','URL'];
+    var data=rows.map(it=>[it.date,it.publisher,catName(it.category),it.title,(it.pipelines||[]).join(';'),(it.companies||[]).join(';'),it.url]);}
+  else if(section==='trial'){cols=['갱신일','상태','단계','분류','제목','파이프라인','회사','URL'];
+    var data=rows.map(it=>[it.date,it.ct_status,it.ct_phase,catName(it.category),it.title,(it.pipelines||[]).join(';'),(it.companies||[]).join(';'),it.url]);}
+  else{cols=['날짜','시각','출처','분류','제목','파이프라인','회사','URL'];
+    var data=rows.map(it=>[it.date,it.time,it.publisher,catName(it.category),it.title,(it.pipelines||[]).join(';'),(it.companies||[]).join(';'),it.url]);}
+  const lines=[cols.join(',')].concat(data.map(r=>r.map(csvCell).join(',')));
+  const csv='\ufeff'+lines.join('\r\n');  // BOM: 엑셀 한글 깨짐 방지
+  const blob=new Blob([csv],{type:'text/csv;charset=utf-8;'});
+  const url=URL.createObjectURL(blob);const a=document.createElement('a');
+  a.href=url;a.download=(name||section)+'_'+(new Date().toISOString().slice(0,10))+'.csv';
+  document.body.appendChild(a);a.click();document.body.removeChild(a);URL.revokeObjectURL(url);
 }
 function secTable(title,rows,layer){
   let h='<div class="sec"><div class="sectitle sm"><span class="t">'+title+'</span><span class="ln"></span><span class="n">'+rows.length+'</span></div>';
@@ -422,6 +519,13 @@ function secTable(title,rows,layer){
   const cols=layer==='news'?['시각','출처']:layer==='paper'?['게재일','저널']:['갱신일','상태·단계'];
   h+=tableHead(cols);rows.slice(0,40).forEach(it=>h+=(layer==='news'?rowNews(it):layer==='paper'?rowPaper(it):rowTrial(it)));h+=tableEnd();
   return h+'</div>';
+}
+function viewCompaniesList(){
+  let h='<div class="phead"><h1>Companies</h1><span class="sub">관련 기업·경쟁사 모니터링</span></div>';
+  h+='<div class="clogos big">';
+  (M.companies||[]).filter(c=>c.total>0).forEach(c=>h+=clogoBig(c));
+  h+='</div>';
+  return h;
 }
 function viewCompany(id){
   const c=(M.companies||[]).find(x=>x.id===id)||{id:id,label:id};

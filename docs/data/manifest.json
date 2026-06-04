@@ -1,7 +1,7 @@
 {
-  "site_title": "PIR",
-  "site_subtitle": "Pipeline Intelligence Radar",
-  "site_tagline": "Competitive · Regulatory · Clinical Intelligence",
+  "site_title": "PepTracker",
+  "site_subtitle": "PepTracker",
+  "site_tagline": "",
   "greet_name": "Eunsoo",
   "category_meta": {
     "core": {
@@ -43,216 +43,203 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-04T16:59:23.320554+09:00",
-  "dates": [
-    {
-      "date": "2026-06-04",
-      "total": 1808,
-      "counts": {
-        "core": 172,
-        "obesity": 607,
-        "npr": 208,
-        "platform": 397,
-        "reg": 232,
-        "mkt": 192
-      }
-    },
-    {
-      "date": "2026-06-03",
-      "total": 1912,
-      "counts": {
-        "core": 177,
-        "obesity": 666,
-        "npr": 210,
-        "platform": 405,
-        "reg": 245,
-        "mkt": 209
-      }
-    },
-    {
-      "date": "2026-06-02",
-      "total": 1965,
-      "counts": {
-        "core": 184,
-        "obesity": 687,
-        "npr": 219,
-        "platform": 420,
-        "reg": 243,
-        "mkt": 212
-      }
-    },
-    {
-      "date": "2026-06-01",
-      "total": 1882,
-      "counts": {
-        "core": 184,
-        "obesity": 640,
-        "npr": 214,
-        "platform": 402,
-        "reg": 237,
-        "mkt": 205
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "total": 1792,
-      "counts": {
-        "core": 174,
-        "obesity": 600,
-        "npr": 211,
-        "platform": 401,
-        "reg": 227,
-        "mkt": 179
-      }
-    },
-    {
-      "date": "2026-05-30",
-      "total": 1808,
-      "counts": {
-        "core": 177,
-        "obesity": 584,
-        "npr": 213,
-        "platform": 407,
-        "reg": 239,
-        "mkt": 188
-      }
-    },
-    {
-      "date": "2026-05-29",
-      "total": 1656,
-      "counts": {
-        "core": 166,
-        "obesity": 522,
-        "npr": 201,
-        "platform": 373,
-        "reg": 216,
-        "mkt": 178
-      }
-    }
-  ],
+  "updated_at": "",
+  "dates": [],
   "papers": {
-    "total": 1534,
-    "year_min": 2023,
-    "year_max": 2026
+    "total": 0,
+    "year_min": null,
+    "year_max": null
   },
   "trials": {
-    "total": 1036,
-    "year_min": 2023,
-    "year_max": 2026
+    "total": 0,
+    "year_min": null,
+    "year_max": null
   },
-  "news_recent_total": 1355,
+  "news_recent_total": 0,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 358,
-      "papers": 92,
-      "trials": 74,
-      "total": 524,
-      "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
-      "color": "#2563eb"
+      "color": "#ea7317",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": "",
+      "chips": [
+        {
+          "label": "Semaglutide",
+          "match": [
+            "세마글루티드",
+            "세마글루타이드",
+            "semaglutide"
+          ]
+        },
+        {
+          "label": "Wegovy",
+          "match": [
+            "위고비",
+            "wegovy"
+          ]
+        }
+      ]
     },
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 228,
-      "papers": 80,
-      "trials": 77,
-      "total": 385,
-      "recent": "2026-06-04T15:35:10+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Preclinical",
-      "color": "#0d9488"
+      "color": "#7c3aed",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": "",
+      "chips": [
+        {
+          "label": "Tirzepatide",
+          "match": [
+            "티르제파타이드",
+            "터제파타이드",
+            "tirzepatide"
+          ]
+        },
+        {
+          "label": "Mounjaro",
+          "match": [
+            "마운자로",
+            "mounjaro",
+            "젭바운드",
+            "zepbound"
+          ]
+        }
+      ]
     },
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 38,
-      "papers": 129,
-      "trials": 40,
-      "total": 207,
-      "recent": "2026-06-02T20:37:44+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "Phase 1",
-      "color": "#7c3aed"
+      "color": "#0d9488",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": "",
+      "chips": [
+        {
+          "label": "CNP analogue",
+          "match": [
+            "cnp",
+            "npr-b",
+            "c-type natriuretic"
+          ]
+        },
+        {
+          "label": "Achondroplasia",
+          "match": [
+            "achondroplasia",
+            "연골무형성증"
+          ]
+        }
+      ]
     },
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 1,
-      "papers": 19,
-      "trials": 4,
-      "total": 24,
-      "recent": "2026-06-02T00:00:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
-      "color": "#ea7317"
+      "color": "#2563eb",
+      "news": 0,
+      "papers": 0,
+      "trials": 0,
+      "total": 0,
+      "recent": "",
+      "chips": [
+        {
+          "label": "Exenatide",
+          "match": [
+            "엑세나타이드",
+            "exenatide"
+          ]
+        },
+        {
+          "label": "Parkinson",
+          "match": [
+            "파킨슨",
+            "parkinson",
+            "glp-1",
+            "glp1"
+          ]
+        }
+      ]
     }
   ],
   "companies": [
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 28,
+      "news": 0,
       "papers": 0,
       "trials": 0,
-      "total": 28,
-      "recent": "2026-06-02T15:01:02+09:00"
+      "total": 0,
+      "recent": "",
+      "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 15,
+      "news": 0,
       "papers": 0,
       "trials": 0,
-      "total": 15,
-      "recent": "2026-06-01T13:22:38+09:00",
+      "total": 0,
+      "recent": "",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 30,
+      "news": 0,
       "papers": 0,
       "trials": 0,
-      "total": 30,
-      "recent": "2026-06-02T11:16:02+09:00",
+      "total": 0,
+      "recent": "",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 132,
+      "news": 0,
       "papers": 0,
       "trials": 0,
-      "total": 132,
-      "recent": "2026-06-04T05:30:00+09:00",
+      "total": 0,
+      "recent": "",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 83,
-      "papers": 1,
+      "news": 0,
+      "papers": 0,
       "trials": 0,
-      "total": 84,
-      "recent": "2026-06-04T08:49:00+09:00",
+      "total": 0,
+      "recent": "",
       "logo": "logos/novo.png"
     },
     {
       "id": "amgen",
       "label": "암젠 (Amgen)",
-      "news": 2,
+      "news": 0,
       "papers": 0,
       "trials": 0,
-      "total": 2,
-      "recent": "2026-06-02T21:56:20+09:00",
+      "total": 0,
+      "recent": "",
       "logo": "logos/amgen.png"
     }
   ]

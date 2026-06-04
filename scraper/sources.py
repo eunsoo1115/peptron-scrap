@@ -422,3 +422,89 @@ def fetch_dart(corp_name, stock_code=None, days_back=3):
             "published": published,
         })
     return out
+
+# ============ 규제 모니터링: 식약처(MFDS) 게시판 ============
+# 게시판은 mfds.go.kr/brd/m_XX/list.do 구조. HTML을 파싱해 제목/등록번호/날짜/링크 추출.
+# 식약처가 봇 차단/불안정할 수 있어 브라우저형 헤더 사용. 실패 시 빈 리스트 반환(전체 수집은 계속).
+_MFDS_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
+def fetch_mfds_board(board_id, board_label, base="https://www.mfds.go.kr", pages=1, timeout=25):
+    """식약처 게시판 목록을 긁어 레코드 리스트 반환.
+    board_id 예: 'm_1060'(민원인안내서), 'm_74'(공지), 'm_99'(보도자료)."""
+    out = []
+    for page in range(1, pages + 1):
+        url = f"{base}/brd/{board_id}/list.do?page={page}"
+        try:
+            raw = _get(url, headers={
+                "User-Agent": _MFDS_UA,
+                "Accept": "text/html,application/xhtml+xml",
+                "Accept-Language": "ko-KR,ko;q=0.9",
+                "Referer": base,
+            }, timeout=timeout)
+            htmltext = raw.decode("utf-8", "replace")
+        except (URLError, HTTPError, Exception) as e:
+            print(f"  [mfds:{board_id}] 실패: {e}")
+            break
+
+        rows = _parse_mfds_list(htmltext, board_id, base)
+        if not rows:
+            # 구조가 안 맞거나 차단된 경우 — 한 번만 경고
+            if page == 1:
+                print(f"  [mfds:{board_id}] 목록 파싱 0건 (구조 변경/차단 가능)")
+            break
+        for r in rows:
+            r["publisher"] = "식약처 · " + board_label
+            r["source"] = "mfds"
+            r["reg_agency"] = "MFDS"
+            r["reg_board"] = board_label
+            out.append(r)
+        time.sleep(0.5)
+    print(f"  [mfds:{board_id}] {board_label} {len(out)}건")
+    return out
+
+
+def _parse_mfds_list(htmltext, board_id, base):
+    """게시판 목록 HTML에서 항목 추출. 여러 패턴을 시도(테이블/리스트형 모두 대응)."""
+    items = []
+    # 식약처 list.do는 보통 <a href="view.do?...seq=NNN">제목</a> 형태.
+    # view 링크 + 제목을 뽑고, 주변 텍스트에서 날짜(YYYY.MM.DD 또는 YYYY-MM-DD)와 등록번호를 찾는다.
+    # 1) view 링크 블록 단위로 분리
+    link_re = re.compile(
+        r'href="([^"]*view\.do[^"]*?(?:seq|nttId|board_seq)=\d+[^"]*)"[^>]*>(.*?)</a>',
+        re.IGNORECASE | re.DOTALL)
+    date_re = re.compile(r'(20\d{2}[.\-]\d{1,2}[.\-]\d{1,2})')
+    regno_re = re.compile(r'(안내서\s*-?\s*\d+[\-\d]*|지침서\s*-?\s*\d+[\-\d]*)')
+
+    for m in link_re.finditer(htmltext):
+        href = m.group(1)
+        title = _clean(m.group(2))
+        if not title or len(title) < 4:
+            continue
+        # 절대 URL
+        if href.startswith("http"):
+            link = href
+        elif href.startswith("/"):
+            link = base + href
+        else:
+            link = f"{base}/brd/{board_id}/" + href.lstrip("./")
+        link = link.replace("&amp;", "&")
+        # 제목 뒤쪽 일정 구간에서 날짜/등록번호 탐색
+        tail = htmltext[m.end():m.end() + 600]
+        dm = date_re.search(tail)
+        date_str = dm.group(1).replace("-", ".") if dm else ""
+        rm = regno_re.search(tail)
+        regno = re.sub(r"\s+", "", rm.group(1)) if rm else ""
+        # 중복 제목 스킵
+        if any(it["title"] == title for it in items):
+            continue
+        items.append({
+            "title": title,
+            "summary": (("등록번호 " + regno) if regno else "") + ((" · " + date_str) if date_str else ""),
+            "url": link,
+            "date": date_str,
+            "regno": regno,
+        })
+        if len(items) >= 30:
+            break
+    return items

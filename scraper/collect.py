@@ -130,6 +130,17 @@ def collect_all(cfg):
 
 def to_records(items, cfg):
     """분류 + 중복 제거 + 파이프라인·회사 태깅 후 화면용 레코드로 변환."""
+    # 노이즈 제외: 제목/요약에 제외 키워드가 있으면 버림 (단, 뉴스에만 적용 — 논문/임상은 그대로)
+    excl = [w.lower() for w in cfg.get("exclude_keywords", []) if w.strip()]
+    if excl:
+        kept = []
+        for it in items:
+            if it.get("layer") == "news":
+                blob = (it.get("title", "") + " " + it.get("summary", "")).lower()
+                if any(w in blob for w in excl):
+                    continue
+            kept.append(it)
+        items = kept
     items = clf.dedupe(items)
     ck = cfg["classify_keywords"]
     pdefs = cfg.get("pipelines", [])
@@ -283,7 +294,7 @@ def _aggregate(defs, key, all_items):
         entry = {"id": did, "label": d.get("label", did),
                  "news": counts["news"], "papers": counts["paper"], "trials": counts["trial"],
                  "total": len(sel), "recent": recent}
-        for k in ("desc", "area", "stage", "color", "logo"):
+        for k in ("desc", "area", "stage", "color", "logo", "chips"):
             if d.get(k):
                 entry[k] = d[k]
         out.append(entry)
