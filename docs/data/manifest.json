@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-05T08:01:27.751888+09:00",
+  "updated_at": "2026-06-05T08:37:28.309453+09:00",
   "dates": [
     {
       "date": "2026-06-05",
-      "total": 2306,
+      "total": 2400,
       "counts": {
-        "core": 327,
-        "obesity": 644,
-        "npr": 311,
-        "platform": 466,
-        "reg": 330,
-        "mkt": 228
+        "core": 336,
+        "obesity": 694,
+        "npr": 314,
+        "platform": 476,
+        "reg": 343,
+        "mkt": 237
       }
     },
     {
@@ -153,19 +153,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 75,
+    "total": 79,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 1879,
+  "news_recent_total": 1889,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 487,
+      "news": 489,
       "papers": 95,
       "trials": 76,
-      "total": 658,
+      "total": 660,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -347,7 +347,7 @@
   ],
   "kpi": {
     "news": {
-      "today": 40,
+      "today": 46,
       "yesterday": 288
     },
     "paper": {
@@ -359,14 +359,14 @@
       "yesterday": 9
     },
     "regulatory": {
-      "today": 47,
+      "today": 51,
       "yesterday": 21
     }
   },
   "trend": [
     {
       "date": "2026-05-07",
-      "news": 25,
+      "news": 26,
       "paper": 17,
       "trial": 13,
       "regulatory": 0
@@ -415,7 +415,7 @@
     },
     {
       "date": "2026-05-14",
-      "news": 19,
+      "news": 20,
       "paper": 18,
       "trial": 22,
       "regulatory": 0
@@ -457,7 +457,7 @@
     },
     {
       "date": "2026-05-20",
-      "news": 34,
+      "news": 35,
       "paper": 33,
       "trial": 11,
       "regulatory": 0
@@ -492,7 +492,7 @@
     },
     {
       "date": "2026-05-25",
-      "news": 19,
+      "news": 20,
       "paper": 23,
       "trial": 0,
       "regulatory": 0
@@ -569,10 +569,10 @@
     },
     {
       "date": "2026-06-05",
-      "news": 40,
+      "news": 46,
       "paper": 6,
       "trial": 0,
-      "regulatory": 47
+      "regulatory": 51
     }
   ],
   "alerts": [
@@ -704,5 +704,195 @@
       "date": "2026.05.15",
       "publisher": "Brigham and Women's Hospital"
     }
-  ]
+  ],
+  "highlights": {
+    "PT403": [
+      {
+        "level": "High",
+        "title": "술 안 마셔도 생기는 지방간염…FDA 승인 치료제는 두 가지뿐, 한국 기업...",
+        "layer": "news",
+        "url": "https://kormedi.com/?p=2821431",
+        "date": "2026.06.02",
+        "published": "2026-06-02T17:10:00+09:00",
+        "publisher": "kormedi.com"
+      },
+      {
+        "level": "High",
+        "title": "Tirzepatide vs Semaglutide in Individuals at Cardiovascular Risk But Without Diabetes.",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT07619508",
+        "date": "2026.06.02",
+        "published": "2026-06-02T00:00:00+09:00",
+        "publisher": "Brigham and Women's Hospital"
+      },
+      {
+        "level": "High",
+        "title": "MS '가성비 AI'·릴리 '보험 등재'…메가캡 호재에 미 증시 상승 마감 [ ...",
+        "layer": "news",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605290181&t=NN",
+        "date": "2026.05.29",
+        "published": "2026-05-29T07:45:00+09:00",
+        "publisher": "wowtv.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "노보 노디스크, 먹는 위고비 유럽 승인 임박",
+        "layer": "news",
+        "url": "http://www.newsmp.com/news/articleView.html?idxno=253764",
+        "date": "2026.05.26",
+        "published": "2026-05-26T20:58:00+09:00",
+        "publisher": "newsmp.com"
+      },
+      {
+        "level": "High",
+        "title": "A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT06897475",
+        "date": "2026.05.22",
+        "published": "2026-05-22T00:00:00+09:00",
+        "publisher": "Eli Lilly and Company"
+      }
+    ],
+    "PT404": [
+      {
+        "level": "High",
+        "title": "술 안 마셔도 생기는 지방간염…FDA 승인 치료제는 두 가지뿐, 한국 기업...",
+        "layer": "news",
+        "url": "https://kormedi.com/?p=2821431",
+        "date": "2026.06.02",
+        "published": "2026-06-02T17:10:00+09:00",
+        "publisher": "kormedi.com"
+      },
+      {
+        "level": "High",
+        "title": "[BIO톡]에이비엘바이오, ABL503 병용요법 임상 확대…IND 변경 신청 外 박...",
+        "layer": "news",
+        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=871649",
+        "date": "2026.06.04",
+        "published": "2026-06-04T16:28:00+09:00",
+        "publisher": "getnews.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "Tirzepatide vs Semaglutide in Individuals at Cardiovascular Risk But Without Diabetes.",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT07619508",
+        "date": "2026.06.02",
+        "published": "2026-06-02T00:00:00+09:00",
+        "publisher": "Brigham and Women's Hospital"
+      },
+      {
+        "level": "High",
+        "title": "MS '가성비 AI'·릴리 '보험 등재'…메가캡 호재에 미 증시 상승 마감 [ ...",
+        "layer": "news",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605290181&t=NN",
+        "date": "2026.05.29",
+        "published": "2026-05-29T07:45:00+09:00",
+        "publisher": "wowtv.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT06897475",
+        "date": "2026.05.22",
+        "published": "2026-05-22T00:00:00+09:00",
+        "publisher": "Eli Lilly and Company"
+      }
+    ],
+    "PND3174": [
+      {
+        "level": "Medium",
+        "title": "美FDA, 올해 상반기 19개 신약 승인…경구용 비만약·코로나 치료제 등장",
+        "layer": "news",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1377632",
+        "date": "2026.06.01",
+        "published": "2026-06-01T13:32:00+09:00",
+        "publisher": "m-i.kr"
+      },
+      {
+        "level": "Medium",
+        "title": "Vosoritide Meets Primary Endpoint in Phase 3 Hypochondroplasia Trial, Prompting Planned sNDA Submission to FDA",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObk5vWTdBZVB0WjRJN0Fvbjk3NEVKQVJya0RjTTZxMHM0SXczN3R4bnJ1V3VnYnM3c0dwNVFCbmRWbV9kY3hKOEhCN2s4dlgzYU1Va0hYbGw2bmlFY2dLMWkyazRWeGVlV3VJdExWa3FKa05sYk1Lek9OMFhjTFZQVENXdDhMYUJlcnlJREd3NXlaRGRLNGFmUHVVakFicGlNMjdpQm54dlBLdnlIZGdXSFJiRml6NlI0MnJHVXMyQzlpSktPaGY3MjRFcm9LZVk2blpTQVoxbTN4ME9Sd1dGb1J4QnlZNWs?oc=5",
+        "date": "2026.05.23",
+        "published": "2026-05-23T00:24:42+09:00",
+        "publisher": "BioPharm International"
+      },
+      {
+        "level": "Medium",
+        "title": "Study to Evaluate the Efficacy and Safety of BMN 333 Versus Vosoritide in Children With Achondroplasia",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT07441876",
+        "date": "2026.05.07",
+        "published": "2026-05-07T00:00:00+09:00",
+        "publisher": "BioMarin Pharmaceutical"
+      },
+      {
+        "level": "Medium",
+        "title": "A Study to Evaluate the Efficacy and Safety of Infigratinib in Children and Adolescents With Achondroplasia",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT06164951",
+        "date": "2026.03.17",
+        "published": "2026-03-17T00:00:00+09:00",
+        "publisher": "QED Therapeutics, a BridgeBio company"
+      },
+      {
+        "level": "Medium",
+        "title": "Interventional Study of Vosoritide for the Treatment of Children With Hypochondroplasia",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT06455059",
+        "date": "2026.01.20",
+        "published": "2026-01-20T00:00:00+09:00",
+        "publisher": "BioMarin Pharmaceutical"
+      }
+    ],
+    "PT320": [
+      {
+        "level": "Medium",
+        "title": "Efficacy and Safety of Exenatide in the Treatment of Hypothalamic Obesity After Craniopharyngioma Therapy",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT02860923",
+        "date": "2026.05.22",
+        "published": "2026-05-22T00:00:00+09:00",
+        "publisher": "University Hospital, Bordeaux"
+      },
+      {
+        "level": "Medium",
+        "title": "The novel GLP-1/GIP dual receptor agonist DA5-CH is superior to tirzepatide and exendin-4 in the 6-OHDA Parkinson rat model",
+        "layer": "paper",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42165019/",
+        "date": "2026.05.05",
+        "published": "2026-05-05T00:00:00+09:00",
+        "publisher": "Frontiers in endocrinology"
+      },
+      {
+        "level": "Medium",
+        "title": "Extended Release Exenatide Versus Placebo In Diabetic Patients With Type 4 Cardiorenal Syndrome",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT02251431",
+        "date": "2026.02.19",
+        "published": "2026-02-19T00:00:00+09:00",
+        "publisher": "Baylor Research Institute"
+      },
+      {
+        "level": "Medium",
+        "title": "Protocol of ASPro-PD: a phase 3 trial of ambroxol to slow progression in genetically stratified Parkinson's disease",
+        "layer": "paper",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41708985/",
+        "date": "2026.02.18",
+        "published": "2026-02-18T00:00:00+09:00",
+        "publisher": "Journal of neurology"
+      },
+      {
+        "level": "Medium",
+        "title": "Exenatide once a week versus placebo as a potential disease-modifying treatment for people with Parkinson's disease in the UK: a phase 3, multicentre, double-blind, parallel-group, randomised, placebo-controlled trial",
+        "layer": "paper",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39919773/",
+        "date": "2025.02.22",
+        "published": "2025-02-22T00:00:00+09:00",
+        "publisher": "Lancet (London, England)"
+      }
+    ]
+  }
 }
