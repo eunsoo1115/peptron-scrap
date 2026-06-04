@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-04T22:45:14.621643+09:00",
+  "updated_at": "2026-06-04T23:06:15.157960+09:00",
   "dates": [
     {
       "date": "2026-06-04",
-      "total": 2739,
+      "total": 2755,
       "counts": {
-        "core": 347,
-        "obesity": 833,
+        "core": 348,
+        "obesity": 835,
         "npr": 329,
-        "platform": 557,
-        "reg": 397,
-        "mkt": 276
+        "platform": 558,
+        "reg": 400,
+        "mkt": 285
       }
     },
     {
@@ -139,6 +139,11 @@
     "total": 1045,
     "year_min": 2023,
     "year_max": 2026
+  },
+  "regulatory": {
+    "total": 27,
+    "year_min": null,
+    "year_max": null
   },
   "news_recent_total": 1838,
   "pipelines": [
@@ -326,6 +331,366 @@
       "total": 3,
       "recent": "2026-06-04T16:02:00+09:00",
       "logo": "logos/amgen.png"
+    }
+  ],
+  "kpi": {
+    "news": {
+      "today": 274,
+      "yesterday": 110
+    },
+    "paper": {
+      "today": 4,
+      "yesterday": 12
+    },
+    "trial": {
+      "today": 9,
+      "yesterday": 14
+    },
+    "regulatory": {
+      "today": 20,
+      "yesterday": 1
+    }
+  },
+  "trend": [
+    {
+      "date": "2026-05-06",
+      "news": 29,
+      "paper": 10,
+      "trial": 11,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-07",
+      "news": 25,
+      "paper": 17,
+      "trial": 13,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-08",
+      "news": 19,
+      "paper": 6,
+      "trial": 15,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-09",
+      "news": 3,
+      "paper": 6,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-10",
+      "news": 2,
+      "paper": 6,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-11",
+      "news": 28,
+      "paper": 11,
+      "trial": 22,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-12",
+      "news": 29,
+      "paper": 16,
+      "trial": 23,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-13",
+      "news": 33,
+      "paper": 10,
+      "trial": 17,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-14",
+      "news": 19,
+      "paper": 18,
+      "trial": 22,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-15",
+      "news": 24,
+      "paper": 26,
+      "trial": 18,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-16",
+      "news": 3,
+      "paper": 10,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-17",
+      "news": 19,
+      "paper": 5,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-18",
+      "news": 40,
+      "paper": 28,
+      "trial": 18,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-19",
+      "news": 36,
+      "paper": 21,
+      "trial": 24,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-20",
+      "news": 34,
+      "paper": 33,
+      "trial": 11,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-21",
+      "news": 39,
+      "paper": 19,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-22",
+      "news": 52,
+      "paper": 28,
+      "trial": 31,
+      "regulatory": 2
+    },
+    {
+      "date": "2026-05-23",
+      "news": 17,
+      "paper": 10,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-24",
+      "news": 6,
+      "paper": 3,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-25",
+      "news": 19,
+      "paper": 23,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-26",
+      "news": 65,
+      "paper": 25,
+      "trial": 14,
+      "regulatory": 1
+    },
+    {
+      "date": "2026-05-27",
+      "news": 113,
+      "paper": 16,
+      "trial": 18,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-28",
+      "news": 151,
+      "paper": 25,
+      "trial": 26,
+      "regulatory": 1
+    },
+    {
+      "date": "2026-05-29",
+      "news": 219,
+      "paper": 12,
+      "trial": 11,
+      "regulatory": 2
+    },
+    {
+      "date": "2026-05-30",
+      "news": 57,
+      "paper": 12,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-05-31",
+      "news": 36,
+      "paper": 8,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-06-01",
+      "news": 183,
+      "paper": 91,
+      "trial": 6,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-06-02",
+      "news": 139,
+      "paper": 24,
+      "trial": 14,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-06-03",
+      "news": 110,
+      "paper": 12,
+      "trial": 14,
+      "regulatory": 1
+    },
+    {
+      "date": "2026-06-04",
+      "news": 274,
+      "paper": 4,
+      "trial": 9,
+      "regulatory": 20
+    }
+  ],
+  "alerts": [
+    {
+      "level": "High",
+      "score": 12,
+      "title": "술 안 마셔도 생기는 지방간염…FDA 승인 치료제는 두 가지뿐, 한국 기업...",
+      "layer": "news",
+      "url": "https://kormedi.com/?p=2821431",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-02T17:10:00+09:00",
+      "date": "2026.06.02",
+      "publisher": "kormedi.com"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "[BIO톡]에이비엘바이오, ABL503 병용요법 임상 확대…IND 변경 신청 外 박...",
+      "layer": "news",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=871649",
+      "companies": [
+        "lilly"
+      ],
+      "pipelines": [
+        "PT404"
+      ],
+      "published": "2026-06-04T16:28:00+09:00",
+      "date": "2026.06.04",
+      "publisher": "getnews.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "Tirzepatide vs Semaglutide in Individuals at Cardiovascular Risk But Without Diabetes.",
+      "layer": "trial",
+      "url": "https://clinicaltrials.gov/study/NCT07619508",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-02T00:00:00+09:00",
+      "date": "2026.06.02",
+      "publisher": "Brigham and Women's Hospital"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "MS '가성비 AI'·릴리 '보험 등재'…메가캡 호재에 미 증시 상승 마감 [ ...",
+      "layer": "news",
+      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605290181&t=NN",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-05-29T07:45:00+09:00",
+      "date": "2026.05.29",
+      "publisher": "wowtv.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "노보 노디스크, 먹는 위고비 유럽 승인 임박",
+      "layer": "news",
+      "url": "http://www.newsmp.com/news/articleView.html?idxno=253764",
+      "companies": [
+        "novo"
+      ],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-05-26T20:58:00+09:00",
+      "date": "2026.05.26",
+      "publisher": "newsmp.com"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide",
+      "layer": "trial",
+      "url": "https://clinicaltrials.gov/study/NCT06897475",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-05-22T00:00:00+09:00",
+      "date": "2026.05.22",
+      "publisher": "Eli Lilly and Company"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "Bariatric Surgery vs. Semaglutide vs. Tirzepatide",
+      "layer": "trial",
+      "url": "https://clinicaltrials.gov/study/NCT06803888",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-05-18T00:00:00+09:00",
+      "date": "2026.05.18",
+      "publisher": "Ali Aminian"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "Comparative Study of Tirzepatide Versus Dulaglutide (SURPASS CVOT) or Semaglutide on Major Cardiovascular Events in Participants With Type 2 Diabetes",
+      "layer": "trial",
+      "url": "https://clinicaltrials.gov/study/NCT06779929",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-05-15T00:00:00+09:00",
+      "date": "2026.05.15",
+      "publisher": "Brigham and Women's Hospital"
     }
   ]
 }
