@@ -429,22 +429,30 @@ def fetch_dart(corp_name, stock_code=None, days_back=3):
 _MFDS_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
             "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
-def fetch_mfds_board(board_id, board_label, base="https://www.mfds.go.kr", pages=1, timeout=25):
+def fetch_mfds_board(board_id, board_label, base="https://www.mfds.go.kr", pages=1, timeout=60):
     """식약처 게시판 목록을 긁어 레코드 리스트 반환.
     board_id 예: 'm_1060'(민원인안내서), 'm_74'(공지), 'm_99'(보도자료)."""
     out = []
     for page in range(1, pages + 1):
         url = f"{base}/brd/{board_id}/list.do?page={page}"
-        try:
-            raw = _get(url, headers={
-                "User-Agent": _MFDS_UA,
-                "Accept": "text/html,application/xhtml+xml",
-                "Accept-Language": "ko-KR,ko;q=0.9",
-                "Referer": base,
-            }, timeout=timeout)
-            htmltext = raw.decode("utf-8", "replace")
-        except (URLError, HTTPError, Exception) as e:
-            print(f"  [mfds:{board_id}] 실패: {e}")
+        htmltext = None
+        for attempt in range(2):  # 1회 재시도
+            try:
+                raw = _get(url, headers={
+                    "User-Agent": _MFDS_UA,
+                    "Accept": "text/html,application/xhtml+xml",
+                    "Accept-Language": "ko-KR,ko;q=0.9",
+                    "Referer": base,
+                }, timeout=timeout)
+                htmltext = raw.decode("utf-8", "replace")
+                break
+            except (URLError, HTTPError, Exception) as e:
+                if attempt == 0:
+                    print(f"  [mfds:{board_id}] 시도1 실패: {e} — 재시도")
+                    time.sleep(2)
+                else:
+                    print(f"  [mfds:{board_id}] 실패: {e}")
+        if htmltext is None:
             break
 
         rows = _parse_mfds_list(htmltext, board_id, base)
