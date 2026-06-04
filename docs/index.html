@@ -86,16 +86,30 @@
   .sectitle .n{font-size:12px;color:var(--soft);font-weight:700;}
 
   /* pipeline cards */
-  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:20px;}
-  .pcard{position:relative;background:var(--card);border-radius:22px;padding:24px 24px 22px;box-shadow:var(--sh);cursor:pointer;transition:transform .2s,box-shadow .2s;overflow:hidden;animation:rise .4s ease both;}
+  .pcards{display:flex;flex-direction:column;gap:16px;}
+  .pcard{position:relative;background:var(--card);border-radius:22px;padding:22px 24px;box-shadow:var(--sh);cursor:pointer;transition:transform .2s,box-shadow .2s;overflow:hidden;animation:rise .4s ease both;border-left:5px solid var(--pc,var(--pep));}
+  .pcard .pchead{display:flex;align-items:flex-start;gap:14px;}
+  .pcard .pcttl{flex:1;}
+  .pcard .pchead .dots{position:static;width:54px;height:54px;opacity:.9;order:2;}
+  .pcard .pcttl{order:1;}
   .pcard::before{content:'';position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--pc,#0077c8);}
   .pcard:hover{transform:translateY(-4px);box-shadow:var(--sh-lg);}
   @keyframes rise{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
   .pcard .dots{position:absolute;top:20px;right:20px;width:62px;height:62px;opacity:.9;}
   /*area*/.pcard .area{display:inline-block;font-size:11px;font-weight:700;padding:4px 11px;border-radius:999px;}
-  .pcard .pn{font-size:28px;font-weight:800;letter-spacing:-0.02em;margin-top:14px;color:var(--pc);}
+  .pcard .pn{font-size:26px;font-weight:800;letter-spacing:-0.02em;margin-top:8px;color:var(--pc);}
   .pcard .pd{font-size:13.5px;color:var(--muted);margin-top:5px;}
-  .pcard .stage{display:inline-block;font-size:11.5px;font-weight:700;color:var(--muted);background:#f3f5f8;padding:5px 12px;border-radius:8px;margin-top:14px;}
+  .pcard .stage{display:inline-block;font-size:11.5px;font-weight:700;color:var(--muted);background:#f3f5f8;padding:5px 12px;border-radius:8px;margin-top:10px;}
+  /* in-card highlights */
+  .pcard .pchl{margin-top:16px;display:flex;flex-direction:column;}
+  .pcard .pchl-empty{font-size:12.5px;color:var(--soft);padding:8px 0;}
+  .pcard .hli{display:flex;align-items:center;gap:9px;padding:9px 0;border-top:1px solid var(--line2);}
+  .pcard .hli:hover .hltit{color:var(--pc);}
+  .pcard .hlbadge{font-size:9.5px;font-weight:800;padding:2px 8px;border-radius:20px;white-space:nowrap;flex-shrink:0;}
+  .pcard .hlbadge.High{background:#fdecec;color:#dc2626;} .pcard .hlbadge.Medium{background:#fdf3e3;color:#d97706;}
+  .pcard .hllic{font-size:14px;flex-shrink:0;}
+  .pcard .hltit{flex:1;font-size:13.5px;font-weight:600;line-height:1.4;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .pcard .hlmeta{font-size:11.5px;color:var(--soft);white-space:nowrap;flex-shrink:0;}
   .pcard .met{display:flex;gap:6px;margin-top:20px;}
   .pcard .m{flex:1;}
   .pcard .m .mi2{display:flex;align-items:center;gap:5px;color:var(--soft);}
@@ -209,6 +223,21 @@
   .reggrid{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:start;}
   .reggrid .regcol{margin:0;}
   @media(max-width:760px){.reggrid{grid-template-columns:1fr;}}
+  .hlwrap{display:grid;grid-template-columns:1fr 1fr;gap:15px;}
+  @media(max-width:860px){.hlwrap{grid-template-columns:1fr;}}
+  .hlgroup{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;box-shadow:var(--sh-sm);}
+  .hlhead{display:flex;align-items:center;gap:8px;margin-bottom:8px;padding-bottom:8px;border-bottom:1px solid var(--line2);}
+  .hlhead .hldot{width:9px;height:9px;border-radius:50%;}
+  .hlhead .hlname{font-size:14px;font-weight:800;letter-spacing:-.01em;}
+  .hlhead .hlcnt{margin-left:auto;font-size:11px;font-weight:700;color:var(--soft);background:var(--line2);padding:1px 8px;border-radius:20px;}
+  .hlitem{display:flex;align-items:center;gap:8px;padding:8px 0;border-bottom:1px solid var(--line2);}
+  .hlitem:last-child{border-bottom:none;}
+  .hlitem:hover .hltit{color:var(--pep);}
+  .hlbadge{font-size:9.5px;font-weight:800;padding:2px 7px;border-radius:20px;white-space:nowrap;flex-shrink:0;}
+  .hlbadge.High{background:#fdecec;color:#dc2626;} .hlbadge.Medium{background:#fdf3e3;color:#d97706;}
+  .hllic{font-size:13px;flex-shrink:0;}
+  .hltit{flex:1;font-size:12.5px;font-weight:600;line-height:1.4;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .hlmeta{font-size:11px;color:var(--soft);white-space:nowrap;flex-shrink:0;}
   .hero-solo{padding-bottom:8px;}
   .ftr{text-align:center;padding:28px 20px 40px;font-size:11.5px;color:var(--soft);letter-spacing:.01em;}
   .ftr .beta{display:inline-block;font-size:9.5px;font-weight:800;color:#fff;background:var(--pep);padding:1px 7px;border-radius:5px;letter-spacing:.04em;vertical-align:middle;margin:0 2px;}
@@ -427,14 +456,39 @@ function viewDashboard(){
   const ps=M.pipelines||[];
   let h='<div class="hero hero-solo"><div class="greet">'+greeting()+' 👋</div><h1>PepTracker</h1>'+(M.site_tagline?'<p>'+esc(M.site_tagline)+'</p>':'')+'</div>';
 
-  h+='<div class="sectitle"><span class="t">Pipeline Overview</span><span class="more" onclick="toggleMenu(\'pipelines\',event)">View all pipelines ›</span></div><div class="cards">';
-  ps.forEach((p,i)=>{const col=p.color||'#0077c8';const rc=p.recent?new Date(p.recent).toLocaleDateString('ko-KR',{year:'numeric',month:'2-digit',day:'2-digit'}).replace(/\. /g,'.').replace(/\.$/,''):'—';
-    h+='<div class="pcard" style="--pc:'+col+';animation-delay:'+(i*55)+'ms" onclick="setNav(\'pipeline:'+p.id+'\')">'+dotGraphic(col)+
-      (p.area?'<span class="area" style="background:'+hex2rgba(col,0.12)+';color:'+col+'">'+esc(p.area)+'</span>':'')+
-      '<div class="pn">'+esc(p.label)+'</div>'+
-      (p.stage?'<div class="stage">'+esc(p.stage)+'</div>':'')+
-      '<div class="met">'+metCell(IC.news,p.news,'News')+metCell(IC.paper,p.papers,'Papers')+metCell(IC.trial,p.trials,'Trials')+'</div>'+
-      '<div class="foot">Last Update <b>'+rc+'</b><span class="ar">›</span></div></div>';});
+  h+='<div class="sectitle"><span class="t">Pipeline Overview</span><span class="more" onclick="toggleMenu(\'pipelines\',event)">View all pipelines ›</span></div>';
+  const hl=M.highlights||{};
+  h+='<div class="pcards">';
+  ps.forEach((p,i)=>{
+    const col=p.color||'#1c91fb';
+    const rc=p.recent?new Date(p.recent).toLocaleDateString('ko-KR',{year:'numeric',month:'2-digit',day:'2-digit'}).replace(/\. /g,'.').replace(/\.$/,''):'—';
+    const items=hl[p.id]||[];
+    h+='<div class="pcard" style="--pc:'+col+';animation-delay:'+(i*55)+'ms" onclick="setNav(\'pipeline:'+p.id+'\')">';
+    h+='<div class="pchead">'+dotGraphic(col)+
+      '<div class="pcttl">'+
+        (p.area?'<span class="area" style="background:'+hex2rgba(col,0.12)+';color:'+col+'">'+esc(p.area)+'</span>':'')+
+        '<div class="pn">'+esc(p.label)+'</div>'+
+        (p.stage?'<div class="stage">'+esc(p.stage)+'</div>':'')+
+      '</div></div>';
+    // 하이라이트 (카운트 대신)
+    h+='<div class="pchl">';
+    if(!items.length){h+='<div class="pchl-empty">주요 하이라이트가 아직 없습니다.</div>';}
+    else{
+      items.forEach(it=>{
+        const lay=it.layer==='paper'?'논문':it.layer==='trial'?'임상':it.layer==='regulatory'?'규제':'뉴스';
+        const lic=it.layer==='paper'?'📄':it.layer==='trial'?'🧪':it.layer==='regulatory'?'⚖':'📰';
+        h+='<a class="hli" href="'+esc(it.url)+'" target="_blank" rel="noopener" onclick="event.stopPropagation()">'
+          +'<span class="hlbadge '+esc(it.level)+'">'+esc(it.level)+'</span>'
+          +'<span class="hllic">'+lic+'</span>'
+          +'<span class="hltit">'+esc(it.title)+'</span>'
+          +'<span class="hlmeta">'+lay+(it.date?' · '+esc(it.date):'')+'</span>'
+          +'</a>';
+      });
+    }
+    h+='</div>';
+    h+='<div class="foot">Last Update <b>'+rc+'</b><span class="ar">›</span></div>';
+    h+='</div>';
+  });
   h+='</div>';
 
   h+='<div class="sectitle" style="margin-top:46px"><span class="t">Companies</span><span class="more" onclick="setNav(\'companies\')">View all ›</span></div>';
