@@ -266,7 +266,7 @@ def write_day(date_str, records, cfg):
     return payload
 
 
-RESERVED = {"manifest.json", "papers.json", "trials.json", "news_recent.json"}
+RESERVED = {"manifest.json", "papers.json", "trials.json", "news_recent.json", "regulatory.json"}
 
 def _load_items(filename):
     p = os.path.join(DATA_DIR, filename)
@@ -365,6 +365,59 @@ def rebuild_manifest(cfg):
     print(f"manifest: 뉴스 {len(entries)}일 · 논문 {manifest['papers']['total']} · 임상 {manifest['trials']['total']} · 파이프라인 {len(pipelines)} · 회사 {len(companies)}")
 
 
+def collect_regulatory(cfg):
+    """규제 모니터링: 식약처 게시판 + FDA RSS 수집 후 의약품 관련만 필터.
+    레코드 리스트 반환 (layer='regulatory', agency='MFDS'|'FDA')."""
+    reg = cfg.get("regulatory")
+    if not reg:
+        return []
+    inc = [w.lower() for w in reg.get("include_keywords", [])]
+    exc = [w.lower() for w in reg.get("exclude_keywords", [])]
+
+    def is_drug(text):
+        t = (text or "").lower()
+        if exc and any(w in t for w in exc):
+            return False
+        if inc and not any(w in t for w in inc):
+            return False
+        return True
+
+    out = []
+    # --- 식약처 게시판 ---
+    for b in reg.get("mfds_boards", []):
+        rows = sources.fetch_mfds_board(b["id"], b["label"], pages=1)
+        kept = 0
+        for r in rows:
+            if not is_drug(r.get("title", "") + " " + r.get("summary", "")):
+                continue
+            r["layer"] = "regulatory"
+            r["agency"] = "MFDS"
+            r["board"] = b["label"]
+            out.append(r)
+            kept += 1
+        print(f"    └ 의약품 필터 통과: {kept}/{len(rows)}")
+    # --- FDA RSS ---
+    for f in reg.get("fda_rss", []):
+        rows = sources.fetch_rss(f.get("label", "FDA"), f["url"], limit=50)
+        for r in rows:
+            r["layer"] = "regulatory"
+            r["agency"] = "FDA"
+            r["board"] = f.get("label", "FDA Guidance")
+            r["publisher"] = "FDA · " + r["board"]
+            r["source"] = "fda"
+            out.append(r)
+        print(f"  [fda] {f.get('label')} {len(rows)}건")
+
+    # 날짜/시간 표준화
+    now_iso = dt.datetime.now(KST).isoformat()
+    for r in out:
+        if not r.get("published"):
+            r["published"] = now_iso
+        if not r.get("date"):
+            r["date"] = r["published"][:10].replace("-", ".")
+    return out
+
+
 def main():
     cfg = load_config()
     items = collect_all(cfg)
@@ -379,6 +432,16 @@ def main():
     accumulate_layer("news_recent.json", news, days=30)     # 교차 뷰용 최근 뉴스
     accumulate_layer("papers.json", papers, years=3)
     accumulate_layer("trials.json", trials, years=3)
+
+    # 규제 모니터링 (식약처 + FDA)
+    print("\n[규제 모니터링 수집]")
+    try:
+        reg = collect_regulatory(cfg)
+        accumulate_layer("regulatory.json", reg, days=365)   # 최근 1년 누적
+        print(f"규제 항목 누적: {len(reg)}건 신규")
+    except Exception as e:
+        print(f"규제 수집 실패(건너뜀): {e}")
+
     rebuild_manifest(cfg)
     print("\n완료.")
 
