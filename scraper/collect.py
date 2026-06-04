@@ -201,8 +201,9 @@ def merge_existing(path, new_records):
     return clf.dedupe(combined)
 
 
-def accumulate_layer(filename, new_records, years=None, days=None):
-    """논문/임상/최근뉴스: 날짜에 가두지 않고 누적. 중복 제거 + 보존기간 + 최신순."""
+def accumulate_layer(filename, new_records, years=None, days=None, keep_all=False):
+    """논문/임상/최근뉴스: 날짜에 가두지 않고 누적. 중복 제거 + 보존기간 + 최신순.
+    keep_all=True 이면 보존기간 제한 없이 전체 유지(규제 등)."""
     path = os.path.join(DATA_DIR, filename)
     old = []
     if os.path.exists(path):
@@ -213,16 +214,17 @@ def accumulate_layer(filename, new_records, years=None, days=None):
             old = []
     combined = clf.dedupe(old + new_records)
 
-    if days:
-        cutoff = dt.datetime.now(KST).date() - dt.timedelta(days=days)
-    else:
-        cutoff = dt.datetime.now(KST).date() - dt.timedelta(days=365 * (years or 3) + 1)
-    def keep(r):
-        try:
-            return dt.datetime.fromisoformat(r.get("published", "")).date() >= cutoff
-        except (ValueError, TypeError):
-            return True
-    combined = [r for r in combined if keep(r)]
+    if not keep_all:
+        if days:
+            cutoff = dt.datetime.now(KST).date() - dt.timedelta(days=days)
+        else:
+            cutoff = dt.datetime.now(KST).date() - dt.timedelta(days=365 * (years or 3) + 1)
+        def keep(r):
+            try:
+                return dt.datetime.fromisoformat(r.get("published", "")).date() >= cutoff
+            except (ValueError, TypeError):
+                return True
+        combined = [r for r in combined if keep(r)]
     combined.sort(key=lambda r: r.get("published", ""), reverse=True)
 
     yrs = sorted({r["year"] for r in combined if r.get("year")})
@@ -383,9 +385,9 @@ def collect_regulatory(cfg):
         return True
 
     out = []
-    # --- 식약처 게시판 ---
+    # --- 식약처 게시판 (여러 페이지 — 누적 위해) ---
     for b in reg.get("mfds_boards", []):
-        rows = sources.fetch_mfds_board(b["id"], b["label"], pages=1)
+        rows = sources.fetch_mfds_board(b["id"], b["label"], pages=reg.get("mfds_pages", 3))
         kept = 0
         for r in rows:
             if not is_drug(r.get("title", "") + " " + r.get("summary", "")):
@@ -454,7 +456,7 @@ def main():
     print("\n[규제 모니터링 수집]")
     try:
         reg = collect_regulatory(cfg)
-        accumulate_layer("regulatory.json", reg, days=365)   # 최근 1년 누적
+        accumulate_layer("regulatory.json", reg, keep_all=True)   # 전체 누적(제한 없음)
         print(f"규제 항목 누적: {len(reg)}건 신규")
     except Exception as e:
         print(f"규제 수집 실패(건너뜀): {e}")

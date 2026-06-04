@@ -483,6 +483,7 @@ def _parse_mfds_list(htmltext, board_id, base):
         re.IGNORECASE | re.DOTALL)
     date_re = re.compile(r'(20\d{2}[.\-]\d{1,2}[.\-]\d{1,2})')
     regno_re = re.compile(r'(안내서\s*-?\s*\d+[\-\d]*|지침서\s*-?\s*\d+[\-\d]*)')
+    dept_re = re.compile(r'(?:담당부서|담당과|부서)\s*[:|]?\s*([가-힣A-Za-z0-9·\s]{2,30}?(?:과|팀|부|청|원|실|국|센터|총괄과))')
 
     for m in link_re.finditer(htmltext):
         href = m.group(1)
@@ -497,21 +498,28 @@ def _parse_mfds_list(htmltext, board_id, base):
         else:
             link = f"{base}/brd/{board_id}/" + href.lstrip("./")
         link = link.replace("&amp;", "&")
-        # 제목 뒤쪽 일정 구간에서 날짜/등록번호 탐색
-        tail = htmltext[m.end():m.end() + 600]
+        # 제목 뒤쪽 일정 구간에서 날짜/등록번호/부서 탐색
+        tail = htmltext[m.end():m.end() + 800]
         dm = date_re.search(tail)
         date_str = dm.group(1).replace("-", ".") if dm else ""
         rm = regno_re.search(tail)
         regno = re.sub(r"\s+", "", rm.group(1)) if rm else ""
+        dm2 = dept_re.search(_clean(tail))
+        dept = dm2.group(1).strip() if dm2 else ""
         # 중복 제목 스킵
         if any(it["title"] == title for it in items):
             continue
+        parts = []
+        if dept: parts.append(dept)
+        if regno: parts.append("등록번호 " + regno)
+        if date_str: parts.append(date_str)
         items.append({
             "title": title,
-            "summary": (("등록번호 " + regno) if regno else "") + ((" · " + date_str) if date_str else ""),
+            "summary": " · ".join(parts),
             "url": link,
             "date": date_str,
             "regno": regno,
+            "dept": dept,
         })
         if len(items) >= 30:
             break
