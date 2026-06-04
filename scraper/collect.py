@@ -335,6 +335,36 @@ def _impact_level(score):
     return "Low"
 
 
+def _build_highlights(all_items, cfg, per_pipe=5):
+    """파이프라인별 주요 하이라이트 — High/Medium만, 점수순 상위 N개."""
+    out = {}
+    for p in cfg.get("pipelines", []):
+        pid = p["id"]
+        scored = []
+        for it in all_items:
+            if pid not in (it.get("pipelines") or []):
+                continue
+            s = _impact_score(it, cfg)
+            lvl = _impact_level(s)
+            if lvl == "Low":   # Low 숨김
+                continue
+            scored.append((s, it, lvl))
+        scored.sort(key=lambda x: (x[0], x[1].get("published", "")), reverse=True)
+        items = []
+        for s, it, lvl in scored[:per_pipe]:
+            items.append({
+                "level": lvl,
+                "title": it.get("title", ""),
+                "layer": it.get("layer", ""),
+                "url": it.get("url", ""),
+                "date": it.get("date", ""),
+                "published": it.get("published", ""),
+                "publisher": it.get("publisher", ""),
+            })
+        out[pid] = items
+    return out
+
+
 def _build_alerts(all_items, cfg, limit=8):
     """중요도 높은 항목을 추려 알림 리스트 생성 (최근 + 점수순)."""
     scored = []
@@ -477,6 +507,7 @@ def rebuild_manifest(cfg):
         "kpi": _today_counts(cfg),
         "trend": _build_trend(cfg, days=30),
         "alerts": _build_alerts(all_items + reg_items, cfg, limit=8),
+        "highlights": _build_highlights(all_items + reg_items, cfg, per_pipe=5),
     }
     with open(os.path.join(DATA_DIR, "manifest.json"), "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
@@ -514,6 +545,7 @@ def collect_regulatory(cfg):
             out.append(r)
             kept += 1
         print(f"    └ 의약품 필터 통과: {kept}/{len(rows)}")
+        import time as _t; _t.sleep(2)  # 게시판 간 텀 (식약처 부하/차단 방지)
     # --- FDA RSS ---
     for f in reg.get("fda_rss", []):
         rows = sources.fetch_rss(f.get("label", "FDA"), f["url"], limit=50)
