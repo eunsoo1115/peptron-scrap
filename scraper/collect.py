@@ -407,6 +407,23 @@ def collect_regulatory(cfg):
             r["source"] = "fda"
             out.append(r)
         print(f"  [fda] {f.get('label')} {len(rows)}건")
+    # --- EMA RSS ---
+    for f in reg.get("ema_rss", []):
+        rows = sources.fetch_rss(f.get("label", "EMA"), f["url"], limit=50)
+        kept = 0
+        for r in rows:
+            # 수의/동물용 제외(EMA는 인체·동물 혼재)
+            blob = (r.get("title", "") + " " + r.get("summary", "")).lower()
+            if any(w in blob for w in ("veterinary", "animal health")):
+                continue
+            r["layer"] = "regulatory"
+            r["agency"] = "EMA"
+            r["board"] = f.get("label", "EMA Guideline")
+            r["publisher"] = "EMA · " + r["board"]
+            r["source"] = "ema"
+            out.append(r)
+            kept += 1
+        print(f"  [ema] {f.get('label')} {kept}/{len(rows)}건")
 
     # 날짜/시간 표준화
     now_iso = dt.datetime.now(KST).isoformat()
