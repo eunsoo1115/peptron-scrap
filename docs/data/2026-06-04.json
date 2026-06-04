@@ -1,14 +1,14 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T22:20:18.298281+09:00",
-  "total": 2733,
+  "generated_at": "2026-06-04T22:34:59.571932+09:00",
+  "total": 2739,
   "counts": {
-    "core": 346,
-    "obesity": 831,
+    "core": 347,
+    "obesity": 833,
     "npr": 329,
     "platform": 557,
-    "reg": 396,
-    "mkt": 274
+    "reg": 397,
+    "mkt": 276
   },
   "items": [
     {
@@ -1641,6 +1641,24 @@
       "source": "gnews",
       "layer": "news",
       "region": "os",
+      "published": "2026-04-16T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.04.16",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "펩트론, AACR 2026서 차세대 항암 플랫폼 및 병용요법 연구성과 발표",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01NFZ5SWttNnE3WEt2bUNtVmw0WVBKQmo1R0FSUFdpYTdOc0d6bHUtaFFBQjlNMm0wRHVVRll3MkNRam1saFJVaFhxbDZPbEtjbVVOYXFwVDByLU5QX0dqMzV1ZVc?oc=5",
+      "publisher": "메디포뉴스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
       "published": "2026-04-16T16:00:00+09:00",
       "time": "16:00",
       "date": "2026.04.16",
@@ -6461,6 +6479,24 @@
       "pipelines": [],
       "companies": [
         "peptron"
+      ]
+    },
+    {
+      "title": "Eli Lilly Sees More Dealmaking Ahead as Management Looks To Leverage Its GLP-1 Success",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWVYxbWowT0Jod2RkMlZCT0lEWGRHd0NuMm43MW9KNXBXbFJJWnljUmgzbDV4UE5JdFByNzBGMk1Tc3Y5Q0pJZ0hTRDB2M0hjMTdnalgxZmFLOENaMEZhcDEwSnVWaC1Va05nbjdKY1pzOC1YVWxCOXFWQVY5MnhmY3Bma1I1bWRpdTRyQmcxRTc4bWZIVW42MF9fWXJNeE82Q1VZcHVndlNReW02T2VkNUxFUXd2NXp6S2ZRNjVaVkZGR3RzUklOMw?oc=5",
+      "publisher": "The Motley Fool",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-04T22:33:01+09:00",
+      "time": "22:33",
+      "date": "2026.06.04",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": [
+        "lilly"
       ]
     },
     {
@@ -16251,6 +16287,22 @@
       "companies": [
         "novo"
       ]
+    },
+    {
+      "title": "메타비아, 유럽간학회서 비만치료제 '최신 임상 초록' 선정 - 머니투데이",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qc0JlTzV3Tl9Cam1ieUJXNVFjNU81X0dUMzhyeXhnYXNhZGZRbDhrOUxpQlV2RFN3N242UVhHZ3dRdUc3VXdta2pKS0h1dW1HQXZ1Z2M4R2dmNXZtM2c4eWMzYlhXcm11b2fSAW9BVV95cUxPNDVyUF9BTnNQYzdnclRRbVdSU05nNmxCNnMteVlkeTQ1S0lKQTlsRE5WbG9XX2VaZ2JFNnhvdXNrQmNPc2ZNWm1oa3dIdFlQR2Ywbm84NEczSDJPaURQaFZ5aG1DUUFNMnBiV2lBanM?oc=5",
+      "publisher": "머니투데이",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-05-12T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.12",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
     },
     {
       "title": "인벤티지랩, \"비만·당뇨 DDS 기술력 입증\" 세마글루타이드 경구제 특허 등록",
@@ -42169,6 +42221,22 @@
       "companies": []
     },
     {
+      "title": "Ambio Announces US FDA Approval of a Generic Version of Forteo® (Teriparatide Injection) for Its Partner Apotex",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSTE3X1k2MlhfemZVREsya1ZqaWhuQ3RkWVlYTnRmZVpNOV9VYmh0WlhrNTlIWXh0bmZWR1BJNmZxZDQzZzNQQzIxM1VaZW5abWdpRnl2VUZSeUZkcVczTkVEdERDQ0xSX1JISmdUQ2tDS2JIVmM2RU0wNm83TmQybVFiSTlkN0hRanBaZjg5TVpuUjFzQThhQVVJQ1JwVmFzOEZyYnFQdF96ZVROcFhfYXNhSkJvWlNJNmcwSzdWLWRDVFpXZG1ucnVSbFZoQVRCbnRQSVpOQ3pfbDhCV3g5QktYeFN6djhfZ1ZHbHZrU01ReFduSE1RZg?oc=5",
+      "publisher": "Business Wire",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2023-12-01T17:00:00+09:00",
+      "time": "17:00",
+      "date": "2023.12.01",
+      "year": 2023,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "정상 품목이 갑자기 허가 취하?…의약품안전나라 오류에 '일시 혼란'",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzZ2U3UkMzUkVUT2otVHZNWlFfNVg1UmdRSzkxdlFCS2dXY0d4RFVxLXlONy01b2xBYUlUMFRJV2NaajJjVzA0U1BsaVRlY1l1NmVrVUI4eDZCcHZ4Yzhjc3h6eXRRYTFac2I4?oc=5",
@@ -42759,6 +42827,24 @@
       "category": "reg",
       "pipelines": [],
       "companies": []
+    },
+    {
+      "title": "Eli Lilly's $1 Trillion Milestone and Growth Strategy in 2026 - News and Statistics",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZDFmeGlXMmJLTmhVc2VDVXl2UXYyR1JaUXJpVmp1ZEZ2eW04bzBHSWVjMmwwN3RWQ0dSRFk1Mk1ya2VHaWhjSGJGaFJMUFJOQVdiTHFYN2ZuM21wNkpEbVRnMmlPQ1ZudlZuUm1aeGFzT3JPNmxWSTA2Q0M0Q2xiaHlCemVaZzE5WDUyS0hrbTNMUS1kSzM1Uk1WQk5HWnhGWkhHV0dBMTI?oc=5",
+      "publisher": "IndexBox",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-04T22:12:00+09:00",
+      "time": "22:12",
+      "date": "2026.06.04",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": [
+        "lilly"
+      ]
     },
     {
       "title": "Weight Loss Drugs Market Trends and Analysis by Application, Vertical, Region, and Segment Forecast to 2030",
@@ -46960,6 +47046,22 @@
       "source": "gnews",
       "layer": "news",
       "region": "os",
+      "published": "2025-08-29T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2025.08.29",
+      "year": 2025,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "비만치료제 시장, 소리 없는 전쟁이 시작됐다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Hbk1CelV4SGx6WFdNRTlIa1lYNVVJU08tNElSRTgyMWhCN25SbnhZMlM4WE9UQ1hfTVlXYjk3Q1BYVUVXZnMwSi14cDJfNkYtdkVvaUNmeS1nTTBFblFYMlZRVXoxYUNwa1E?oc=5",
+      "publisher": "KB Think",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
       "published": "2025-08-29T16:00:00+09:00",
       "time": "16:00",
       "date": "2025.08.29",

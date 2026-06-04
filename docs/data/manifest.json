@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-04T22:21:12.388258+09:00",
+  "updated_at": "2026-06-04T22:45:14.621643+09:00",
   "dates": [
     {
       "date": "2026-06-04",
-      "total": 2733,
+      "total": 2739,
       "counts": {
-        "core": 346,
-        "obesity": 831,
+        "core": 347,
+        "obesity": 833,
         "npr": 329,
         "platform": 557,
-        "reg": 396,
-        "mkt": 274
+        "reg": 397,
+        "mkt": 276
       }
     },
     {
@@ -140,7 +140,7 @@
     "year_min": 2023,
     "year_max": 2026
   },
-  "news_recent_total": 1835,
+  "news_recent_total": 1838,
   "pipelines": [
     {
       "id": "PT403",
@@ -300,11 +300,11 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 199,
+      "news": 201,
       "papers": 0,
       "trials": 0,
-      "total": 199,
-      "recent": "2026-06-04T21:19:23+09:00",
+      "total": 201,
+      "recent": "2026-06-04T22:33:01+09:00",
       "logo": "logos/lilly.png"
     },
     {
