@@ -203,6 +203,10 @@
   .regitem .rmeta{display:flex;gap:10px;margin-top:5px;align-items:center;}
   .regitem .rno{font-size:11px;font-weight:700;color:var(--pep);background:var(--pep-bg,#e9f4ff);padding:1px 8px;border-radius:5px;}
   .regitem .rdt{font-size:11.5px;color:var(--soft);}
+  .regsearch{width:100%;padding:10px 14px;border:1px solid var(--line);border-radius:10px;font-size:13px;font-family:inherit;margin-bottom:10px;color:var(--ink);background:#fff;}
+  .regsearch:focus{outline:none;border-color:var(--pep);box-shadow:0 0 0 3px rgba(28,145,251,.12);}
+  .regitem .rdept{font-size:11px;font-weight:700;color:#7c3aed;background:#f3effe;padding:1px 8px;border-radius:5px;}
+  .hero-solo{padding-bottom:8px;}
   .ftr{text-align:center;padding:28px 20px 40px;font-size:11.5px;color:var(--soft);letter-spacing:.01em;}
   .ftr .beta{display:inline-block;font-size:9.5px;font-weight:800;color:#fff;background:var(--pep);padding:1px 7px;border-radius:5px;letter-spacing:.04em;vertical-align:middle;margin:0 2px;}
   .state{padding:60px 20px;text-align:center;color:var(--soft);}
@@ -359,10 +363,43 @@ function render(){
 function backBar(){return BACK.length?'<button class="backbtn" onclick="goBack()">← 뒤로</button>':'';}
 
 function setRegTab(t){REGTAB=t;render();}
+let REGQ={};
+function setRegQ(board,v){REGQ[board]=v;
+  // 입력 중 포커스 유지 위해 해당 리스트만 다시 그림
+  const box=document.getElementById('reglist-'+board);
+  if(box){box.innerHTML=regListHtml(board);}
+  const cnt=document.getElementById('regcnt-'+board);
+}
+function regRowsFor(board){
+  const all=REG||[];
+  let items=all.filter(r=>r.agency===REGTAB&&r.board===board).sort((a,b)=>(b.published||'').localeCompare(a.published||''));
+  const q=(REGQ[board]||'').trim().toLowerCase();
+  if(q){items=items.filter(it=>((it.title||'')+' '+(it.summary||'')+' '+(it.dept||'')).toLowerCase().includes(q));}
+  return items;
+}
+function regListHtml(board){
+  const items=regRowsFor(board);
+  const key='reg-'+REGTAB+'-'+board;
+  if(!items.length)return '<div style="font-size:12.5px;color:var(--soft);padding:14px 16px;background:#fff;border-radius:12px">검색 결과가 없습니다.</div>';
+  const lim=MORE[key]?items.length:10;
+  let h='<div class="reglist">';
+  items.slice(0,lim).forEach(it=>{
+    h+='<a class="regitem" href="'+esc(it.url)+'" target="_blank" rel="noopener">'
+      +'<div class="rtit">'+esc(it.title)+'</div>'
+      +'<div class="rmeta">'
+      +(it.dept?'<span class="rdept">'+esc(it.dept)+'</span>':'')
+      +(it.regno?'<span class="rno">'+esc(it.regno)+'</span>':'')
+      +(it.date?'<span class="rdt">'+esc(it.date)+'</span>':'')
+      +'</div></a>';
+  });
+  h+='</div>';
+  if(items.length>10)h+='<div class="morebtn" onclick="toggleMore(\''+key+'\')">'+(MORE[key]?'접기 ▲':'+ 더보기 ('+(items.length-10)+'건)')+'</div>';
+  return h;
+}
 function viewRegulatory(){
   const all=REG||[];
   const agencies=['MFDS','FDA','EMA'];
-  let h='<div class="phead"><h1>Regulatory <span style="color:var(--soft);font-weight:700;font-size:18px">규제 모니터링</span></h1><span class="meta">의약품 관련 신규 고시·안내서·가이던스</span></div>';
+  let h='<div class="phead"><h1>Regulatory <span style="color:var(--soft);font-weight:700;font-size:18px">규제 모니터링</span></h1><span class="meta">의약품 관련 고시·안내서·가이던스 (전체 누적)</span></div>';
   // 기관 탭
   h+='<div class="rtabs">';
   agencies.forEach(a=>{const n=all.filter(x=>x.agency===a).length;h+='<button class="rtab'+(REGTAB===a?' on':'')+'" onclick="setRegTab(\''+a+'\')">'+a+' <span class="rc">'+n+'</span></button>';});
@@ -372,28 +409,18 @@ function viewRegulatory(){
   // 게시판 순서: 등장 순(=config 순서) 유지
   const boards=[];rows.forEach(r=>{if(boards.indexOf(r.board)<0)boards.push(r.board);});
   boards.forEach(b=>{
-    const items=rows.filter(r=>r.board===b).sort((a,b)=>(b.published||'').localeCompare(a.published||''));
-    const key='reg-'+REGTAB+'-'+b;
-    const lim=MORE[key]?items.length:10;
-    h+='<div class="sec"><div class="sectitle sm"><span class="t">'+esc(b)+'</span><span class="ln"></span><span class="n">'+items.length+'</span></div>';
-    h+='<div class="reglist">';
-    items.slice(0,lim).forEach(it=>{
-      h+='<a class="regitem" href="'+esc(it.url)+'" target="_blank" rel="noopener">'
-        +'<div class="rtit">'+esc(it.title)+'</div>'
-        +'<div class="rmeta">'+(it.regno?'<span class="rno">'+esc(it.regno)+'</span>':'')+(it.date?'<span class="rdt">'+esc(it.date)+'</span>':'')+'</div>'
-        +'</a>';
-    });
-    h+='</div>';
-    if(items.length>10)h+='<div class="morebtn" onclick="toggleMore(\''+key+'\')">'+(MORE[key]?'접기 ▲':'+ 더보기 ('+(items.length-10)+'건)')+'</div>';
+    const total=rows.filter(r=>r.board===b).length;
+    h+='<div class="sec"><div class="sectitle sm"><span class="t">'+esc(b)+'</span><span class="ln"></span><span class="n">'+total+'</span></div>';
+    h+='<input class="regsearch" type="text" placeholder="🔍 '+esc(b)+' 내 검색 (제목·부서)" value="'+esc(REGQ[b]||'')+'" oninput="setRegQ(\''+esc(b)+'\',this.value)">';
+    h+='<div id="reglist-'+esc(b)+'">'+regListHtml(b)+'</div>';
     h+='</div>';
   });
   return h;
 }
 
 function viewDashboard(){
-  const ps=M.pipelines||[];const news=CROSS.news||[],papers=CROSS.papers||[],trials=CROSS.trials||[];
-  let h='<div class="topgrid"><div class="hero"><div class="greet">'+greeting()+' 👋</div><h1>PepTracker</h1>'+(M.site_tagline?'<p>'+esc(M.site_tagline)+'</p>':'')+'</div>';
-  h+='<div class="kpis k3">'+kpi(IC.news,news,'New Articles')+kpi(IC.paper,papers,'New Publications')+kpi(IC.trial,trials,'Clinical Updates')+'</div></div>';
+  const ps=M.pipelines||[];
+  let h='<div class="hero hero-solo"><div class="greet">'+greeting()+' 👋</div><h1>PepTracker</h1>'+(M.site_tagline?'<p>'+esc(M.site_tagline)+'</p>':'')+'</div>';
 
   h+='<div class="sectitle"><span class="t">Pipeline Overview</span><span class="more" onclick="toggleMenu(\'pipelines\',event)">View all pipelines ›</span></div><div class="cards">';
   ps.forEach((p,i)=>{const col=p.color||'#0077c8';const rc=p.recent?new Date(p.recent).toLocaleDateString('ko-KR',{year:'numeric',month:'2-digit',day:'2-digit'}).replace(/\. /g,'.').replace(/\.$/,''):'—';
