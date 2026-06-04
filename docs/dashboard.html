@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>PepTracker</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<style>
+  *{box-sizing:border-box;margin:0;padding:0;}
+  :root{
+    --bg:#f6f8fb; --card:#fff; --ink:#0f172a; --pep:#1c91fb; --pep-d:#0a6fd0;
+    --muted:#64748b; --soft:#94a3b8; --line:#eef1f5; --line2:#f3f5f8;
+    --up:#0c8a4a; --dn:#dc2626;
+    --sb:#0e1726; --sb-soft:#16203200; --sb-mut:#8a97ad;
+    --hi:#dc2626; --mid:#d97706; --lo:#64748b;
+    --sh-sm:0 1px 3px rgba(15,23,42,.04); --sh:0 6px 20px rgba(15,23,42,.06);
+  }
+  html,body{font-family:'Pretendard',-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg);color:var(--ink);font-size:13.5px;line-height:1.5;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+
+  /* layout */
+  .app{display:grid;grid-template-columns:232px 1fr;min-height:100vh;}
+  /* sidebar */
+  .side{background:var(--sb);color:#cdd6e4;padding:20px 14px;position:sticky;top:0;height:100vh;display:flex;flex-direction:column;gap:4px;overflow-y:auto;}
+  .brand{display:flex;align-items:center;gap:9px;padding:6px 8px 18px;}
+  .brand .logo{width:30px;height:30px;border-radius:8px;background:linear-gradient(135deg,var(--pep),#5db4ff);display:flex;align-items:center;justify-content:center;font-weight:800;color:#fff;font-size:15px;}
+  .brand .nm{font-weight:800;font-size:17px;color:#fff;letter-spacing:-.01em;}
+  .brand .nm b{color:#5db4ff;}
+  .navlbl{font-size:10.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#56627a;padding:14px 10px 6px;}
+  .nav{display:flex;align-items:center;gap:11px;padding:9px 10px;border-radius:9px;font-size:14px;font-weight:600;color:#aab4c6;cursor:pointer;transition:.12s;}
+  .nav:hover{background:#1a2troke;background:#1a2436;color:#fff;}
+  .nav.on{background:var(--pep);color:#fff;}
+  .nav.soon{color:#56627a;cursor:default;}
+  .nav.soon:hover{background:transparent;color:#56627a;}
+  .nav .soonbadge{margin-left:auto;font-size:9.5px;font-weight:700;color:#8a97ad;background:#1a2436;padding:2px 7px;border-radius:5px;}
+  .nav .ic{width:17px;height:17px;flex-shrink:0;opacity:.9;}
+  .nav .wl{width:8px;height:8px;border-radius:50%;flex-shrink:0;margin-left:3px;}
+  .side .sp{flex:1;}
+  .darkrow{display:flex;align-items:center;gap:10px;padding:10px;color:#8a97ad;font-size:13px;}
+
+  /* main */
+  .main{padding:26px 30px 60px;min-width:0;}
+  .top{display:flex;align-items:flex-start;justify-content:space-between;gap:20px;margin-bottom:24px;flex-wrap:wrap;}
+  .greet{font-size:14px;color:var(--muted);font-weight:600;}
+  .h1{font-size:27px;font-weight:800;letter-spacing:-.02em;margin-top:3px;}
+  .sub{font-size:13.5px;color:var(--muted);margin-top:5px;}
+  .upd{font-size:12px;color:var(--soft);text-align:right;white-space:nowrap;}
+  .upd b{color:var(--pep);font-weight:700;}
+
+  /* kpi */
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:15px;margin-bottom:22px;}
+  .kpi{background:var(--card);border:1px solid var(--line);border-radius:15px;padding:18px;box-shadow:var(--sh-sm);position:relative;overflow:hidden;}
+  .kpi .kh{display:flex;align-items:center;gap:9px;font-size:13px;font-weight:600;color:var(--muted);margin-bottom:12px;}
+  .kpi .ic{width:30px;height:30px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:15px;}
+  .kpi .v{font-size:32px;font-weight:800;letter-spacing:-.02em;line-height:1;}
+  .kpi .d{font-size:12px;font-weight:700;margin-top:9px;display:flex;align-items:center;gap:5px;}
+  .kpi .d .lbl{color:var(--soft);font-weight:500;}
+  .kpi .d.up{color:var(--up);} .kpi .d.dn{color:var(--dn);} .kpi .d.flat{color:var(--soft);}
+
+  /* grid rows */
+  .row{display:grid;gap:15px;margin-bottom:22px;}
+  .row.r2{grid-template-columns:1.4fr 1fr;}
+  .row.r3{grid-template-columns:1fr 1fr 1fr;}
+  @media(max-width:1080px){.kpis{grid-template-columns:repeat(2,1fr);}.row.r2,.row.r3{grid-template-columns:1fr;}}
+
+  .card{background:var(--card);border:1px solid var(--line);border-radius:15px;padding:18px 20px;box-shadow:var(--sh-sm);}
+  .ch{display:flex;align-items:center;justify-content:space-between;margin-bottom:15px;}
+  .ch .t{font-size:15px;font-weight:700;letter-spacing:-.01em;}
+  .ch .va{font-size:12.5px;font-weight:600;color:var(--pep);cursor:pointer;}
+  .ch .va:hover{color:var(--pep-d);}
+
+  /* trend chart */
+  .legend{display:flex;gap:14px;margin-bottom:8px;font-size:11.5px;color:var(--muted);flex-wrap:wrap;}
+  .legend i{width:9px;height:9px;border-radius:50%;display:inline-block;margin-right:5px;vertical-align:middle;}
+  .chart{width:100%;height:230px;}
+
+  /* alerts */
+  .alert{display:flex;align-items:center;gap:12px;padding:11px 0;border-bottom:1px solid var(--line2);}
+  .alert:last-child{border-bottom:none;}
+  .badge{font-size:10.5px;font-weight:800;padding:3px 9px;border-radius:20px;white-space:nowrap;}
+  .badge.High{background:#fdecec;color:var(--hi);} .badge.Medium{background:#fdf3e3;color:var(--mid);} .badge.Low{background:#eef1f5;color:var(--lo);}
+  .alert .atit{flex:1;font-size:13px;font-weight:600;line-height:1.4;min-width:0;}
+  .alert .meta{display:flex;align-items:center;gap:8px;flex-shrink:0;}
+  .alert .lay{font-size:11px;font-weight:700;color:var(--pep);background:#e9f4ff;padding:2px 8px;border-radius:5px;}
+  .alert .ago{font-size:11.5px;color:var(--soft);white-space:nowrap;}
+
+  /* landscape */
+  .land{display:flex;align-items:center;gap:12px;padding:9px 0;}
+  .land .cn{width:120px;font-size:13px;font-weight:600;flex-shrink:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  .land .bar{flex:1;height:8px;border-radius:6px;background:var(--line);overflow:hidden;}
+  .land .bar i{display:block;height:100%;border-radius:6px;background:linear-gradient(90deg,var(--pep),#5db4ff);}
+  .land .num{width:34px;text-align:right;font-size:13px;font-weight:800;flex-shrink:0;}
+
+  /* regulatory watch */
+  .rtabs{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap;}
+  .rtab{font-size:12px;font-weight:700;color:var(--muted);background:var(--line2);border:none;border-radius:7px;padding:5px 11px;cursor:pointer;}
+  .rtab.on{background:var(--pep);color:#fff;}
+  .rrow{display:flex;align-items:center;gap:11px;padding:9px 0;border-bottom:1px solid var(--line2);}
+  .rrow:last-child{border-bottom:none;}
+  .rrow .pri{font-size:18px;font-weight:800;width:30px;text-align:center;}
+  .rrow .pri.High{color:var(--hi);} .rrow .pri.Medium{color:var(--mid);} .rrow .pri.Low{color:var(--lo);}
+  .rrow .rl{flex:1;}
+  .rrow .rl .rt{font-size:13px;font-weight:600;}
+  .rrow .rl .rd{font-size:11.5px;color:var(--soft);}
+
+  /* keywords */
+  .kw{display:inline-flex;align-items:center;font-size:12.5px;font-weight:600;color:var(--ink);background:var(--line2);border:1px solid var(--line);border-radius:20px;padding:6px 13px;margin:4px 4px 0 0;cursor:pointer;}
+  .kw:hover{border-color:var(--pep);color:var(--pep);}
+
+  /* pipeline cards */
+  .pcards{display:grid;grid-template-columns:repeat(4,1fr);gap:13px;}
+  @media(max-width:1080px){.pcards{grid-template-columns:repeat(2,1fr);}}
+  .pcard{border:1px solid var(--line);border-left:4px solid var(--pc,var(--pep));border-radius:13px;padding:15px;cursor:pointer;transition:.14s;background:var(--card);}
+  .pcard:hover{box-shadow:var(--sh);transform:translateY(-2px);}
+  .pcard .pn{font-size:16px;font-weight:800;color:var(--pc);}
+  .pcard .pa{font-size:11px;font-weight:700;color:var(--muted);margin-top:2px;}
+  .pcard .pst{display:inline-block;font-size:11px;font-weight:600;color:var(--muted);background:var(--line2);padding:2px 8px;border-radius:5px;margin-top:8px;}
+  .pcard .pc3{display:flex;gap:12px;margin-top:11px;font-size:11.5px;color:var(--muted);}
+  .pcard .pc3 b{color:var(--ink);font-weight:800;font-size:13px;}
+
+  .empty{font-size:12.5px;color:var(--soft);padding:14px 0;}
+  .ftr{text-align:center;padding:30px;font-size:11.5px;color:var(--soft);}
+  .ftr .beta{font-size:9.5px;font-weight:800;color:#fff;background:var(--pep);padding:1px 7px;border-radius:5px;margin:0 3px;}
+</style>
+</head>
+<body>
+<div class="app">
+  <!-- Sidebar -->
+  <aside class="side">
+    <div class="brand"><div class="logo">P</div><div class="nm">Pep<b>Tracker</b></div></div>
+    <div class="nav on"><span class="ic">▦</span> Dashboard</div>
+    <a class="nav" href="index.html#pipeline"><span class="ic">⊞</span> Pipeline</a>
+    <a class="nav" href="index.html#companies"><span class="ic">🏢</span> Companies</a>
+    <a class="nav" href="index.html#regulatory"><span class="ic">⚖</span> Regulatory</a>
+    <a class="nav" href="index.html#news"><span class="ic">📰</span> News</a>
+    <a class="nav" href="index.html#papers"><span class="ic">📄</span> Papers</a>
+    <a class="nav" href="index.html#trials"><span class="ic">🧪</span> Clinical Trials</a>
+    <div class="nav soon" onclick="alert('특허(Patents) 기능은 준비 중입니다.')"><span class="ic">📑</span> Patents <span class="soonbadge">준비중</span></div>
+    <div class="navlbl">Watchlist</div>
+    <div id="watchlist"></div>
+    <div class="sp"></div>
+    <div class="ftr" style="padding:14px 8px;text-align:left;">PepTracker <span class="beta">BETA</span></div>
+  </aside>
+
+  <!-- Main -->
+  <main class="main">
+    <div class="top">
+      <div>
+        <div class="greet" id="greet">Good morning 👋</div>
+        <div class="h1">Dashboard</div>
+        <div class="sub">의약품 파이프라인 · 경쟁 · 규제 인텔리전스</div>
+      </div>
+      <div class="upd">Last Updated<br><b id="updated">—</b></div>
+    </div>
+
+    <div class="kpis" id="kpis"></div>
+
+    <div class="row r2">
+      <div class="card">
+        <div class="ch"><div class="t">Activity Trend <span style="color:var(--soft);font-weight:600;font-size:12px">(최근 30일)</span></div></div>
+        <div class="legend">
+          <span><i style="background:#1c91fb"></i>News</span>
+          <span><i style="background:#0c8a4a"></i>Papers</span>
+          <span><i style="background:#7c3aed"></i>Trials</span>
+          <span><i style="background:#d97706"></i>Regulatory</span>
+        </div>
+        <div id="chart" class="chart"></div>
+      </div>
+      <div class="card">
+        <div class="ch"><div class="t">High Impact Alerts</div></div>
+        <div id="alerts"></div>
+      </div>
+    </div>
+
+    <div class="row r3">
+      <div class="card">
+        <div class="ch"><div class="t">Competitive Landscape</div></div>
+        <div id="landscape"></div>
+      </div>
+      <div class="card">
+        <div class="ch"><div class="t">Regulatory Watch</div><a class="va" href="index.html#regulatory">View All ›</a></div>
+        <div class="rtabs" id="rtabs"></div>
+        <div id="regwatch"></div>
+      </div>
+      <div class="card">
+        <div class="ch"><div class="t">Popular Keywords</div></div>
+        <div id="keywords"></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="ch"><div class="t">Pipeline Overview</div><a class="va" href="index.html#pipeline">View All ›</a></div>
+      <div class="pcards" id="pcards"></div>
+    </div>
+
+    <div class="ftr">PepTracker <span class="beta">BETA</span> · © 2026 Peptron RA팀 · Created by Eunsoo Lee · Internal use only</div>
+  </main>
+</div>
+
+<script>
+let M={}, REG=[], NEWS=[], REGTAB='MFDS';
+const esc=s=>(s==null?'':String(s)).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+async function jget(u){try{return await (await fetch(u+'?_='+Date.now())).json();}catch(e){return null;}}
+
+function ago(iso){
+  if(!iso)return '';
+  const t=new Date(iso), now=new Date(), s=(now-t)/1000;
+  if(s<3600)return Math.max(1,Math.floor(s/60))+'m ago';
+  if(s<86400)return Math.floor(s/3600)+'h ago';
+  return Math.floor(s/86400)+'d ago';
+}
+function greeting(){const h=new Date().getHours();return h<12?'Good morning':h<18?'Good afternoon':'Good evening';}
+
+function kpiCard(ic,bg,col,label,o){
+  o=o||{today:0,yesterday:0};
+  const t=o.today||0, y=o.yesterday||0, diff=t-y;
+  let d='<div class="d flat"><span class="lbl">vs yesterday</span></div>';
+  if(y>0||t>0){
+    const cls=diff>0?'up':diff<0?'dn':'flat';
+    const arrow=diff>0?'↑':diff<0?'↓':'→';
+    d='<div class="d '+cls+'">'+arrow+' '+Math.abs(diff)+' <span class="lbl">vs yesterday</span></div>';
+  }
+  return '<div class="kpi"><div class="kh"><span class="ic" style="background:'+bg+';color:'+col+'">'+ic+'</span>'+label+'</div>'
+    +'<div class="v">'+t+'</div>'+d+'</div>';
+}
+
+function renderKPIs(){
+  const k=M.kpi||{};
+  let h='';
+  h+=kpiCard('📰','#e9f4ff','#1c91fb','News Today',k.news);
+  h+=kpiCard('📄','#e7f7ee','#0c8a4a','Papers',k.paper);
+  h+=kpiCard('🧪','#f3effe','#7c3aed','Trials',k.trial);
+  h+=kpiCard('⚖','#fdf3e3','#d97706','Regulatory',k.regulatory);
+  document.getElementById('kpis').innerHTML=h;
+}
+
+function renderChart(){
+  const tr=M.trend||[];
+  const box=document.getElementById('chart');
+  if(!tr.length){box.innerHTML='<div class="empty">데이터가 쌓이면 표시됩니다.</div>';return;}
+  const W=box.clientWidth||760, H=230, pad={l:30,r:12,t:12,b:22};
+  const keys=[['news','#1c91fb'],['paper','#0c8a4a'],['trial','#7c3aed'],['regulatory','#d97706']];
+  let max=1;tr.forEach(d=>keys.forEach(([k])=>{if(d[k]>max)max=d[k];}));
+  const x=i=>pad.l+(W-pad.l-pad.r)*(i/(Math.max(1,tr.length-1)));
+  const y=v=>pad.t+(H-pad.t-pad.b)*(1-v/max);
+  let svg='<svg class="chart" viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="none" style="height:'+H+'px">';
+  // grid
+  for(let g=0;g<=4;g++){const gy=pad.t+(H-pad.t-pad.b)*g/4;svg+='<line x1="'+pad.l+'" y1="'+gy+'" x2="'+(W-pad.r)+'" y2="'+gy+'" stroke="#eef1f5" stroke-width="1"/>';
+    svg+='<text x="'+(pad.l-6)+'" y="'+(gy+3)+'" font-size="9" fill="#94a3b8" text-anchor="end">'+Math.round(max*(4-g)/4)+'</text>';}
+  // x labels (every ~6 days)
+  tr.forEach((d,i)=>{if(i%6===0||i===tr.length-1){const lbl=d.date.slice(5).replace('-','/');svg+='<text x="'+x(i)+'" y="'+(H-6)+'" font-size="9" fill="#94a3b8" text-anchor="middle">'+lbl+'</text>';}});
+  keys.forEach(([k,c])=>{
+    let path='';tr.forEach((d,i)=>{path+=(i?'L':'M')+x(i).toFixed(1)+' '+y(d[k]).toFixed(1)+' ';});
+    svg+='<path d="'+path+'" fill="none" stroke="'+c+'" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>';
+    // last point dot
+    const li=tr.length-1;svg+='<circle cx="'+x(li)+'" cy="'+y(tr[li][k])+'" r="3" fill="'+c+'"/>';
+  });
+  svg+='</svg>';
+  box.innerHTML=svg;
+}
+
+function renderAlerts(){
+  const a=M.alerts||[];
+  const box=document.getElementById('alerts');
+  if(!a.length){box.innerHTML='<div class="empty">중요 항목이 아직 없습니다.</div>';return;}
+  let h='';
+  a.slice(0,6).forEach(it=>{
+    const layLbl={news:'News',paper:'Publication',trial:'Clinical Trial',regulatory:'Regulatory'}[it.layer]||it.layer;
+    h+='<a class="alert" href="'+esc(it.url)+'" target="_blank" rel="noopener">'
+      +'<span class="badge '+esc(it.level)+'">'+esc(it.level)+'</span>'
+      +'<span class="atit">'+esc(it.title)+'</span>'
+      +'<span class="meta"><span class="lay">'+esc(layLbl)+'</span><span class="ago">'+ago(it.published)+'</span></span>'
+      +'</a>';
+  });
+  box.innerHTML=h;
+}
+
+function renderLandscape(){
+  const cs=(M.companies||[]).filter(c=>c.total>0).sort((a,b)=>b.total-a.total).slice(0,6);
+  const box=document.getElementById('landscape');
+  if(!cs.length){box.innerHTML='<div class="empty">데이터 없음</div>';return;}
+  const max=cs[0].total||1;
+  let h='';
+  cs.forEach(c=>{
+    h+='<div class="land"><span class="cn">'+esc(c.label)+'</span>'
+      +'<span class="bar"><i style="width:'+Math.round(c.total/max*100)+'%"></i></span>'
+      +'<span class="num">'+c.total+'</span></div>';
+  });
+  box.innerHTML=h;
+}
+
+function setRegTab(t){REGTAB=t;renderRegWatch();}
+function renderRegTabs(){
+  const ags=['MFDS','FDA','EMA'];
+  document.getElementById('rtabs').innerHTML=ags.map(a=>'<button class="rtab'+(REGTAB===a?' on':'')+'" onclick="setRegTab(\''+a+'\')">'+a+'</button>').join('');
+}
+function renderRegWatch(){
+  renderRegTabs();
+  const rows=(REG||[]).filter(r=>r.agency===REGTAB).sort((a,b)=>(b.published||'').localeCompare(a.published||'')).slice(0,5);
+  const box=document.getElementById('regwatch');
+  if(!rows.length){box.innerHTML='<div class="empty">수집된 항목이 없습니다.</div>';return;}
+  let h='';
+  rows.forEach(r=>{
+    h+='<a class="rrow" href="'+esc(r.url)+'" target="_blank" rel="noopener">'
+      +'<div class="rl"><div class="rt">'+esc(r.title)+'</div><div class="rd">'+esc(r.board||'')+(r.dept?' · '+esc(r.dept):'')+(r.date?' · '+esc(r.date):'')+'</div></div>'
+      +'</a>';
+  });
+  box.innerHTML=h;
+}
+
+function renderKeywords(){
+  // 파이프라인 칩 + 회사명에서 인기 키워드 추출
+  const set=[];
+  (M.pipelines||[]).forEach(p=>{set.push(p.label);(p.chips||[]).forEach(c=>set.push(c.label));});
+  (M.companies||[]).filter(c=>c.total>0).forEach(c=>set.push(c.label));
+  const uniq=[...new Set(set)].slice(0,14);
+  document.getElementById('keywords').innerHTML=uniq.map(k=>'<a class="kw" href="index.html">'+esc(k)+'</a>').join('')||'<div class="empty">없음</div>';
+}
+
+function renderPipelines(){
+  const ps=M.pipelines||[];
+  document.getElementById('pcards').innerHTML=ps.map(p=>{
+    const col=p.color||'#1c91fb';
+    return '<a class="pcard" style="--pc:'+col+'" href="index.html#pipeline">'
+      +'<div class="pn">'+esc(p.label)+'</div>'
+      +(p.area?'<div class="pa">'+esc(p.area)+'</div>':'')
+      +(p.stage?'<div class="pst">'+esc(p.stage)+'</div>':'')
+      +'<div class="pc3"><span><b>'+(p.news||0)+'</b> News</span><span><b>'+(p.papers||0)+'</b> Papers</span><span><b>'+(p.trials||0)+'</b> Trials</span></div>'
+      +'</a>';
+  }).join('');
+}
+function renderWatchlist(){
+  const ps=M.pipelines||[];
+  document.getElementById('watchlist').innerHTML=ps.map(p=>'<a class="nav" href="index.html#pipeline"><span class="wl" style="background:'+(p.color||'#1c91fb')+'"></span>'+esc(p.label)+'</a>').join('');
+}
+
+async function boot(){
+  M=await jget('data/manifest.json')||{};
+  const ng=await jget('data/regulatory.json'); REG=(ng&&ng.items)||[];
+  document.getElementById('greet').textContent=greeting()+(M.greet_name?', '+M.greet_name:'')+' 👋';
+  if(M.updated_at){try{document.getElementById('updated').textContent=new Date(M.updated_at).toLocaleString('ko-KR',{dateStyle:'short',timeStyle:'short'});}catch(e){}}
+  renderKPIs();renderChart();renderAlerts();renderLandscape();renderRegWatch();renderKeywords();renderPipelines();renderWatchlist();
+  window.addEventListener('resize',renderChart);
+}
+boot();
+</script>
+</body>
+</html>
