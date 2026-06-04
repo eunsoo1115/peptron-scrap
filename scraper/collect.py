@@ -302,6 +302,116 @@ def _aggregate(defs, key, all_items):
         out.append(entry)
     return out
 
+def _impact_score(item, cfg):
+    """뉴스 중요도 점수 — 규칙 기반. 파이프라인 직접언급/임팩트 동사/회사 가중치."""
+    text = ((item.get("title", "") or "") + " " + (item.get("summary", "") or "")).lower()
+    score = 0
+    # 우리 파이프라인 직접 언급 (가장 중요)
+    if item.get("pipelines"):
+        score += 3 * len(item["pipelines"])
+    # 경쟁사 언급
+    if item.get("companies"):
+        score += 1 * len(item["companies"])
+    # 임팩트 키워드 (승인/허가/임상결과/발표 등)
+    impact_words = cfg.get("impact_keywords", [
+        "승인", "허가", "approval", "approved", "phase 3", "3상", "phase iii",
+        "topline", "결과 발표", "fda", "ema", "mfds", "식약처", "가이드라인",
+        "guidance", "recall", "리콜", "warning", "경고", "breakthrough", "신청",
+        "임상 결과", "출시", "launch", "특허", "patent",
+    ])
+    for w in impact_words:
+        if w.lower() in text:
+            score += 2
+    # 레이어별 기본 가중치 (임상 > 논문 > 뉴스)
+    score += {"trial": 2, "paper": 1, "regulatory": 2}.get(item.get("layer"), 0)
+    return score
+
+
+def _impact_level(score):
+    if score >= 8:
+        return "High"
+    if score >= 4:
+        return "Medium"
+    return "Low"
+
+
+def _build_alerts(all_items, cfg, limit=8):
+    """중요도 높은 항목을 추려 알림 리스트 생성 (최근 + 점수순)."""
+    scored = []
+    for it in all_items:
+        s = _impact_score(it, cfg)
+        if s <= 0:
+            continue
+        scored.append((s, it))
+    # 점수 우선, 같으면 최신순
+    scored.sort(key=lambda x: (x[0], x[1].get("published", "")), reverse=True)
+    out = []
+    for s, it in scored[:limit]:
+        out.append({
+            "level": _impact_level(s),
+            "score": s,
+            "title": it.get("title", ""),
+            "layer": it.get("layer", ""),
+            "url": it.get("url", ""),
+            "companies": it.get("companies", []),
+            "pipelines": it.get("pipelines", []),
+            "published": it.get("published", ""),
+            "date": it.get("date", ""),
+            "publisher": it.get("publisher", ""),
+        })
+    return out
+
+
+def _build_trend(cfg, days=30):
+    """최근 N일 일자별 레이어 건수 추이 (Activity Trend용)."""
+    today = dt.datetime.now(KST).date()
+    # 날짜별 카운트 누적
+    series = {}
+    for i in range(days):
+        d = today - dt.timedelta(days=i)
+        series[d.isoformat()] = {"news": 0, "paper": 0, "trial": 0, "regulatory": 0}
+
+    def bump(items, layer):
+        for it in items:
+            pub = it.get("published", "")
+            try:
+                dd = dt.datetime.fromisoformat(pub).date().isoformat()
+            except (ValueError, TypeError):
+                continue
+            if dd in series:
+                series[dd][layer] += 1
+
+    bump(_load_items("news_recent.json"), "news")
+    bump(_load_items("papers.json"), "paper")
+    bump(_load_items("trials.json"), "trial")
+    bump(_load_items("regulatory.json"), "regulatory")
+    # 오름차순 날짜 배열
+    return [{"date": k, **series[k]} for k in sorted(series.keys())]
+
+
+def _today_counts(cfg):
+    """오늘/어제 레이어별 건수 (KPI 전일비용)."""
+    today = dt.datetime.now(KST).date()
+    yest = today - dt.timedelta(days=1)
+    def cnt(items, day):
+        n = 0
+        for it in items:
+            try:
+                if dt.datetime.fromisoformat(it.get("published", "")).date() == day:
+                    n += 1
+            except (ValueError, TypeError):
+                continue
+        return n
+    news = _load_items("news_recent.json"); papers = _load_items("papers.json")
+    trials = _load_items("trials.json"); regs = _load_items("regulatory.json")
+    return {
+        "news": {"today": cnt(news, today), "yesterday": cnt(news, yest)},
+        "paper": {"today": cnt(papers, today), "yesterday": cnt(papers, yest)},
+        "trial": {"today": cnt(trials, today), "yesterday": cnt(trials, yest)},
+        "regulatory": {"today": cnt(regs, today), "yesterday": cnt(regs, yest)},
+    }
+
+
 def rebuild_manifest(cfg):
     """날짜별 뉴스 파일 스캔 + 논문/임상 누적 요약 + 파이프라인/회사 집계."""
     keep = cfg.get("keep_days", 0)
@@ -344,6 +454,7 @@ def rebuild_manifest(cfg):
 
     # 교차 집계 대상: 최근 뉴스 + 논문 + 임상
     all_items = _load_items("news_recent.json") + _load_items("papers.json") + _load_items("trials.json")
+    reg_items = _load_items("regulatory.json")
     pipelines = _aggregate(cfg.get("pipelines", []), "pipelines", all_items)
     companies = _aggregate(cfg.get("companies", []), "companies", all_items)
 
@@ -358,13 +469,18 @@ def rebuild_manifest(cfg):
         "dates": entries,
         "papers": layer_meta("papers.json"),
         "trials": layer_meta("trials.json"),
+        "regulatory": layer_meta("regulatory.json"),
         "news_recent_total": len(_load_items("news_recent.json")),
         "pipelines": pipelines,
         "companies": companies,
+        # 새 대시보드용 집계
+        "kpi": _today_counts(cfg),
+        "trend": _build_trend(cfg, days=30),
+        "alerts": _build_alerts(all_items + reg_items, cfg, limit=8),
     }
     with open(os.path.join(DATA_DIR, "manifest.json"), "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
-    print(f"manifest: 뉴스 {len(entries)}일 · 논문 {manifest['papers']['total']} · 임상 {manifest['trials']['total']} · 파이프라인 {len(pipelines)} · 회사 {len(companies)}")
+    print(f"manifest: 뉴스 {len(entries)}일 · 논문 {manifest['papers']['total']} · 임상 {manifest['trials']['total']} · 파이프라인 {len(pipelines)} · 회사 {len(companies)} · 알림 {len(manifest['alerts'])}")
 
 
 def collect_regulatory(cfg):
