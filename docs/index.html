@@ -248,7 +248,6 @@ function renderNav(){
   let h=lnk('dashboard','Dashboard');
   (M.pipelines||[]).forEach(p=>{ h+='<button class="lnk'+(NAV==='pipeline:'+p.id?' on':'')+'" onclick="setNav(\''+'pipeline:'+p.id+'\')">'+esc(p.label)+'</button>'; });
   h+=lnk('companies','Companies');
-  h+=lnk('archive','Archive');
   h+=lnk('regulatory','Regulatory');
   document.getElementById('links').innerHTML=h;
 }
@@ -290,7 +289,7 @@ async function setNav(nav,opts){
   if(!opts.fromBack && nav!==NAV) BACK.push(NAV);
   NAV=nav; CTAB='all'; YF=null; YT=null; REGION='all';
   renderNav();
-  if(nav==='news'||nav==='archive'||nav.startsWith('archive:')){ if(!CUR_DAY||CUR_DAY.date!==CUR_DATE) await loadDay(CUR_DATE); await loadCross(); }
+  if(nav==='news'){ if(!CUR_DAY||CUR_DAY.date!==CUR_DATE) await loadDay(CUR_DATE); await loadCross(); }
   else if(nav==='regulatory'){ await loadReg(); }
   else { await loadCross(); }
   if(!opts.fromHistory){ try{ history.pushState({nav:nav},''); }catch(e){} }
@@ -352,7 +351,6 @@ function render(){
   else if(NAV==='news') W.innerHTML=bb+viewNews();
   else if(NAV==='papers') W.innerHTML=bb+viewAccum('paper');
   else if(NAV==='trials') W.innerHTML=bb+viewAccum('trial');
-  else if(NAV==='archive'||NAV.startsWith('archive:')) W.innerHTML=bb+viewArchive(NAV.indexOf(':')>0?NAV.slice(8):'');
   else if(NAV.startsWith('pipeline:')) W.innerHTML=bb+viewPipeline(NAV.slice(9));
   else if(NAV==='companies') W.innerHTML=bb+viewCompaniesList();
   else if(NAV.startsWith('company:')) W.innerHTML=bb+viewCompany(NAV.slice(8));
@@ -363,7 +361,7 @@ function backBar(){return BACK.length?'<button class="backbtn" onclick="goBack()
 function setRegTab(t){REGTAB=t;render();}
 function viewRegulatory(){
   const all=REG||[];
-  const agencies=['MFDS','FDA'];
+  const agencies=['MFDS','FDA','EMA'];
   let h='<div class="phead"><h1>Regulatory <span style="color:var(--soft);font-weight:700;font-size:18px">규제 모니터링</span></h1><span class="meta">의약품 관련 신규 고시·안내서·가이던스</span></div>';
   // 기관 탭
   h+='<div class="rtabs">';
@@ -462,44 +460,25 @@ function viewAccum(layer){
   else{h+=tableHead([layer==='paper'?'게재일':'갱신일',layer==='paper'?'저널':'상태·단계']);rows.forEach(it=>h+=(layer==='paper'?rowPaper(it):rowTrial(it)));h+=tableEnd();}
   return h;
 }
-function viewArchive(pid){
-  if(!CUR_DATE) return '<div class="phead"><h1>Archive</h1></div>'+emptyState('아직 뉴스 데이터가 없습니다.');
-  let items=(CUR_DAY?CUR_DAY.items:[]);
-  if(pid) items=items.filter(it=>(it.pipelines||[]).includes(pid));
-  const t=CUR_DATE.split('-').map(Number),dw=DOW[new Date(t[0],t[1]-1,t[2]).getDay()];
-  const a=M.dates.map(x=>x.date),mn=a[a.length-1],mx=a[0];
-  const pObj=pid?(M.pipelines||[]).find(x=>x.id===pid):null;
-  let h='<div class="phead"><h1>Archive</h1><span class="sub">'+t[0]+'.'+String(t[1]).padStart(2,'0')+'.'+String(t[2]).padStart(2,'0')+' '+dw+'요일'+(pObj?' · '+esc(pObj.label):'')+'</span></div>';
-  // 파이프라인 필터 칩
-  h+='<div class="ctabs"><button class="ctab'+(!pid?' on':'')+'" onclick="setNav(\'archive\')">전체</button>';
-  (M.pipelines||[]).forEach(p=>{h+='<button class="ctab'+(pid===p.id?' on':'')+'" onclick="setNav(\'archive:'+p.id+'\')">'+esc(p.label)+'</button>';});
-  h+='</div>';
-  // 날짜 네비
-  h+='<div class="toolbar"><div class="datenav"><button onclick="shiftDay(1)">◀</button><input type="date" value="'+CUR_DATE+'" min="'+mn+'" max="'+mx+'" onchange="jumpDate(this.value)"><button onclick="shiftDay(-1)">▶</button></div>';
-  h+='<div class="seg"><button class="'+(REGION==='all'?'on':'')+'" onclick="setRegion(\'all\')">전체</button><button class="'+(REGION==='kr'?'on':'')+'" onclick="setRegion(\'kr\')">국내</button><button class="'+(REGION==='os'?'on':'')+'" onclick="setRegion(\'os\')">해외</button></div>';
-  h+='<div class="tbar">'+items.length+'건</div></div>';
-  let rows=items;if(REGION!=='all')rows=rows.filter(it=>(it.region||'kr')===REGION);if(FILTER)rows=rows.filter(it=>(it.title+it.publisher).toLowerCase().includes(FILTER));
-  if(!items.length)h+=emptyState('이 날짜에 해당하는 뉴스가 없습니다.');
-  else if(!rows.length)h+=emptyState('조건에 맞는 뉴스가 없습니다.');
-  else{h+=tableHead(['시각','출처']);rows.forEach(it=>h+=rowNews(it));h+=tableEnd();}
-  return h;
-}
 function viewPipeline(id){
   const p=(M.pipelines||[]).find(x=>x.id===id)||{id:id,label:id};const col=p.color||'var(--pep)';
   CUR_PIPE=p;
   const mine=crossAll().filter(it=>(it.pipelines||[]).includes(id));mine.sort((a,b)=>(b.published||'').localeCompare(a.published||''));
-  const today=(M.dates&&M.dates.length)?M.dates[0].date:null;
-  const newsToday=mine.filter(it=>it.layer==='news'&&it.date===(today?today.replace(/-/g,'.'):'__'));
+  const news=mine.filter(it=>it.layer==='news');
   const papers=mine.filter(it=>it.layer==='paper'),trials=mine.filter(it=>it.layer==='trial');
   const cc={};mine.forEach(it=>(it.companies||[]).forEach(c=>{cc[c]=(cc[c]||0)+1;}));
-  let h='<div class="phead"><h1 style="color:'+col+'">'+esc(p.label)+'</h1>'+(p.stage?'<span class="sub">'+esc(p.stage)+'</span>':'')+'<span class="meta">오늘 뉴스 '+newsToday.length+' · 논문 '+papers.length+' · 임상 '+trials.length+'</span></div>';
+  let h='<div class="phead"><h1 style="color:'+col+'">'+esc(p.label)+'</h1>'+(p.stage?'<span class="sub">'+esc(p.stage)+'</span>':'')+'<span class="meta">뉴스 '+news.length+' · 논문 '+papers.length+' · 임상 '+trials.length+'</span></div>';
   const comps=Object.keys(cc).sort((a,b)=>cc[b]-cc[a]);
   if(comps.length){h+='<div class="sec"><div class="sectitle sm"><span class="t">관련 경쟁사</span><span class="ln"></span></div><div class="comp">';
     comps.forEach(c=>{const lbl=((M.companies||[]).find(x=>x.id===c)||{}).label||c;h+='<span class="compc" onclick="setNav(\'company:'+c+'\')"><b>'+esc(lbl)+'</b> '+cc[c]+'</span>';});h+='</div></div>';}
-  // 관련 뉴스: 오늘치만 + 지난 뉴스 더보기 (칩 필터 없음)
-  h+='<div class="sec"><div class="sectitle sm"><span class="t">관련 뉴스 <span style="color:var(--soft);font-weight:600">· 오늘</span></span><span class="ln"></span>'+dlBtn('news')+'<span class="more" onclick="setNav(\'archive:'+id+'\')">지난 뉴스 더보기 ›</span></div>';
-  if(!newsToday.length)h+='<div style="font-size:12.5px;color:var(--soft);padding:4px 0">오늘 등록된 뉴스가 없습니다.</div>';
-  else{h+=tableHead(['시각','출처']);newsToday.forEach(it=>h+=rowNews(it));h+=tableEnd();}
+  // 관련 뉴스: 최근순 10건 + 더보기 (칩 필터 없음)
+  h+='<div class="sec"><div class="sectitle sm"><span class="t">관련 뉴스</span><span class="ln"></span><span class="n">'+news.length+'</span>'+dlBtn('news')+'</div>';
+  if(!news.length)h+='<div style="font-size:12.5px;color:var(--soft);padding:4px 0">관련 뉴스가 없습니다.</div>';
+  else{
+    const lim=MORE['news-all']?news.length:10;
+    h+=tableHead(['날짜','출처']);news.slice(0,lim).forEach(it=>h+=rowNews(it));h+=tableEnd();
+    if(news.length>10)h+='<div class="morebtn" onclick="toggleMore(\'news-all\')">'+(MORE['news-all']?'접기 ▲':'+ 더보기 ('+(news.length-10)+'건)')+'</div>';
+  }
   h+='</div>';
   h+=secTableMore('관련 논문',papers,'paper','paper',p)+secTableMore('관련 임상',trials,'trial','trial',p);
   return h;
@@ -544,7 +523,7 @@ function downloadCSV(section){
   if(CUR_PIPE){
     const id=CUR_PIPE.id;
     const mine=crossAll().filter(it=>(it.pipelines||[]).includes(id));
-    if(section==='news'){const today=(M.dates&&M.dates.length)?M.dates[0].date.replace(/-/g,'.'):'';rows=mine.filter(it=>it.layer==='news'&&it.date===today);}
+    if(section==='news'){rows=mine.filter(it=>it.layer==='news');}
     else if(section==='paper')rows=mine.filter(it=>it.layer==='paper');
     else rows=mine.filter(it=>it.layer==='trial');
     rows=chipFilter(rows,section);
