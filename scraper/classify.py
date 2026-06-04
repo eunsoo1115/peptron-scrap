@@ -61,14 +61,26 @@ def classify(item, classify_keywords):
 
 
 def tag_by_defs(text, defs):
-    """defs = [{"id":..., "keywords":[...]}], 텍스트에 키워드가 있으면 그 id 목록 반환 (복수 가능)."""
+    """defs = [{"id":..., "keywords":[...], "exclude":[...]}], 텍스트에 키워드가 있으면 그 id 반환.
+    단, exclude 단어가 텍스트에 있으면 그 id는 제외(코드명 직접 매칭은 예외로 항상 인정)."""
     text = (text or "").lower()
     hits = []
     for d in defs:
+        did = d["id"]
+        excl = [w.lower() for w in d.get("exclude", [])]
+        # 코드명(id 자체)이 본문에 있으면 제외어 무시하고 무조건 인정
+        if did.lower() in text:
+            hits.append(did)
+            continue
+        matched = False
         for kw in d.get("keywords", []):
             if kw.lower() in text:
-                hits.append(d["id"])
+                matched = True
                 break
+        if matched and excl and any(w in text for w in excl):
+            matched = False
+        if matched:
+            hits.append(did)
     return hits
 
 
