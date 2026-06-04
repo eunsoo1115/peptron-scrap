@@ -609,6 +609,16 @@
         "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/drugs/rss.xml",
         "label": "FDA Drugs"
       }
+    ],
+    "ema_rss": [
+      {
+        "url": "https://www.ema.europa.eu/en/scientific-guidelines.xml",
+        "label": "Scientific Guidelines"
+      },
+      {
+        "url": "https://www.ema.europa.eu/en/regulatory-and-procedural-guideline.xml",
+        "label": "Regulatory & Procedural"
+      }
     ]
   }
 }
