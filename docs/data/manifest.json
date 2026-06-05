@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-05T10:27:30.946796+09:00",
+  "updated_at": "2026-06-05T16:27:20.794098+09:00",
   "dates": [
     {
       "date": "2026-06-05",
-      "total": 2505,
+      "total": 2708,
       "counts": {
-        "core": 357,
-        "obesity": 722,
-        "npr": 314,
-        "platform": 498,
-        "reg": 359,
-        "mkt": 255
+        "core": 362,
+        "obesity": 808,
+        "npr": 318,
+        "platform": 527,
+        "reg": 400,
+        "mkt": 293
       }
     },
     {
@@ -143,7 +143,7 @@
     }
   ],
   "papers": {
-    "total": 1565,
+    "total": 1576,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -157,15 +157,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 1945,
+  "news_recent_total": 2055,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 494,
+      "news": 505,
       "papers": 95,
       "trials": 76,
-      "total": 665,
+      "total": 676,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -192,11 +192,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 307,
+      "news": 315,
       "papers": 83,
       "trials": 78,
-      "total": 468,
-      "recent": "2026-06-05T10:08:00+09:00",
+      "total": 476,
+      "recent": "2026-06-05T15:38:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -224,11 +224,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 54,
+      "news": 55,
       "papers": 130,
       "trials": 40,
-      "total": 224,
-      "recent": "2026-06-05T06:02:00+09:00",
+      "total": 225,
+      "recent": "2026-06-05T12:34:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -287,11 +287,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 109,
+      "news": 114,
       "papers": 0,
       "trials": 0,
-      "total": 109,
-      "recent": "2026-06-05T10:06:00+09:00",
+      "total": 114,
+      "recent": "2026-06-05T15:49:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -307,31 +307,31 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 54,
+      "news": 56,
       "papers": 0,
       "trials": 0,
-      "total": 54,
-      "recent": "2026-06-04T18:11:00+09:00",
+      "total": 56,
+      "recent": "2026-06-05T10:52:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 207,
+      "news": 215,
       "papers": 0,
       "trials": 0,
-      "total": 207,
-      "recent": "2026-06-05T09:59:00+09:00",
+      "total": 215,
+      "recent": "2026-06-05T14:50:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 111,
+      "news": 116,
       "papers": 1,
       "trials": 0,
-      "total": 112,
-      "recent": "2026-06-05T02:35:00+09:00",
+      "total": 117,
+      "recent": "2026-06-05T15:09:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -347,12 +347,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 101,
-      "yesterday": 289
+      "today": 208,
+      "yesterday": 290
     },
     "paper": {
-      "today": 6,
-      "yesterday": 14
+      "today": 7,
+      "yesterday": 22
     },
     "trial": {
       "today": 0,
@@ -408,7 +408,7 @@
     },
     {
       "date": "2026-05-13",
-      "news": 33,
+      "news": 34,
       "paper": 10,
       "trial": 17,
       "regulatory": 0
@@ -464,7 +464,7 @@
     },
     {
       "date": "2026-05-21",
-      "news": 40,
+      "news": 41,
       "paper": 19,
       "trial": 0,
       "regulatory": 0
@@ -556,21 +556,21 @@
     {
       "date": "2026-06-03",
       "news": 111,
-      "paper": 12,
+      "paper": 14,
       "trial": 14,
       "regulatory": 1
     },
     {
       "date": "2026-06-04",
-      "news": 289,
-      "paper": 14,
+      "news": 290,
+      "paper": 22,
       "trial": 9,
       "regulatory": 21
     },
     {
       "date": "2026-06-05",
-      "news": 101,
-      "paper": 6,
+      "news": 208,
+      "paper": 7,
       "trial": 0,
       "regulatory": 51
     }
@@ -593,6 +593,21 @@
       "published": "2026-06-02T17:10:00+09:00",
       "date": "2026.06.02",
       "publisher": "kormedi.com"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "FDA CNPV 확산, 국내 제약ㆍ바이오 미국 진출 전략 변수로",
+      "layer": "news",
+      "url": "http://www.newsmp.com/news/articleView.html?idxno=254262",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PND3174"
+      ],
+      "published": "2026-06-05T12:34:00+09:00",
+      "date": "2026.06.05",
+      "publisher": "newsmp.com"
     },
     {
       "level": "High",
@@ -688,21 +703,6 @@
       "published": "2026-05-18T00:00:00+09:00",
       "date": "2026.05.18",
       "publisher": "Ali Aminian"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "Comparative Study of Tirzepatide Versus Dulaglutide (SURPASS CVOT) or Semaglutide on Major Cardiovascular Events in Participants With Type 2 Diabetes",
-      "layer": "trial",
-      "url": "https://clinicaltrials.gov/study/NCT06779929",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-05-15T00:00:00+09:00",
-      "date": "2026.05.15",
-      "publisher": "Brigham and Women's Hospital"
     }
   ],
   "highlights": {
@@ -715,6 +715,15 @@
         "date": "2026.06.02",
         "published": "2026-06-02T17:10:00+09:00",
         "publisher": "kormedi.com"
+      },
+      {
+        "level": "High",
+        "title": "FDA CNPV 확산, 국내 제약ㆍ바이오 미국 진출 전략 변수로",
+        "layer": "news",
+        "url": "http://www.newsmp.com/news/articleView.html?idxno=254262",
+        "date": "2026.06.05",
+        "published": "2026-06-05T12:34:00+09:00",
+        "publisher": "newsmp.com"
       },
       {
         "level": "High",
@@ -742,15 +751,6 @@
         "date": "2026.05.26",
         "published": "2026-05-26T20:58:00+09:00",
         "publisher": "newsmp.com"
-      },
-      {
-        "level": "High",
-        "title": "A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT06897475",
-        "date": "2026.05.22",
-        "published": "2026-05-22T00:00:00+09:00",
-        "publisher": "Eli Lilly and Company"
       }
     ],
     "PT404": [
@@ -802,6 +802,15 @@
     ],
     "PND3174": [
       {
+        "level": "High",
+        "title": "FDA CNPV 확산, 국내 제약ㆍ바이오 미국 진출 전략 변수로",
+        "layer": "news",
+        "url": "http://www.newsmp.com/news/articleView.html?idxno=254262",
+        "date": "2026.06.05",
+        "published": "2026-06-05T12:34:00+09:00",
+        "publisher": "newsmp.com"
+      },
+      {
         "level": "Medium",
         "title": "美FDA, 올해 상반기 19개 신약 승인…경구용 비만약·코로나 치료제 등장",
         "layer": "news",
@@ -836,15 +845,6 @@
         "date": "2026.03.17",
         "published": "2026-03-17T00:00:00+09:00",
         "publisher": "QED Therapeutics, a BridgeBio company"
-      },
-      {
-        "level": "Medium",
-        "title": "Interventional Study of Vosoritide for the Treatment of Children With Hypochondroplasia",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT06455059",
-        "date": "2026.01.20",
-        "published": "2026-01-20T00:00:00+09:00",
-        "publisher": "BioMarin Pharmaceutical"
       }
     ],
     "PT320": [
