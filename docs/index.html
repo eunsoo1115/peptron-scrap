@@ -491,7 +491,7 @@ function viewDashboard(){
   const ps=M.pipelines||[];
   let h='<div class="hero hero-solo"><div class="greet">'+greeting()+' 👋</div><h1>PepTracker</h1>'+(M.site_tagline?'<p>'+esc(M.site_tagline)+'</p>':'')+'</div>';
 
-  h+='<div class="sectitle"><span class="t">Pipeline Overview</span><span class="more" onclick="toggleMenu(\'pipelines\',event)">View all pipelines ›</span></div>';
+  h+='<div class="sectitle"><span class="t">Pipeline Overview</span></div>';
   const hl=M.highlights||{};
   h+='<div class="pcards">';
   ps.forEach((p,i)=>{
