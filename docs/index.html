@@ -90,14 +90,12 @@
   @media(max-width:860px){.pcards{grid-template-columns:1fr;}}
   .pcard{position:relative;background:var(--card);border-radius:22px;padding:22px 24px;box-shadow:var(--sh);cursor:pointer;transition:transform .2s,box-shadow .2s;overflow:hidden;animation:rise .4s ease both;border-left:5px solid var(--pc,var(--pep));}
   .pcard .pchead{display:flex;align-items:flex-start;gap:14px;}
-  .pcard .pcttl{flex:1;}
-  .pcard .pchead .dots{position:static;width:54px;height:54px;opacity:.9;order:2;}
-  .pcard .pcttl{order:1;}
+  .pcard .pchead .pcttl{flex:1;order:1;}
+  .pcard .pchead .dots{position:static;width:54px;height:54px;opacity:.9;flex-shrink:0;order:2;}
   .pcard::before{content:'';position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--pc,#0077c8);}
   .pcard:hover{transform:translateY(-4px);box-shadow:var(--sh-lg);}
   @keyframes rise{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
-  .pcard .dots{position:absolute;top:20px;right:20px;width:62px;height:62px;opacity:.9;}
-  /*area*/.pcard .area{display:inline-block;font-size:11px;font-weight:700;padding:4px 11px;border-radius:999px;}
+  .pcard .area{display:inline-block;font-size:11px;font-weight:700;padding:4px 11px;border-radius:999px;}
   .pcard .pn{font-size:26px;font-weight:800;letter-spacing:-0.02em;margin-top:8px;color:var(--pc);}
   .pcard .pd{font-size:13.5px;color:var(--muted);margin-top:5px;}
   .pcard .stage{display:inline-block;font-size:11.5px;font-weight:700;color:var(--muted);background:#f3f5f8;padding:5px 12px;border-radius:8px;margin-top:10px;}
@@ -133,7 +131,8 @@
   .uli .ub{font-size:10.5px;font-weight:700;padding:3px 10px;border-radius:7px;flex-shrink:0;}
   .uli .ud{font-size:12px;color:var(--soft);font-variant-numeric:tabular-nums;flex-shrink:0;width:78px;text-align:right;}
   .clogos{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;}
-  .clogos.big{grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:18px;}
+  .clogos.big{grid-template-columns:repeat(3,1fr);gap:18px;}
+  @media(max-width:760px){.clogos.big{grid-template-columns:repeat(2,1fr);}}
   .ccardbig{background:#fff;border-radius:20px;padding:26px 22px;box-shadow:var(--sh);cursor:pointer;transition:transform .18s,box-shadow .18s;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;min-height:130px;}
   .ccardbig:hover{transform:translateY(-4px);box-shadow:var(--sh-lg);}
   .ccardbig .logobox{height:46px;display:flex;align-items:center;justify-content:center;}
@@ -251,7 +250,7 @@
 <div class="topbar"><div class="tb-in">
   <div class="tb-logo" id="tblogo"></div>
   <div class="tb-sp"></div>
-  <div class="tb-search"><span style="color:rgba(255,255,255,.8);font-size:13px;">⌕</span><input id="q" type="text" placeholder="검색"></div>
+  <div class="tb-search"><span style="color:rgba(255,255,255,.8);font-size:13px;">⌕</span><input id="q" type="text" placeholder="검색 (Enter)" onkeydown="if(event.key==='Enter')doSearch(this.value)"></div>
   <div class="tb-upd" id="upd"></div>
 </div></div>
 <div class="subnav"><div class="sn-in">
@@ -334,6 +333,40 @@ async function setNav(nav,opts){
 }
 function goBack(){ if(BACK.length){ const p=BACK.pop(); setNav(p,{fromBack:true,fromHistory:true}); } }
 window.addEventListener('popstate',function(){ if(BACK.length) goBack(); });
+
+// 통합 검색
+let SEARCHQ='';
+async function doSearch(q){
+  q=(q||'').trim(); if(!q)return;
+  SEARCHQ=q;
+  // 모든 데이터 로드
+  if(!CUR_DAY||CUR_DAY.date!==CUR_DATE) await loadDay(CUR_DATE);
+  await loadCross(); await loadReg();
+  if(NAV!=='search') BACK.push(NAV);
+  NAV='search'; renderNav();
+  try{ history.pushState({nav:'search'},''); }catch(e){}
+  render(); window.scrollTo(0,0);
+}
+function viewSearch(){
+  const q=SEARCHQ.toLowerCase();
+  const pool=[].concat(CROSS.news||[],CROSS.papers||[],CROSS.trials||[],REG||[]);
+  const hit=pool.filter(it=>((it.title||'')+' '+(it.summary||'')+' '+(it.dept||'')+' '+(it.publisher||'')).toLowerCase().includes(q));
+  hit.sort((a,b)=>(b.published||'').localeCompare(a.published||''));
+  let h='<div class="phead"><h1>검색 결과</h1><span class="sub">"'+esc(SEARCHQ)+'" · '+hit.length+'건</span></div>';
+  if(!hit.length){h+='<div class="empty" style="padding:30px 0;color:var(--soft)">검색 결과가 없습니다.</div>';return h;}
+  h+='<div class="reglist" style="background:var(--line)">';
+  hit.slice(0,100).forEach(it=>{
+    const lay=it.layer==='paper'?'논문':it.layer==='trial'?'임상':it.layer==='regulatory'?'규제':'뉴스';
+    const lic=it.layer==='paper'?'📄':it.layer==='trial'?'🧪':it.layer==='regulatory'?'⚖':'📰';
+    h+='<a class="regitem" href="'+esc(it.url)+'" target="_blank" rel="noopener">'
+      +'<div class="rtit">'+lic+' '+esc(it.title)+'</div>'
+      +'<div class="rmeta"><span class="rno">'+lay+'</span>'+(it.publisher?'<span class="rdt">'+esc(it.publisher)+'</span>':'')+(it.date?'<span class="rdt">'+esc(it.date)+'</span>':'')+'</div>'
+      +'</a>';
+  });
+  h+='</div>';
+  if(hit.length>100)h+='<div class="empty" style="padding:14px;color:var(--soft)">상위 100건만 표시</div>';
+  return h;
+}
 function setCTab(c){CTAB=c;render();}
 function setYF(v){YF=+v;render();} function setYT(v){YT=+v;render();}
 function setRegion(r){REGION=r;render();}
@@ -392,6 +425,7 @@ function render(){
   else if(NAV==='companies') W.innerHTML=bb+viewCompaniesList();
   else if(NAV.startsWith('company:')) W.innerHTML=bb+viewCompany(NAV.slice(8));
   else if(NAV==='regulatory') W.innerHTML=bb+viewRegulatory();
+  else if(NAV==='search') W.innerHTML=bb+viewSearch();
 }
 function backBar(){return BACK.length?'<button class="backbtn" onclick="goBack()">← 뒤로</button>':'';}
 
