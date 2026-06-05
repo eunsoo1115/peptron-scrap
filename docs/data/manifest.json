@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-05T08:37:28.309453+09:00",
+  "updated_at": "2026-06-05T10:27:30.946796+09:00",
   "dates": [
     {
       "date": "2026-06-05",
-      "total": 2400,
+      "total": 2505,
       "counts": {
-        "core": 336,
-        "obesity": 694,
+        "core": 357,
+        "obesity": 722,
         "npr": 314,
-        "platform": 476,
-        "reg": 343,
-        "mkt": 237
+        "platform": 498,
+        "reg": 359,
+        "mkt": 255
       }
     },
     {
@@ -157,15 +157,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 1889,
+  "news_recent_total": 1945,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 489,
+      "news": 494,
       "papers": 95,
       "trials": 76,
-      "total": 660,
+      "total": 665,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -192,14 +192,14 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 304,
+      "news": 307,
       "papers": 83,
       "trials": 78,
-      "total": 465,
-      "recent": "2026-06-04T21:19:23+09:00",
+      "total": 468,
+      "recent": "2026-06-05T10:08:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
-      "stage": "Preclinical",
+      "stage": "Nonclinical",
       "color": "#7c3aed",
       "chips": [
         {
@@ -231,7 +231,7 @@
       "recent": "2026-06-05T06:02:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
-      "stage": "Phase 1",
+      "stage": "IND Preparation",
       "color": "#0d9488",
       "chips": [
         {
@@ -287,21 +287,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 91,
+      "news": 109,
       "papers": 0,
       "trials": 0,
-      "total": 91,
-      "recent": "2026-06-04T23:34:00+09:00",
+      "total": 109,
+      "recent": "2026-06-05T10:06:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 49,
+      "news": 50,
       "papers": 0,
       "trials": 0,
-      "total": 49,
-      "recent": "2026-06-04T18:11:00+09:00",
+      "total": 50,
+      "recent": "2026-06-05T09:30:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -317,11 +317,11 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 205,
+      "news": 207,
       "papers": 0,
       "trials": 0,
-      "total": 205,
-      "recent": "2026-06-05T07:20:00+09:00",
+      "total": 207,
+      "recent": "2026-06-05T09:59:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -347,8 +347,8 @@
   ],
   "kpi": {
     "news": {
-      "today": 46,
-      "yesterday": 288
+      "today": 101,
+      "yesterday": 289
     },
     "paper": {
       "today": 6,
@@ -562,14 +562,14 @@
     },
     {
       "date": "2026-06-04",
-      "news": 288,
+      "news": 289,
       "paper": 14,
       "trial": 9,
       "regulatory": 21
     },
     {
       "date": "2026-06-05",
-      "news": 46,
+      "news": 101,
       "paper": 6,
       "trial": 0,
       "regulatory": 51
