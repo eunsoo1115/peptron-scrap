@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T19:59:31.221236+09:00",
-  "total": 1611,
+  "updated_at": "2026-06-07T07:53:04.668549+09:00",
+  "total": 1613,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -523,6 +523,40 @@
       "summary": "Xie J et al. · Current obesity reports",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42249250/",
       "publisher": "Current obesity reports",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Once-Weekly Subcutaneous Semaglutide 2.4 mg Injection is Cost-Effective for Weight Management in Spain",
+      "summary": "Altés A et al. · Advances in therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42250076/",
+      "publisher": "Advances in therapy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Is Maternal Diabetes Mellitus Type 2 a Protective Factor for Atopic Dermatitis in Children? A Nationwide Retrospective Cohort Study",
+      "summary": "Weissmann S et al. · Dermatitis : contact, atopic, occupational, drug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42249778/",
+      "publisher": "Dermatitis : contact, atopic, occupational, d",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
