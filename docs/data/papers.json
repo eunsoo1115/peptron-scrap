@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T20:14:39.001102+09:00",
-  "total": 1623,
+  "updated_at": "2026-06-08T07:53:38.875405+09:00",
+  "total": 1624,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -513,6 +513,22 @@
       "published": "2026-06-09T00:00:00+09:00",
       "time": "00:00",
       "date": "2026.06.09",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Treatment With 9-mg Mazdutide for Weight Reduction in Chinese Adults With Obesity: The GLORY-2 Randomized Clinical Trial",
+      "summary": "Gao L et al. · JAMA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42251595/",
+      "publisher": "JAMA",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-07T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.07",
       "year": 2026,
       "category": "obesity",
       "pipelines": [],

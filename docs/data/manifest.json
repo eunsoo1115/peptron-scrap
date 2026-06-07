@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-07T20:15:36.437332+09:00",
+  "updated_at": "2026-06-08T07:54:30.805803+09:00",
   "dates": [
+    {
+      "date": "2026-06-08",
+      "total": 2334,
+      "counts": {
+        "core": 329,
+        "obesity": 657,
+        "npr": 312,
+        "platform": 480,
+        "reg": 335,
+        "mkt": 221
+      }
+    },
     {
       "date": "2026-06-07",
       "total": 2614,
@@ -167,7 +179,7 @@
     }
   ],
   "papers": {
-    "total": 1623,
+    "total": 1624,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -181,15 +193,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 2261,
+  "news_recent_total": 2312,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 550,
+      "news": 556,
       "papers": 98,
       "trials": 77,
-      "total": 725,
+      "total": 731,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -220,7 +232,7 @@
       "papers": 91,
       "trials": 79,
       "total": 518,
-      "recent": "2026-06-07T18:17:34+09:00",
+      "recent": "2026-06-07T20:55:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -341,42 +353,42 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 234,
+      "news": 238,
       "papers": 0,
       "trials": 0,
-      "total": 234,
-      "recent": "2026-06-07T18:13:00+09:00",
+      "total": 238,
+      "recent": "2026-06-08T07:47:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 122,
+      "news": 125,
       "papers": 1,
       "trials": 0,
-      "total": 123,
-      "recent": "2026-06-07T17:31:00+09:00",
+      "total": 126,
+      "recent": "2026-06-08T07:12:00+09:00",
       "logo": "logos/novo.png"
     },
     {
       "id": "amgen",
       "label": "암젠 (Amgen)",
-      "news": 4,
+      "news": 3,
       "papers": 0,
       "trials": 0,
-      "total": 4,
+      "total": 3,
       "recent": "2026-06-06T06:38:27+09:00",
       "logo": "logos/amgen.png"
     }
   ],
   "kpi": {
     "news": {
-      "today": 71,
-      "yesterday": 84
+      "today": 55,
+      "yesterday": 82
     },
     "paper": {
       "today": 0,
-      "yesterday": 9
+      "yesterday": 1
     },
     "trial": {
       "today": 0,
@@ -384,17 +396,10 @@
     },
     "regulatory": {
       "today": 0,
-      "yesterday": 11
+      "yesterday": 0
     }
   },
   "trend": [
-    {
-      "date": "2026-05-09",
-      "news": 3,
-      "paper": 6,
-      "trial": 0,
-      "regulatory": 0
-    },
     {
       "date": "2026-05-10",
       "news": 2,
@@ -411,7 +416,7 @@
     },
     {
       "date": "2026-05-12",
-      "news": 30,
+      "news": 31,
       "paper": 16,
       "trial": 23,
       "regulatory": 0
@@ -432,7 +437,7 @@
     },
     {
       "date": "2026-05-15",
-      "news": 24,
+      "news": 25,
       "paper": 26,
       "trial": 18,
       "regulatory": 0
@@ -453,7 +458,7 @@
     },
     {
       "date": "2026-05-18",
-      "news": 44,
+      "news": 45,
       "paper": 28,
       "trial": 18,
       "regulatory": 0
@@ -586,14 +591,21 @@
     },
     {
       "date": "2026-06-06",
-      "news": 84,
+      "news": 86,
       "paper": 9,
       "trial": 0,
       "regulatory": 11
     },
     {
       "date": "2026-06-07",
-      "news": 71,
+      "news": 82,
+      "paper": 1,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-06-08",
+      "news": 55,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
