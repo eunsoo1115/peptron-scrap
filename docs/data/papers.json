@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T16:13:20.360741+09:00",
-  "total": 1622,
+  "updated_at": "2026-06-07T20:14:39.001102+09:00",
+  "total": 1623,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -637,6 +637,22 @@
       "summary": "Stefan N · Diabetes",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42250281/",
       "publisher": "Diabetes",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-Like Peptide-1 Receptor Agonist Use and Postoperative Outcomes After Distal Radius Fracture Fixation in Adults With Type 2 Diabetes",
+      "summary": "Choudhury A et al. · Hand (New York, N.Y.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42251480/",
+      "publisher": "Hand (New York, N.Y.)",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
