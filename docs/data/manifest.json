@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-08T07:54:30.805803+09:00",
+  "updated_at": "2026-06-08T17:31:31.296852+09:00",
   "dates": [
     {
       "date": "2026-06-08",
-      "total": 2334,
+      "total": 2684,
       "counts": {
-        "core": 329,
-        "obesity": 657,
-        "npr": 312,
-        "platform": 480,
-        "reg": 335,
-        "mkt": 221
+        "core": 379,
+        "obesity": 807,
+        "npr": 324,
+        "platform": 514,
+        "reg": 383,
+        "mkt": 277
       }
     },
     {
@@ -179,7 +179,7 @@
     }
   ],
   "papers": {
-    "total": 1624,
+    "total": 1639,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -193,15 +193,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 2312,
+  "news_recent_total": 2580,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 556,
-      "papers": 98,
+      "news": 636,
+      "papers": 104,
       "trials": 77,
-      "total": 731,
+      "total": 817,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -228,11 +228,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 348,
-      "papers": 91,
+      "news": 397,
+      "papers": 92,
       "trials": 79,
-      "total": 518,
-      "recent": "2026-06-07T20:55:00+09:00",
+      "total": 568,
+      "recent": "2026-06-08T17:06:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -323,51 +323,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 114,
+      "news": 162,
       "papers": 0,
       "trials": 0,
-      "total": 114,
-      "recent": "2026-06-07T16:36:00+09:00",
+      "total": 162,
+      "recent": "2026-06-08T17:10:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 55,
+      "news": 81,
       "papers": 0,
       "trials": 0,
-      "total": 55,
-      "recent": "2026-06-07T18:10:00+09:00",
+      "total": 81,
+      "recent": "2026-06-08T17:14:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 55,
+      "news": 77,
       "papers": 0,
       "trials": 0,
-      "total": 55,
-      "recent": "2026-06-07T16:36:00+09:00",
+      "total": 77,
+      "recent": "2026-06-08T16:49:33+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 238,
+      "news": 254,
       "papers": 0,
       "trials": 0,
-      "total": 238,
-      "recent": "2026-06-08T07:47:00+09:00",
+      "total": 254,
+      "recent": "2026-06-08T17:05:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 125,
+      "news": 140,
       "papers": 1,
       "trials": 0,
-      "total": 126,
-      "recent": "2026-06-08T07:12:00+09:00",
+      "total": 141,
+      "recent": "2026-06-08T17:05:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -383,12 +383,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 55,
-      "yesterday": 82
+      "today": 311,
+      "yesterday": 86
     },
     "paper": {
       "today": 0,
-      "yesterday": 1
+      "yesterday": 12
     },
     "trial": {
       "today": 0,
@@ -465,14 +465,14 @@
     },
     {
       "date": "2026-05-19",
-      "news": 36,
+      "news": 37,
       "paper": 21,
       "trial": 24,
       "regulatory": 0
     },
     {
       "date": "2026-05-20",
-      "news": 36,
+      "news": 38,
       "paper": 36,
       "trial": 11,
       "regulatory": 0
@@ -486,7 +486,7 @@
     },
     {
       "date": "2026-05-22",
-      "news": 52,
+      "news": 54,
       "paper": 28,
       "trial": 31,
       "regulatory": 2
@@ -557,7 +557,7 @@
     {
       "date": "2026-06-01",
       "news": 185,
-      "paper": 96,
+      "paper": 97,
       "trial": 6,
       "regulatory": 0
     },
@@ -570,21 +570,21 @@
     },
     {
       "date": "2026-06-03",
-      "news": 115,
+      "news": 116,
       "paper": 15,
       "trial": 14,
       "regulatory": 1
     },
     {
       "date": "2026-06-04",
-      "news": 294,
+      "news": 295,
       "paper": 30,
       "trial": 9,
       "regulatory": 21
     },
     {
       "date": "2026-06-05",
-      "news": 284,
+      "news": 285,
       "paper": 22,
       "trial": 10,
       "regulatory": 54
@@ -592,20 +592,20 @@
     {
       "date": "2026-06-06",
       "news": 86,
-      "paper": 9,
+      "paper": 12,
       "trial": 0,
       "regulatory": 11
     },
     {
       "date": "2026-06-07",
-      "news": 82,
-      "paper": 1,
+      "news": 86,
+      "paper": 12,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-06-08",
-      "news": 55,
+      "news": 311,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
@@ -629,6 +629,24 @@
       "published": "2026-06-02T17:10:00+09:00",
       "date": "2026.06.02",
       "publisher": "kormedi.com"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "\"당뇨 넘어 비만·합병증 전방위 억제… 예방과 관리로 패러다임 전환\"",
+      "layer": "news",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=76693",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-08T12:10:00+09:00",
+      "date": "2026.06.08",
+      "publisher": "히트뉴스"
     },
     {
       "level": "High",
@@ -724,21 +742,6 @@
       "published": "2026-05-26T20:58:00+09:00",
       "date": "2026.05.26",
       "publisher": "newsmp.com"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide",
-      "layer": "trial",
-      "url": "https://clinicaltrials.gov/study/NCT06897475",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-05-22T00:00:00+09:00",
-      "date": "2026.05.22",
-      "publisher": "Eli Lilly and Company"
     }
   ],
   "highlights": {
@@ -751,6 +754,15 @@
         "date": "2026.06.02",
         "published": "2026-06-02T17:10:00+09:00",
         "publisher": "kormedi.com"
+      },
+      {
+        "level": "High",
+        "title": "\"당뇨 넘어 비만·합병증 전방위 억제… 예방과 관리로 패러다임 전환\"",
+        "layer": "news",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=76693",
+        "date": "2026.06.08",
+        "published": "2026-06-08T12:10:00+09:00",
+        "publisher": "히트뉴스"
       },
       {
         "level": "High",
@@ -778,15 +790,6 @@
         "date": "2026.06.02",
         "published": "2026-06-02T00:00:00+09:00",
         "publisher": "Brigham and Women's Hospital"
-      },
-      {
-        "level": "High",
-        "title": "MS '가성비 AI'·릴리 '보험 등재'…메가캡 호재에 미 증시 상승 마감 [ ...",
-        "layer": "news",
-        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605290181&t=NN",
-        "date": "2026.05.29",
-        "published": "2026-05-29T07:45:00+09:00",
-        "publisher": "wowtv.co.kr"
       }
     ],
     "PT404": [
@@ -798,6 +801,15 @@
         "date": "2026.06.02",
         "published": "2026-06-02T17:10:00+09:00",
         "publisher": "kormedi.com"
+      },
+      {
+        "level": "High",
+        "title": "\"당뇨 넘어 비만·합병증 전방위 억제… 예방과 관리로 패러다임 전환\"",
+        "layer": "news",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=76693",
+        "date": "2026.06.08",
+        "published": "2026-06-08T12:10:00+09:00",
+        "publisher": "히트뉴스"
       },
       {
         "level": "High",
@@ -825,15 +837,6 @@
         "date": "2026.06.02",
         "published": "2026-06-02T00:00:00+09:00",
         "publisher": "Brigham and Women's Hospital"
-      },
-      {
-        "level": "High",
-        "title": "MS '가성비 AI'·릴리 '보험 등재'…메가캡 호재에 미 증시 상승 마감 [ ...",
-        "layer": "news",
-        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605290181&t=NN",
-        "date": "2026.05.29",
-        "published": "2026-05-29T07:45:00+09:00",
-        "publisher": "wowtv.co.kr"
       }
     ],
     "PND3174": [
