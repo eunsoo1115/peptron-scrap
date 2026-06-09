@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-09T08:07:51.636810+09:00",
+  "updated_at": "2026-06-09T16:08:05.757681+09:00",
   "dates": [
     {
       "date": "2026-06-09",
-      "total": 2148,
+      "total": 2519,
       "counts": {
-        "core": 300,
-        "obesity": 573,
-        "npr": 309,
-        "platform": 412,
-        "reg": 332,
-        "mkt": 222
+        "core": 337,
+        "obesity": 758,
+        "npr": 321,
+        "platform": 443,
+        "reg": 375,
+        "mkt": 285
       }
     },
     {
@@ -191,7 +191,7 @@
     }
   ],
   "papers": {
-    "total": 1669,
+    "total": 1688,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -205,15 +205,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 2778,
+  "news_recent_total": 3015,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 685,
-      "papers": 111,
+      "news": 752,
+      "papers": 113,
       "trials": 78,
-      "total": 874,
+      "total": 943,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -240,11 +240,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 418,
-      "papers": 93,
+      "news": 460,
+      "papers": 94,
       "trials": 79,
-      "total": 590,
-      "recent": "2026-06-09T07:17:02+09:00",
+      "total": 633,
+      "recent": "2026-06-09T15:43:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -335,51 +335,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 164,
+      "news": 193,
       "papers": 0,
       "trials": 0,
-      "total": 164,
-      "recent": "2026-06-09T05:46:00+09:00",
+      "total": 193,
+      "recent": "2026-06-09T15:53:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 83,
+      "news": 84,
       "papers": 0,
       "trials": 0,
-      "total": 83,
-      "recent": "2026-06-09T07:02:00+09:00",
+      "total": 84,
+      "recent": "2026-06-09T15:55:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 82,
+      "news": 89,
       "papers": 0,
       "trials": 0,
-      "total": 82,
-      "recent": "2026-06-09T06:46:29+09:00",
+      "total": 89,
+      "recent": "2026-06-09T13:56:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 285,
+      "news": 314,
       "papers": 0,
       "trials": 0,
-      "total": 285,
-      "recent": "2026-06-09T07:30:00+09:00",
+      "total": 314,
+      "recent": "2026-06-09T15:43:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 164,
+      "news": 171,
       "papers": 1,
       "trials": 0,
-      "total": 165,
-      "recent": "2026-06-09T07:26:00+09:00",
+      "total": 172,
+      "recent": "2026-06-09T15:49:12+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -395,12 +395,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 113,
-      "yesterday": 390
+      "today": 344,
+      "yesterday": 396
     },
     "paper": {
-      "today": 1,
-      "yesterday": 4
+      "today": 4,
+      "yesterday": 19
     },
     "trial": {
       "today": 0,
@@ -604,21 +604,21 @@
     {
       "date": "2026-06-07",
       "news": 88,
-      "paper": 13,
+      "paper": 14,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-06-08",
-      "news": 390,
-      "paper": 4,
+      "news": 396,
+      "paper": 19,
       "trial": 6,
       "regulatory": 4
     },
     {
       "date": "2026-06-09",
-      "news": 113,
-      "paper": 1,
+      "news": 344,
+      "paper": 4,
       "trial": 0,
       "regulatory": 10
     }
@@ -641,6 +641,47 @@
       "published": "2026-06-02T17:10:00+09:00",
       "date": "2026.06.02",
       "publisher": "kormedi.com"
+    },
+    {
+      "level": "High",
+      "score": 11,
+      "title": "HK이노엔 \"도입 GLP-1 신약, 세마글루타이드 대비 체중감소 효과 확인\"",
+      "layer": "news",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1374722",
+      "companies": [],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-06-09T10:18:00+09:00",
+      "date": "2026.06.09",
+      "publisher": "daily.hankooki.com"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "\"살 빼려다 건강 버린다\"…위고비·마운자로 부작용 '경고등'",
+      "layer": "news",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1303339&inflow=N",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-09T13:32:00+09:00",
+      "date": "2026.06.09",
+      "publisher": "newstomato.com"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "美 FDA ‘임상 간소화’에…바이오시밀러 개발 전략 바뀔까",
+      "layer": "news",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03007766645480080",
+      "companies": [],
+      "pipelines": [],
+      "published": "2026-06-09T09:02:00+09:00",
+      "date": "2026.06.09",
+      "publisher": "이데일리"
     },
     {
       "level": "High",
@@ -705,55 +746,6 @@
       "published": "2026-06-04T16:28:00+09:00",
       "date": "2026.06.04",
       "publisher": "getnews.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "Tirzepatide vs Semaglutide in Individuals at Cardiovascular Risk But Without Diabetes.",
-      "layer": "trial",
-      "url": "https://clinicaltrials.gov/study/NCT07619508",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-02T00:00:00+09:00",
-      "date": "2026.06.02",
-      "publisher": "Brigham and Women's Hospital"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "MS '가성비 AI'·릴리 '보험 등재'…메가캡 호재에 미 증시 상승 마감 [ ...",
-      "layer": "news",
-      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605290181&t=NN",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-05-29T07:45:00+09:00",
-      "date": "2026.05.29",
-      "publisher": "wowtv.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "노보 노디스크, 먹는 위고비 유럽 승인 임박",
-      "layer": "news",
-      "url": "http://www.newsmp.com/news/articleView.html?idxno=253764",
-      "companies": [
-        "novo"
-      ],
-      "pipelines": [
-        "PT403"
-      ],
-      "published": "2026-05-26T20:58:00+09:00",
-      "date": "2026.05.26",
-      "publisher": "newsmp.com"
     }
   ],
   "highlights": {
@@ -766,6 +758,24 @@
         "date": "2026.06.02",
         "published": "2026-06-02T17:10:00+09:00",
         "publisher": "kormedi.com"
+      },
+      {
+        "level": "High",
+        "title": "HK이노엔 \"도입 GLP-1 신약, 세마글루타이드 대비 체중감소 효과 확인\"",
+        "layer": "news",
+        "url": "https://daily.hankooki.com/news/articleView.html?idxno=1374722",
+        "date": "2026.06.09",
+        "published": "2026-06-09T10:18:00+09:00",
+        "publisher": "daily.hankooki.com"
+      },
+      {
+        "level": "High",
+        "title": "\"살 빼려다 건강 버린다\"…위고비·마운자로 부작용 '경고등'",
+        "layer": "news",
+        "url": "http://www.newstomato.com/ReadNews.aspx?no=1303339&inflow=N",
+        "date": "2026.06.09",
+        "published": "2026-06-09T13:32:00+09:00",
+        "publisher": "newstomato.com"
       },
       {
         "level": "High",
@@ -784,24 +794,6 @@
         "date": "2026.06.06",
         "published": "2026-06-06T06:36:00+09:00",
         "publisher": "청년의사"
-      },
-      {
-        "level": "High",
-        "title": "FDA CNPV 확산, 국내 제약ㆍ바이오 미국 진출 전략 변수로",
-        "layer": "news",
-        "url": "http://www.newsmp.com/news/articleView.html?idxno=254262",
-        "date": "2026.06.05",
-        "published": "2026-06-05T12:34:00+09:00",
-        "publisher": "newsmp.com"
-      },
-      {
-        "level": "High",
-        "title": "Tirzepatide vs Semaglutide in Individuals at Cardiovascular Risk But Without Diabetes.",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT07619508",
-        "date": "2026.06.02",
-        "published": "2026-06-02T00:00:00+09:00",
-        "publisher": "Brigham and Women's Hospital"
       }
     ],
     "PT404": [
@@ -813,6 +805,15 @@
         "date": "2026.06.02",
         "published": "2026-06-02T17:10:00+09:00",
         "publisher": "kormedi.com"
+      },
+      {
+        "level": "High",
+        "title": "\"살 빼려다 건강 버린다\"…위고비·마운자로 부작용 '경고등'",
+        "layer": "news",
+        "url": "http://www.newstomato.com/ReadNews.aspx?no=1303339&inflow=N",
+        "date": "2026.06.09",
+        "published": "2026-06-09T13:32:00+09:00",
+        "publisher": "newstomato.com"
       },
       {
         "level": "High",
@@ -840,15 +841,6 @@
         "date": "2026.06.04",
         "published": "2026-06-04T16:28:00+09:00",
         "publisher": "getnews.co.kr"
-      },
-      {
-        "level": "High",
-        "title": "Tirzepatide vs Semaglutide in Individuals at Cardiovascular Risk But Without Diabetes.",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT07619508",
-        "date": "2026.06.02",
-        "published": "2026-06-02T00:00:00+09:00",
-        "publisher": "Brigham and Women's Hospital"
       }
     ],
     "PND3174": [
