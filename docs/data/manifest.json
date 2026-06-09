@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-09T16:08:05.757681+09:00",
+  "updated_at": "2026-06-09T21:13:54.224376+09:00",
   "dates": [
     {
       "date": "2026-06-09",
-      "total": 2519,
+      "total": 2698,
       "counts": {
-        "core": 337,
-        "obesity": 758,
-        "npr": 321,
-        "platform": 443,
-        "reg": 375,
-        "mkt": 285
+        "core": 374,
+        "obesity": 831,
+        "npr": 329,
+        "platform": 456,
+        "reg": 389,
+        "mkt": 319
       }
     },
     {
@@ -191,7 +191,7 @@
     }
   ],
   "papers": {
-    "total": 1688,
+    "total": 1698,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -205,15 +205,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 3015,
+  "news_recent_total": 3147,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 752,
-      "papers": 113,
+      "news": 777,
+      "papers": 117,
       "trials": 78,
-      "total": 943,
+      "total": 972,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -240,11 +240,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 460,
+      "news": 473,
       "papers": 94,
       "trials": 79,
-      "total": 633,
-      "recent": "2026-06-09T15:43:00+09:00",
+      "total": 646,
+      "recent": "2026-06-09T19:30:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -335,51 +335,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 193,
+      "news": 224,
       "papers": 0,
       "trials": 0,
-      "total": 193,
-      "recent": "2026-06-09T15:53:00+09:00",
+      "total": 224,
+      "recent": "2026-06-09T20:50:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 84,
+      "news": 85,
       "papers": 0,
       "trials": 0,
-      "total": 84,
-      "recent": "2026-06-09T15:55:00+09:00",
+      "total": 85,
+      "recent": "2026-06-09T17:49:46+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 89,
+      "news": 88,
       "papers": 0,
       "trials": 0,
-      "total": 89,
+      "total": 88,
       "recent": "2026-06-09T13:56:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 314,
+      "news": 326,
       "papers": 0,
       "trials": 0,
-      "total": 314,
-      "recent": "2026-06-09T15:43:00+09:00",
+      "total": 326,
+      "recent": "2026-06-09T21:01:15+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 171,
+      "news": 179,
       "papers": 1,
       "trials": 0,
-      "total": 172,
-      "recent": "2026-06-09T15:49:12+09:00",
+      "total": 180,
+      "recent": "2026-06-09T21:01:15+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -395,12 +395,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 344,
-      "yesterday": 396
+      "today": 472,
+      "yesterday": 400
     },
     "paper": {
-      "today": 4,
-      "yesterday": 19
+      "today": 5,
+      "yesterday": 21
     },
     "trial": {
       "today": 0,
@@ -562,7 +562,7 @@
     {
       "date": "2026-06-01",
       "news": 185,
-      "paper": 98,
+      "paper": 99,
       "trial": 6,
       "regulatory": 0
     },
@@ -576,7 +576,7 @@
     {
       "date": "2026-06-03",
       "news": 116,
-      "paper": 17,
+      "paper": 18,
       "trial": 14,
       "regulatory": 1
     },
@@ -590,14 +590,14 @@
     {
       "date": "2026-06-05",
       "news": 286,
-      "paper": 24,
+      "paper": 25,
       "trial": 10,
       "regulatory": 54
     },
     {
       "date": "2026-06-06",
       "news": 86,
-      "paper": 12,
+      "paper": 13,
       "trial": 0,
       "regulatory": 11
     },
@@ -610,15 +610,15 @@
     },
     {
       "date": "2026-06-08",
-      "news": 396,
-      "paper": 19,
+      "news": 400,
+      "paper": 21,
       "trial": 6,
       "regulatory": 4
     },
     {
       "date": "2026-06-09",
-      "news": 344,
-      "paper": 4,
+      "news": 472,
+      "paper": 5,
       "trial": 0,
       "regulatory": 10
     }
@@ -655,6 +655,57 @@
       "published": "2026-06-09T10:18:00+09:00",
       "date": "2026.06.09",
       "publisher": "daily.hankooki.com"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "한국릴리 '마운자로' 고용량 제품 10일 출시…\"비만 치료제 시장 경쟁 점...",
+      "layer": "news",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360234",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-09T17:40:00+09:00",
+      "date": "2026.06.09",
+      "publisher": "ftoday.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "고용량 마운자로 국내 상륙…비만약 시장 '효과 경쟁' 가열",
+      "layer": "news",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2112927",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-09T16:28:00+09:00",
+      "date": "2026.06.09",
+      "publisher": "4th.kr"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "릴리, 마운자로 15㎎ 국내 출시…위고비와 비만약 경쟁 격화",
+      "layer": "news",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7168435",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-09T16:08:00+09:00",
+      "date": "2026.06.09",
+      "publisher": "weekly.hankooki.com"
     },
     {
       "level": "High",
@@ -700,52 +751,6 @@
       "published": "2026-06-08T12:10:00+09:00",
       "date": "2026.06.08",
       "publisher": "히트뉴스"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "[칼럼] 마운자로 급여 실패, 누구의 책임인가",
-      "layer": "news",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3039792",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-06T06:36:00+09:00",
-      "date": "2026.06.06",
-      "publisher": "청년의사"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "FDA CNPV 확산, 국내 제약ㆍ바이오 미국 진출 전략 변수로",
-      "layer": "news",
-      "url": "http://www.newsmp.com/news/articleView.html?idxno=254262",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PND3174"
-      ],
-      "published": "2026-06-05T12:34:00+09:00",
-      "date": "2026.06.05",
-      "publisher": "newsmp.com"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "[BIO톡]에이비엘바이오, ABL503 병용요법 임상 확대…IND 변경 신청 外 박...",
-      "layer": "news",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=871649",
-      "companies": [
-        "lilly"
-      ],
-      "pipelines": [
-        "PT404"
-      ],
-      "published": "2026-06-04T16:28:00+09:00",
-      "date": "2026.06.04",
-      "publisher": "getnews.co.kr"
     }
   ],
   "highlights": {
@@ -770,30 +775,30 @@
       },
       {
         "level": "High",
-        "title": "\"살 빼려다 건강 버린다\"…위고비·마운자로 부작용 '경고등'",
+        "title": "한국릴리 '마운자로' 고용량 제품 10일 출시…\"비만 치료제 시장 경쟁 점...",
         "layer": "news",
-        "url": "http://www.newstomato.com/ReadNews.aspx?no=1303339&inflow=N",
+        "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360234",
         "date": "2026.06.09",
-        "published": "2026-06-09T13:32:00+09:00",
-        "publisher": "newstomato.com"
+        "published": "2026-06-09T17:40:00+09:00",
+        "publisher": "ftoday.co.kr"
       },
       {
         "level": "High",
-        "title": "\"당뇨 넘어 비만·합병증 전방위 억제… 예방과 관리로 패러다임 전환\"",
+        "title": "고용량 마운자로 국내 상륙…비만약 시장 '효과 경쟁' 가열",
         "layer": "news",
-        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=76693",
-        "date": "2026.06.08",
-        "published": "2026-06-08T12:10:00+09:00",
-        "publisher": "히트뉴스"
+        "url": "http://www.4th.kr/news/articleView.html?idxno=2112927",
+        "date": "2026.06.09",
+        "published": "2026-06-09T16:28:00+09:00",
+        "publisher": "4th.kr"
       },
       {
         "level": "High",
-        "title": "[칼럼] 마운자로 급여 실패, 누구의 책임인가",
+        "title": "릴리, 마운자로 15㎎ 국내 출시…위고비와 비만약 경쟁 격화",
         "layer": "news",
-        "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3039792",
-        "date": "2026.06.06",
-        "published": "2026-06-06T06:36:00+09:00",
-        "publisher": "청년의사"
+        "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7168435",
+        "date": "2026.06.09",
+        "published": "2026-06-09T16:08:00+09:00",
+        "publisher": "weekly.hankooki.com"
       }
     ],
     "PT404": [
@@ -808,39 +813,39 @@
       },
       {
         "level": "High",
+        "title": "한국릴리 '마운자로' 고용량 제품 10일 출시…\"비만 치료제 시장 경쟁 점...",
+        "layer": "news",
+        "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360234",
+        "date": "2026.06.09",
+        "published": "2026-06-09T17:40:00+09:00",
+        "publisher": "ftoday.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "고용량 마운자로 국내 상륙…비만약 시장 '효과 경쟁' 가열",
+        "layer": "news",
+        "url": "http://www.4th.kr/news/articleView.html?idxno=2112927",
+        "date": "2026.06.09",
+        "published": "2026-06-09T16:28:00+09:00",
+        "publisher": "4th.kr"
+      },
+      {
+        "level": "High",
+        "title": "릴리, 마운자로 15㎎ 국내 출시…위고비와 비만약 경쟁 격화",
+        "layer": "news",
+        "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7168435",
+        "date": "2026.06.09",
+        "published": "2026-06-09T16:08:00+09:00",
+        "publisher": "weekly.hankooki.com"
+      },
+      {
+        "level": "High",
         "title": "\"살 빼려다 건강 버린다\"…위고비·마운자로 부작용 '경고등'",
         "layer": "news",
         "url": "http://www.newstomato.com/ReadNews.aspx?no=1303339&inflow=N",
         "date": "2026.06.09",
         "published": "2026-06-09T13:32:00+09:00",
         "publisher": "newstomato.com"
-      },
-      {
-        "level": "High",
-        "title": "\"당뇨 넘어 비만·합병증 전방위 억제… 예방과 관리로 패러다임 전환\"",
-        "layer": "news",
-        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=76693",
-        "date": "2026.06.08",
-        "published": "2026-06-08T12:10:00+09:00",
-        "publisher": "히트뉴스"
-      },
-      {
-        "level": "High",
-        "title": "[칼럼] 마운자로 급여 실패, 누구의 책임인가",
-        "layer": "news",
-        "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3039792",
-        "date": "2026.06.06",
-        "published": "2026-06-06T06:36:00+09:00",
-        "publisher": "청년의사"
-      },
-      {
-        "level": "High",
-        "title": "[BIO톡]에이비엘바이오, ABL503 병용요법 임상 확대…IND 변경 신청 外 박...",
-        "layer": "news",
-        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=871649",
-        "date": "2026.06.04",
-        "published": "2026-06-04T16:28:00+09:00",
-        "publisher": "getnews.co.kr"
       }
     ],
     "PND3174": [
