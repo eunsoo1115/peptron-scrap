@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-10T08:09:49.042242+09:00",
+  "updated_at": "2026-06-10T16:27:20.855788+09:00",
   "dates": [
     {
       "date": "2026-06-10",
-      "total": 2193,
+      "total": 2454,
       "counts": {
-        "core": 306,
-        "obesity": 588,
-        "npr": 314,
-        "platform": 427,
-        "reg": 335,
-        "mkt": 223
+        "core": 322,
+        "obesity": 694,
+        "npr": 342,
+        "platform": 463,
+        "reg": 361,
+        "mkt": 272
       }
     },
     {
@@ -217,15 +217,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 3243,
+  "news_recent_total": 3372,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 808,
+      "news": 834,
       "papers": 118,
       "trials": 79,
-      "total": 1005,
+      "total": 1031,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -252,11 +252,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 485,
+      "news": 499,
       "papers": 96,
       "trials": 79,
-      "total": 660,
-      "recent": "2026-06-10T07:03:41+09:00",
+      "total": 674,
+      "recent": "2026-06-10T16:03:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -347,51 +347,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 227,
+      "news": 238,
       "papers": 0,
       "trials": 0,
-      "total": 227,
-      "recent": "2026-06-10T06:02:00+09:00",
+      "total": 238,
+      "recent": "2026-06-10T15:48:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 86,
+      "news": 87,
       "papers": 0,
       "trials": 0,
-      "total": 86,
-      "recent": "2026-06-10T00:01:00+09:00",
+      "total": 87,
+      "recent": "2026-06-10T15:48:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 89,
+      "news": 91,
       "papers": 0,
       "trials": 0,
-      "total": 89,
+      "total": 91,
       "recent": "2026-06-10T00:01:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 332,
+      "news": 339,
       "papers": 0,
       "trials": 0,
-      "total": 332,
-      "recent": "2026-06-10T06:44:00+09:00",
+      "total": 339,
+      "recent": "2026-06-10T14:04:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 190,
+      "news": 195,
       "papers": 1,
       "trials": 0,
-      "total": 191,
-      "recent": "2026-06-10T07:16:00+09:00",
+      "total": 196,
+      "recent": "2026-06-10T12:14:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -407,8 +407,8 @@
   ],
   "kpi": {
     "news": {
-      "today": 69,
-      "yesterday": 499
+      "today": 190,
+      "yesterday": 503
     },
     "paper": {
       "today": 2,
@@ -475,7 +475,7 @@
     },
     {
       "date": "2026-05-19",
-      "news": 38,
+      "news": 39,
       "paper": 21,
       "trial": 24,
       "regulatory": 0
@@ -489,7 +489,7 @@
     },
     {
       "date": "2026-05-21",
-      "news": 45,
+      "news": 46,
       "paper": 20,
       "trial": 0,
       "regulatory": 0
@@ -580,7 +580,7 @@
     },
     {
       "date": "2026-06-03",
-      "news": 116,
+      "news": 117,
       "paper": 18,
       "trial": 14,
       "regulatory": 1
@@ -615,21 +615,21 @@
     },
     {
       "date": "2026-06-08",
-      "news": 401,
+      "news": 402,
       "paper": 21,
       "trial": 6,
       "regulatory": 4
     },
     {
       "date": "2026-06-09",
-      "news": 499,
+      "news": 503,
       "paper": 10,
       "trial": 8,
       "regulatory": 10
     },
     {
       "date": "2026-06-10",
-      "news": 69,
+      "news": 190,
       "paper": 2,
       "trial": 0,
       "regulatory": 15
@@ -653,6 +653,20 @@
       "published": "2026-06-02T17:10:00+09:00",
       "date": "2026.06.02",
       "publisher": "kormedi.com"
+    },
+    {
+      "level": "High",
+      "score": 11,
+      "title": "[삼천당제약 플랫폼]S-PASS 확대, 경구용 터제파타이드·키트루다 개발",
+      "layer": "news",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=77680",
+      "companies": [],
+      "pipelines": [
+        "PT404"
+      ],
+      "published": "2026-06-10T14:58:00+09:00",
+      "date": "2026.06.10",
+      "publisher": "press9.kr"
     },
     {
       "level": "High",
@@ -745,24 +759,6 @@
       "published": "2026-06-09T09:02:00+09:00",
       "date": "2026.06.09",
       "publisher": "이데일리"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "\"당뇨 넘어 비만·합병증 전방위 억제… 예방과 관리로 패러다임 전환\"",
-      "layer": "news",
-      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=76693",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-08T12:10:00+09:00",
-      "date": "2026.06.08",
-      "publisher": "히트뉴스"
     }
   ],
   "highlights": {
@@ -825,6 +821,15 @@
       },
       {
         "level": "High",
+        "title": "[삼천당제약 플랫폼]S-PASS 확대, 경구용 터제파타이드·키트루다 개발",
+        "layer": "news",
+        "url": "http://www.press9.kr/news/articleView.html?idxno=77680",
+        "date": "2026.06.10",
+        "published": "2026-06-10T14:58:00+09:00",
+        "publisher": "press9.kr"
+      },
+      {
+        "level": "High",
         "title": "한국릴리 '마운자로' 고용량 제품 10일 출시…\"비만 치료제 시장 경쟁 점...",
         "layer": "news",
         "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360234",
@@ -849,15 +854,6 @@
         "date": "2026.06.09",
         "published": "2026-06-09T16:08:00+09:00",
         "publisher": "weekly.hankooki.com"
-      },
-      {
-        "level": "High",
-        "title": "\"살 빼려다 건강 버린다\"…위고비·마운자로 부작용 '경고등'",
-        "layer": "news",
-        "url": "http://www.newstomato.com/ReadNews.aspx?no=1303339&inflow=N",
-        "date": "2026.06.09",
-        "published": "2026-06-09T13:32:00+09:00",
-        "publisher": "newstomato.com"
       }
     ],
     "PND3174": [
