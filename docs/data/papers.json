@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T21:32:45.635963+09:00",
-  "total": 1725,
+  "updated_at": "2026-06-11T08:18:24.987099+09:00",
+  "total": 1729,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -539,6 +539,38 @@
       "summary": "Ma L et al. · Odontology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42265502/",
       "publisher": "Odontology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.10",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Letter: Beyond Feasibility-The Need for Longer Duration and Composite NIT Endpoints in Biopsy-Free MASH Trials: Authors' Reply",
+      "summary": "Ajmera V et al. · Alimentary pharmacology & therapeutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42267708/",
+      "publisher": "Alimentary pharmacology & therapeutics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Retraction: \"Systematic Review of Long-Acting Injectable Antipsychotic Medications Approved From 2008 to October 2024 and Agents in Phase 3\"",
+      "summary": "International journal of psychiatry in medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42267697/",
+      "publisher": "International journal of psychiatry in medici",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -2160,6 +2192,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 AND CIRRHOSIS: EFFECTS ON MORTALITY AND LIVER-RELATED COMPLICATIONS",
+      "summary": "Onwuzo CN et al. · Arquivos de gastroenterologia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42267984/",
+      "publisher": "Arquivos de gastroenterologia",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-05T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.05",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -20623,6 +20671,22 @@
       "date": "2026.01.01",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[Pharmacological treatment of obstructive sleep apnea syndrome]",
+      "summary": "Tardov MV et al. · Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42268272/",
+      "publisher": "Zhurnal nevrologii i psikhiatrii imeni S.S. K",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-01-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.01.01",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
