@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-11T08:28:50.027544+09:00",
+  "updated_at": "2026-06-11T17:23:06.654498+09:00",
   "dates": [
     {
       "date": "2026-06-11",
-      "total": 2201,
+      "total": 2484,
       "counts": {
-        "core": 301,
-        "obesity": 585,
-        "npr": 318,
-        "platform": 447,
-        "reg": 334,
-        "mkt": 216
+        "core": 325,
+        "obesity": 692,
+        "npr": 341,
+        "platform": 490,
+        "reg": 370,
+        "mkt": 266
       }
     },
     {
@@ -225,19 +225,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 137,
+    "total": 138,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 3497,
+  "news_recent_total": 3676,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 856,
+      "news": 896,
       "papers": 121,
       "trials": 79,
-      "total": 1056,
+      "total": 1096,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -264,11 +264,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 517,
+      "news": 537,
       "papers": 96,
       "trials": 80,
-      "total": 693,
-      "recent": "2026-06-11T07:18:00+09:00",
+      "total": 713,
+      "recent": "2026-06-11T17:10:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -359,51 +359,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 239,
+      "news": 257,
       "papers": 0,
       "trials": 0,
-      "total": 239,
-      "recent": "2026-06-11T05:06:00+09:00",
+      "total": 257,
+      "recent": "2026-06-11T16:58:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 90,
+      "news": 96,
       "papers": 0,
       "trials": 0,
-      "total": 90,
-      "recent": "2026-06-11T07:12:00+09:00",
+      "total": 96,
+      "recent": "2026-06-11T14:46:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 84,
+      "news": 86,
       "papers": 0,
       "trials": 0,
-      "total": 84,
-      "recent": "2026-06-10T18:05:04+09:00",
+      "total": 86,
+      "recent": "2026-06-11T11:33:40+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 348,
+      "news": 353,
       "papers": 0,
       "trials": 0,
-      "total": 348,
-      "recent": "2026-06-10T20:12:00+09:00",
+      "total": 353,
+      "recent": "2026-06-11T15:12:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 208,
+      "news": 217,
       "papers": 1,
       "trials": 0,
-      "total": 209,
-      "recent": "2026-06-11T06:04:00+09:00",
+      "total": 218,
+      "recent": "2026-06-11T15:12:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -419,8 +419,8 @@
   ],
   "kpi": {
     "news": {
-      "today": 69,
-      "yesterday": 267
+      "today": 243,
+      "yesterday": 269
     },
     "paper": {
       "today": 0,
@@ -431,7 +431,7 @@
       "yesterday": 10
     },
     "regulatory": {
-      "today": 15,
+      "today": 16,
       "yesterday": 15
     }
   },
@@ -473,7 +473,7 @@
     },
     {
       "date": "2026-05-18",
-      "news": 47,
+      "news": 48,
       "paper": 28,
       "trial": 18,
       "regulatory": 0
@@ -620,31 +620,31 @@
     },
     {
       "date": "2026-06-08",
-      "news": 402,
+      "news": 403,
       "paper": 25,
       "trial": 6,
       "regulatory": 4
     },
     {
       "date": "2026-06-09",
-      "news": 506,
+      "news": 507,
       "paper": 21,
       "trial": 8,
       "regulatory": 10
     },
     {
       "date": "2026-06-10",
-      "news": 267,
+      "news": 269,
       "paper": 7,
       "trial": 10,
       "regulatory": 15
     },
     {
       "date": "2026-06-11",
-      "news": 69,
+      "news": 243,
       "paper": 0,
       "trial": 0,
-      "regulatory": 15
+      "regulatory": 16
     }
   ],
   "alerts": [
@@ -714,6 +714,24 @@
     {
       "level": "High",
       "score": 10,
+      "title": "2조달러 시대 연 글로벌 제약시장...신약 경쟁 넘어 '플랫폼 경쟁'으로",
+      "layer": "news",
+      "url": "http://www.fnnews.com/news/202606111347428108",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-11T15:12:00+09:00",
+      "date": "2026.06.11",
+      "publisher": "fnnews.com"
+    },
+    {
+      "level": "High",
+      "score": 10,
       "title": "DietsMD.com Launches Doctor-Guided Online GLP-1 Programs Featuring Semaglutide, Tirzepatide, and Emerging Oral Treatment Options",
       "layer": "news",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdFJPVE1aLWdFbi1rNFZ2RmM2VW51dDZwa3ZTOUQ5ZXdhbmRFZktua2l2cnJoV05CNzlzSkFQZVE5MnJaMFFrOHVKZlpUUG9oSlc1Y256U3JBX3pQZ082UWlRbThES2sxOXFFZk9PQW1tRl9FZXBGWUllS3ZVTHhwYV9vS1pzZHJIcGdrODE4c2tqQnUzc1F1NFdnQVZTN3hLcExUSzV4Yy1mX3plTkxxQ0tRbjZKUWNQS0hERUFNQ0FweEE5bWZUVDBPa0E1SlhXbUp5aWRqTThCWFhxYjg5T2haZkQ2V1J4ZXBYVnJOQnM0clhhaUFJeTctZ3JacUx0aDJoaUFfZHVhdw?oc=5",
@@ -758,24 +776,6 @@
       "published": "2026-06-09T16:28:00+09:00",
       "date": "2026.06.09",
       "publisher": "4th.kr"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "릴리, 마운자로 15㎎ 국내 출시…위고비와 비만약 경쟁 격화",
-      "layer": "news",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7168435",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-09T16:08:00+09:00",
-      "date": "2026.06.09",
-      "publisher": "weekly.hankooki.com"
     }
   ],
   "highlights": {
@@ -809,21 +809,21 @@
       },
       {
         "level": "High",
+        "title": "2조달러 시대 연 글로벌 제약시장...신약 경쟁 넘어 '플랫폼 경쟁'으로",
+        "layer": "news",
+        "url": "http://www.fnnews.com/news/202606111347428108",
+        "date": "2026.06.11",
+        "published": "2026-06-11T15:12:00+09:00",
+        "publisher": "fnnews.com"
+      },
+      {
+        "level": "High",
         "title": "DietsMD.com Launches Doctor-Guided Online GLP-1 Programs Featuring Semaglutide, Tirzepatide, and Emerging Oral Treatment Options",
         "layer": "news",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdFJPVE1aLWdFbi1rNFZ2RmM2VW51dDZwa3ZTOUQ5ZXdhbmRFZktua2l2cnJoV05CNzlzSkFQZVE5MnJaMFFrOHVKZlpUUG9oSlc1Y256U3JBX3pQZ082UWlRbThES2sxOXFFZk9PQW1tRl9FZXBGWUllS3ZVTHhwYV9vS1pzZHJIcGdrODE4c2tqQnUzc1F1NFdnQVZTN3hLcExUSzV4Yy1mX3plTkxxQ0tRbjZKUWNQS0hERUFNQ0FweEE5bWZUVDBPa0E1SlhXbUp5aWRqTThCWFhxYjg5T2haZkQ2V1J4ZXBYVnJOQnM0clhhaUFJeTctZ3JacUx0aDJoaUFfZHVhdw?oc=5",
         "date": "2026.06.10",
         "published": "2026-06-10T12:01:34+09:00",
         "publisher": "USA Today"
-      },
-      {
-        "level": "High",
-        "title": "한국릴리 '마운자로' 고용량 제품 10일 출시…\"비만 치료제 시장 경쟁 점...",
-        "layer": "news",
-        "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360234",
-        "date": "2026.06.09",
-        "published": "2026-06-09T17:40:00+09:00",
-        "publisher": "ftoday.co.kr"
       }
     ],
     "PT404": [
@@ -856,21 +856,21 @@
       },
       {
         "level": "High",
+        "title": "2조달러 시대 연 글로벌 제약시장...신약 경쟁 넘어 '플랫폼 경쟁'으로",
+        "layer": "news",
+        "url": "http://www.fnnews.com/news/202606111347428108",
+        "date": "2026.06.11",
+        "published": "2026-06-11T15:12:00+09:00",
+        "publisher": "fnnews.com"
+      },
+      {
+        "level": "High",
         "title": "DietsMD.com Launches Doctor-Guided Online GLP-1 Programs Featuring Semaglutide, Tirzepatide, and Emerging Oral Treatment Options",
         "layer": "news",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdFJPVE1aLWdFbi1rNFZ2RmM2VW51dDZwa3ZTOUQ5ZXdhbmRFZktua2l2cnJoV05CNzlzSkFQZVE5MnJaMFFrOHVKZlpUUG9oSlc1Y256U3JBX3pQZ082UWlRbThES2sxOXFFZk9PQW1tRl9FZXBGWUllS3ZVTHhwYV9vS1pzZHJIcGdrODE4c2tqQnUzc1F1NFdnQVZTN3hLcExUSzV4Yy1mX3plTkxxQ0tRbjZKUWNQS0hERUFNQ0FweEE5bWZUVDBPa0E1SlhXbUp5aWRqTThCWFhxYjg5T2haZkQ2V1J4ZXBYVnJOQnM0clhhaUFJeTctZ3JacUx0aDJoaUFfZHVhdw?oc=5",
         "date": "2026.06.10",
         "published": "2026-06-10T12:01:34+09:00",
         "publisher": "USA Today"
-      },
-      {
-        "level": "High",
-        "title": "한국릴리 '마운자로' 고용량 제품 10일 출시…\"비만 치료제 시장 경쟁 점...",
-        "layer": "news",
-        "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360234",
-        "date": "2026.06.09",
-        "published": "2026-06-09T17:40:00+09:00",
-        "publisher": "ftoday.co.kr"
       }
     ],
     "PND3174": [
