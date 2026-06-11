@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-11T22:03:28.274857+09:00",
+  "updated_at": "2026-06-12T08:15:42.510878+09:00",
   "dates": [
+    {
+      "date": "2026-06-12",
+      "total": 2204,
+      "counts": {
+        "core": 296,
+        "obesity": 583,
+        "npr": 314,
+        "platform": 452,
+        "reg": 334,
+        "mkt": 225
+      }
+    },
     {
       "date": "2026-06-11",
       "total": 2583,
@@ -215,7 +227,7 @@
     }
   ],
   "papers": {
-    "total": 1748,
+    "total": 1756,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -225,19 +237,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 139,
+    "total": 152,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 3719,
+  "news_recent_total": 3786,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 902,
-      "papers": 123,
+      "news": 933,
+      "papers": 124,
       "trials": 81,
-      "total": 1106,
+      "total": 1138,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -264,11 +276,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 541,
+      "news": 546,
       "papers": 97,
       "trials": 81,
-      "total": 719,
-      "recent": "2026-06-11T18:12:00+09:00",
+      "total": 724,
+      "recent": "2026-06-12T08:02:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -296,11 +308,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 51,
+      "news": 49,
       "papers": 130,
       "trials": 40,
-      "total": 221,
-      "recent": "2026-06-10T02:43:04+09:00",
+      "total": 219,
+      "recent": "2026-06-12T00:42:18+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -359,51 +371,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 259,
+      "news": 261,
       "papers": 0,
       "trials": 0,
-      "total": 259,
-      "recent": "2026-06-11T17:20:00+09:00",
+      "total": 261,
+      "recent": "2026-06-12T08:00:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 96,
+      "news": 95,
       "papers": 0,
       "trials": 0,
-      "total": 96,
+      "total": 95,
       "recent": "2026-06-11T14:46:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 86,
+      "news": 85,
       "papers": 0,
       "trials": 0,
-      "total": 86,
+      "total": 85,
       "recent": "2026-06-11T11:33:40+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 355,
+      "news": 361,
       "papers": 0,
       "trials": 0,
-      "total": 355,
-      "recent": "2026-06-11T19:17:00+09:00",
+      "total": 361,
+      "recent": "2026-06-12T08:07:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 220,
+      "news": 236,
       "papers": 1,
       "trials": 0,
-      "total": 221,
-      "recent": "2026-06-11T20:00:00+09:00",
+      "total": 237,
+      "recent": "2026-06-12T08:07:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -419,30 +431,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 285,
-      "yesterday": 270
+      "today": 76,
+      "yesterday": 302
     },
     "paper": {
-      "today": 1,
-      "yesterday": 17
+      "today": 0,
+      "yesterday": 8
     },
     "trial": {
-      "today": 13,
-      "yesterday": 10
+      "today": 0,
+      "yesterday": 13
     },
     "regulatory": {
-      "today": 17,
-      "yesterday": 15
+      "today": 13,
+      "yesterday": 17
     }
   },
   "trend": [
-    {
-      "date": "2026-05-13",
-      "news": 35,
-      "paper": 10,
-      "trial": 17,
-      "regulatory": 0
-    },
     {
       "date": "2026-05-14",
       "news": 24,
@@ -473,7 +478,7 @@
     },
     {
       "date": "2026-05-18",
-      "news": 48,
+      "news": 50,
       "paper": 28,
       "trial": 18,
       "regulatory": 0
@@ -557,7 +562,7 @@
     },
     {
       "date": "2026-05-30",
-      "news": 58,
+      "news": 59,
       "paper": 12,
       "trial": 0,
       "regulatory": 0
@@ -634,17 +639,24 @@
     },
     {
       "date": "2026-06-10",
-      "news": 270,
-      "paper": 17,
+      "news": 272,
+      "paper": 18,
       "trial": 10,
       "regulatory": 15
     },
     {
       "date": "2026-06-11",
-      "news": 285,
-      "paper": 1,
+      "news": 302,
+      "paper": 8,
       "trial": 13,
       "regulatory": 17
+    },
+    {
+      "date": "2026-06-12",
+      "news": 76,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 13
     }
   ],
   "alerts": [
@@ -714,6 +726,24 @@
     {
       "level": "High",
       "score": 10,
+      "title": "글로벌 3상 잇단 진입…GLP-1 후발주자 추격 가속화",
+      "layer": "news",
+      "url": "https://new.dailypharm.com/user/news/339368?REFERER=NP",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-12T06:02:00+09:00",
+      "date": "2026.06.12",
+      "publisher": "데일리팜"
+    },
+    {
+      "level": "High",
+      "score": 10,
       "title": "2조달러 시대 연 글로벌 제약시장...신약 경쟁 넘어 '플랫폼 경쟁'으로",
       "layer": "news",
       "url": "http://www.fnnews.com/news/202606111347428108",
@@ -761,21 +791,6 @@
       "published": "2026-06-09T17:40:00+09:00",
       "date": "2026.06.09",
       "publisher": "ftoday.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "고용량 마운자로 국내 상륙…비만약 시장 '효과 경쟁' 가열",
-      "layer": "news",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2112927",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-09T16:28:00+09:00",
-      "date": "2026.06.09",
-      "publisher": "4th.kr"
     }
   ],
   "highlights": {
@@ -809,21 +824,21 @@
       },
       {
         "level": "High",
+        "title": "글로벌 3상 잇단 진입…GLP-1 후발주자 추격 가속화",
+        "layer": "news",
+        "url": "https://new.dailypharm.com/user/news/339368?REFERER=NP",
+        "date": "2026.06.12",
+        "published": "2026-06-12T06:02:00+09:00",
+        "publisher": "데일리팜"
+      },
+      {
+        "level": "High",
         "title": "2조달러 시대 연 글로벌 제약시장...신약 경쟁 넘어 '플랫폼 경쟁'으로",
         "layer": "news",
         "url": "http://www.fnnews.com/news/202606111347428108",
         "date": "2026.06.11",
         "published": "2026-06-11T15:12:00+09:00",
         "publisher": "fnnews.com"
-      },
-      {
-        "level": "High",
-        "title": "DietsMD.com Launches Doctor-Guided Online GLP-1 Programs Featuring Semaglutide, Tirzepatide, and Emerging Oral Treatment Options",
-        "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdFJPVE1aLWdFbi1rNFZ2RmM2VW51dDZwa3ZTOUQ5ZXdhbmRFZktua2l2cnJoV05CNzlzSkFQZVE5MnJaMFFrOHVKZlpUUG9oSlc1Y256U3JBX3pQZ082UWlRbThES2sxOXFFZk9PQW1tRl9FZXBGWUllS3ZVTHhwYV9vS1pzZHJIcGdrODE4c2tqQnUzc1F1NFdnQVZTN3hLcExUSzV4Yy1mX3plTkxxQ0tRbjZKUWNQS0hERUFNQ0FweEE5bWZUVDBPa0E1SlhXbUp5aWRqTThCWFhxYjg5T2haZkQ2V1J4ZXBYVnJOQnM0clhhaUFJeTctZ3JacUx0aDJoaUFfZHVhdw?oc=5",
-        "date": "2026.06.10",
-        "published": "2026-06-10T12:01:34+09:00",
-        "publisher": "USA Today"
       }
     ],
     "PT404": [
@@ -856,21 +871,21 @@
       },
       {
         "level": "High",
+        "title": "글로벌 3상 잇단 진입…GLP-1 후발주자 추격 가속화",
+        "layer": "news",
+        "url": "https://new.dailypharm.com/user/news/339368?REFERER=NP",
+        "date": "2026.06.12",
+        "published": "2026-06-12T06:02:00+09:00",
+        "publisher": "데일리팜"
+      },
+      {
+        "level": "High",
         "title": "2조달러 시대 연 글로벌 제약시장...신약 경쟁 넘어 '플랫폼 경쟁'으로",
         "layer": "news",
         "url": "http://www.fnnews.com/news/202606111347428108",
         "date": "2026.06.11",
         "published": "2026-06-11T15:12:00+09:00",
         "publisher": "fnnews.com"
-      },
-      {
-        "level": "High",
-        "title": "DietsMD.com Launches Doctor-Guided Online GLP-1 Programs Featuring Semaglutide, Tirzepatide, and Emerging Oral Treatment Options",
-        "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdFJPVE1aLWdFbi1rNFZ2RmM2VW51dDZwa3ZTOUQ5ZXdhbmRFZktua2l2cnJoV05CNzlzSkFQZVE5MnJaMFFrOHVKZlpUUG9oSlc1Y256U3JBX3pQZ082UWlRbThES2sxOXFFZk9PQW1tRl9FZXBGWUllS3ZVTHhwYV9vS1pzZHJIcGdrODE4c2tqQnUzc1F1NFdnQVZTN3hLcExUSzV4Yy1mX3plTkxxQ0tRbjZKUWNQS0hERUFNQ0FweEE5bWZUVDBPa0E1SlhXbUp5aWRqTThCWFhxYjg5T2haZkQ2V1J4ZXBYVnJOQnM0clhhaUFJeTctZ3JacUx0aDJoaUFfZHVhdw?oc=5",
-        "date": "2026.06.10",
-        "published": "2026-06-10T12:01:34+09:00",
-        "publisher": "USA Today"
       }
     ],
     "PND3174": [
