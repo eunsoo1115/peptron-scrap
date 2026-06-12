@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-12T08:15:42.510878+09:00",
+  "updated_at": "2026-06-12T17:10:54.740330+09:00",
   "dates": [
     {
       "date": "2026-06-12",
-      "total": 2204,
+      "total": 2427,
       "counts": {
-        "core": 296,
-        "obesity": 583,
-        "npr": 314,
-        "platform": 452,
-        "reg": 334,
-        "mkt": 225
+        "core": 311,
+        "obesity": 667,
+        "npr": 321,
+        "platform": 500,
+        "reg": 363,
+        "mkt": 265
       }
     },
     {
@@ -227,7 +227,7 @@
     }
   ],
   "papers": {
-    "total": 1756,
+    "total": 1768,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -241,15 +241,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 3786,
+  "news_recent_total": 3914,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 933,
-      "papers": 124,
+      "news": 950,
+      "papers": 125,
       "trials": 81,
-      "total": 1138,
+      "total": 1156,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -276,11 +276,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 546,
-      "papers": 97,
+      "news": 563,
+      "papers": 98,
       "trials": 81,
-      "total": 724,
-      "recent": "2026-06-12T08:02:00+09:00",
+      "total": 742,
+      "recent": "2026-06-12T16:53:01+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -308,10 +308,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 49,
+      "news": 50,
       "papers": 130,
       "trials": 40,
-      "total": 219,
+      "total": 220,
       "recent": "2026-06-12T00:42:18+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -339,10 +339,10 @@
       "id": "PT320",
       "label": "PT320",
       "news": 2,
-      "papers": 20,
+      "papers": 21,
       "trials": 4,
-      "total": 26,
-      "recent": "2026-06-11T05:06:00+09:00",
+      "total": 27,
+      "recent": "2026-06-12T00:00:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -371,21 +371,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 261,
+      "news": 271,
       "papers": 0,
       "trials": 0,
-      "total": 261,
-      "recent": "2026-06-12T08:00:00+09:00",
+      "total": 271,
+      "recent": "2026-06-12T16:36:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 95,
+      "news": 96,
       "papers": 0,
       "trials": 0,
-      "total": 95,
-      "recent": "2026-06-11T14:46:00+09:00",
+      "total": 96,
+      "recent": "2026-06-12T08:45:15+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -401,21 +401,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 361,
+      "news": 365,
       "papers": 0,
       "trials": 0,
-      "total": 361,
-      "recent": "2026-06-12T08:07:00+09:00",
+      "total": 365,
+      "recent": "2026-06-12T14:03:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 236,
+      "news": 241,
       "papers": 1,
       "trials": 0,
-      "total": 237,
-      "recent": "2026-06-12T08:07:00+09:00",
+      "total": 242,
+      "recent": "2026-06-12T14:03:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -431,12 +431,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 76,
-      "yesterday": 302
+      "today": 198,
+      "yesterday": 305
     },
     "paper": {
-      "today": 0,
-      "yesterday": 8
+      "today": 4,
+      "yesterday": 15
     },
     "trial": {
       "today": 0,
@@ -451,7 +451,7 @@
     {
       "date": "2026-05-14",
       "news": 24,
-      "paper": 18,
+      "paper": 19,
       "trial": 22,
       "regulatory": 0
     },
@@ -513,7 +513,7 @@
     },
     {
       "date": "2026-05-23",
-      "news": 17,
+      "news": 18,
       "paper": 10,
       "trial": 0,
       "regulatory": 0
@@ -527,7 +527,7 @@
     },
     {
       "date": "2026-05-25",
-      "news": 20,
+      "news": 21,
       "paper": 25,
       "trial": 0,
       "regulatory": 0
@@ -625,7 +625,7 @@
     },
     {
       "date": "2026-06-08",
-      "news": 403,
+      "news": 404,
       "paper": 25,
       "trial": 6,
       "regulatory": 4
@@ -646,15 +646,15 @@
     },
     {
       "date": "2026-06-11",
-      "news": 302,
-      "paper": 8,
+      "news": 305,
+      "paper": 15,
       "trial": 13,
       "regulatory": 17
     },
     {
       "date": "2026-06-12",
-      "news": 76,
-      "paper": 0,
+      "news": 198,
+      "paper": 4,
       "trial": 0,
       "regulatory": 13
     }
@@ -909,6 +909,15 @@
       },
       {
         "level": "Medium",
+        "title": "연골무형성증: FDA, 소아 성장 개선 목적의 navepegritide에 가속 승인 부여",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONklFM1ZYMVdVOWQ5Qzg0eWtHOHFPYzlLMllDZGdhNEw4eFd6U1JISHo3Sml6NGhwdHg2QVdPRGtlQVktdEJJTFRjN1Y2Z0FfSmVKekRVQVdFcVk0UlhBdGplb092QnpaTl95ZGp4VUN2eTk0NDAwcWt3WFVwUzFtOXRoSjNGWDFmT3JKTjQzQ2QteEczZWswVE1vUm9HSVRUUE9VRzc3REExYVczRVFYeXROUTI?oc=5",
+        "date": "2026.05.23",
+        "published": "2026-05-23T20:23:36+09:00",
+        "publisher": "Vera Health"
+      },
+      {
+        "level": "Medium",
         "title": "Vosoritide Meets Primary Endpoint in Phase 3 Hypochondroplasia Trial, Prompting Planned sNDA Submission to FDA",
         "layer": "news",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObk5vWTdBZVB0WjRJN0Fvbjk3NEVKQVJya0RjTTZxMHM0SXczN3R4bnJ1V3VnYnM3c0dwNVFCbmRWbV9kY3hKOEhCN2s4dlgzYU1Va0hYbGw2bmlFY2dLMWkyazRWeGVlV3VJdExWa3FKa05sYk1Lek9OMFhjTFZQVENXdDhMYUJlcnlJREd3NXlaRGRLNGFmUHVVakFicGlNMjdpQm54dlBLdnlIZGdXSFJiRml6NlI0MnJHVXMyQzlpSktPaGY3MjRFcm9LZVk2blpTQVoxbTN4ME9Sd1dGb1J4QnlZNWs?oc=5",
@@ -924,18 +933,18 @@
         "date": "2026.05.07",
         "published": "2026-05-07T00:00:00+09:00",
         "publisher": "BioMarin Pharmaceutical"
-      },
-      {
-        "level": "Medium",
-        "title": "A Study to Evaluate the Efficacy and Safety of Infigratinib in Children and Adolescents With Achondroplasia",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT06164951",
-        "date": "2026.03.17",
-        "published": "2026-03-17T00:00:00+09:00",
-        "publisher": "QED Therapeutics, a BridgeBio company"
       }
     ],
     "PT320": [
+      {
+        "level": "High",
+        "title": "Improvement of Refractory Restless Legs Syndrome in a Parkinson's Disease Patient After Semaglutide Treatment: A Novel Clinical Observation",
+        "layer": "paper",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42276762/",
+        "date": "2026.06.12",
+        "published": "2026-06-12T00:00:00+09:00",
+        "publisher": "Journal of movement disorders"
+      },
       {
         "level": "Medium",
         "title": "Efficacy and Safety of Exenatide in the Treatment of Hypothalamic Obesity After Craniopharyngioma Therapy",
@@ -971,15 +980,6 @@
         "date": "2026.02.18",
         "published": "2026-02-18T00:00:00+09:00",
         "publisher": "Journal of neurology"
-      },
-      {
-        "level": "Medium",
-        "title": "Exenatide once a week versus placebo as a potential disease-modifying treatment for people with Parkinson's disease in the UK: a phase 3, multicentre, double-blind, parallel-group, randomised, placebo-controlled trial",
-        "layer": "paper",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/39919773/",
-        "date": "2025.02.22",
-        "published": "2025-02-22T00:00:00+09:00",
-        "publisher": "Lancet (London, England)"
       }
     ]
   }
