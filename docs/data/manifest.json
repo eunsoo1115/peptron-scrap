@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-13T08:17:23.530921+09:00",
+  "updated_at": "2026-06-13T16:08:01.705530+09:00",
   "dates": [
     {
       "date": "2026-06-13",
-      "total": 2239,
+      "total": 2426,
       "counts": {
-        "core": 292,
-        "obesity": 609,
-        "npr": 317,
-        "platform": 453,
-        "reg": 338,
-        "mkt": 230
+        "core": 303,
+        "obesity": 672,
+        "npr": 323,
+        "platform": 486,
+        "reg": 358,
+        "mkt": 284
       }
     },
     {
@@ -239,7 +239,7 @@
     }
   ],
   "papers": {
-    "total": 1803,
+    "total": 1817,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -253,15 +253,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 3994,
+  "news_recent_total": 4042,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 982,
-      "papers": 128,
+      "news": 987,
+      "papers": 129,
       "trials": 82,
-      "total": 1192,
+      "total": 1198,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -288,11 +288,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 573,
+      "news": 578,
       "papers": 98,
       "trials": 82,
-      "total": 753,
-      "recent": "2026-06-13T07:32:00+09:00",
+      "total": 758,
+      "recent": "2026-06-13T14:46:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -321,9 +321,9 @@
       "id": "PND3174",
       "label": "PND3174",
       "news": 50,
-      "papers": 130,
+      "papers": 131,
       "trials": 40,
-      "total": 220,
+      "total": 221,
       "recent": "2026-06-12T00:42:18+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -351,9 +351,9 @@
       "id": "PT320",
       "label": "PT320",
       "news": 2,
-      "papers": 21,
+      "papers": 23,
       "trials": 4,
-      "total": 27,
+      "total": 29,
       "recent": "2026-06-12T00:00:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
@@ -443,12 +443,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 45,
-      "yesterday": 263
+      "today": 90,
+      "yesterday": 265
     },
     "paper": {
-      "today": 0,
-      "yesterday": 13
+      "today": 1,
+      "yesterday": 24
     },
     "trial": {
       "today": 0,
@@ -540,7 +540,7 @@
     {
       "date": "2026-05-26",
       "news": 65,
-      "paper": 27,
+      "paper": 28,
       "trial": 14,
       "regulatory": 1
     },
@@ -651,22 +651,22 @@
     },
     {
       "date": "2026-06-11",
-      "news": 307,
+      "news": 308,
       "paper": 18,
       "trial": 13,
       "regulatory": 17
     },
     {
       "date": "2026-06-12",
-      "news": 263,
-      "paper": 13,
+      "news": 265,
+      "paper": 24,
       "trial": 10,
       "regulatory": 14
     },
     {
       "date": "2026-06-13",
-      "news": 45,
-      "paper": 0,
+      "news": 90,
+      "paper": 1,
       "trial": 0,
       "regulatory": 18
     }
@@ -986,12 +986,12 @@
       },
       {
         "level": "Medium",
-        "title": "Protocol of ASPro-PD: a phase 3 trial of ambroxol to slow progression in genetically stratified Parkinson's disease",
+        "title": "GLP-1 agonist and neuroprotection in Stroke and Parkinson's disease: A systematic review",
         "layer": "paper",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41708985/",
-        "date": "2026.02.18",
-        "published": "2026-02-18T00:00:00+09:00",
-        "publisher": "Journal of neurology"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42285803/",
+        "date": "2026.06.12",
+        "published": "2026-06-12T00:00:00+09:00",
+        "publisher": "Disease-a-month : DM"
       }
     ]
   }
