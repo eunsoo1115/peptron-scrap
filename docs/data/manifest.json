@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-14T20:46:26.043882+09:00",
+  "updated_at": "2026-06-15T08:09:03.489043+09:00",
   "dates": [
+    {
+      "date": "2026-06-15",
+      "total": 2254,
+      "counts": {
+        "core": 294,
+        "obesity": 622,
+        "npr": 321,
+        "platform": 462,
+        "reg": 331,
+        "mkt": 224
+      }
+    },
     {
       "date": "2026-06-14",
       "total": 2491,
@@ -265,15 +277,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 4140,
+  "news_recent_total": 4184,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1030,
+      "news": 1045,
       "papers": 130,
       "trials": 82,
-      "total": 1242,
+      "total": 1257,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -300,11 +312,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 586,
+      "news": 590,
       "papers": 98,
       "trials": 82,
-      "total": 766,
-      "recent": "2026-06-14T16:02:00+09:00",
+      "total": 770,
+      "recent": "2026-06-15T07:40:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -362,11 +374,11 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 2,
+      "news": 4,
       "papers": 23,
       "trials": 4,
-      "total": 29,
-      "recent": "2026-06-12T00:00:00+09:00",
+      "total": 31,
+      "recent": "2026-06-15T06:03:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -395,11 +407,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 275,
+      "news": 276,
       "papers": 0,
       "trials": 0,
-      "total": 275,
-      "recent": "2026-06-14T03:25:54+09:00",
+      "total": 276,
+      "recent": "2026-06-15T06:00:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -409,7 +421,7 @@
       "papers": 0,
       "trials": 0,
       "total": 98,
-      "recent": "2026-06-13T00:26:00+09:00",
+      "recent": "2026-06-15T05:00:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -419,27 +431,27 @@
       "papers": 0,
       "trials": 0,
       "total": 85,
-      "recent": "2026-06-11T11:33:40+09:00",
+      "recent": "2026-06-15T05:00:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 362,
+      "news": 366,
       "papers": 0,
       "trials": 0,
-      "total": 362,
-      "recent": "2026-06-14T13:14:00+09:00",
+      "total": 366,
+      "recent": "2026-06-15T06:20:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 261,
+      "news": 265,
       "papers": 1,
       "trials": 0,
-      "total": 262,
-      "recent": "2026-06-14T16:34:00+09:00",
+      "total": 266,
+      "recent": "2026-06-15T06:20:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -455,12 +467,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 94,
-      "yesterday": 107
+      "today": 60,
+      "yesterday": 104
     },
     "paper": {
-      "today": 0,
-      "yesterday": 1
+      "today": 4,
+      "yesterday": 0
     },
     "trial": {
       "today": 0,
@@ -468,17 +480,10 @@
     },
     "regulatory": {
       "today": 0,
-      "yesterday": 18
+      "yesterday": 0
     }
   },
   "trend": [
-    {
-      "date": "2026-05-16",
-      "news": 3,
-      "paper": 10,
-      "trial": 0,
-      "regulatory": 0
-    },
     {
       "date": "2026-05-17",
       "news": 20,
@@ -663,7 +668,7 @@
     },
     {
       "date": "2026-06-12",
-      "news": 269,
+      "news": 268,
       "paper": 28,
       "trial": 10,
       "regulatory": 14
@@ -677,8 +682,15 @@
     },
     {
       "date": "2026-06-14",
-      "news": 94,
+      "news": 104,
       "paper": 0,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-06-15",
+      "news": 60,
+      "paper": 4,
       "trial": 0,
       "regulatory": 0
     }
@@ -750,6 +762,22 @@
     {
       "level": "High",
       "score": 10,
+      "title": "노보 노디스크 ‘위고비’ 정제 英 MHRA서 허가",
+      "layer": "news",
+      "url": "https://www.yakup.com/news/index.html?mode=view&cat=16&nid=328440",
+      "companies": [
+        "novo"
+      ],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-06-15T05:58:00+09:00",
+      "date": "2026.06.15",
+      "publisher": "약업신문"
+    },
+    {
+      "level": "High",
+      "score": 10,
       "title": "글로벌 3상 잇단 진입…GLP-1 후발주자 추격 가속화",
       "layer": "news",
       "url": "https://new.dailypharm.com/user/news/339368?REFERER=NP",
@@ -797,24 +825,6 @@
       "published": "2026-06-10T12:01:34+09:00",
       "date": "2026.06.10",
       "publisher": "USA Today"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "한국릴리 '마운자로' 고용량 제품 10일 출시…\"비만 치료제 시장 경쟁 점...",
-      "layer": "news",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360234",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-09T17:40:00+09:00",
-      "date": "2026.06.09",
-      "publisher": "ftoday.co.kr"
     }
   ],
   "highlights": {
@@ -848,21 +858,21 @@
       },
       {
         "level": "High",
+        "title": "노보 노디스크 ‘위고비’ 정제 英 MHRA서 허가",
+        "layer": "news",
+        "url": "https://www.yakup.com/news/index.html?mode=view&cat=16&nid=328440",
+        "date": "2026.06.15",
+        "published": "2026-06-15T05:58:00+09:00",
+        "publisher": "약업신문"
+      },
+      {
+        "level": "High",
         "title": "글로벌 3상 잇단 진입…GLP-1 후발주자 추격 가속화",
         "layer": "news",
         "url": "https://new.dailypharm.com/user/news/339368?REFERER=NP",
         "date": "2026.06.12",
         "published": "2026-06-12T06:02:00+09:00",
         "publisher": "데일리팜"
-      },
-      {
-        "level": "High",
-        "title": "2조달러 시대 연 글로벌 제약시장...신약 경쟁 넘어 '플랫폼 경쟁'으로",
-        "layer": "news",
-        "url": "http://www.fnnews.com/news/202606111347428108",
-        "date": "2026.06.11",
-        "published": "2026-06-11T15:12:00+09:00",
-        "publisher": "fnnews.com"
       }
     ],
     "PT404": [
