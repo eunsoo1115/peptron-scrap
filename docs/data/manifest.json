@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-14T17:05:40.169354+09:00",
+  "updated_at": "2026-06-14T20:46:26.043882+09:00",
   "dates": [
     {
       "date": "2026-06-14",
-      "total": 2419,
+      "total": 2491,
       "counts": {
-        "core": 299,
-        "obesity": 692,
-        "npr": 323,
-        "platform": 486,
-        "reg": 348,
-        "mkt": 271
+        "core": 304,
+        "obesity": 711,
+        "npr": 328,
+        "platform": 496,
+        "reg": 358,
+        "mkt": 294
       }
     },
     {
@@ -265,15 +265,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 4119,
+  "news_recent_total": 4140,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1023,
+      "news": 1030,
       "papers": 130,
       "trials": 82,
-      "total": 1235,
+      "total": 1242,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -332,11 +332,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 49,
+      "news": 50,
       "papers": 131,
       "trials": 40,
-      "total": 220,
-      "recent": "2026-06-13T13:23:36+09:00",
+      "total": 221,
+      "recent": "2026-06-14T18:00:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -435,10 +435,10 @@
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 259,
+      "news": 261,
       "papers": 1,
       "trials": 0,
-      "total": 260,
+      "total": 262,
       "recent": "2026-06-14T16:34:00+09:00",
       "logo": "logos/novo.png"
     },
@@ -455,7 +455,7 @@
   ],
   "kpi": {
     "news": {
-      "today": 76,
+      "today": 94,
       "yesterday": 107
     },
     "paper": {
@@ -565,7 +565,7 @@
     },
     {
       "date": "2026-05-29",
-      "news": 221,
+      "news": 222,
       "paper": 17,
       "trial": 11,
       "regulatory": 2
@@ -656,14 +656,14 @@
     },
     {
       "date": "2026-06-11",
-      "news": 312,
+      "news": 313,
       "paper": 18,
       "trial": 13,
       "regulatory": 17
     },
     {
       "date": "2026-06-12",
-      "news": 268,
+      "news": 269,
       "paper": 28,
       "trial": 10,
       "regulatory": 14
@@ -677,7 +677,7 @@
     },
     {
       "date": "2026-06-14",
-      "news": 76,
+      "news": 94,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
