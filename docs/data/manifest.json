@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-14T08:03:55.801180+09:00",
+  "updated_at": "2026-06-14T17:05:40.169354+09:00",
   "dates": [
     {
       "date": "2026-06-14",
-      "total": 2252,
+      "total": 2419,
       "counts": {
-        "core": 295,
-        "obesity": 614,
-        "npr": 317,
-        "platform": 458,
-        "reg": 336,
-        "mkt": 232
+        "core": 299,
+        "obesity": 692,
+        "npr": 323,
+        "platform": 486,
+        "reg": 348,
+        "mkt": 271
       }
     },
     {
@@ -265,15 +265,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 4052,
+  "news_recent_total": 4119,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 989,
+      "news": 1023,
       "papers": 130,
       "trials": 82,
-      "total": 1201,
+      "total": 1235,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -300,11 +300,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 581,
+      "news": 586,
       "papers": 98,
       "trials": 82,
-      "total": 761,
-      "recent": "2026-06-14T07:08:00+09:00",
+      "total": 766,
+      "recent": "2026-06-14T16:02:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -425,21 +425,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 359,
+      "news": 362,
       "papers": 0,
       "trials": 0,
-      "total": 359,
-      "recent": "2026-06-14T07:08:00+09:00",
+      "total": 362,
+      "recent": "2026-06-14T13:14:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 253,
+      "news": 259,
       "papers": 1,
       "trials": 0,
-      "total": 254,
-      "recent": "2026-06-14T07:09:39+09:00",
+      "total": 260,
+      "recent": "2026-06-14T16:34:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -455,8 +455,8 @@
   ],
   "kpi": {
     "news": {
-      "today": 13,
-      "yesterday": 104
+      "today": 76,
+      "yesterday": 107
     },
     "paper": {
       "today": 0,
@@ -656,7 +656,7 @@
     },
     {
       "date": "2026-06-11",
-      "news": 311,
+      "news": 312,
       "paper": 18,
       "trial": 13,
       "regulatory": 17
@@ -670,14 +670,14 @@
     },
     {
       "date": "2026-06-13",
-      "news": 104,
+      "news": 107,
       "paper": 1,
       "trial": 0,
       "regulatory": 18
     },
     {
       "date": "2026-06-14",
-      "news": 13,
+      "news": 76,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
