@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-16T18:04:22.849436+09:00",
+  "updated_at": "2026-06-16T23:25:53.881098+09:00",
   "dates": [
     {
       "date": "2026-06-16",
-      "total": 2704,
+      "total": 2778,
       "counts": {
-        "core": 311,
-        "obesity": 831,
-        "npr": 336,
-        "platform": 530,
-        "reg": 362,
-        "mkt": 334
+        "core": 313,
+        "obesity": 872,
+        "npr": 340,
+        "platform": 538,
+        "reg": 368,
+        "mkt": 347
       }
     },
     {
@@ -275,29 +275,29 @@
     }
   ],
   "papers": {
-    "total": 1881,
+    "total": 1889,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1106,
+    "total": 1118,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 198,
+    "total": 220,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 4614,
+  "news_recent_total": 4669,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1135,
-      "papers": 140,
-      "trials": 82,
-      "total": 1357,
+      "news": 1149,
+      "papers": 141,
+      "trials": 85,
+      "total": 1375,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -324,11 +324,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 640,
-      "papers": 103,
+      "news": 646,
+      "papers": 104,
       "trials": 82,
-      "total": 825,
-      "recent": "2026-06-16T17:38:00+09:00",
+      "total": 832,
+      "recent": "2026-06-16T22:00:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -356,11 +356,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 54,
+      "news": 58,
       "papers": 131,
       "trials": 40,
-      "total": 225,
-      "recent": "2026-06-16T06:04:00+09:00",
+      "total": 229,
+      "recent": "2026-06-16T23:05:23+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -419,11 +419,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 293,
+      "news": 294,
       "papers": 0,
       "trials": 0,
-      "total": 293,
-      "recent": "2026-06-16T16:40:00+09:00",
+      "total": 294,
+      "recent": "2026-06-16T18:13:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -449,21 +449,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 381,
+      "news": 383,
       "papers": 0,
       "trials": 0,
-      "total": 381,
-      "recent": "2026-06-16T17:20:00+09:00",
+      "total": 383,
+      "recent": "2026-06-16T18:52:11+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 277,
+      "news": 283,
       "papers": 1,
       "trials": 0,
-      "total": 278,
-      "recent": "2026-06-16T17:47:11+09:00",
+      "total": 284,
+      "recent": "2026-06-16T22:10:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -479,19 +479,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 230,
-      "yesterday": 253
+      "today": 282,
+      "yesterday": 254
     },
     "paper": {
-      "today": 5,
-      "yesterday": 20
+      "today": 8,
+      "yesterday": 21
     },
     "trial": {
-      "today": 0,
+      "today": 13,
       "yesterday": 6
     },
     "regulatory": {
-      "today": 25,
+      "today": 47,
       "yesterday": 2
     }
   },
@@ -652,7 +652,7 @@
     },
     {
       "date": "2026-06-09",
-      "news": 510,
+      "news": 512,
       "paper": 23,
       "trial": 8,
       "regulatory": 10
@@ -681,7 +681,7 @@
     {
       "date": "2026-06-13",
       "news": 111,
-      "paper": 7,
+      "paper": 8,
       "trial": 0,
       "regulatory": 18
     },
@@ -694,17 +694,17 @@
     },
     {
       "date": "2026-06-15",
-      "news": 253,
-      "paper": 20,
+      "news": 254,
+      "paper": 21,
       "trial": 6,
       "regulatory": 2
     },
     {
       "date": "2026-06-16",
-      "news": 230,
-      "paper": 5,
-      "trial": 0,
-      "regulatory": 25
+      "news": 282,
+      "paper": 8,
+      "trial": 13,
+      "regulatory": 47
     }
   ],
   "alerts": [
@@ -790,6 +790,21 @@
     },
     {
       "level": "High",
+      "score": 11,
+      "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
+      "layer": "paper",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-05-14T00:00:00+09:00",
+      "date": "2026.05.14",
+      "publisher": "Cureus"
+    },
+    {
+      "level": "High",
       "score": 10,
       "title": "Importing Drugs with a Pre-Launch Activities Importation Request (PLAIR)",
       "layer": "regulatory",
@@ -815,24 +830,6 @@
       "published": "2026-06-15T05:58:00+09:00",
       "date": "2026.06.15",
       "publisher": "약업신문"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "글로벌 3상 잇단 진입…GLP-1 후발주자 추격 가속화",
-      "layer": "news",
-      "url": "https://new.dailypharm.com/user/news/339368?REFERER=NP",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-12T06:02:00+09:00",
-      "date": "2026.06.12",
-      "publisher": "데일리팜"
     }
   ],
   "highlights": {
@@ -875,12 +872,12 @@
       },
       {
         "level": "High",
-        "title": "노보 노디스크 ‘위고비’ 정제 英 MHRA서 허가",
-        "layer": "news",
-        "url": "https://www.yakup.com/news/index.html?mode=view&cat=16&nid=328440",
-        "date": "2026.06.15",
-        "published": "2026-06-15T05:58:00+09:00",
-        "publisher": "약업신문"
+        "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
+        "layer": "paper",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
+        "date": "2026.05.14",
+        "published": "2026-05-14T00:00:00+09:00",
+        "publisher": "Cureus"
       }
     ],
     "PT404": [
@@ -922,12 +919,12 @@
       },
       {
         "level": "High",
-        "title": "글로벌 3상 잇단 진입…GLP-1 후발주자 추격 가속화",
-        "layer": "news",
-        "url": "https://new.dailypharm.com/user/news/339368?REFERER=NP",
-        "date": "2026.06.12",
-        "published": "2026-06-12T06:02:00+09:00",
-        "publisher": "데일리팜"
+        "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
+        "layer": "paper",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
+        "date": "2026.05.14",
+        "published": "2026-05-14T00:00:00+09:00",
+        "publisher": "Cureus"
       }
     ],
     "PND3174": [
