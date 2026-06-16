@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-16T23:25:53.881098+09:00",
+  "updated_at": "2026-06-17T08:28:01.869487+09:00",
   "dates": [
+    {
+      "date": "2026-06-17",
+      "total": 2234,
+      "counts": {
+        "core": 291,
+        "obesity": 627,
+        "npr": 317,
+        "platform": 438,
+        "reg": 333,
+        "mkt": 228
+      }
+    },
     {
       "date": "2026-06-16",
       "total": 2778,
@@ -275,7 +287,7 @@
     }
   ],
   "papers": {
-    "total": 1889,
+    "total": 1897,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -285,19 +297,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 220,
+    "total": 229,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 4669,
+  "news_recent_total": 4734,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1149,
+      "news": 1168,
       "papers": 141,
       "trials": 85,
-      "total": 1375,
+      "total": 1394,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -324,11 +336,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 646,
+      "news": 648,
       "papers": 104,
       "trials": 82,
-      "total": 832,
-      "recent": "2026-06-16T22:00:00+09:00",
+      "total": 834,
+      "recent": "2026-06-17T07:50:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -356,11 +368,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 58,
+      "news": 60,
       "papers": 131,
       "trials": 40,
-      "total": 229,
-      "recent": "2026-06-16T23:05:23+09:00",
+      "total": 231,
+      "recent": "2026-06-17T00:36:27+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -386,10 +398,10 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 4,
+      "news": 3,
       "papers": 23,
       "trials": 4,
-      "total": 31,
+      "total": 30,
       "recent": "2026-06-15T06:03:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
@@ -419,51 +431,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 294,
+      "news": 295,
       "papers": 0,
       "trials": 0,
-      "total": 294,
-      "recent": "2026-06-16T18:13:00+09:00",
+      "total": 295,
+      "recent": "2026-06-17T06:12:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 116,
+      "news": 115,
       "papers": 0,
       "trials": 0,
-      "total": 116,
+      "total": 115,
       "recent": "2026-06-16T16:38:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 107,
+      "news": 108,
       "papers": 0,
       "trials": 0,
-      "total": 107,
-      "recent": "2026-06-16T17:26:00+09:00",
+      "total": 108,
+      "recent": "2026-06-17T06:12:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 383,
+      "news": 385,
       "papers": 0,
       "trials": 0,
-      "total": 383,
-      "recent": "2026-06-16T18:52:11+09:00",
+      "total": 385,
+      "recent": "2026-06-17T06:06:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 283,
+      "news": 290,
       "papers": 1,
       "trials": 0,
-      "total": 284,
-      "recent": "2026-06-16T22:10:00+09:00",
+      "total": 291,
+      "recent": "2026-06-17T06:02:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -479,30 +491,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 282,
-      "yesterday": 254
+      "today": 73,
+      "yesterday": 293
     },
     "paper": {
-      "today": 8,
-      "yesterday": 21
+      "today": 0,
+      "yesterday": 11
     },
     "trial": {
-      "today": 13,
-      "yesterday": 6
+      "today": 0,
+      "yesterday": 13
     },
     "regulatory": {
-      "today": 47,
-      "yesterday": 2
+      "today": 9,
+      "yesterday": 47
     }
   },
   "trend": [
-    {
-      "date": "2026-05-18",
-      "news": 50,
-      "paper": 28,
-      "trial": 17,
-      "regulatory": 0
-    },
     {
       "date": "2026-05-19",
       "news": 39,
@@ -597,7 +602,7 @@
     {
       "date": "2026-06-01",
       "news": 186,
-      "paper": 103,
+      "paper": 105,
       "trial": 6,
       "regulatory": 0
     },
@@ -674,7 +679,7 @@
     {
       "date": "2026-06-12",
       "news": 269,
-      "paper": 30,
+      "paper": 31,
       "trial": 10,
       "regulatory": 14
     },
@@ -694,17 +699,24 @@
     },
     {
       "date": "2026-06-15",
-      "news": 254,
+      "news": 255,
       "paper": 21,
       "trial": 6,
       "regulatory": 2
     },
     {
       "date": "2026-06-16",
-      "news": 282,
-      "paper": 8,
+      "news": 293,
+      "paper": 11,
       "trial": 13,
       "regulatory": 47
+    },
+    {
+      "date": "2026-06-17",
+      "news": 73,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 9
     }
   ],
   "alerts": [
@@ -806,6 +818,21 @@
     {
       "level": "High",
       "score": 10,
+      "title": "비만치료제 3종 비교했더니...체중 감량은 티르제파타이드의 젭바운드ㆍ...",
+      "layer": "news",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=601037",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-17T07:40:00+09:00",
+      "date": "2026.06.17",
+      "publisher": "mdtoday.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 10,
       "title": "Importing Drugs with a Pre-Launch Activities Importation Request (PLAIR)",
       "layer": "regulatory",
       "url": "http://www.fda.gov/drugs/human-drug-imports/importing-drugs-pre-launch-activities-importation-request-plair",
@@ -814,22 +841,6 @@
       "published": "2026-06-16T00:34:18.448465+09:00",
       "date": "2026.06.16",
       "publisher": "FDA · FDA Drugs"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "노보 노디스크 ‘위고비’ 정제 英 MHRA서 허가",
-      "layer": "news",
-      "url": "https://www.yakup.com/news/index.html?mode=view&cat=16&nid=328440",
-      "companies": [
-        "novo"
-      ],
-      "pipelines": [
-        "PT403"
-      ],
-      "published": "2026-06-15T05:58:00+09:00",
-      "date": "2026.06.15",
-      "publisher": "약업신문"
     }
   ],
   "highlights": {
