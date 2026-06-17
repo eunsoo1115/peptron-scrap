@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-17T17:36:00.200187+09:00",
-  "total": 1906,
+  "updated_at": "2026-06-17T21:57:40.058160+09:00",
+  "total": 1925,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -487,6 +487,38 @@
       "companies": []
     },
     {
+      "title": "Alterations in Cardiac and Systemic Metabolism in Heart Failure",
+      "summary": "Bertero E et al. · Circulation. Heart failure",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42305084/",
+      "publisher": "Circulation. Heart failure",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Deciphering Mental Illness: Neurons vs. Neuroglia",
+      "summary": "Khan A et al. · Journal of clinical psychopharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42306816/",
+      "publisher": "Journal of clinical psychopharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Pharmacoequity and the Promise of GLP-1 Therapies in Cardiovascular Disease",
       "summary": "Essien UR et al. · Circulation",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42296211/",
@@ -783,6 +815,72 @@
       "summary": "Bizoza R et al. · BMJ open",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42303401/",
       "publisher": "BMJ open",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.16",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Cardioprotective glucose-lowering drugs, statins, and secondary major adverse cardiovascular events: a nationwide cohort study of individuals with type 2 diabetes and cardiovascular disease",
+      "summary": "Ternhamar T et al. · Cardiovascular diabetology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42304446/",
+      "publisher": "Cardiovascular diabetology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Cardiovascular Outcomes in a SELECT-Like Obesity Cohort: Real-World Insights From the Swedish AROS Database",
+      "summary": "Ritsinger V et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42304551/",
+      "publisher": "Diabetes, obesity & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Achondroplasia management in the era of targeted therapies: a meta-analysis of C-type natriuretic peptide analogs",
+      "summary": "Kamrul-Hasan ABM et al. · Journal of the Endocrine Society",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42306228/",
+      "publisher": "Journal of the Endocrine Society",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.16",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [
+        "PND3174"
+      ],
+      "companies": []
+    },
+    {
+      "title": "An injectable SFMA/HA-E hydrogel for sustained delivery of hucMSC-derived exosomes promotes myocardial repair after infarction",
+      "summary": "Deng G et al. · Stem cell research & therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42304508/",
+      "publisher": "Stem cell research & therapy",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -2518,6 +2616,24 @@
       "companies": []
     },
     {
+      "title": "Semaglutide targets muscle mitochondria to regulate glutamine metabolism and treat osteoarthritis",
+      "summary": "Tian Y et al. · iScience",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42305583/",
+      "publisher": "iScience",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "15-PGDH inhibition promotes muscle repair and strength recovery during GLP-1 receptor agonist-induced weight loss",
       "summary": "Nalbandian M et al. · Proceedings of the National Academy of Sciences of the United States of America",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42228536/",
@@ -2884,6 +3000,22 @@
       "summary": "Chen J et al. · Phytomedicine : international journal of phytotherapy and phytopharmacology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42287820/",
       "publisher": "Phytomedicine : international journal of phyt",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-09T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.09",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Gelatin macromolecular microspheres constructed by microfluidics regulate the TNF/HIF-1 signaling axis to reshape the bone immune microenvironment and enhance infectious bone defect repair",
+      "summary": "Song C et al. · Materials today. Bio",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42305357/",
+      "publisher": "Materials today. Bio",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -3335,6 +3467,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "GLP1 receptor agonists in heart failure with preserved ejection fraction (HFpEF) - beyond weight loss: a condensed scientific review",
+      "summary": "Roy E et al. · Drugs in context",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42306018/",
+      "publisher": "Drugs in context",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-08T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.08",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -4244,6 +4392,22 @@
       "companies": []
     },
     {
+      "title": "Improvement in chronic lymphedema in a gynecologic cancer survivor after starting GLP-1 receptor agonist therapy: A case report",
+      "summary": "Fromson A et al. · Gynecologic oncology reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42305902/",
+      "publisher": "Gynecologic oncology reports",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-05T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.05",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Real-world use of submaximal doses of long-acting GLP-1 receptor agonist semaglutide in patients with obesity: a prospective observational study",
       "summary": "Miertová Z et al. · Scientific reports",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42236900/",
@@ -4790,6 +4954,38 @@
       "companies": []
     },
     {
+      "title": "Use of GLP-1 Receptor Agonists and SGLT2 Inhibitors Among Patients with Type 1 Diabetes: A Nationwide Register-Based Cohort Study",
+      "summary": "Lim CE et al. · The Lancet regional health. Europe",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42306189/",
+      "publisher": "The Lancet regional health. Europe",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-04T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.04",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "CGM-derived postprandial glucose with IcoSema versus other insulin regimens: a post hoc analysis of COMBINE 1 and 3",
+      "summary": "De Block C et al. · EClinicalMedicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42306490/",
+      "publisher": "EClinicalMedicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-04T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.04",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Model-based network meta-analysis: Joint estimation of dose-response and time-course relationships",
       "summary": "Strathe A et al. · Research synthesis methods",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42230565/",
@@ -5108,6 +5304,22 @@
       "summary": "Gao J et al. · bioRxiv : the preprint server for biology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42282712/",
       "publisher": "bioRxiv : the preprint server for biology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-03T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.03",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "The miR-212-3p/transferrin axis promotes bone regeneration by modulating iron homeostasis through Schwann cell Exosome-BMSCs communication",
+      "summary": "Jia Y et al. · Bioactive materials",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42306049/",
+      "publisher": "Bioactive materials",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -7250,6 +7462,40 @@
       "companies": []
     },
     {
+      "title": "A systematic review of semaglutide-associated kidney injury case reports",
+      "summary": "Xiu X et al. · Frontiers in medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42305970/",
+      "publisher": "Frontiers in medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "The multifaceted antiretroviral coverage provided by BIC/FTC/TAF: a pharmacokinetic/pharmacodynamic revisitation",
+      "summary": "Di Perri G et al. · Le infezioni in medicina",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42306105/",
+      "publisher": "Le infezioni in medicina",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.01",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "From Induction to Maintenance? Rethinking GLP-1-Based Obesity Pharmacotherapy in the Era of Oral Agents",
       "summary": "Kamrul-Hasan ABM et al. · Diabetes, obesity & metabolism",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42219272/",
@@ -7948,6 +8194,22 @@
       "date": "2026.05.29",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Racial and ethnic disparities in GLP-1 prescriptions among veterans with obesity across direct and community care settings",
+      "summary": "Stein RI et al. · Health affairs scholar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42305721/",
+      "publisher": "Health affairs scholar",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-05-29T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.05.29",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -14717,6 +14979,22 @@
       "companies": []
     },
     {
+      "title": "Discovery of Small-Molecule GLP‑1 Receptor Agonists with Improved Oral Pharmacokinetics Based on Orforglipron",
+      "summary": "Li M et al. · ACS medicinal chemistry letters",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42305200/",
+      "publisher": "ACS medicinal chemistry letters",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-05-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.05.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "The novel GLP-1/GIP dual receptor agonist DA5-CH is superior to tirzepatide and exendin-4 in the 6-OHDA Parkinson rat model",
       "summary": "Lingyu Z et al. · Frontiers in endocrinology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42165019/",
@@ -19263,6 +19541,22 @@
       "companies": []
     },
     {
+      "title": "Irisin may be involved in exendin-4 mitochondrial action in human adipocytes",
+      "summary": "Dziewońska A et al. · Archives of medical science : AMS",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42305296/",
+      "publisher": "Archives of medical science : AMS",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-04-03T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.04.03",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Gait and posturographic parameters of children with achondroplasia - a long-term pilot study",
       "summary": "Hergenröther M et al. · BMC musculoskeletal disorders",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41928207/",
@@ -22564,6 +22858,22 @@
       "pipelines": [
         "PND3174"
       ],
+      "companies": []
+    },
+    {
+      "title": "Hybrid Dissolving Microneedles Incorporating Hyaluronic Acid Microdepots for Pain-free and Long-acting Corticosteroid Therapy",
+      "summary": "Lee JH et al. · Biomaterials research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42305854/",
+      "publisher": "Biomaterials research",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-01-29T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.01.29",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {
