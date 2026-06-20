@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-20T16:08:43.942225+09:00",
+  "updated_at": "2026-06-20T20:35:29.830779+09:00",
   "dates": [
     {
       "date": "2026-06-20",
-      "total": 2405,
+      "total": 2509,
       "counts": {
-        "core": 288,
-        "obesity": 707,
-        "npr": 327,
-        "platform": 484,
-        "reg": 349,
-        "mkt": 250
+        "core": 292,
+        "obesity": 752,
+        "npr": 329,
+        "platform": 507,
+        "reg": 363,
+        "mkt": 266
       }
     },
     {
@@ -337,15 +337,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 5478,
+  "news_recent_total": 5499,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1294,
+      "news": 1301,
       "papers": 155,
       "trials": 85,
-      "total": 1534,
+      "total": 1541,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -372,11 +372,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 716,
+      "news": 719,
       "papers": 113,
       "trials": 83,
-      "total": 912,
-      "recent": "2026-06-20T15:58:24+09:00",
+      "total": 915,
+      "recent": "2026-06-20T19:03:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -487,21 +487,21 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 126,
+      "news": 127,
       "papers": 0,
       "trials": 0,
-      "total": 126,
-      "recent": "2026-06-20T06:12:00+09:00",
+      "total": 127,
+      "recent": "2026-06-20T07:55:23+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 410,
+      "news": 411,
       "papers": 0,
       "trials": 0,
-      "total": 410,
-      "recent": "2026-06-20T04:43:25+09:00",
+      "total": 411,
+      "recent": "2026-06-20T19:06:18+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -527,8 +527,8 @@
   ],
   "kpi": {
     "news": {
-      "today": 51,
-      "yesterday": 214
+      "today": 66,
+      "yesterday": 216
     },
     "paper": {
       "today": 1,
@@ -616,7 +616,7 @@
     },
     {
       "date": "2026-06-01",
-      "news": 188,
+      "news": 189,
       "paper": 113,
       "trial": 6,
       "regulatory": 0
@@ -721,35 +721,35 @@
     },
     {
       "date": "2026-06-16",
-      "news": 297,
+      "news": 298,
       "paper": 25,
       "trial": 13,
       "regulatory": 47
     },
     {
       "date": "2026-06-17",
-      "news": 343,
+      "news": 344,
       "paper": 25,
       "trial": 10,
       "regulatory": 9
     },
     {
       "date": "2026-06-18",
-      "news": 314,
+      "news": 315,
       "paper": 21,
       "trial": 3,
       "regulatory": 7
     },
     {
       "date": "2026-06-19",
-      "news": 214,
+      "news": 216,
       "paper": 20,
       "trial": 0,
       "regulatory": 5
     },
     {
       "date": "2026-06-20",
-      "news": 51,
+      "news": 66,
       "paper": 1,
       "trial": 0,
       "regulatory": 0
