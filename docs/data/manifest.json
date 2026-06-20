@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-20T07:53:42.129169+09:00",
+  "updated_at": "2026-06-20T16:08:43.942225+09:00",
   "dates": [
     {
       "date": "2026-06-20",
-      "total": 2241,
+      "total": 2405,
       "counts": {
-        "core": 285,
-        "obesity": 629,
-        "npr": 321,
-        "platform": 440,
-        "reg": 337,
-        "mkt": 229
+        "core": 288,
+        "obesity": 707,
+        "npr": 327,
+        "platform": 484,
+        "reg": 349,
+        "mkt": 250
       }
     },
     {
@@ -323,7 +323,7 @@
     }
   ],
   "papers": {
-    "total": 2008,
+    "total": 2024,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -337,15 +337,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 5448,
+  "news_recent_total": 5478,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1288,
-      "papers": 154,
+      "news": 1294,
+      "papers": 155,
       "trials": 85,
-      "total": 1527,
+      "total": 1534,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -372,11 +372,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 710,
+      "news": 716,
       "papers": 113,
       "trials": 83,
-      "total": 906,
-      "recent": "2026-06-20T07:14:00+09:00",
+      "total": 912,
+      "recent": "2026-06-20T15:58:24+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -497,11 +497,11 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 409,
+      "news": 410,
       "papers": 0,
       "trials": 0,
-      "total": 409,
-      "recent": "2026-06-19T17:28:00+09:00",
+      "total": 410,
+      "recent": "2026-06-20T04:43:25+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -527,12 +527,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 24,
+      "today": 51,
       "yesterday": 214
     },
     "paper": {
-      "today": 0,
-      "yesterday": 8
+      "today": 1,
+      "yesterday": 20
     },
     "trial": {
       "today": 0,
@@ -617,7 +617,7 @@
     {
       "date": "2026-06-01",
       "news": 188,
-      "paper": 112,
+      "paper": 113,
       "trial": 6,
       "regulatory": 0
     },
@@ -687,13 +687,13 @@
     {
       "date": "2026-06-11",
       "news": 314,
-      "paper": 19,
+      "paper": 21,
       "trial": 13,
       "regulatory": 17
     },
     {
       "date": "2026-06-12",
-      "news": 271,
+      "news": 272,
       "paper": 33,
       "trial": 10,
       "regulatory": 14
@@ -721,7 +721,7 @@
     },
     {
       "date": "2026-06-16",
-      "news": 296,
+      "news": 297,
       "paper": 25,
       "trial": 13,
       "regulatory": 47
@@ -735,7 +735,7 @@
     },
     {
       "date": "2026-06-18",
-      "news": 313,
+      "news": 314,
       "paper": 21,
       "trial": 3,
       "regulatory": 7
@@ -743,14 +743,14 @@
     {
       "date": "2026-06-19",
       "news": 214,
-      "paper": 8,
+      "paper": 20,
       "trial": 0,
       "regulatory": 5
     },
     {
       "date": "2026-06-20",
-      "news": 24,
-      "paper": 0,
+      "news": 51,
+      "paper": 1,
       "trial": 0,
       "regulatory": 0
     }
@@ -854,6 +854,21 @@
     {
       "level": "High",
       "score": 10,
+      "title": "FDA Proposes Excluding Semaglutide, Tirzepatide and Liraglutide From 503B Bulks List",
+      "layer": "news",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDFVWmtZRHdtV1ZqMmFKamFheE9tRzRRRm1WNEd4QjBTZks1Wm04c1k0S1ZlR3ZZVVhGaUVOVGhnOUQ5alllZzlsUFdXUVZiMjNndWZRTnNVakhmc1BjbTZOTVVLNk13bFNTTGFBU2puTkRTSmFtaFAwX0tQTFJsOXFHcTZOWTQ2eEwtOFg1c1J4bUtMcWdTUm9LR2ZlcFp0c1FLT0RmZ05GWVFLa2dwNWwtQUphekJQUHc?oc=5",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-20T15:58:24+09:00",
+      "date": "2026.06.20",
+      "publisher": "The Indian Practitioner"
+    },
+    {
+      "level": "High",
+      "score": 10,
       "title": "한미약품, 평택 바이오플랜트서 기업 역량 소개",
       "layer": "news",
       "url": "https://www.cnbnews.com/news/articleView.html?idxno=1005153",
@@ -868,21 +883,6 @@
       "published": "2026-06-18T17:06:00+09:00",
       "date": "2026.06.18",
       "publisher": "cnbnews.com"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "비만치료제 3종 비교했더니...체중 감량은 티르제파타이드의 젭바운드ㆍ...",
-      "layer": "news",
-      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=601037",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-17T07:40:00+09:00",
-      "date": "2026.06.17",
-      "publisher": "mdtoday.co.kr"
     }
   ],
   "highlights": {
