@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-21T08:07:26.627309+09:00",
+  "updated_at": "2026-06-21T17:09:47.833923+09:00",
   "dates": [
     {
       "date": "2026-06-21",
-      "total": 2258,
+      "total": 2382,
       "counts": {
-        "core": 286,
-        "obesity": 632,
-        "npr": 324,
-        "platform": 450,
-        "reg": 337,
-        "mkt": 229
+        "core": 288,
+        "obesity": 676,
+        "npr": 330,
+        "platform": 480,
+        "reg": 343,
+        "mkt": 265
       }
     },
     {
@@ -349,15 +349,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 5475,
+  "news_recent_total": 5518,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1300,
+      "news": 1316,
       "papers": 155,
       "trials": 85,
-      "total": 1540,
+      "total": 1556,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -384,11 +384,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 718,
+      "news": 726,
       "papers": 113,
       "trials": 83,
-      "total": 914,
-      "recent": "2026-06-21T05:01:00+09:00",
+      "total": 922,
+      "recent": "2026-06-21T16:15:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -539,7 +539,7 @@
   ],
   "kpi": {
     "news": {
-      "today": 14,
+      "today": 55,
       "yesterday": 73
     },
     "paper": {
@@ -726,7 +726,7 @@
     },
     {
       "date": "2026-06-16",
-      "news": 298,
+      "news": 299,
       "paper": 25,
       "trial": 13,
       "regulatory": 47
@@ -761,7 +761,7 @@
     },
     {
       "date": "2026-06-21",
-      "news": 14,
+      "news": 55,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
