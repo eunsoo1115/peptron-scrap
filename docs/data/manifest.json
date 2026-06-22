@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-23T00:00:17.011761+09:00",
+  "updated_at": "2026-06-23T08:21:34.340882+09:00",
   "dates": [
+    {
+      "date": "2026-06-23",
+      "total": 2266,
+      "counts": {
+        "core": 288,
+        "obesity": 630,
+        "npr": 317,
+        "platform": 458,
+        "reg": 336,
+        "mkt": 237
+      }
+    },
     {
       "date": "2026-06-22",
       "total": 2581,
@@ -347,7 +359,7 @@
     }
   ],
   "papers": {
-    "total": 2038,
+    "total": 2069,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -357,19 +369,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 241,
+    "total": 254,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 5689,
+  "news_recent_total": 5740,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1345,
-      "papers": 156,
+      "news": 1359,
+      "papers": 159,
       "trials": 85,
-      "total": 1586,
+      "total": 1603,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -396,11 +408,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 733,
-      "papers": 113,
+      "news": 739,
+      "papers": 115,
       "trials": 83,
-      "total": 929,
-      "recent": "2026-06-22T20:54:08+09:00",
+      "total": 937,
+      "recent": "2026-06-23T06:30:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -428,10 +440,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 42,
+      "news": 38,
       "papers": 134,
       "trials": 40,
-      "total": 216,
+      "total": 212,
       "recent": "2026-06-22T20:55:34+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -459,9 +471,9 @@
       "id": "PT320",
       "label": "PT320",
       "news": 3,
-      "papers": 23,
+      "papers": 24,
       "trials": 4,
-      "total": 30,
+      "total": 31,
       "recent": "2026-06-15T06:03:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
@@ -491,11 +503,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 351,
+      "news": 353,
       "papers": 0,
       "trials": 0,
-      "total": 351,
-      "recent": "2026-06-22T16:30:00+09:00",
+      "total": 353,
+      "recent": "2026-06-23T06:10:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -521,21 +533,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 397,
+      "news": 399,
       "papers": 0,
       "trials": 0,
-      "total": 397,
-      "recent": "2026-06-22T12:06:00+09:00",
+      "total": 399,
+      "recent": "2026-06-23T05:02:43+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 321,
+      "news": 324,
       "papers": 1,
       "trials": 0,
-      "total": 322,
-      "recent": "2026-06-22T21:50:10+09:00",
+      "total": 325,
+      "recent": "2026-06-23T05:10:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -551,19 +563,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 0,
-      "yesterday": 200
+      "today": 64,
+      "yesterday": 205
     },
     "paper": {
       "today": 0,
-      "yesterday": 0
+      "yesterday": 5
     },
     "trial": {
       "today": 0,
       "yesterday": 6
     },
     "regulatory": {
-      "today": 0,
+      "today": 13,
       "yesterday": 0
     }
   },
@@ -613,7 +625,7 @@
     {
       "date": "2026-05-31",
       "news": 37,
-      "paper": 9,
+      "paper": 10,
       "trial": 0,
       "regulatory": 0
     },
@@ -634,21 +646,21 @@
     {
       "date": "2026-06-03",
       "news": 117,
-      "paper": 25,
+      "paper": 26,
       "trial": 14,
       "regulatory": 1
     },
     {
       "date": "2026-06-04",
       "news": 296,
-      "paper": 35,
+      "paper": 37,
       "trial": 9,
       "regulatory": 21
     },
     {
       "date": "2026-06-05",
       "news": 287,
-      "paper": 30,
+      "paper": 35,
       "trial": 10,
       "regulatory": 54
     },
@@ -669,14 +681,14 @@
     {
       "date": "2026-06-08",
       "news": 406,
-      "paper": 28,
+      "paper": 29,
       "trial": 6,
       "regulatory": 4
     },
     {
       "date": "2026-06-09",
       "news": 512,
-      "paper": 25,
+      "paper": 27,
       "trial": 8,
       "regulatory": 10
     },
@@ -690,14 +702,14 @@
     {
       "date": "2026-06-11",
       "news": 314,
-      "paper": 21,
+      "paper": 22,
       "trial": 13,
       "regulatory": 17
     },
     {
       "date": "2026-06-12",
       "news": 272,
-      "paper": 33,
+      "paper": 36,
       "trial": 10,
       "regulatory": 14
     },
@@ -718,21 +730,21 @@
     {
       "date": "2026-06-15",
       "news": 258,
-      "paper": 25,
+      "paper": 26,
       "trial": 6,
       "regulatory": 2
     },
     {
       "date": "2026-06-16",
       "news": 299,
-      "paper": 25,
+      "paper": 26,
       "trial": 13,
       "regulatory": 47
     },
     {
       "date": "2026-06-17",
       "news": 344,
-      "paper": 25,
+      "paper": 26,
       "trial": 10,
       "regulatory": 9
     },
@@ -746,7 +758,7 @@
     {
       "date": "2026-06-19",
       "news": 217,
-      "paper": 20,
+      "paper": 21,
       "trial": 0,
       "regulatory": 5
     },
@@ -766,17 +778,17 @@
     },
     {
       "date": "2026-06-22",
-      "news": 200,
-      "paper": 0,
+      "news": 205,
+      "paper": 5,
       "trial": 6,
       "regulatory": 0
     },
     {
       "date": "2026-06-23",
-      "news": 0,
+      "news": 64,
       "paper": 0,
       "trial": 0,
-      "regulatory": 0
+      "regulatory": 13
     }
   ],
   "alerts": [
@@ -1022,29 +1034,29 @@
       },
       {
         "level": "Medium",
-        "title": "연골무형성증: FDA, 소아 성장 개선 목적의 navepegritide에 가속 승인 부여",
-        "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONklFM1ZYMVdVOWQ5Qzg0eWtHOHFPYzlLMllDZGdhNEw4eFd6U1JISHo3Sml6NGhwdHg2QVdPRGtlQVktdEJJTFRjN1Y2Z0FfSmVKekRVQVdFcVk0UlhBdGplb092QnpaTl95ZGp4VUN2eTk0NDAwcWt3WFVwUzFtOXRoSjNGWDFmT3JKTjQzQ2QteEczZWswVE1vUm9HSVRUUE9VRzc3REExYVczRVFYeXROUTI?oc=5",
-        "date": "2026.05.23",
-        "published": "2026-05-23T20:23:36+09:00",
-        "publisher": "Vera Health"
-      },
-      {
-        "level": "Medium",
-        "title": "Vosoritide Meets Primary Endpoint in Phase 3 Hypochondroplasia Trial, Prompting Planned sNDA Submission to FDA",
-        "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObk5vWTdBZVB0WjRJN0Fvbjk3NEVKQVJya0RjTTZxMHM0SXczN3R4bnJ1V3VnYnM3c0dwNVFCbmRWbV9kY3hKOEhCN2s4dlgzYU1Va0hYbGw2bmlFY2dLMWkyazRWeGVlV3VJdExWa3FKa05sYk1Lek9OMFhjTFZQVENXdDhMYUJlcnlJREd3NXlaRGRLNGFmUHVVakFicGlNMjdpQm54dlBLdnlIZGdXSFJiRml6NlI0MnJHVXMyQzlpSktPaGY3MjRFcm9LZVk2blpTQVoxbTN4ME9Sd1dGb1J4QnlZNWs?oc=5",
-        "date": "2026.05.23",
-        "published": "2026-05-23T00:24:42+09:00",
-        "publisher": "BioPharm International"
-      },
-      {
-        "level": "Medium",
         "title": "Study to Evaluate the Efficacy and Safety of BMN 333 Versus Vosoritide in Children With Achondroplasia",
         "layer": "trial",
         "url": "https://clinicaltrials.gov/study/NCT07441876",
         "date": "2026.05.07",
         "published": "2026-05-07T00:00:00+09:00",
+        "publisher": "BioMarin Pharmaceutical"
+      },
+      {
+        "level": "Medium",
+        "title": "A Study to Evaluate the Efficacy and Safety of Infigratinib in Children and Adolescents With Achondroplasia",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT06164951",
+        "date": "2026.03.17",
+        "published": "2026-03-17T00:00:00+09:00",
+        "publisher": "QED Therapeutics, a BridgeBio company"
+      },
+      {
+        "level": "Medium",
+        "title": "Interventional Study of Vosoritide for the Treatment of Children With Hypochondroplasia",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT06455059",
+        "date": "2026.01.20",
+        "published": "2026-01-20T00:00:00+09:00",
         "publisher": "BioMarin Pharmaceutical"
       }
     ],
