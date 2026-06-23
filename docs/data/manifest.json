@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-23T08:21:34.340882+09:00",
+  "updated_at": "2026-06-23T16:09:17.545846+09:00",
   "dates": [
     {
       "date": "2026-06-23",
-      "total": 2266,
+      "total": 2475,
       "counts": {
-        "core": 288,
-        "obesity": 630,
-        "npr": 317,
-        "platform": 458,
-        "reg": 336,
-        "mkt": 237
+        "core": 301,
+        "obesity": 704,
+        "npr": 332,
+        "platform": 502,
+        "reg": 358,
+        "mkt": 278
       }
     },
     {
@@ -359,7 +359,7 @@
     }
   ],
   "papers": {
-    "total": 2069,
+    "total": 2089,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -369,19 +369,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 254,
+    "total": 256,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 5740,
+  "news_recent_total": 5871,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1359,
+      "news": 1386,
       "papers": 159,
       "trials": 85,
-      "total": 1603,
+      "total": 1630,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -408,11 +408,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 739,
-      "papers": 115,
+      "news": 754,
+      "papers": 116,
       "trials": 83,
-      "total": 937,
-      "recent": "2026-06-23T06:30:00+09:00",
+      "total": 953,
+      "recent": "2026-06-23T15:36:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -440,11 +440,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 38,
+      "news": 39,
       "papers": 134,
       "trials": 40,
-      "total": 212,
-      "recent": "2026-06-22T20:55:34+09:00",
+      "total": 213,
+      "recent": "2026-06-23T08:41:56+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -503,11 +503,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 353,
+      "news": 360,
       "papers": 0,
       "trials": 0,
-      "total": 353,
-      "recent": "2026-06-23T06:10:00+09:00",
+      "total": 360,
+      "recent": "2026-06-23T15:54:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -523,31 +523,31 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 132,
+      "news": 136,
       "papers": 0,
       "trials": 0,
-      "total": 132,
-      "recent": "2026-06-22T15:50:01+09:00",
+      "total": 136,
+      "recent": "2026-06-23T15:10:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 399,
+      "news": 405,
       "papers": 0,
       "trials": 0,
-      "total": 399,
-      "recent": "2026-06-23T05:02:43+09:00",
+      "total": 405,
+      "recent": "2026-06-23T11:58:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 324,
+      "news": 325,
       "papers": 1,
       "trials": 0,
-      "total": 325,
-      "recent": "2026-06-23T05:10:00+09:00",
+      "total": 326,
+      "recent": "2026-06-23T12:02:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -563,19 +563,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 64,
-      "yesterday": 205
+      "today": 191,
+      "yesterday": 206
     },
     "paper": {
-      "today": 0,
-      "yesterday": 5
+      "today": 3,
+      "yesterday": 21
     },
     "trial": {
       "today": 0,
       "yesterday": 6
     },
     "regulatory": {
-      "today": 13,
+      "today": 15,
       "yesterday": 0
     }
   },
@@ -680,7 +680,7 @@
     },
     {
       "date": "2026-06-08",
-      "news": 406,
+      "news": 407,
       "paper": 29,
       "trial": 6,
       "regulatory": 4
@@ -744,20 +744,20 @@
     {
       "date": "2026-06-17",
       "news": 344,
-      "paper": 26,
+      "paper": 27,
       "trial": 10,
       "regulatory": 9
     },
     {
       "date": "2026-06-18",
-      "news": 317,
+      "news": 318,
       "paper": 21,
       "trial": 3,
       "regulatory": 7
     },
     {
       "date": "2026-06-19",
-      "news": 217,
+      "news": 218,
       "paper": 21,
       "trial": 0,
       "regulatory": 5
@@ -778,17 +778,17 @@
     },
     {
       "date": "2026-06-22",
-      "news": 205,
-      "paper": 5,
+      "news": 206,
+      "paper": 21,
       "trial": 6,
       "regulatory": 0
     },
     {
       "date": "2026-06-23",
-      "news": 64,
-      "paper": 0,
+      "news": 191,
+      "paper": 3,
       "trial": 0,
-      "regulatory": 13
+      "regulatory": 15
     }
   ],
   "alerts": [
@@ -890,32 +890,26 @@
     {
       "level": "High",
       "score": 10,
-      "title": "USFDA Flags Misleading Claims on Compounded Semaglutide, Tirzepatide Products",
-      "layer": "news",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWNYUGxPTUVUTjFlRHVIQnRpb2dBSkloVEEyOWhkZG11X2M1d2hDRkVqOWdXWklQZy1wSy1sZXp5YVJNU0V0N2Y5VjRrVENJUnBGa1otQ1V5WnNVM0ttMTF2dTlFelZnYWo4eGJxQ0ZPYWZ6ZkJiZ1NiNUpxdThKMkEwN01PdUg2UkJIeGxjRDc4R1BtXzBBd052blN6bVVwU1VPV2hjYXNKekQ2Vk1KQWpXNkY4bE0zeHY5TURySVVEamhHcHhWSF8tdFjSAdIBQVVfeXFMTWVvM2UxUUxENzhlZXR0dnRQTjJyMjFjVjB1MEh0dnZtSlY4alBNWkV3Z0tGQmV1cFhtN2gzaEE0ZGtxNk5hNGdxa2paYmZPaWJpellBdFN0Xy1uUElsYmhsRXdZb3RTTUtDTmJGZU84UklzN194dXptckdHTmRaYzRGcmxoNUZ3QS0xZ2VoZFJWWkgyM19Fb1o2Q3c5RjRaTFpObkdGRlc4RHllSVA0VDVRTWNrZ1JSUHFHYWh5cnlhcEFKaTc3ZkpnQUM3TW84aUFR?oc=5",
+      "title": "Withdrawn | Cancer Accelerated Approvals",
+      "layer": "regulatory",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/withdrawn-cancer-accelerated-approvals",
       "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-22T20:54:08+09:00",
-      "date": "2026.06.22",
-      "publisher": "Medical Dialogues"
+      "pipelines": [],
+      "published": "2026-06-23T16:09:12.038565+09:00",
+      "date": "2026.06.23",
+      "publisher": "FDA · FDA Drugs"
     },
     {
       "level": "High",
       "score": 10,
-      "title": "FDA Proposes Excluding Semaglutide, Tirzepatide and Liraglutide From 503B Bulks List",
+      "title": "대웅제약, 식약처 위궤양 치료 펙수클루 3상 임상 승인",
       "layer": "news",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDFVWmtZRHdtV1ZqMmFKamFheE9tRzRRRm1WNEd4QjBTZks1Wm04c1k0S1ZlR3ZZVVhGaUVOVGhnOUQ5alllZzlsUFdXUVZiMjNndWZRTnNVakhmc1BjbTZOTVVLNk13bFNTTGFBU2puTkRTSmFtaFAwX0tQTFJsOXFHcTZOWTQ2eEwtOFg1c1J4bUtMcWdTUm9LR2ZlcFp0c1FLT0RmZ05GWVFLa2dwNWwtQUphekJQUHc?oc=5",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545106",
       "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-20T15:58:24+09:00",
-      "date": "2026.06.20",
-      "publisher": "The Indian Practitioner"
+      "pipelines": [],
+      "published": "2026-06-23T15:22:00+09:00",
+      "date": "2026.06.23",
+      "publisher": "autodaily.co.kr"
     }
   ],
   "highlights": {

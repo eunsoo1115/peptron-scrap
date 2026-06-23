@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-06-23T08:21:33.806513+09:00",
-  "total": 254,
+  "updated_at": "2026-06-23T16:09:17.012389+09:00",
+  "total": 256,
   "year_min": null,
   "year_max": null,
   "items": [
+    {
+      "title": "Withdrawn | Cancer Accelerated Approvals",
+      "summary": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have been subsequently withdrawn, and are therefore, no longer FDA-approved.",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/withdrawn-cancer-accelerated-approvals",
+      "publisher": "FDA · FDA Drugs",
+      "source": "fda",
+      "published": "2026-06-23T16:09:12.038565+09:00",
+      "layer": "regulatory",
+      "agency": "FDA",
+      "board": "FDA Drugs",
+      "date": "2026.06.23"
+    },
+    {
+      "title": "Ongoing | Cancer Accelerated Approvals",
+      "summary": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have postmarketing requirement(s) for ongoing clinical trial(s) to verify clinical benefit.",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/ongoing-cancer-accelerated-approvals",
+      "publisher": "FDA · FDA Drugs",
+      "source": "fda",
+      "published": "2026-06-23T16:09:12.038505+09:00",
+      "layer": "regulatory",
+      "agency": "FDA",
+      "board": "FDA Drugs",
+      "date": "2026.06.23"
+    },
     {
       "title": "Demonstrating Substantial Evidence of Effectiveness for Human Drug and Biological Products",
       "summary": "Draft Guidance for Industry: Demonstrating Substantial Evidence of Effectiveness for Human Drug and Biological Products",
