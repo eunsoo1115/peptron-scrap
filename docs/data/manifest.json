@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-25T08:00:14.299864+09:00",
+  "updated_at": "2026-06-25T16:06:20.672533+09:00",
   "dates": [
     {
       "date": "2026-06-25",
-      "total": 2238,
+      "total": 2516,
       "counts": {
-        "core": 306,
-        "obesity": 603,
-        "npr": 303,
-        "platform": 454,
-        "reg": 337,
-        "mkt": 235
+        "core": 320,
+        "obesity": 703,
+        "npr": 320,
+        "platform": 509,
+        "reg": 386,
+        "mkt": 278
       }
     },
     {
@@ -383,7 +383,7 @@
     }
   ],
   "papers": {
-    "total": 2127,
+    "total": 2140,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -397,15 +397,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6354,
+  "news_recent_total": 6504,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1485,
-      "papers": 165,
+      "news": 1499,
+      "papers": 166,
       "trials": 87,
-      "total": 1737,
+      "total": 1752,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -432,11 +432,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 827,
-      "papers": 118,
+      "news": 842,
+      "papers": 119,
       "trials": 83,
-      "total": 1028,
-      "recent": "2026-06-25T07:23:00+09:00",
+      "total": 1044,
+      "recent": "2026-06-25T15:31:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -527,51 +527,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 411,
+      "news": 417,
       "papers": 0,
       "trials": 0,
-      "total": 411,
-      "recent": "2026-06-25T07:48:00+09:00",
+      "total": 417,
+      "recent": "2026-06-25T14:46:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 127,
+      "news": 141,
       "papers": 0,
       "trials": 0,
-      "total": 127,
-      "recent": "2026-06-24T16:40:00+09:00",
+      "total": 141,
+      "recent": "2026-06-25T15:50:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 140,
+      "news": 143,
       "papers": 0,
       "trials": 0,
-      "total": 140,
-      "recent": "2026-06-25T06:04:00+09:00",
+      "total": 143,
+      "recent": "2026-06-25T14:44:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 432,
+      "news": 438,
       "papers": 0,
       "trials": 0,
-      "total": 432,
-      "recent": "2026-06-25T07:23:00+09:00",
+      "total": 438,
+      "recent": "2026-06-25T15:16:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 336,
+      "news": 339,
       "papers": 1,
       "trials": 0,
-      "total": 337,
-      "recent": "2026-06-25T06:02:00+09:00",
+      "total": 340,
+      "recent": "2026-06-25T12:05:18+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -587,12 +587,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 57,
-      "yesterday": 347
+      "today": 198,
+      "yesterday": 354
     },
     "paper": {
-      "today": 2,
-      "yesterday": 6
+      "today": 3,
+      "yesterday": 15
     },
     "trial": {
       "today": 0,
@@ -641,8 +641,8 @@
     },
     {
       "date": "2026-06-01",
-      "news": 189,
-      "paper": 117,
+      "news": 190,
+      "paper": 118,
       "trial": 5,
       "regulatory": 0
     },
@@ -767,7 +767,7 @@
     },
     {
       "date": "2026-06-19",
-      "news": 218,
+      "news": 219,
       "paper": 21,
       "trial": 0,
       "regulatory": 5
@@ -802,15 +802,15 @@
     },
     {
       "date": "2026-06-24",
-      "news": 347,
-      "paper": 6,
+      "news": 354,
+      "paper": 15,
       "trial": 7,
       "regulatory": 14
     },
     {
       "date": "2026-06-25",
-      "news": 57,
-      "paper": 2,
+      "news": 198,
+      "paper": 3,
       "trial": 0,
       "regulatory": 9
     }
@@ -914,6 +914,21 @@
     {
       "level": "High",
       "score": 10,
+      "title": "트럼프, ‘미승인’ 비만 신약 몰래 투약? 백악관 공식 부인",
+      "layer": "news",
+      "url": "https://health.chosun.com/site/data/html_dir/2026/06/25/2026062502008.html",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-25T15:31:00+09:00",
+      "date": "2026.06.25",
+      "publisher": "health.chosun.com"
+    },
+    {
+      "level": "High",
+      "score": 10,
       "title": "릴리 터제파타이드, 역대 최대 매출 의약품 등극 전망...2032년 700억달러...",
       "layer": "news",
       "url": "http://www.press9.kr/news/articleView.html?idxno=78360",
@@ -928,21 +943,6 @@
       "published": "2026-06-24T11:30:00+09:00",
       "date": "2026.06.24",
       "publisher": "press9.kr"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "The FDA is proposing a ban on bulk compounding semaglutide and tirzepatide, a move that would impact supply, pricing, and who still gets access",
-      "layer": "news",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPOW02SlY1RW9CR1FzYTJnN0EtelFTdlB0T1Q5Z1NJZUl3VjgzUEdLaFcxRWl4dTJJUjRlZWc1bU1DWFpRcXZnM2FUN3VoOXRzc1JrSnFfWWRVaDlOWnhWbm9RV09qOExvOVk2eUtEbkQxcjRPVVBCLU9CSTYyYXdXektGT1dqS29jcmRra21iUHF0NXpiNW1zc3RtOTJBUU94MER3RWxfcUdBLXVYT3duRVhCZzE1NDRHaXZ4bFVMS2pWbzZka2M1TXhBekVKZ084UU43SnE5d1FPUnNueENqbnVYYlR4UWlZNGpzUG1zMDJzck1zQWVjUmNTV2NzMGhBMWdVWnN5TkJhcnBHc2lXSjhKTWpFOUk?oc=5",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-24T00:35:00+09:00",
-      "date": "2026.06.24",
-      "publisher": "OkDiario"
     }
   ],
   "highlights": {
