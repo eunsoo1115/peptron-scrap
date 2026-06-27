@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T15:35:52.475078+09:00",
-  "total": 2243,
+  "updated_at": "2026-06-27T20:03:19.592030+09:00",
+  "total": 2246,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -535,6 +535,22 @@
       "date": "2026.06.30",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Injectable Thermosensitive Hydrogel Targeting STAT3 Reprograms Neutrophils to Amplify Anti-Tumor Immunity Post-Radiofrequency Ablation in HCC",
+      "summary": "Chen H et al. · Advanced healthcare materials",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42363704/",
+      "publisher": "Advanced healthcare materials",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-27T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.27",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
@@ -12100,6 +12116,40 @@
       "date": "2026.06.01",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide: A turning point in obesity related heart failure with preserved ejection fraction?",
+      "summary": "Goraya R et al. · JPMA. The Journal of the Pakistan Medical Association",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42363364/",
+      "publisher": "JPMA. The Journal of the Pakistan Medical Ass",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "The Carbothalamus: Villain and Victim in Metabolic Care",
+      "summary": "Agrawal P et al. · JPMA. The Journal of the Pakistan Medical Association",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42363345/",
+      "publisher": "JPMA. The Journal of the Pakistan Medical Ass",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.01",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },

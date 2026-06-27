@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-27T15:46:17.453399+09:00",
+  "updated_at": "2026-06-27T20:04:21.486743+09:00",
   "dates": [
     {
       "date": "2026-06-27",
-      "total": 2446,
+      "total": 2531,
       "counts": {
-        "core": 318,
-        "obesity": 715,
-        "npr": 324,
-        "platform": 497,
-        "reg": 357,
-        "mkt": 235
+        "core": 323,
+        "obesity": 742,
+        "npr": 327,
+        "platform": 507,
+        "reg": 367,
+        "mkt": 265
       }
     },
     {
@@ -407,7 +407,7 @@
     }
   ],
   "papers": {
-    "total": 2243,
+    "total": 2246,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -421,15 +421,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6743,
+  "news_recent_total": 6752,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1523,
+      "news": 1524,
       "papers": 179,
       "trials": 91,
-      "total": 1793,
+      "total": 1794,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -456,11 +456,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 879,
-      "papers": 122,
+      "news": 882,
+      "papers": 123,
       "trials": 85,
-      "total": 1086,
-      "recent": "2026-06-27T11:26:00+09:00",
+      "total": 1090,
+      "recent": "2026-06-27T19:23:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -611,11 +611,11 @@
   ],
   "kpi": {
     "news": {
-      "today": 55,
+      "today": 61,
       "yesterday": 250
     },
     "paper": {
-      "today": 0,
+      "today": 1,
       "yesterday": 12
     },
     "trial": {
@@ -652,7 +652,7 @@
     {
       "date": "2026-06-01",
       "news": 190,
-      "paper": 125,
+      "paper": 127,
       "trial": 5,
       "regulatory": 0
     },
@@ -728,7 +728,7 @@
     },
     {
       "date": "2026-06-12",
-      "news": 272,
+      "news": 273,
       "paper": 38,
       "trial": 10,
       "regulatory": 14
@@ -819,7 +819,7 @@
     },
     {
       "date": "2026-06-25",
-      "news": 299,
+      "news": 301,
       "paper": 28,
       "trial": 11,
       "regulatory": 9
@@ -833,8 +833,8 @@
     },
     {
       "date": "2026-06-27",
-      "news": 55,
-      "paper": 0,
+      "news": 61,
+      "paper": 1,
       "trial": 0,
       "regulatory": 2
     }
