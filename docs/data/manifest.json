@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-28T16:10:33.206167+09:00",
+  "updated_at": "2026-06-28T20:24:48.726211+09:00",
   "dates": [
     {
       "date": "2026-06-28",
-      "total": 2434,
+      "total": 2487,
       "counts": {
-        "core": 314,
-        "obesity": 696,
-        "npr": 328,
-        "platform": 500,
-        "reg": 351,
-        "mkt": 245
+        "core": 317,
+        "obesity": 730,
+        "npr": 330,
+        "platform": 501,
+        "reg": 357,
+        "mkt": 252
       }
     },
     {
@@ -419,7 +419,7 @@
     }
   ],
   "papers": {
-    "total": 2255,
+    "total": 2256,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -433,15 +433,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6664,
+  "news_recent_total": 6682,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1518,
+      "news": 1524,
       "papers": 181,
       "trials": 91,
-      "total": 1790,
+      "total": 1796,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -468,11 +468,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 869,
+      "news": 874,
       "papers": 123,
       "trials": 85,
-      "total": 1077,
-      "recent": "2026-06-28T13:50:00+09:00",
+      "total": 1082,
+      "recent": "2026-06-28T18:44:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -500,10 +500,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 41,
+      "news": 42,
       "papers": 136,
       "trials": 40,
-      "total": 217,
+      "total": 218,
       "recent": "2026-07-01T00:00:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -623,7 +623,7 @@
   ],
   "kpi": {
     "news": {
-      "today": 47,
+      "today": 63,
       "yesterday": 69
     },
     "paper": {
@@ -817,7 +817,7 @@
     },
     {
       "date": "2026-06-24",
-      "news": 362,
+      "news": 364,
       "paper": 15,
       "trial": 7,
       "regulatory": 14
@@ -845,7 +845,7 @@
     },
     {
       "date": "2026-06-28",
-      "news": 47,
+      "news": 63,
       "paper": 1,
       "trial": 0,
       "regulatory": 0
@@ -950,6 +950,21 @@
     {
       "level": "High",
       "score": 10,
+      "title": "녹십자웰빙, 美 라지엘서 국소비만 신약 판권 확보",
+      "layer": "news",
+      "url": "https://www.hankyung.com/article/2026062823191",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-06-28T17:26:00+09:00",
+      "date": "2026.06.28",
+      "publisher": "한국경제"
+    },
+    {
+      "level": "High",
+      "score": 10,
       "title": "트럼프, ‘미승인’ 비만 신약 몰래 투약? 백악관 공식 부인",
       "layer": "news",
       "url": "https://health.chosun.com/site/data/html_dir/2026/06/25/2026062502008.html",
@@ -961,24 +976,6 @@
       "published": "2026-06-25T15:31:00+09:00",
       "date": "2026.06.25",
       "publisher": "health.chosun.com"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "릴리 터제파타이드, 역대 최대 매출 의약품 등극 전망...2032년 700억달러...",
-      "layer": "news",
-      "url": "http://www.press9.kr/news/articleView.html?idxno=78360",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-24T11:30:00+09:00",
-      "date": "2026.06.24",
-      "publisher": "press9.kr"
     }
   ],
   "highlights": {
