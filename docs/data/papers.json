@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T20:49:58.667426+09:00",
-  "total": 2301,
+  "updated_at": "2026-07-01T08:02:28.226179+09:00",
+  "total": 2306,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -649,6 +649,72 @@
       "date": "2026.06.30",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Endotypic trait responses to 12-month tirzepatide treatment for an obese patient with obstructive sleep apnea: a case report",
+      "summary": "Hsu Y et al. · Obesity facts",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42378200/",
+      "publisher": "Obesity facts",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Effects of the GLP-1 receptor agonist liraglutide on bupivacaine-induced sciatic nerve block in a rat model",
+      "summary": "Büyükcavlak M et al. · Journal of anesthesia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42377486/",
+      "publisher": "Journal of anesthesia",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Nanocomplexes Integrated into a Polymeric Bilayer Film Enhance Buccal Permeation of a GLP-1 Peptide Analogue",
+      "summary": "Karki S et al. · ACS applied materials & interfaces",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42377081/",
+      "publisher": "ACS applied materials & interfaces",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Nanocomplex-Integrated Multifunctional Hydrogel for Fast-Tracked Wound Repair Application: A Preclinical Evaluation",
+      "summary": "Apotikar S et al. · ACS applied bio materials",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42377005/",
+      "publisher": "ACS applied bio materials",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.30",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
@@ -22705,6 +22771,41 @@
       "companies": []
     },
     {
+      "title": "Comparative analysis of bias and quality in YouTube videos on bariatric surgery and weight-loss medications",
+      "summary": "Botvinov J et al. · Surgical endoscopy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42377523/",
+      "publisher": "Surgical endoscopy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-05-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.05.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Comparative real-world outcomes of tirzepatide vs semaglutide in patients with obesity and type2 diabetes: A retrospective propensity-matched cohort study",
+      "summary": "Qadeer A et al. · Diabetes & vascular disease research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42376874/",
+      "publisher": "Diabetes & vascular disease research",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-05-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.05.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "Tirzepatide attenuates doxorubicin-induced cardiotoxicity via mitochondrial function improvement",
       "summary": "Li Z et al. · Translational cancer research",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42180982/",
@@ -37727,22 +37828,6 @@
       "date": "2023.07.01",
       "year": 2023,
       "category": "npr",
-      "pipelines": [],
-      "companies": []
-    },
-    {
-      "title": "Approved Anti-Obesity Medications in 2022 KSSO Guidelines and the Promise of Phase 3 Clinical Trials: Anti-Obesity Drugs in the Sky and on the Horizon",
-      "summary": "Jeon E et al. · Journal of obesity & metabolic syndrome",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/37349257/",
-      "publisher": "Journal of obesity & metabolic syndrome",
-      "source": "pubmed",
-      "layer": "paper",
-      "region": "",
-      "published": "2023-06-30T00:00:00+09:00",
-      "time": "00:00",
-      "date": "2023.06.30",
-      "year": 2023,
-      "category": "obesity",
       "pipelines": [],
       "companies": []
     }

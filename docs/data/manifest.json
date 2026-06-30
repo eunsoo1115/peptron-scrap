@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-06-30T20:51:02.507911+09:00",
+  "updated_at": "2026-07-01T08:12:52.794513+09:00",
   "dates": [
+    {
+      "date": "2026-07-01",
+      "total": 2279,
+      "counts": {
+        "core": 306,
+        "obesity": 636,
+        "npr": 322,
+        "platform": 468,
+        "reg": 325,
+        "mkt": 222
+      }
+    },
     {
       "date": "2026-06-30",
       "total": 2713,
@@ -443,29 +455,29 @@
     }
   ],
   "papers": {
-    "total": 2301,
+    "total": 2306,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1178,
+    "total": 1185,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 316,
+    "total": 324,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6954,
+  "news_recent_total": 7025,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1567,
-      "papers": 186,
-      "trials": 92,
-      "total": 1845,
+      "news": 1584,
+      "papers": 187,
+      "trials": 93,
+      "total": 1864,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -492,11 +504,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 893,
-      "papers": 126,
-      "trials": 86,
-      "total": 1105,
-      "recent": "2026-06-30T20:42:00+09:00",
+      "news": 915,
+      "papers": 128,
+      "trials": 87,
+      "total": 1130,
+      "recent": "2026-07-01T07:46:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -524,11 +536,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 47,
+      "news": 53,
       "papers": 137,
       "trials": 40,
-      "total": 224,
-      "recent": "2026-07-01T00:00:00+09:00",
+      "total": 230,
+      "recent": "2026-07-01T05:06:06+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -591,37 +603,37 @@
       "papers": 0,
       "trials": 0,
       "total": 454,
-      "recent": "2026-06-30T16:32:00+09:00",
+      "recent": "2026-06-30T17:21:13+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 145,
+      "news": 144,
       "papers": 0,
       "trials": 0,
-      "total": 145,
+      "total": 144,
       "recent": "2026-06-30T18:03:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 142,
+      "news": 141,
       "papers": 0,
       "trials": 0,
-      "total": 142,
+      "total": 141,
       "recent": "2026-06-30T14:37:34+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 405,
+      "news": 407,
       "papers": 0,
       "trials": 0,
-      "total": 405,
-      "recent": "2026-06-30T16:23:30+09:00",
+      "total": 407,
+      "recent": "2026-07-01T07:02:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -631,7 +643,7 @@
       "papers": 1,
       "trials": 0,
       "total": 316,
-      "recent": "2026-06-29T23:47:00+09:00",
+      "recent": "2026-07-01T06:34:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -647,30 +659,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 234,
-      "yesterday": 279
+      "today": 74,
+      "yesterday": 267
     },
     "paper": {
-      "today": 5,
-      "yesterday": 19
+      "today": 14,
+      "yesterday": 9
     },
     "trial": {
       "today": 0,
-      "yesterday": 9
+      "yesterday": 7
     },
     "regulatory": {
-      "today": 18,
-      "yesterday": 1
+      "today": 8,
+      "yesterday": 18
     }
   },
   "trend": [
-    {
-      "date": "2026-06-01",
-      "news": 191,
-      "paper": 127,
-      "trial": 5,
-      "regulatory": 0
-    },
     {
       "date": "2026-06-02",
       "news": 141,
@@ -715,7 +720,7 @@
     },
     {
       "date": "2026-06-08",
-      "news": 410,
+      "news": 411,
       "paper": 31,
       "trial": 6,
       "regulatory": 4
@@ -869,10 +874,17 @@
     },
     {
       "date": "2026-06-30",
-      "news": 234,
-      "paper": 5,
-      "trial": 0,
+      "news": 267,
+      "paper": 9,
+      "trial": 7,
       "regulatory": 18
+    },
+    {
+      "date": "2026-07-01",
+      "news": 74,
+      "paper": 14,
+      "trial": 0,
+      "regulatory": 8
     }
   ],
   "alerts": [
@@ -990,17 +1002,14 @@
     {
       "level": "High",
       "score": 10,
-      "title": "GC녹십자웰빙, 美 FDA 3상 앞둔 차세대 지방분해주사 도입",
+      "title": "식약처, 혁신제품 전주기 사전상담 \"비임상ㆍIND 불확실성 낮춘다\"",
       "layer": "news",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=873553",
+      "url": "http://www.newsmp.com/news/articleView.html?idxno=255493",
       "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-29T14:14:00+09:00",
-      "date": "2026.06.29",
-      "publisher": "getnews.co.kr"
+      "pipelines": [],
+      "published": "2026-07-01T06:02:00+09:00",
+      "date": "2026.07.01",
+      "publisher": "newsmp.com"
     }
   ],
   "highlights": {
