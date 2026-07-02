@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-02T15:51:14.826824+09:00",
+  "updated_at": "2026-07-02T20:51:45.956606+09:00",
   "dates": [
     {
       "date": "2026-07-02",
-      "total": 2638,
+      "total": 2766,
       "counts": {
-        "core": 320,
-        "obesity": 787,
-        "npr": 325,
-        "platform": 540,
-        "reg": 387,
-        "mkt": 279
+        "core": 324,
+        "obesity": 838,
+        "npr": 329,
+        "platform": 551,
+        "reg": 407,
+        "mkt": 317
       }
     },
     {
@@ -467,7 +467,7 @@
     }
   ],
   "papers": {
-    "total": 2357,
+    "total": 2376,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -481,15 +481,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7345,
+  "news_recent_total": 7443,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1645,
-      "papers": 193,
+      "news": 1664,
+      "papers": 194,
       "trials": 93,
-      "total": 1931,
+      "total": 1951,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -516,11 +516,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 975,
-      "papers": 135,
+      "news": 986,
+      "papers": 139,
       "trials": 87,
-      "total": 1197,
-      "recent": "2026-07-02T15:44:00+09:00",
+      "total": 1212,
+      "recent": "2026-07-02T19:32:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -578,11 +578,11 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 8,
+      "news": 9,
       "papers": 26,
       "trials": 4,
-      "total": 38,
-      "recent": "2026-06-26T00:00:00+09:00",
+      "total": 39,
+      "recent": "2026-07-02T17:46:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -611,11 +611,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 466,
+      "news": 469,
       "papers": 0,
       "trials": 0,
-      "total": 466,
-      "recent": "2026-07-02T13:56:00+09:00",
+      "total": 469,
+      "recent": "2026-07-02T16:44:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -631,31 +631,31 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 142,
+      "news": 145,
       "papers": 0,
       "trials": 0,
-      "total": 142,
-      "recent": "2026-07-01T17:31:04+09:00",
+      "total": 145,
+      "recent": "2026-07-02T18:22:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 409,
+      "news": 410,
       "papers": 0,
       "trials": 0,
-      "total": 409,
-      "recent": "2026-07-02T15:42:00+09:00",
+      "total": 410,
+      "recent": "2026-07-02T17:17:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 317,
+      "news": 319,
       "papers": 1,
       "trials": 0,
-      "total": 318,
-      "recent": "2026-07-02T15:06:00+09:00",
+      "total": 320,
+      "recent": "2026-07-02T18:30:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -671,12 +671,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 273,
-      "yesterday": 298
+      "today": 370,
+      "yesterday": 300
     },
     "paper": {
-      "today": 0,
-      "yesterday": 39
+      "today": 1,
+      "yesterday": 44
     },
     "trial": {
       "today": 0,
@@ -725,8 +725,8 @@
     },
     {
       "date": "2026-06-08",
-      "news": 411,
-      "paper": 31,
+      "news": 410,
+      "paper": 32,
       "trial": 6,
       "regulatory": 4
     },
@@ -789,7 +789,7 @@
     {
       "date": "2026-06-17",
       "news": 345,
-      "paper": 28,
+      "paper": 32,
       "trial": 10,
       "regulatory": 9
     },
@@ -838,7 +838,7 @@
     {
       "date": "2026-06-24",
       "news": 367,
-      "paper": 16,
+      "paper": 19,
       "trial": 7,
       "regulatory": 14
     },
@@ -880,21 +880,21 @@
     {
       "date": "2026-06-30",
       "news": 274,
-      "paper": 24,
+      "paper": 26,
       "trial": 7,
       "regulatory": 18
     },
     {
       "date": "2026-07-01",
-      "news": 298,
-      "paper": 39,
+      "news": 300,
+      "paper": 44,
       "trial": 7,
       "regulatory": 12
     },
     {
       "date": "2026-07-02",
-      "news": 273,
-      "paper": 0,
+      "news": 370,
+      "paper": 1,
       "trial": 0,
       "regulatory": 5
     }
@@ -1014,17 +1014,14 @@
     {
       "level": "High",
       "score": 10,
-      "title": "2032년까지 5000억달러 규모 '특허 위험'",
+      "title": "GC녹십자 수두 백신 '배리셀라주', 2회 접종 임상 3상 식약처 승인",
       "layer": "news",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007353",
+      "url": "https://www.sentv.co.kr/article/view/sentv202607020170",
       "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-07-02T12:00:00+09:00",
+      "pipelines": [],
+      "published": "2026-07-02T17:30:00+09:00",
       "date": "2026.07.02",
-      "publisher": "의학신문"
+      "publisher": "sentv.co.kr"
     }
   ],
   "highlights": {
