@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-02T20:51:45.956606+09:00",
+  "updated_at": "2026-07-03T15:41:27.932538+09:00",
   "dates": [
+    {
+      "date": "2026-07-03",
+      "total": 2344,
+      "counts": {
+        "core": 305,
+        "obesity": 660,
+        "npr": 323,
+        "platform": 486,
+        "reg": 334,
+        "mkt": 236
+      }
+    },
     {
       "date": "2026-07-02",
       "total": 2766,
@@ -467,29 +479,29 @@
     }
   ],
   "papers": {
-    "total": 2376,
+    "total": 2387,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1192,
+    "total": 1197,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 333,
+    "total": 340,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7443,
+  "news_recent_total": 7492,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1664,
-      "papers": 194,
-      "trials": 93,
-      "total": 1951,
+      "news": 1670,
+      "papers": 197,
+      "trials": 94,
+      "total": 1961,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -516,11 +528,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 986,
+      "news": 991,
       "papers": 139,
       "trials": 87,
-      "total": 1212,
-      "recent": "2026-07-02T19:32:00+09:00",
+      "total": 1217,
+      "recent": "2026-07-03T14:40:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -552,7 +564,7 @@
       "papers": 137,
       "trials": 40,
       "total": 231,
-      "recent": "2026-07-02T09:00:00+09:00",
+      "recent": "2026-07-03T14:10:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -615,86 +627,79 @@
       "papers": 0,
       "trials": 0,
       "total": 469,
-      "recent": "2026-07-02T16:44:00+09:00",
+      "recent": "2026-07-03T14:39:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 143,
+      "news": 144,
       "papers": 0,
       "trials": 0,
-      "total": 143,
-      "recent": "2026-07-02T12:36:00+09:00",
+      "total": 144,
+      "recent": "2026-07-03T12:58:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 145,
+      "news": 143,
       "papers": 0,
       "trials": 0,
-      "total": 145,
-      "recent": "2026-07-02T18:22:00+09:00",
+      "total": 143,
+      "recent": "2026-07-03T10:46:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 410,
+      "news": 389,
       "papers": 0,
       "trials": 0,
-      "total": 410,
-      "recent": "2026-07-02T17:17:00+09:00",
+      "total": 389,
+      "recent": "2026-07-03T14:39:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 319,
+      "news": 318,
       "papers": 1,
       "trials": 0,
-      "total": 320,
-      "recent": "2026-07-02T18:30:00+09:00",
+      "total": 319,
+      "recent": "2026-07-03T09:08:44+09:00",
       "logo": "logos/novo.png"
     },
     {
       "id": "amgen",
       "label": "암젠 (Amgen)",
-      "news": 7,
+      "news": 6,
       "papers": 0,
       "trials": 0,
-      "total": 7,
+      "total": 6,
       "recent": "2026-06-25T06:00:00+09:00",
       "logo": "logos/amgen.png"
     }
   ],
   "kpi": {
     "news": {
-      "today": 370,
-      "yesterday": 300
+      "today": 176,
+      "yesterday": 382
     },
     "paper": {
-      "today": 1,
-      "yesterday": 44
+      "today": 0,
+      "yesterday": 9
     },
     "trial": {
       "today": 0,
-      "yesterday": 7
+      "yesterday": 5
     },
     "regulatory": {
-      "today": 5,
-      "yesterday": 12
+      "today": 6,
+      "yesterday": 5
     }
   },
   "trend": [
-    {
-      "date": "2026-06-03",
-      "news": 117,
-      "paper": 26,
-      "trial": 13,
-      "regulatory": 1
-    },
     {
       "date": "2026-06-04",
       "news": 297,
@@ -788,7 +793,7 @@
     },
     {
       "date": "2026-06-17",
-      "news": 345,
+      "news": 346,
       "paper": 32,
       "trial": 10,
       "regulatory": 9
@@ -847,7 +852,7 @@
       "news": 304,
       "paper": 29,
       "trial": 11,
-      "regulatory": 9
+      "regulatory": 10
     },
     {
       "date": "2026-06-26",
@@ -873,13 +878,13 @@
     {
       "date": "2026-06-29",
       "news": 280,
-      "paper": 19,
+      "paper": 20,
       "trial": 9,
       "regulatory": 1
     },
     {
       "date": "2026-06-30",
-      "news": 274,
+      "news": 276,
       "paper": 26,
       "trial": 7,
       "regulatory": 18
@@ -887,16 +892,23 @@
     {
       "date": "2026-07-01",
       "news": 300,
-      "paper": 44,
+      "paper": 45,
       "trial": 7,
       "regulatory": 12
     },
     {
       "date": "2026-07-02",
-      "news": 370,
-      "paper": 1,
-      "trial": 0,
+      "news": 382,
+      "paper": 9,
+      "trial": 5,
       "regulatory": 5
+    },
+    {
+      "date": "2026-07-03",
+      "news": 176,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 6
     }
   ],
   "alerts": [
@@ -915,24 +927,6 @@
       "published": "2026-06-30T09:14:00+09:00",
       "date": "2026.06.30",
       "publisher": "팜뉴스"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "술 안 마셔도 생기는 지방간염…FDA 승인 치료제는 두 가지뿐, 한국 기업...",
-      "layer": "news",
-      "url": "https://kormedi.com/?p=2821431",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-02T17:10:00+09:00",
-      "date": "2026.06.02",
-      "publisher": "kormedi.com"
     },
     {
       "level": "High",
@@ -1022,19 +1016,22 @@
       "published": "2026-07-02T17:30:00+09:00",
       "date": "2026.07.02",
       "publisher": "sentv.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "사전검토 IND 승인 단축 추진…디지털융합의약품 원스톱 심사도",
+      "layer": "news",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77338",
+      "companies": [],
+      "pipelines": [],
+      "published": "2026-07-02T15:40:00+09:00",
+      "date": "2026.07.02",
+      "publisher": "히트뉴스"
     }
   ],
   "highlights": {
     "PT403": [
-      {
-        "level": "High",
-        "title": "술 안 마셔도 생기는 지방간염…FDA 승인 치료제는 두 가지뿐, 한국 기업...",
-        "layer": "news",
-        "url": "https://kormedi.com/?p=2821431",
-        "date": "2026.06.02",
-        "published": "2026-06-02T17:10:00+09:00",
-        "publisher": "kormedi.com"
-      },
       {
         "level": "High",
         "title": "비만약, 3파전 된다…'부작용 뚝' 국산약 등판 예고",
@@ -1070,6 +1067,15 @@
         "date": "2026.05.14",
         "published": "2026-05-14T00:00:00+09:00",
         "publisher": "Cureus"
+      },
+      {
+        "level": "High",
+        "title": "2032년까지 5000억달러 규모 '특허 위험'",
+        "layer": "news",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007353",
+        "date": "2026.07.02",
+        "published": "2026-07-02T12:00:00+09:00",
+        "publisher": "의학신문"
       }
     ],
     "PT404": [
@@ -1081,15 +1087,6 @@
         "date": "2026.06.30",
         "published": "2026-06-30T09:14:00+09:00",
         "publisher": "팜뉴스"
-      },
-      {
-        "level": "High",
-        "title": "술 안 마셔도 생기는 지방간염…FDA 승인 치료제는 두 가지뿐, 한국 기업...",
-        "layer": "news",
-        "url": "https://kormedi.com/?p=2821431",
-        "date": "2026.06.02",
-        "published": "2026-06-02T17:10:00+09:00",
-        "publisher": "kormedi.com"
       },
       {
         "level": "High",
@@ -1117,6 +1114,15 @@
         "date": "2026.06.10",
         "published": "2026-06-10T14:58:00+09:00",
         "publisher": "press9.kr"
+      },
+      {
+        "level": "High",
+        "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
+        "layer": "paper",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
+        "date": "2026.05.14",
+        "published": "2026-05-14T00:00:00+09:00",
+        "publisher": "Cureus"
       }
     ],
     "PND3174": [
