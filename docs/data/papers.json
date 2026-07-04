@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-04T15:27:54.410897+09:00",
-  "total": 2423,
+  "updated_at": "2026-07-04T19:59:21.640764+09:00",
+  "total": 2424,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -339,6 +339,22 @@
       "date": "2026.07.10",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-like peptide-1 improves vascular endothelial dysfunction in hypertensive mice via CREB-driven transcriptional regulation of long non-coding RNA 155383",
+      "summary": "Zhang Y et al. · British journal of pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42400305/",
+      "publisher": "British journal of pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-04T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.04",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },

@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-04T15:29:04.945531+09:00",
+  "updated_at": "2026-07-04T20:09:45.592177+09:00",
   "dates": [
     {
       "date": "2026-07-04",
-      "total": 2473,
+      "total": 2514,
       "counts": {
-        "core": 308,
-        "obesity": 717,
-        "npr": 329,
-        "platform": 505,
-        "reg": 362,
-        "mkt": 252
+        "core": 309,
+        "obesity": 736,
+        "npr": 331,
+        "platform": 514,
+        "reg": 366,
+        "mkt": 258
       }
     },
     {
@@ -491,7 +491,7 @@
     }
   ],
   "papers": {
-    "total": 2423,
+    "total": 2424,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -505,15 +505,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7493,
+  "news_recent_total": 7499,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1650,
+      "news": 1651,
       "papers": 203,
       "trials": 94,
-      "total": 1947,
+      "total": 1948,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -645,11 +645,11 @@
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 144,
+      "news": 145,
       "papers": 0,
       "trials": 0,
-      "total": 144,
-      "recent": "2026-07-04T07:05:22+09:00",
+      "total": 145,
+      "recent": "2026-07-04T07:10:45+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -695,11 +695,11 @@
   ],
   "kpi": {
     "news": {
-      "today": 50,
+      "today": 56,
       "yesterday": 236
     },
     "paper": {
-      "today": 0,
+      "today": 1,
       "yesterday": 21
     },
     "trial": {
@@ -917,8 +917,8 @@
     },
     {
       "date": "2026-07-04",
-      "news": 50,
-      "paper": 0,
+      "news": 56,
+      "paper": 1,
       "trial": 0,
       "regulatory": 1
     }
