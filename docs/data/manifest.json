@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-05T16:00:12.377176+09:00",
+  "updated_at": "2026-07-05T20:20:19.706702+09:00",
   "dates": [
     {
       "date": "2026-07-05",
-      "total": 2442,
+      "total": 2478,
       "counts": {
         "core": 306,
-        "obesity": 715,
+        "obesity": 736,
         "npr": 324,
-        "platform": 491,
-        "reg": 349,
-        "mkt": 257
+        "platform": 496,
+        "reg": 352,
+        "mkt": 264
       }
     },
     {
@@ -517,15 +517,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7261,
+  "news_recent_total": 7270,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1604,
+      "news": 1605,
       "papers": 203,
       "trials": 94,
-      "total": 1901,
+      "total": 1902,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -707,7 +707,7 @@
   ],
   "kpi": {
     "news": {
-      "today": 45,
+      "today": 52,
       "yesterday": 63
     },
     "paper": {
@@ -894,7 +894,7 @@
     },
     {
       "date": "2026-06-30",
-      "news": 276,
+      "news": 277,
       "paper": 28,
       "trial": 7,
       "regulatory": 18
@@ -929,7 +929,7 @@
     },
     {
       "date": "2026-07-05",
-      "news": 45,
+      "news": 52,
       "paper": 0,
       "trial": 0,
       "regulatory": 1
