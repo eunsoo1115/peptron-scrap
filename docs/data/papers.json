@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T07:46:33.574937+09:00",
-  "total": 2436,
+  "updated_at": "2026-07-06T16:21:52.803009+09:00",
+  "total": 2439,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -340,6 +340,56 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Protocol for Novel Perioperative Optimization of Obese Osteoarthritic Patients pending Total Knee Replacement with glucagon-like peptide-1 receptor agonist (NPO-OOPS-TKR) : a pilot randomized controlled trial",
+      "summary": "Lau LCM et al. · Bone & joint open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402343/",
+      "publisher": "Bone & joint open",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Total Care Strategies in Atrial Fibrillation Practice: Lifestyle Intervention and Risk Factor Management",
+      "summary": "Tokuda M et al. · Journal of cardiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402270/",
+      "publisher": "Journal of cardiology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-05T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.05",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Letter: Non-Invasive Tests After Semaglutide in MASH as Disease-Activity Readouts Rather Than Response Biomarkers",
+      "summary": "Mao G et al. · Alimentary pharmacology & therapeutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402644/",
+      "publisher": "Alimentary pharmacology & therapeutics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-05T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.05",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
