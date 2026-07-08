@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T20:12:11.413754+09:00",
-  "total": 2500,
+  "updated_at": "2026-07-09T07:53:17.498632+09:00",
+  "total": 2505,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -375,6 +375,38 @@
       "companies": []
     },
     {
+      "title": "Incidence of Gastrointestinal Adverse Events and Healthcare Resource Utilization in Patients Using Glucagon-Like Peptide-1 Analogs: A Real-World Study",
+      "summary": "Nathani P et al. · Digestive diseases and sciences",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42418075/",
+      "publisher": "Digestive diseases and sciences",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-08T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.08",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Pharmacological Interventions for Weight Reduction in Patients With Schizophrenia Treated With Antipsychotics: A Systematic Review and Network Meta-Analysis",
+      "summary": "Stogios N et al. · JAMA psychiatry",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42418179/",
+      "publisher": "JAMA psychiatry",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-08T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.08",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Cardiovascular Risk Reduction With GLP-1 RA Drugs",
       "summary": "Pigeyre M et al. · Circulation",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42406865/",
@@ -663,6 +695,24 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Effects of Tirzepatide in Obesity-Related HFpEF by Sex: A Prespecified Secondary Analysis From the SUMMIT Trial",
+      "summary": "Borlaug BA et al. · JACC. Heart failure",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42417681/",
+      "publisher": "JACC. Heart failure",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-07T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.07",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -2601,6 +2651,22 @@
       "summary": "Mahajan A et al. · ACR open rheumatology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42415363/",
       "publisher": "ACR open rheumatology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Real-World vs. Randomized Trial Evidence for Incretin-Based Therapies: A Narrative Review",
+      "summary": "Bloomgarden Z · Journal of diabetes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42417199/",
+      "publisher": "Journal of diabetes",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -23921,6 +23987,22 @@
       "summary": "Franzenburg KR et al. · Schizophrenia bulletin open",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42222468/",
       "publisher": "Schizophrenia bulletin open",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-05-07T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.05.07",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Comparative preclinical assessment of relugolix tablets and relugolix intravenous injection",
+      "summary": "Nagar P et al. · Scientific reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42098211/",
+      "publisher": "Scientific reports",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
