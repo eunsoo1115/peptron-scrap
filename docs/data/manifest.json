@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-09T21:14:29.966409+09:00",
+  "updated_at": "2026-07-10T08:02:50.935108+09:00",
   "dates": [
+    {
+      "date": "2026-07-10",
+      "total": 2278,
+      "counts": {
+        "core": 304,
+        "obesity": 646,
+        "npr": 317,
+        "platform": 445,
+        "reg": 338,
+        "mkt": 228
+      }
+    },
     {
       "date": "2026-07-09",
       "total": 2612,
@@ -551,29 +563,29 @@
     }
   ],
   "papers": {
-    "total": 2535,
+    "total": 2542,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1223,
+    "total": 1230,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 390,
+    "total": 399,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7575,
+  "news_recent_total": 7142,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1654,
+      "news": 1553,
       "papers": 214,
       "trials": 98,
-      "total": 1966,
+      "total": 1865,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -600,11 +612,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 997,
+      "news": 931,
       "papers": 151,
-      "trials": 89,
-      "total": 1237,
-      "recent": "2026-07-09T20:57:00+09:00",
+      "trials": 91,
+      "total": 1173,
+      "recent": "2026-07-10T06:12:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -632,11 +644,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 55,
+      "news": 56,
       "papers": 138,
       "trials": 40,
-      "total": 233,
-      "recent": "2026-07-08T13:39:05+09:00",
+      "total": 234,
+      "recent": "2026-07-09T15:50:32+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -695,51 +707,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 420,
+      "news": 362,
       "papers": 0,
       "trials": 0,
-      "total": 420,
-      "recent": "2026-07-09T20:57:00+09:00",
+      "total": 362,
+      "recent": "2026-07-10T07:42:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 125,
+      "news": 123,
       "papers": 0,
       "trials": 0,
-      "total": 125,
-      "recent": "2026-07-09T17:36:00+09:00",
+      "total": 123,
+      "recent": "2026-07-10T07:30:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 133,
+      "news": 125,
       "papers": 0,
       "trials": 0,
-      "total": 133,
-      "recent": "2026-07-09T13:28:00+09:00",
+      "total": 125,
+      "recent": "2026-07-10T06:02:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 342,
+      "news": 286,
       "papers": 0,
       "trials": 0,
-      "total": 342,
-      "recent": "2026-07-09T20:57:00+09:00",
+      "total": 286,
+      "recent": "2026-07-10T07:42:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 280,
+      "news": 259,
       "papers": 1,
       "trials": 0,
-      "total": 281,
-      "recent": "2026-07-09T15:03:00+09:00",
+      "total": 260,
+      "recent": "2026-07-10T03:21:58+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -755,30 +767,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 274,
-      "yesterday": 324
+      "today": 58,
+      "yesterday": 290
     },
     "paper": {
-      "today": 2,
-      "yesterday": 20
+      "today": 1,
+      "yesterday": 8
     },
     "trial": {
       "today": 0,
-      "yesterday": 7
+      "yesterday": 9
     },
     "regulatory": {
-      "today": 3,
-      "yesterday": 12
+      "today": 9,
+      "yesterday": 3
     }
   },
   "trend": [
-    {
-      "date": "2026-06-10",
-      "news": 277,
-      "paper": 26,
-      "trial": 10,
-      "regulatory": 15
-    },
     {
       "date": "2026-06-11",
       "news": 314,
@@ -922,7 +927,7 @@
     {
       "date": "2026-07-01",
       "news": 307,
-      "paper": 56,
+      "paper": 57,
       "trial": 7,
       "regulatory": 12
     },
@@ -963,24 +968,31 @@
     },
     {
       "date": "2026-07-07",
-      "news": 261,
+      "news": 265,
       "paper": 21,
       "trial": 12,
       "regulatory": 14
     },
     {
       "date": "2026-07-08",
-      "news": 324,
+      "news": 325,
       "paper": 20,
       "trial": 7,
       "regulatory": 12
     },
     {
       "date": "2026-07-09",
-      "news": 274,
-      "paper": 2,
-      "trial": 0,
+      "news": 290,
+      "paper": 8,
+      "trial": 9,
       "regulatory": 3
+    },
+    {
+      "date": "2026-07-10",
+      "news": 58,
+      "paper": 1,
+      "trial": 0,
+      "regulatory": 9
     }
   ],
   "alerts": [
@@ -1100,16 +1112,17 @@
     {
       "level": "High",
       "score": 11,
-      "title": "HK이노엔 \"도입 GLP-1 신약, 세마글루타이드 대비 체중감소 효과 확인\"",
-      "layer": "news",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1374722",
+      "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
+      "layer": "paper",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
       "companies": [],
       "pipelines": [
-        "PT403"
+        "PT403",
+        "PT404"
       ],
-      "published": "2026-06-09T10:18:00+09:00",
-      "date": "2026.06.09",
-      "publisher": "daily.hankooki.com"
+      "published": "2026-05-14T00:00:00+09:00",
+      "date": "2026.05.14",
+      "publisher": "Cureus"
     }
   ],
   "highlights": {
