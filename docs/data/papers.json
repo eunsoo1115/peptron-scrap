@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-10T16:19:30.597805+09:00",
-  "total": 2552,
+  "updated_at": "2026-07-10T21:04:30.794484+09:00",
+  "total": 2555,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -627,6 +627,40 @@
       "date": "2026.07.09",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide and risk of newly diagnosed aortic stenosis in patients with obesity: a multi-institutional real-world cohort study",
+      "summary": "Wu JY et al. · BMC cardiovascular disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42426654/",
+      "publisher": "BMC cardiovascular disorders",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-09T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.09",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Cost-effectiveness of concurrently available oral and long-acting injectable pre-exposure prophylaxis for preventing HIV infections among men who have sex with men in eastern China: A modelling study",
+      "summary": "Zhu Z et al. · BMC public health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42426678/",
+      "publisher": "BMC public health",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-09T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.09",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
@@ -4152,6 +4186,22 @@
       "date": "2026.06.29",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Stakeholder Perspectives on Long-Acting Injectable PrEP and MOUD: A Descriptive Qualitative Study",
+      "summary": "JadKarim L et al. · medRxiv : the preprint server for health sciences",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42428135/",
+      "publisher": "medRxiv : the preprint server for health scie",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-29T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.29",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
