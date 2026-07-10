@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-10T21:14:56.415098+09:00",
+  "updated_at": "2026-07-11T07:48:37.475730+09:00",
   "dates": [
+    {
+      "date": "2026-07-11",
+      "total": 2306,
+      "counts": {
+        "core": 335,
+        "obesity": 623,
+        "npr": 315,
+        "platform": 458,
+        "reg": 342,
+        "mkt": 233
+      }
+    },
     {
       "date": "2026-07-10",
       "total": 2618,
@@ -563,29 +575,29 @@
     }
   ],
   "papers": {
-    "total": 2555,
+    "total": 2559,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1230,
+    "total": 1234,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 400,
+    "total": 404,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7364,
+  "news_recent_total": 7148,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1613,
+      "news": 1561,
       "papers": 214,
-      "trials": 98,
-      "total": 1925,
+      "trials": 99,
+      "total": 1874,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -612,11 +624,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 963,
-      "papers": 152,
+      "news": 941,
+      "papers": 153,
       "trials": 91,
-      "total": 1206,
-      "recent": "2026-07-10T18:59:02+09:00",
+      "total": 1185,
+      "recent": "2026-07-11T07:20:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -648,7 +660,7 @@
       "papers": 138,
       "trials": 40,
       "total": 234,
-      "recent": "2026-07-09T15:50:32+09:00",
+      "recent": "2026-07-11T02:00:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -707,90 +719,83 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 435,
+      "news": 429,
       "papers": 0,
       "trials": 0,
-      "total": 435,
-      "recent": "2026-07-10T18:58:00+09:00",
+      "total": 429,
+      "recent": "2026-07-11T07:16:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 126,
+      "news": 122,
       "papers": 0,
       "trials": 0,
-      "total": 126,
-      "recent": "2026-07-10T11:28:00+09:00",
+      "total": 122,
+      "recent": "2026-07-11T06:02:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 125,
+      "news": 122,
       "papers": 0,
       "trials": 0,
-      "total": 125,
+      "total": 122,
       "recent": "2026-07-10T06:02:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 316,
+      "news": 300,
       "papers": 0,
       "trials": 0,
-      "total": 316,
-      "recent": "2026-07-10T17:02:00+09:00",
+      "total": 300,
+      "recent": "2026-07-11T07:20:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 263,
+      "news": 243,
       "papers": 1,
       "trials": 0,
-      "total": 264,
-      "recent": "2026-07-10T20:59:48+09:00",
+      "total": 244,
+      "recent": "2026-07-11T07:20:00+09:00",
       "logo": "logos/novo.png"
     },
     {
       "id": "amgen",
       "label": "암젠 (Amgen)",
-      "news": 4,
+      "news": 2,
       "papers": 0,
       "trials": 0,
-      "total": 4,
+      "total": 2,
       "recent": "2026-06-25T06:00:00+09:00",
       "logo": "logos/amgen.png"
     }
   ],
   "kpi": {
     "news": {
-      "today": 264,
-      "yesterday": 298
+      "today": 40,
+      "yesterday": 284
     },
     "paper": {
-      "today": 1,
-      "yesterday": 19
+      "today": 0,
+      "yesterday": 5
     },
     "trial": {
       "today": 0,
-      "yesterday": 9
+      "yesterday": 4
     },
     "regulatory": {
-      "today": 10,
-      "yesterday": 3
+      "today": 4,
+      "yesterday": 10
     }
   },
   "trend": [
-    {
-      "date": "2026-06-11",
-      "news": 314,
-      "paper": 26,
-      "trial": 13,
-      "regulatory": 17
-    },
     {
       "date": "2026-06-12",
       "news": 274,
@@ -927,7 +932,7 @@
     {
       "date": "2026-07-01",
       "news": 307,
-      "paper": 57,
+      "paper": 58,
       "trial": 7,
       "regulatory": 12
     },
@@ -975,7 +980,7 @@
     },
     {
       "date": "2026-07-08",
-      "news": 327,
+      "news": 328,
       "paper": 20,
       "trial": 7,
       "regulatory": 12
@@ -989,10 +994,17 @@
     },
     {
       "date": "2026-07-10",
-      "news": 264,
-      "paper": 1,
-      "trial": 0,
+      "news": 284,
+      "paper": 5,
+      "trial": 4,
       "regulatory": 10
+    },
+    {
+      "date": "2026-07-11",
+      "news": 40,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 4
     }
   ],
   "alerts": [
@@ -1081,37 +1093,6 @@
     {
       "level": "High",
       "score": 11,
-      "title": "‘위고비 다음’ 보여준 노보 노디스크…차세대 당뇨·비만 신약 임상 ...",
-      "layer": "news",
-      "url": "https://biz.chosun.com/science-chosun/bio/2026/06/10/KLZ637QGXJEIHDBQJWQGNARMXE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "companies": [
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-06-10T18:18:00+09:00",
-      "date": "2026.06.10",
-      "publisher": "biz.chosun.com"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "[삼천당제약 플랫폼]S-PASS 확대, 경구용 터제파타이드·키트루다 개발",
-      "layer": "news",
-      "url": "http://www.press9.kr/news/articleView.html?idxno=77680",
-      "companies": [],
-      "pipelines": [
-        "PT404"
-      ],
-      "published": "2026-06-10T14:58:00+09:00",
-      "date": "2026.06.10",
-      "publisher": "press9.kr"
-    },
-    {
-      "level": "High",
-      "score": 11,
       "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
       "layer": "paper",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
@@ -1123,6 +1104,33 @@
       "published": "2026-05-14T00:00:00+09:00",
       "date": "2026.05.14",
       "publisher": "Cureus"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "'키트루다' 특허 만료 임박…시밀러 선점 경쟁 본격화",
+      "layer": "news",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=140409",
+      "companies": [],
+      "pipelines": [],
+      "published": "2026-07-11T01:30:00+09:00",
+      "date": "2026.07.11",
+      "publisher": "bizwnews.com"
+    },
+    {
+      "level": "High",
+      "score": 10,
+      "title": "SAHPRA flags recalled Ozempic-like semaglutide, tirzepatide products",
+      "layer": "news",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BdFdULTBhMjQ2eWFZdUFhTHlDdEU3OXBGMndGRFRhZ25TYk5PNnh0TGg0bUh6elVFclhwcEphdkYyN0RZeEhVS3JfRHZlc01vMVE2ckhxRFRwUDFPM2oyYmh4Y05CX2VkQ2wtdWVVQVgzZVp3SEdIS2djeWdGUQ?oc=5",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-07-10T18:59:02+09:00",
+      "date": "2026.07.10",
+      "publisher": "Cape Town ETC"
     }
   ],
   "highlights": {
@@ -1165,12 +1173,12 @@
       },
       {
         "level": "High",
-        "title": "‘위고비 다음’ 보여준 노보 노디스크…차세대 당뇨·비만 신약 임상 ...",
-        "layer": "news",
-        "url": "https://biz.chosun.com/science-chosun/bio/2026/06/10/KLZ637QGXJEIHDBQJWQGNARMXE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-        "date": "2026.06.10",
-        "published": "2026-06-10T18:18:00+09:00",
-        "publisher": "biz.chosun.com"
+        "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
+        "layer": "paper",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
+        "date": "2026.05.14",
+        "published": "2026-05-14T00:00:00+09:00",
+        "publisher": "Cureus"
       }
     ],
     "PT404": [
@@ -1223,6 +1231,15 @@
     "PND3174": [
       {
         "level": "High",
+        "title": "[GAM] 브릿지바이오 사상 최고가 ② ATTR-CM 시장 주도권 굳히다",
+        "layer": "news",
+        "url": "https://www.newspim.com/news/view/20260711000014",
+        "date": "2026.07.11",
+        "published": "2026-07-11T02:00:00+09:00",
+        "publisher": "newspim.com"
+      },
+      {
+        "level": "High",
         "title": "브릿지바이오(BBIO), 희귀질환 임상 연쇄 성공…FDA 승인 기대 급부상",
         "layer": "news",
         "url": "https://www.tokenpost.kr/news/market/373623",
@@ -1256,15 +1273,6 @@
         "date": "2026.01.20",
         "published": "2026-01-20T00:00:00+09:00",
         "publisher": "BioMarin Pharmaceutical"
-      },
-      {
-        "level": "Medium",
-        "title": "A Clinical Trial to Evaluate Efficacy and Safety of TransCon CNP Compared With Placebo in Children With Achondroplasia",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT05598320",
-        "date": "2026.01.15",
-        "published": "2026-01-15T00:00:00+09:00",
-        "publisher": "Ascendis Pharma Growth Disorders A/S"
       }
     ],
     "PT320": [
