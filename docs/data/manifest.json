@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-11T07:48:37.475730+09:00",
+  "updated_at": "2026-07-11T14:49:44.845965+09:00",
   "dates": [
     {
       "date": "2026-07-11",
-      "total": 2306,
+      "total": 2437,
       "counts": {
-        "core": 335,
-        "obesity": 623,
-        "npr": 315,
-        "platform": 458,
-        "reg": 342,
-        "mkt": 233
+        "core": 346,
+        "obesity": 680,
+        "npr": 321,
+        "platform": 478,
+        "reg": 353,
+        "mkt": 259
       }
     },
     {
@@ -589,15 +589,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7148,
+  "news_recent_total": 7183,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1561,
+      "news": 1570,
       "papers": 214,
       "trials": 99,
-      "total": 1874,
+      "total": 1883,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -624,11 +624,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 941,
+      "news": 950,
       "papers": 153,
       "trials": 91,
-      "total": 1185,
-      "recent": "2026-07-11T07:20:00+09:00",
+      "total": 1194,
+      "recent": "2026-07-11T12:31:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -719,21 +719,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 429,
+      "news": 438,
       "papers": 0,
       "trials": 0,
-      "total": 429,
-      "recent": "2026-07-11T07:16:00+09:00",
+      "total": 438,
+      "recent": "2026-07-11T09:50:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 122,
+      "news": 123,
       "papers": 0,
       "trials": 0,
-      "total": 122,
-      "recent": "2026-07-11T06:02:00+09:00",
+      "total": 123,
+      "recent": "2026-07-11T10:02:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -749,11 +749,11 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 300,
+      "news": 306,
       "papers": 0,
       "trials": 0,
-      "total": 300,
-      "recent": "2026-07-11T07:20:00+09:00",
+      "total": 306,
+      "recent": "2026-07-11T09:02:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -779,8 +779,8 @@
   ],
   "kpi": {
     "news": {
-      "today": 40,
-      "yesterday": 284
+      "today": 70,
+      "yesterday": 289
     },
     "paper": {
       "today": 0,
@@ -994,14 +994,14 @@
     },
     {
       "date": "2026-07-10",
-      "news": 284,
+      "news": 289,
       "paper": 5,
       "trial": 4,
       "regulatory": 10
     },
     {
       "date": "2026-07-11",
-      "news": 40,
+      "news": 70,
       "paper": 0,
       "trial": 0,
       "regulatory": 4
@@ -1108,6 +1108,21 @@
     {
       "level": "High",
       "score": 10,
+      "title": "\"다이어트약 아닌 전문의약품\"…식약처, 위고비·마운자로 오남용 경고",
+      "layer": "news",
+      "url": "https://www.wikitree.co.kr/articles/1145894",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-07-11T08:36:00+09:00",
+      "date": "2026.07.11",
+      "publisher": "wikitree.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 10,
       "title": "'키트루다' 특허 만료 임박…시밀러 선점 경쟁 본격화",
       "layer": "news",
       "url": "http://www.bizwnews.com/news/articleView.html?idxno=140409",
@@ -1116,21 +1131,6 @@
       "published": "2026-07-11T01:30:00+09:00",
       "date": "2026.07.11",
       "publisher": "bizwnews.com"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "SAHPRA flags recalled Ozempic-like semaglutide, tirzepatide products",
-      "layer": "news",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BdFdULTBhMjQ2eWFZdUFhTHlDdEU3OXBGMndGRFRhZ25TYk5PNnh0TGg0bUh6elVFclhwcEphdkYyN0RZeEhVS3JfRHZlc01vMVE2ckhxRFRwUDFPM2oyYmh4Y05CX2VkQ2wtdWVVQVgzZVp3SEdIS2djeWdGUQ?oc=5",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-07-10T18:59:02+09:00",
-      "date": "2026.07.10",
-      "publisher": "Cape Town ETC"
     }
   ],
   "highlights": {
