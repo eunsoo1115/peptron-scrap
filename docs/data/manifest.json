@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-12T15:22:25.902899+09:00",
+  "updated_at": "2026-07-12T19:51:47.056020+09:00",
   "dates": [
     {
       "date": "2026-07-12",
-      "total": 2423,
+      "total": 2469,
       "counts": {
-        "core": 348,
-        "obesity": 658,
-        "npr": 317,
-        "platform": 476,
-        "reg": 366,
-        "mkt": 258
+        "core": 351,
+        "obesity": 683,
+        "npr": 320,
+        "platform": 481,
+        "reg": 368,
+        "mkt": 266
       }
     },
     {
@@ -601,15 +601,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6922,
+  "news_recent_total": 6942,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1518,
+      "news": 1523,
       "papers": 219,
       "trials": 99,
-      "total": 1836,
+      "total": 1841,
       "recent": "2026-07-14T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -636,11 +636,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 921,
+      "news": 925,
       "papers": 156,
       "trials": 91,
-      "total": 1168,
-      "recent": "2026-07-12T14:43:09+09:00",
+      "total": 1172,
+      "recent": "2026-07-12T16:17:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -731,11 +731,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 427,
+      "news": 429,
       "papers": 0,
       "trials": 0,
-      "total": 427,
-      "recent": "2026-07-12T14:43:09+09:00",
+      "total": 429,
+      "recent": "2026-07-12T16:04:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -761,11 +761,11 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 305,
+      "news": 308,
       "papers": 0,
       "trials": 0,
-      "total": 305,
-      "recent": "2026-07-12T14:36:00+09:00",
+      "total": 308,
+      "recent": "2026-07-12T18:14:59+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -791,7 +791,7 @@
   ],
   "kpi": {
     "news": {
-      "today": 27,
+      "today": 47,
       "yesterday": 89
     },
     "paper": {
@@ -1013,7 +1013,7 @@
     },
     {
       "date": "2026-07-12",
-      "news": 27,
+      "news": 47,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
