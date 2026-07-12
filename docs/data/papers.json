@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T07:35:24.031746+09:00",
-  "total": 2574,
+  "updated_at": "2026-07-12T15:12:00.784253+09:00",
+  "total": 2582,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -40,6 +40,22 @@
       "title": "Effect of pasteurized Akkermansia muciniphila MucT on insulin sensitivity, body composition, and GLP-1 production in subjects with metabolic syndrome: impact of low baseline gut Akkermansia levels",
       "summary": "Suenaert P et al. · Gut microbes",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42343233/",
+      "publisher": "Gut microbes",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-12-31T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.12.31",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Christensenella massiliensis reduces kynurenine levels and alleviates obesity and related metabolic disorders in model mice",
+      "summary": "Du M et al. · Gut microbes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42434935/",
       "publisher": "Gut microbes",
       "source": "pubmed",
       "layer": "paper",
@@ -374,6 +390,126 @@
       "pipelines": [
         "PT320"
       ],
+      "companies": []
+    },
+    {
+      "title": "Lower fall and femoral fracture risks with semaglutide and tirzepatide compared with DPP-4 inhibitors in older adults with type 2 diabetes",
+      "summary": "Chen HY et al. · Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42435064/",
+      "publisher": "Osteoporosis international : a journal establ",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 receptor agonist use and overall survival among women with type 2 diabetes and breast cancer: a retrospective cohort study",
+      "summary": "Nelson RA et al. · The oncologist",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42434976/",
+      "publisher": "The oncologist",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Pharmacologic Treatment for Obstructive Sleep Apnea in Older Adults",
+      "summary": "Jaganathan N et al. · Drugs & aging",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42435144/",
+      "publisher": "Drugs & aging",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "The Periprocedural Safety of Continued GLP-1 Receptor Agonist Prior to Cardiac Catheterization",
+      "summary": "Chi KY et al. · The American journal of cardiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42435980/",
+      "publisher": "The American journal of cardiology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide compared with semaglutide in obesity disease: a subpopulation analysis applying Japan Society for the Study of Obesity criteria in the global SURMOUNT-5 trial",
+      "summary": "Kitamoto T et al. · Current medical research and opinion",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42434924/",
+      "publisher": "Current medical research and opinion",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide alters behaviour and nucleus accumbens oscillatory activity in healthy mice",
+      "summary": "Mosqueira A et al. · Molecular brain",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42436546/",
+      "publisher": "Molecular brain",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Celecoxib-loaded injectable composite microspheres for anti-inflammatory therapy in osteoarthritis",
+      "summary": "Yuan H et al. · Drug delivery and translational research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42436314/",
+      "publisher": "Drug delivery and translational research",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.11",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {
