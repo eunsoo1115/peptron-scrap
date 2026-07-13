@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-13T21:25:19.624246+09:00",
+  "updated_at": "2026-07-14T07:53:15.794746+09:00",
   "dates": [
+    {
+      "date": "2026-07-14",
+      "total": 2291,
+      "counts": {
+        "core": 340,
+        "obesity": 611,
+        "npr": 312,
+        "platform": 457,
+        "reg": 341,
+        "mkt": 230
+      }
+    },
     {
       "date": "2026-07-13",
       "total": 2669,
@@ -599,30 +611,30 @@
     }
   ],
   "papers": {
-    "total": 2597,
+    "total": 2611,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1239,
+    "total": 1238,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 410,
+    "total": 422,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6934,
+  "news_recent_total": 6883,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1507,
-      "papers": 220,
+      "news": 1497,
+      "papers": 223,
       "trials": 99,
-      "total": 1826,
-      "recent": "2026-07-14T00:00:00+09:00",
+      "total": 1819,
+      "recent": "2026-07-14T07:24:14+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -648,11 +660,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 914,
+      "news": 906,
       "papers": 158,
       "trials": 92,
-      "total": 1164,
-      "recent": "2026-07-13T20:51:03+09:00",
+      "total": 1156,
+      "recent": "2026-07-14T05:31:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -680,11 +692,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 57,
+      "news": 62,
       "papers": 138,
       "trials": 40,
-      "total": 235,
-      "recent": "2026-07-12T21:07:39+09:00",
+      "total": 240,
+      "recent": "2026-07-14T03:21:50+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -743,21 +755,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 439,
+      "news": 437,
       "papers": 0,
       "trials": 0,
-      "total": 439,
-      "recent": "2026-07-13T18:36:00+09:00",
+      "total": 437,
+      "recent": "2026-07-14T01:00:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 127,
+      "news": 126,
       "papers": 0,
       "trials": 0,
-      "total": 127,
-      "recent": "2026-07-13T18:25:00+09:00",
+      "total": 126,
+      "recent": "2026-07-14T06:12:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -773,21 +785,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 307,
+      "news": 306,
       "papers": 0,
       "trials": 0,
-      "total": 307,
-      "recent": "2026-07-13T20:51:03+09:00",
+      "total": 306,
+      "recent": "2026-07-14T05:52:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 195,
+      "news": 191,
       "papers": 1,
       "trials": 0,
-      "total": 196,
-      "recent": "2026-07-13T18:22:00+09:00",
+      "total": 192,
+      "recent": "2026-07-14T05:52:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -803,30 +815,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 241,
-      "yesterday": 60
+      "today": 45,
+      "yesterday": 256
     },
     "paper": {
       "today": 1,
-      "yesterday": 6
+      "yesterday": 13
     },
     "trial": {
-      "today": 5,
-      "yesterday": 0
+      "today": 0,
+      "yesterday": 5
     },
     "regulatory": {
-      "today": 6,
-      "yesterday": 0
+      "today": 12,
+      "yesterday": 6
     }
   },
   "trend": [
-    {
-      "date": "2026-06-14",
-      "news": 105,
-      "paper": 8,
-      "trial": 0,
-      "regulatory": 0
-    },
     {
       "date": "2026-06-15",
       "news": 264,
@@ -949,7 +954,7 @@
     {
       "date": "2026-07-02",
       "news": 389,
-      "paper": 14,
+      "paper": 15,
       "trial": 5,
       "regulatory": 5
     },
@@ -1005,7 +1010,7 @@
     {
       "date": "2026-07-10",
       "news": 293,
-      "paper": 11,
+      "paper": 12,
       "trial": 4,
       "regulatory": 10
     },
@@ -1018,17 +1023,24 @@
     },
     {
       "date": "2026-07-12",
-      "news": 60,
+      "news": 61,
       "paper": 6,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-07-13",
-      "news": 241,
-      "paper": 1,
+      "news": 256,
+      "paper": 13,
       "trial": 5,
       "regulatory": 6
+    },
+    {
+      "date": "2026-07-14",
+      "news": 45,
+      "paper": 1,
+      "trial": 0,
+      "regulatory": 12
     }
   ],
   "alerts": [
@@ -1276,29 +1288,29 @@
       },
       {
         "level": "Medium",
+        "title": "FDA accepts BioMarin application for full VOXZOGO approval",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS15NXk1M3RTd3VUS3Z2WjQ1RVQ2WV9uQ2VxZ2pIeE1wSGVqQ09nS2ZFa0diME02N1pndXVENjFpZWs4QUFabzJjRHJjUTZvM3RlUk5nRXYyOEVCWi05c0MwYW1ES3dzZDEwV2JYYjl6RnJkVEVwc0cwUjNYbkl2Y0VXYjlhVTBCRG9Oa3VINGpZT1Uzb2U2VWJXN2NxbE1DclhhRzdLbFdpMFh3VGhuWFl2RGxHSUstQ0ZCS0xYcDBpUjllUnBldTZkdw?oc=5",
+        "date": "2026.07.14",
+        "published": "2026-07-14T03:21:50+09:00",
+        "publisher": "Investing.com UK"
+      },
+      {
+        "level": "Medium",
+        "title": "FDA accepts BioMarin application for full VOXZOGO approval By Investing.com",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ1J3UGVOMlZFMGsxQlR5ZmEwU0I5Mm0wdjNienBIaS1nLTljQlB2MEhnZGxzRlM1dk45SFpYWE5LZEF0WFMtOEpZYWNUdmlkUmE2ZlBEM0h2bHp0ZlE3c2M1QkJVM0ZWdEJfVzFhY3pReHllNDNLUW41UHRLbGpQTjhUam1QSUFUa2ZKM3V4azcteE9wZGo4VXZWRDFmdXJiZjdjZ2tQM3lRSW1fWHh2WEtMaUVHd05hb243RTl0SEdCcTlRTGxEcm92VQ?oc=5",
+        "date": "2026.07.13",
+        "published": "2026-07-13T22:40:22+09:00",
+        "publisher": "Investing.com India"
+      },
+      {
+        "level": "Medium",
         "title": "Study to Evaluate the Efficacy and Safety of BMN 333 Versus Vosoritide in Children With Achondroplasia",
         "layer": "trial",
         "url": "https://clinicaltrials.gov/study/NCT07441876",
         "date": "2026.05.07",
         "published": "2026-05-07T00:00:00+09:00",
-        "publisher": "BioMarin Pharmaceutical"
-      },
-      {
-        "level": "Medium",
-        "title": "A Study to Evaluate the Efficacy and Safety of Infigratinib in Children and Adolescents With Achondroplasia",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT06164951",
-        "date": "2026.03.17",
-        "published": "2026-03-17T00:00:00+09:00",
-        "publisher": "QED Therapeutics, a BridgeBio company"
-      },
-      {
-        "level": "Medium",
-        "title": "Interventional Study of Vosoritide for the Treatment of Children With Hypochondroplasia",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT06455059",
-        "date": "2026.01.20",
-        "published": "2026-01-20T00:00:00+09:00",
         "publisher": "BioMarin Pharmaceutical"
       }
     ],
