@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T15:28:37.662796+09:00",
-  "total": 2593,
+  "updated_at": "2026-07-13T21:14:52.128336+09:00",
+  "total": 2597,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -453,6 +453,22 @@
       "date": "2026.07.12",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "The Effects of Incretin Mimetic Therapies on Muscle and Bone Health in Older Adults: A Narrative Review",
+      "summary": "Saavedra JM et al. · Obesity (Silver Spring, Md.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42438123/",
+      "publisher": "Obesity (Silver Spring, Md.)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-12T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.12",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -2050,6 +2066,22 @@
       "pipelines": [
         "PND3174"
       ],
+      "companies": []
+    },
+    {
+      "title": "Sequential release of N-butylphthalide via multifunctional hydrogel for rapid neuroprotection and sustained neural repair after traumatic brain injury",
+      "summary": "Hu C et al. · Materials today. Bio",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42438729/",
+      "publisher": "Materials today. Bio",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.06",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -3938,6 +3970,22 @@
       "date": "2026.07.01",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Intestinal Source Control of Lipid Metabolism by Enzyme-Probiotic Encapsulated, Spatiotemporal Crosslinked, and Small Intestine-Adhesive Hydrogel Microspheres",
+      "summary": "Wu X et al. · Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42101108/",
+      "publisher": "Advanced science (Weinheim, Baden-Wurttemberg",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.01",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
@@ -11237,6 +11285,24 @@
       "category": "obesity",
       "pipelines": [
         "PT320"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Acute Small Bowel Obstruction Induced by Tirzepatide (Mounjaro)",
+      "summary": "Bhandari P et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42438627/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
       ],
       "companies": []
     },
