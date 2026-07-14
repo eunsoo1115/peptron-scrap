@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-14T07:53:15.794746+09:00",
+  "updated_at": "2026-07-14T14:49:54.427074+09:00",
   "dates": [
     {
       "date": "2026-07-14",
-      "total": 2291,
+      "total": 2490,
       "counts": {
-        "core": 340,
-        "obesity": 611,
-        "npr": 312,
-        "platform": 457,
-        "reg": 341,
-        "mkt": 230
+        "core": 371,
+        "obesity": 671,
+        "npr": 324,
+        "platform": 480,
+        "reg": 375,
+        "mkt": 269
       }
     },
     {
@@ -611,7 +611,7 @@
     }
   ],
   "papers": {
-    "total": 2611,
+    "total": 2639,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -625,16 +625,16 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6883,
+  "news_recent_total": 7020,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1497,
-      "papers": 223,
+      "news": 1523,
+      "papers": 226,
       "trials": 99,
-      "total": 1819,
-      "recent": "2026-07-14T07:24:14+09:00",
+      "total": 1848,
+      "recent": "2026-07-14T14:29:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -660,11 +660,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 906,
-      "papers": 158,
+      "news": 917,
+      "papers": 160,
       "trials": 92,
-      "total": 1156,
-      "recent": "2026-07-14T05:31:00+09:00",
+      "total": 1169,
+      "recent": "2026-07-14T12:10:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -692,11 +692,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 62,
+      "news": 64,
       "papers": 138,
       "trials": 40,
-      "total": 240,
-      "recent": "2026-07-14T03:21:50+09:00",
+      "total": 242,
+      "recent": "2026-07-14T07:16:14+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -722,11 +722,11 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 13,
+      "news": 15,
       "papers": 29,
       "trials": 4,
-      "total": 46,
-      "recent": "2026-07-11T00:00:00+09:00",
+      "total": 48,
+      "recent": "2026-07-14T14:18:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -755,21 +755,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 437,
+      "news": 464,
       "papers": 0,
       "trials": 0,
-      "total": 437,
-      "recent": "2026-07-14T01:00:00+09:00",
+      "total": 464,
+      "recent": "2026-07-14T14:29:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 126,
+      "news": 127,
       "papers": 0,
       "trials": 0,
-      "total": 126,
-      "recent": "2026-07-14T06:12:00+09:00",
+      "total": 127,
+      "recent": "2026-07-14T07:40:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -785,21 +785,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 306,
+      "news": 312,
       "papers": 0,
       "trials": 0,
-      "total": 306,
-      "recent": "2026-07-14T05:52:00+09:00",
+      "total": 312,
+      "recent": "2026-07-14T12:21:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 191,
+      "news": 192,
       "papers": 1,
       "trials": 0,
-      "total": 192,
-      "recent": "2026-07-14T05:52:00+09:00",
+      "total": 193,
+      "recent": "2026-07-14T14:24:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -815,12 +815,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 45,
-      "yesterday": 256
+      "today": 180,
+      "yesterday": 258
     },
     "paper": {
-      "today": 1,
-      "yesterday": 13
+      "today": 5,
+      "yesterday": 30
     },
     "trial": {
       "today": 0,
@@ -841,7 +841,7 @@
     },
     {
       "date": "2026-06-16",
-      "news": 303,
+      "news": 302,
       "paper": 30,
       "trial": 13,
       "regulatory": 47
@@ -884,14 +884,14 @@
     {
       "date": "2026-06-22",
       "news": 216,
-      "paper": 29,
+      "paper": 30,
       "trial": 6,
       "regulatory": 0
     },
     {
       "date": "2026-06-23",
       "news": 296,
-      "paper": 31,
+      "paper": 32,
       "trial": 7,
       "regulatory": 28
     },
@@ -933,7 +933,7 @@
     {
       "date": "2026-06-29",
       "news": 282,
-      "paper": 22,
+      "paper": 23,
       "trial": 9,
       "regulatory": 1
     },
@@ -982,7 +982,7 @@
     {
       "date": "2026-07-06",
       "news": 295,
-      "paper": 17,
+      "paper": 19,
       "trial": 9,
       "regulatory": 19
     },
@@ -1023,22 +1023,22 @@
     },
     {
       "date": "2026-07-12",
-      "news": 61,
-      "paper": 6,
+      "news": 62,
+      "paper": 7,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-07-13",
-      "news": 256,
-      "paper": 13,
+      "news": 258,
+      "paper": 30,
       "trial": 5,
       "regulatory": 6
     },
     {
       "date": "2026-07-14",
-      "news": 45,
-      "paper": 1,
+      "news": 180,
+      "paper": 5,
       "trial": 0,
       "regulatory": 12
     }
@@ -1144,32 +1144,29 @@
     {
       "level": "High",
       "score": 10,
-      "title": "저용량 대장 정결제 '굿모닝프렙산' 식약처 허가",
+      "title": "신약허가 규제 푸는데…제약사는 '혁신 병목현상'",
       "layer": "news",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3008269",
+      "url": "https://www.newsis.com/view/NISX20260714_0003708343",
       "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-07-13T15:56:00+09:00",
-      "date": "2026.07.13",
-      "publisher": "의학신문"
+      "pipelines": [],
+      "published": "2026-07-14T13:23:00+09:00",
+      "date": "2026.07.14",
+      "publisher": "newsis.com"
     },
     {
       "level": "High",
       "score": 10,
-      "title": "\"다이어트약 아닌 전문의약품\"…식약처, 위고비·마운자로 오남용 경고",
+      "title": "복용양 대폭 줄인 대장정결제 ‘굿모닝프렙산’ 식약처 허가",
       "layer": "news",
-      "url": "https://www.wikitree.co.kr/articles/1145894",
+      "url": "https://www.ekn.kr/web/view.php?key=20260714027482241",
       "companies": [],
       "pipelines": [
         "PT403",
         "PT404"
       ],
-      "published": "2026-07-11T08:36:00+09:00",
-      "date": "2026.07.11",
-      "publisher": "wikitree.co.kr"
+      "published": "2026-07-14T11:14:00+09:00",
+      "date": "2026.07.14",
+      "publisher": "ekn.kr"
     }
   ],
   "highlights": {
@@ -1288,6 +1285,15 @@
       },
       {
         "level": "Medium",
+        "title": "BioMarin Says FDA Accepts Filing for Voxzogo's Full Approval in Children With Achondroplasia",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMlY4MjRISjlydXB2TGF5d0pCY3E3ZXBmR1dkYlZkUWY0cnJOVS02Vjl4Uk8xT0dYbHZmMWpoQUJfaGt4UkVPc0JneVJBVGR0akpTSXpwbXNfb3J4bUl1RFNTZnY5Z09XUm56NWE0Q2d5dlZwQl9CdlJteHNrLUc5cWJRMmlXVWlaMEtFR0hGbWRMMEtJem9aQk01bVZBV08zOGMtLUxOVXRvVWVCUXlEcUh4VG5ZZW14a19UVGNIcWU3RzlYM1prQ0NsMk5UWjR2cXhN?oc=5",
+        "date": "2026.07.14",
+        "published": "2026-07-14T03:35:24+09:00",
+        "publisher": "Moomoo"
+      },
+      {
+        "level": "Medium",
         "title": "FDA accepts BioMarin application for full VOXZOGO approval",
         "layer": "news",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS15NXk1M3RTd3VUS3Z2WjQ1RVQ2WV9uQ2VxZ2pIeE1wSGVqQ09nS2ZFa0diME02N1pndXVENjFpZWs4QUFabzJjRHJjUTZvM3RlUk5nRXYyOEVCWi05c0MwYW1ES3dzZDEwV2JYYjl6RnJkVEVwc0cwUjNYbkl2Y0VXYjlhVTBCRG9Oa3VINGpZT1Uzb2U2VWJXN2NxbE1DclhhRzdLbFdpMFh3VGhuWFl2RGxHSUstQ0ZCS0xYcDBpUjllUnBldTZkdw?oc=5",
@@ -1303,15 +1309,6 @@
         "date": "2026.07.13",
         "published": "2026-07-13T22:40:22+09:00",
         "publisher": "Investing.com India"
-      },
-      {
-        "level": "Medium",
-        "title": "Study to Evaluate the Efficacy and Safety of BMN 333 Versus Vosoritide in Children With Achondroplasia",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT07441876",
-        "date": "2026.05.07",
-        "published": "2026-05-07T00:00:00+09:00",
-        "publisher": "BioMarin Pharmaceutical"
       }
     ],
     "PT320": [
@@ -1335,30 +1332,30 @@
       },
       {
         "level": "Medium",
+        "title": "옙바이오, 세계 첫 PARIS 표적 파킨슨병 신약 임상 진입…질병 진행 억제...",
+        "layer": "news",
+        "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=33157",
+        "date": "2026.07.14",
+        "published": "2026-07-14T14:18:00+09:00",
+        "publisher": "biotimes.co.kr"
+      },
+      {
+        "level": "Medium",
+        "title": "옙바이오, PARIS 표적 경구용 파킨슨병 치료제 임상1상 IND 승인",
+        "layer": "news",
+        "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=329774",
+        "date": "2026.07.14",
+        "published": "2026-07-14T14:16:00+09:00",
+        "publisher": "약업신문"
+      },
+      {
+        "level": "Medium",
         "title": "“알파시누클레인은 파킨슨병 결과”…빅파마와 다른 해법 제시[글라세...",
         "layer": "news",
         "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03814646645512552",
         "date": "2026.07.08",
         "published": "2026-07-08T13:07:00+09:00",
         "publisher": "이데일리"
-      },
-      {
-        "level": "Medium",
-        "title": "명인제약, 파킨슨병 서방제 허가 임박… 시선은 글로벌 시장에",
-        "layer": "news",
-        "url": "http://www.medisobizanews.com/news/articleView.html?idxno=139994",
-        "date": "2026.07.08",
-        "published": "2026-07-08T12:24:00+09:00",
-        "publisher": "medisobizanews.com"
-      },
-      {
-        "level": "Medium",
-        "title": "[2026 혁신 바이오 기술대상] 넥스모스, 비타민C 항산화 강화 특허기술...",
-        "layer": "news",
-        "url": "https://www.joongang.co.kr/article/25442830",
-        "date": "2026.07.06",
-        "published": "2026-07-06T18:07:00+09:00",
-        "publisher": "joongang.co.kr"
       }
     ]
   }
