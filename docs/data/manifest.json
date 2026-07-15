@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-15T07:55:07.263939+09:00",
+  "updated_at": "2026-07-15T14:51:21.125187+09:00",
   "dates": [
     {
       "date": "2026-07-15",
-      "total": 2279,
+      "total": 2440,
       "counts": {
-        "core": 331,
-        "obesity": 602,
-        "npr": 317,
-        "platform": 460,
-        "reg": 343,
-        "mkt": 226
+        "core": 342,
+        "obesity": 665,
+        "npr": 320,
+        "platform": 477,
+        "reg": 362,
+        "mkt": 274
       }
     },
     {
@@ -623,7 +623,7 @@
     }
   ],
   "papers": {
-    "total": 2657,
+    "total": 2666,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -637,16 +637,16 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7090,
+  "news_recent_total": 7194,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1507,
+      "news": 1519,
       "papers": 226,
       "trials": 99,
-      "total": 1832,
-      "recent": "2026-07-15T07:16:00+09:00",
+      "total": 1844,
+      "recent": "2026-07-15T14:24:26+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -672,11 +672,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 921,
+      "news": 932,
       "papers": 160,
       "trials": 92,
-      "total": 1173,
-      "recent": "2026-07-15T07:35:00+09:00",
+      "total": 1184,
+      "recent": "2026-07-15T13:10:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -704,11 +704,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 64,
-      "papers": 138,
+      "news": 65,
+      "papers": 139,
       "trials": 40,
-      "total": 242,
-      "recent": "2026-07-14T11:07:52+09:00",
+      "total": 244,
+      "recent": "2026-07-14T23:42:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -767,51 +767,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 474,
+      "news": 483,
       "papers": 0,
       "trials": 0,
-      "total": 474,
-      "recent": "2026-07-15T06:00:00+09:00",
+      "total": 483,
+      "recent": "2026-07-15T13:31:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 130,
+      "news": 132,
       "papers": 0,
       "trials": 0,
-      "total": 130,
+      "total": 132,
       "recent": "2026-07-15T07:16:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 126,
+      "news": 127,
       "papers": 0,
       "trials": 0,
-      "total": 126,
-      "recent": "2026-07-15T06:00:00+09:00",
+      "total": 127,
+      "recent": "2026-07-15T11:36:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 314,
+      "news": 319,
       "papers": 0,
       "trials": 0,
-      "total": 314,
-      "recent": "2026-07-15T06:02:00+09:00",
+      "total": 319,
+      "recent": "2026-07-15T14:38:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 185,
+      "news": 188,
       "papers": 1,
       "trials": 0,
-      "total": 186,
-      "recent": "2026-07-15T06:02:00+09:00",
+      "total": 189,
+      "recent": "2026-07-15T13:07:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -827,12 +827,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 46,
-      "yesterday": 306
+      "today": 144,
+      "yesterday": 310
     },
     "paper": {
-      "today": 2,
-      "yesterday": 15
+      "today": 3,
+      "yesterday": 22
     },
     "trial": {
       "today": 0,
@@ -888,7 +888,7 @@
     },
     {
       "date": "2026-06-22",
-      "news": 216,
+      "news": 217,
       "paper": 30,
       "trial": 6,
       "regulatory": 0
@@ -1014,7 +1014,7 @@
     },
     {
       "date": "2026-07-10",
-      "news": 293,
+      "news": 294,
       "paper": 12,
       "trial": 4,
       "regulatory": 10
@@ -1042,15 +1042,15 @@
     },
     {
       "date": "2026-07-14",
-      "news": 306,
-      "paper": 15,
+      "news": 310,
+      "paper": 22,
       "trial": 15,
       "regulatory": 14
     },
     {
       "date": "2026-07-15",
-      "news": 46,
-      "paper": 2,
+      "news": 144,
+      "paper": 3,
       "trial": 0,
       "regulatory": 10
     }
@@ -1294,6 +1294,15 @@
       },
       {
         "level": "Medium",
+        "title": "FDA Accepts BMRN's sNDA Seeking Full Approval for Voxzogo",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3NUODhIS3E5NU42czVUdEFhSkVTSTFlZWtmZUtOMkJkblVYcnlGbUk3ME9KYVNJVTJKR3JDMkZlRUpROV9sbXl6Q1p0VTI2TEJEYUMzeE40SERlcUpOdXllcWtWd3dXc2d4QWYxV0h1VG51TUptT3h4bDRRc05NQlFiRVdjQ0ZKSUdRQnhyZWF4RmdVNkE?oc=5",
+        "date": "2026.07.14",
+        "published": "2026-07-14T23:42:00+09:00",
+        "publisher": "Yahoo Finance"
+      },
+      {
+        "level": "Medium",
         "title": "BioMarin SNDA seeking full Voxzogo approval accepted by FDA",
         "layer": "news",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ2pnUVMwUXJyaGxhMks5LWl2REwzZTd4QVc0Um9LZDZqWWxWbE1zTFdGYS1Ya0ctM3F5cjBjMTA5a3h2TGZaNTJIbGV0eFpDc0Z3TlAtT3R4bFJTS3IzRHYtLUlTcWN6SFJWbXRVOXV5d0xfblFSSTY4VGV4WEJ2SmFvY0lhX3N5dVFTSEg0dnl0TFFnbVlKenB4Z2NCY05obEcwYTByWlc2SnZYWGE0?oc=5",
@@ -1309,15 +1318,6 @@
         "date": "2026.07.14",
         "published": "2026-07-14T03:35:24+09:00",
         "publisher": "Moomoo"
-      },
-      {
-        "level": "Medium",
-        "title": "FDA accepts BioMarin application for full VOXZOGO approval",
-        "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS15NXk1M3RTd3VUS3Z2WjQ1RVQ2WV9uQ2VxZ2pIeE1wSGVqQ09nS2ZFa0diME02N1pndXVENjFpZWs4QUFabzJjRHJjUTZvM3RlUk5nRXYyOEVCWi05c0MwYW1ES3dzZDEwV2JYYjl6RnJkVEVwc0cwUjNYbkl2Y0VXYjlhVTBCRG9Oa3VINGpZT1Uzb2U2VWJXN2NxbE1DclhhRzdLbFdpMFh3VGhuWFl2RGxHSUstQ0ZCS0xYcDBpUjllUnBldTZkdw?oc=5",
-        "date": "2026.07.14",
-        "published": "2026-07-14T03:21:50+09:00",
-        "publisher": "Investing.com UK"
       }
     ],
     "PT320": [
