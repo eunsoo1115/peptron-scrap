@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-16T14:59:21.708529+09:00",
+  "updated_at": "2026-07-16T20:08:44.697266+09:00",
   "dates": [
     {
       "date": "2026-07-16",
-      "total": 2536,
+      "total": 2656,
       "counts": {
-        "core": 340,
-        "obesity": 700,
-        "npr": 324,
-        "platform": 513,
-        "reg": 397,
-        "mkt": 262
+        "core": 342,
+        "obesity": 746,
+        "npr": 327,
+        "platform": 535,
+        "reg": 412,
+        "mkt": 294
       }
     },
     {
@@ -635,7 +635,7 @@
     }
   ],
   "papers": {
-    "total": 2711,
+    "total": 2717,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -645,20 +645,20 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 449,
+    "total": 450,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7246,
+  "news_recent_total": 7346,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1542,
+      "news": 1555,
       "papers": 234,
       "trials": 100,
-      "total": 1876,
-      "recent": "2026-07-16T14:38:00+09:00",
+      "total": 1889,
+      "recent": "2026-07-16T18:45:26+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -684,11 +684,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 931,
-      "papers": 164,
+      "news": 936,
+      "papers": 165,
       "trials": 95,
-      "total": 1190,
-      "recent": "2026-07-16T13:39:00+09:00",
+      "total": 1196,
+      "recent": "2026-07-16T18:14:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -716,11 +716,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 63,
+      "news": 64,
       "papers": 139,
       "trials": 40,
-      "total": 242,
-      "recent": "2026-07-14T23:42:00+09:00",
+      "total": 243,
+      "recent": "2026-07-16T19:31:37+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -779,21 +779,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 481,
+      "news": 483,
       "papers": 0,
       "trials": 0,
-      "total": 481,
-      "recent": "2026-07-16T14:14:00+09:00",
+      "total": 483,
+      "recent": "2026-07-16T16:30:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 143,
+      "news": 157,
       "papers": 0,
       "trials": 0,
-      "total": 143,
-      "recent": "2026-07-16T14:39:00+09:00",
+      "total": 157,
+      "recent": "2026-07-16T16:50:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -809,21 +809,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 320,
+      "news": 324,
       "papers": 0,
       "trials": 0,
-      "total": 320,
-      "recent": "2026-07-16T12:40:00+09:00",
+      "total": 324,
+      "recent": "2026-07-16T17:48:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 198,
+      "news": 204,
       "papers": 1,
       "trials": 0,
-      "total": 199,
-      "recent": "2026-07-16T13:44:12+09:00",
+      "total": 205,
+      "recent": "2026-07-16T18:45:26+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -839,19 +839,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 217,
+      "today": 317,
       "yesterday": 239
     },
     "paper": {
       "today": 1,
-      "yesterday": 14
+      "yesterday": 16
     },
     "trial": {
       "today": 0,
       "yesterday": 11
     },
     "regulatory": {
-      "today": 11,
+      "today": 12,
       "yesterday": 14
     }
   },
@@ -957,7 +957,7 @@
     {
       "date": "2026-07-01",
       "news": 307,
-      "paper": 66,
+      "paper": 67,
       "trial": 7,
       "regulatory": 12
     },
@@ -1055,16 +1055,16 @@
     {
       "date": "2026-07-15",
       "news": 239,
-      "paper": 14,
+      "paper": 16,
       "trial": 11,
       "regulatory": 14
     },
     {
       "date": "2026-07-16",
-      "news": 217,
+      "news": 317,
       "paper": 1,
       "trial": 0,
-      "regulatory": 11
+      "regulatory": 12
     }
   ],
   "alerts": [
@@ -1306,6 +1306,15 @@
       },
       {
         "level": "Medium",
+        "title": "BioMarin (BMRN) Wins FDA Review For VOXZOGO Full Approval In Achondroplasia",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTk1jWWFSNFlQVTctVU1fRzUwOFdETGc5OGlRQ18xZ09DR2VLZm51Rjc0SWQwTEFFY1pDV3h2RmhqVDJBNElMZzlWbG5IZ19yZGI0R0UwNUx4V1liaElPcUlqdjlyZ3lndi1xVUJSSVlzLWgwb0gyRHIzMzk1blFRcWd0cGlXaHAyaWpzTjF1MmFORUJNNlg4YjV0SzhLenlCMm1jbjdFU0JEQ1lmaFFtN0pMZlJWS0tBczEzQ0JPODhJc1NTbHF6RmRhVm40YjIzMU5XaTdZa1FZTTk0MWJvcUJUZ3VpN1VOY2pBTUxB0gHzAUFVX3lxTE9XelRZelJuUXlCcGpkeU1uWlpNNFh6RFZFNjJWRnk1Zng2THR4anlkMHJ6cnRma25RVGRYSXowdDBHVXBjaTBzQTR2eW1tQjRwWWR3a09DYzdfNHN5MXpjcUNPdF9TUmJKVEpPTTEtM2FaVkFZRDY3aFV5d2N5T2ZoV0p6T0hBd1NxY3AxQ0x3TURQd05tQ1ZTRmdtSlp6cmdWRUdYazFzbHNzS2gwOEhScnlJbEZCYTRMV1BPTGd5RlpGUjBydGhCSjdGQlZucUxXaHFUMVYyTkdDZVB1NTBDSmNzUUlfcm9GVkxITjY4Mkt4QQ?oc=5",
+        "date": "2026.07.16",
+        "published": "2026-07-16T19:31:37+09:00",
+        "publisher": "simplywall.st"
+      },
+      {
+        "level": "Medium",
         "title": "FDA Accepts BMRN's sNDA Seeking Full Approval for Voxzogo",
         "layer": "news",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3NUODhIS3E5NU42czVUdEFhSkVTSTFlZWtmZUtOMkJkblVYcnlGbUk3ME9KYVNJVTJKR3JDMkZlRUpROV9sbXl6Q1p0VTI2TEJEYUMzeE40SERlcUpOdXllcWtWd3dXc2d4QWYxV0h1VG51TUptT3h4bDRRc05NQlFiRVdjQ0ZKSUdRQnhyZWF4RmdVNkE?oc=5",
@@ -1321,15 +1330,6 @@
         "date": "2026.07.14",
         "published": "2026-07-14T11:07:52+09:00",
         "publisher": "MSN"
-      },
-      {
-        "level": "Medium",
-        "title": "BioMarin Says FDA Accepts Filing for Voxzogo's Full Approval in Children With Achondroplasia",
-        "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMlY4MjRISjlydXB2TGF5d0pCY3E3ZXBmR1dkYlZkUWY0cnJOVS02Vjl4Uk8xT0dYbHZmMWpoQUJfaGt4UkVPc0JneVJBVGR0akpTSXpwbXNfb3J4bUl1RFNTZnY5Z09XUm56NWE0Q2d5dlZwQl9CdlJteHNrLUc5cWJRMmlXVWlaMEtFR0hGbWRMMEtJem9aQk01bVZBV08zOGMtLUxOVXRvVWVCUXlEcUh4VG5ZZW14a19UVGNIcWU3RzlYM1prQ0NsMk5UWjR2cXhN?oc=5",
-        "date": "2026.07.14",
-        "published": "2026-07-14T03:35:24+09:00",
-        "publisher": "Moomoo"
       }
     ],
     "PT320": [
