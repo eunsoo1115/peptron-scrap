@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-16T07:46:59.326483+09:00",
+  "updated_at": "2026-07-16T14:59:21.708529+09:00",
   "dates": [
     {
       "date": "2026-07-16",
-      "total": 2304,
+      "total": 2536,
       "counts": {
-        "core": 330,
-        "obesity": 623,
-        "npr": 317,
-        "platform": 476,
-        "reg": 338,
-        "mkt": 220
+        "core": 340,
+        "obesity": 700,
+        "npr": 324,
+        "platform": 513,
+        "reg": 397,
+        "mkt": 262
       }
     },
     {
@@ -635,7 +635,7 @@
     }
   ],
   "papers": {
-    "total": 2701,
+    "total": 2711,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -649,16 +649,16 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7082,
+  "news_recent_total": 7246,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1511,
-      "papers": 233,
+      "news": 1542,
+      "papers": 234,
       "trials": 100,
-      "total": 1844,
-      "recent": "2026-07-16T07:41:00+09:00",
+      "total": 1876,
+      "recent": "2026-07-16T14:38:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -684,11 +684,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 917,
-      "papers": 163,
+      "news": 931,
+      "papers": 164,
       "trials": 95,
-      "total": 1175,
-      "recent": "2026-07-16T07:40:29+09:00",
+      "total": 1190,
+      "recent": "2026-07-16T13:39:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -746,11 +746,11 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 15,
+      "news": 21,
       "papers": 29,
       "trials": 4,
-      "total": 48,
-      "recent": "2026-07-14T16:16:00+09:00",
+      "total": 54,
+      "recent": "2026-07-16T14:12:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -779,51 +779,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 476,
+      "news": 481,
       "papers": 0,
       "trials": 0,
-      "total": 476,
-      "recent": "2026-07-15T16:24:00+09:00",
+      "total": 481,
+      "recent": "2026-07-16T14:14:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 135,
+      "news": 143,
       "papers": 0,
       "trials": 0,
-      "total": 135,
-      "recent": "2026-07-16T06:50:00+09:00",
+      "total": 143,
+      "recent": "2026-07-16T14:39:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 112,
+      "news": 114,
       "papers": 0,
       "trials": 0,
-      "total": 112,
-      "recent": "2026-07-15T15:18:00+09:00",
+      "total": 114,
+      "recent": "2026-07-16T10:14:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 316,
+      "news": 320,
       "papers": 0,
       "trials": 0,
-      "total": 316,
-      "recent": "2026-07-16T06:02:00+09:00",
+      "total": 320,
+      "recent": "2026-07-16T12:40:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 191,
+      "news": 198,
       "papers": 1,
       "trials": 0,
-      "total": 192,
-      "recent": "2026-07-16T05:15:21+09:00",
+      "total": 199,
+      "recent": "2026-07-16T13:44:12+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -839,12 +839,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 59,
-      "yesterday": 234
+      "today": 217,
+      "yesterday": 239
     },
     "paper": {
-      "today": 0,
-      "yesterday": 8
+      "today": 1,
+      "yesterday": 14
     },
     "trial": {
       "today": 0,
@@ -893,7 +893,7 @@
     },
     {
       "date": "2026-06-22",
-      "news": 217,
+      "news": 218,
       "paper": 30,
       "trial": 6,
       "regulatory": 0
@@ -957,7 +957,7 @@
     {
       "date": "2026-07-01",
       "news": 307,
-      "paper": 65,
+      "paper": 66,
       "trial": 7,
       "regulatory": 12
     },
@@ -1048,21 +1048,21 @@
     {
       "date": "2026-07-14",
       "news": 313,
-      "paper": 28,
+      "paper": 29,
       "trial": 15,
       "regulatory": 14
     },
     {
       "date": "2026-07-15",
-      "news": 234,
-      "paper": 8,
+      "news": 239,
+      "paper": 14,
       "trial": 11,
       "regulatory": 14
     },
     {
       "date": "2026-07-16",
-      "news": 59,
-      "paper": 0,
+      "news": 217,
+      "paper": 1,
       "trial": 0,
       "regulatory": 11
     }
@@ -1353,30 +1353,30 @@
       },
       {
         "level": "Medium",
-        "title": "옙바이오, 경구용 파킨슨병 치료제 'YPD-01' 국내 임상 1상 IND 승인",
+        "title": "HLB바이오스텝, 옙바이오 파킨슨병 신약 IND 승인 지원",
         "layer": "news",
-        "url": "https://www.mt.co.kr/future/2026/07/14/2026071415560669205",
-        "date": "2026.07.14",
-        "published": "2026-07-14T16:16:00+09:00",
-        "publisher": "머니투데이"
+        "url": "https://www.ziksir.com/news/articleView.html?idxno=140297",
+        "date": "2026.07.16",
+        "published": "2026-07-16T14:12:00+09:00",
+        "publisher": "ziksir.com"
       },
       {
         "level": "Medium",
-        "title": "[BIO톡]지엔티파마, 반려견 치매 치료제 글로벌 허가 본격화 外 옙바이...",
+        "title": "HLB바이오스텝 지원 파킨슨병 치료제, 식약처 임상 1상 승인",
         "layer": "news",
-        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=875055",
-        "date": "2026.07.14",
-        "published": "2026-07-14T14:42:00+09:00",
-        "publisher": "getnews.co.kr"
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JUUdhSXlVNl85S05jNmNjOU95bVJGWnd2NTdJMDEzN3BrcGlLQ3pDcnNobUQtOTRhTkpZWm4teDI3UW9UX19mWW1oRDFZZklscHhncG9mMDNCZC10WHhqZXJvSHptMVo1NG04?oc=5",
+        "date": "2026.07.16",
+        "published": "2026-07-16T09:57:04+09:00",
+        "publisher": "hdnews.co.kr"
       },
       {
         "level": "Medium",
-        "title": "옙바이오, 세계 첫 PARIS 표적 파킨슨병 신약 임상 진입…질병 진행 억제...",
+        "title": "HLB바이오스텝, 파킨슨병 신약 임상 진입 지원…식약처 IND 승인",
         "layer": "news",
-        "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=33157",
-        "date": "2026.07.14",
-        "published": "2026-07-14T14:18:00+09:00",
-        "publisher": "biotimes.co.kr"
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13X1N2UGhXUFdoRjhKdnhfWDJQWVJ1Y1FzdEQ0bThfWExUand1VUlQek9KT2xNcC00MHV0ZktpRlNlR1JRVWtoNTNsVVNHY3VRWU1hano2bElJeFVFb3F2WHU1U3FCWkVnZlI0?oc=5",
+        "date": "2026.07.16",
+        "published": "2026-07-16T09:56:23+09:00",
+        "publisher": "충청시사신문"
       }
     ]
   }
