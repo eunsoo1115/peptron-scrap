@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-17T07:56:08.677757+09:00",
+  "updated_at": "2026-07-17T14:51:03.078287+09:00",
   "dates": [
     {
       "date": "2026-07-17",
-      "total": 2269,
+      "total": 2363,
       "counts": {
-        "core": 333,
-        "obesity": 597,
-        "npr": 319,
-        "platform": 461,
-        "reg": 329,
-        "mkt": 230
+        "core": 339,
+        "obesity": 649,
+        "npr": 320,
+        "platform": 474,
+        "reg": 335,
+        "mkt": 246
       }
     },
     {
@@ -647,7 +647,7 @@
     }
   ],
   "papers": {
-    "total": 2723,
+    "total": 2731,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -661,16 +661,16 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7114,
+  "news_recent_total": 7148,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1507,
-      "papers": 234,
+      "news": 1516,
+      "papers": 235,
       "trials": 100,
-      "total": 1841,
-      "recent": "2026-07-17T06:15:00+09:00",
+      "total": 1851,
+      "recent": "2026-07-17T13:03:59+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -696,11 +696,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 909,
+      "news": 914,
       "papers": 165,
       "trials": 97,
-      "total": 1171,
-      "recent": "2026-07-17T07:21:00+09:00",
+      "total": 1176,
+      "recent": "2026-07-17T14:36:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -791,21 +791,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 480,
+      "news": 483,
       "papers": 0,
       "trials": 0,
-      "total": 480,
-      "recent": "2026-07-17T07:40:00+09:00",
+      "total": 483,
+      "recent": "2026-07-17T09:00:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 141,
+      "news": 142,
       "papers": 0,
       "trials": 0,
-      "total": 141,
-      "recent": "2026-07-17T06:10:00+09:00",
+      "total": 142,
+      "recent": "2026-07-17T14:08:22+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -821,20 +821,20 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 320,
+      "news": 324,
       "papers": 0,
       "trials": 0,
-      "total": 320,
-      "recent": "2026-07-17T07:21:00+09:00",
+      "total": 324,
+      "recent": "2026-07-17T14:36:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 199,
+      "news": 200,
       "papers": 1,
       "trials": 0,
-      "total": 200,
+      "total": 201,
       "recent": "2026-07-17T07:23:00+09:00",
       "logo": "logos/novo.png"
     },
@@ -851,12 +851,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 49,
-      "yesterday": 336
+      "today": 78,
+      "yesterday": 339
     },
     "paper": {
       "today": 2,
-      "yesterday": 4
+      "yesterday": 9
     },
     "trial": {
       "today": 0,
@@ -912,7 +912,7 @@
     },
     {
       "date": "2026-06-24",
-      "news": 367,
+      "news": 368,
       "paper": 22,
       "trial": 7,
       "regulatory": 14
@@ -1024,8 +1024,8 @@
     },
     {
       "date": "2026-07-10",
-      "news": 294,
-      "paper": 13,
+      "news": 295,
+      "paper": 14,
       "trial": 4,
       "regulatory": 10
     },
@@ -1046,7 +1046,7 @@
     {
       "date": "2026-07-13",
       "news": 259,
-      "paper": 32,
+      "paper": 33,
       "trial": 5,
       "regulatory": 6
     },
@@ -1066,14 +1066,14 @@
     },
     {
       "date": "2026-07-16",
-      "news": 336,
-      "paper": 4,
+      "news": 339,
+      "paper": 9,
       "trial": 8,
       "regulatory": 14
     },
     {
       "date": "2026-07-17",
-      "news": 49,
+      "news": 78,
       "paper": 2,
       "trial": 0,
       "regulatory": 14
