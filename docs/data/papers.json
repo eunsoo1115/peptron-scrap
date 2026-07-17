@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T14:49:55.892997+09:00",
-  "total": 2731,
+  "updated_at": "2026-07-17T19:54:59.772577+09:00",
+  "total": 2737,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -389,6 +389,22 @@
       "companies": []
     },
     {
+      "title": "GLP1R haplotypes are associated with insulin secretion and sensitivity in children and adolescents with obesity",
+      "summary": "Zusi C et al. · The Journal of clinical endocrinology and metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464735/",
+      "publisher": "The Journal of clinical endocrinology and met",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Glucagon-like peptide-1 receptor agonists and pancreatic outcomes in chronic pancreatitis: a real-world cohort study",
       "summary": "Dhali A et al. · BMC gastroenterology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42458277/",
@@ -523,6 +539,92 @@
       "summary": "Zhu Z et al. · Acta biomaterialia",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42463069/",
       "publisher": "Acta biomaterialia",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.16",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide vs. liraglutide and incidence of diabetes and cardiovascular disease: A target trial emulation using real-world data",
+      "summary": "Cannon EJ et al. · British journal of clinical pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464447/",
+      "publisher": "British journal of clinical pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide as a therapeutic tool for kidney impairment in obesity: insights from a real-world study",
+      "summary": "Galasso M et al. · Journal of translational medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464302/",
+      "publisher": "Journal of translational medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "A short-term randomized clinical trial testing feasibility of and physiological responses to a Ruminococcus torques strain in healthy overweight humans",
+      "summary": "Gæde J et al. · Genome medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464306/",
+      "publisher": "Genome medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Effect of short-term tirzepatide treatment on mean platelet volume in patients with obesity: a retrospective controlled study",
+      "summary": "Demircan F et al. · BMC endocrine disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464179/",
+      "publisher": "BMC endocrine disorders",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Injectable Thermoresponsive PIB/PDA/Doxycycline Hydrogels with Antibacterial, Antioxidant, and Temperature-Triggered Hemostatic Functions for Wound Healing",
+      "summary": "Zhang Y et al. · Biomacromolecules",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464024/",
+      "publisher": "Biomacromolecules",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
