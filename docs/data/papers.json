@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T19:54:59.772577+09:00",
-  "total": 2737,
+  "updated_at": "2026-07-18T07:36:48.042140+09:00",
+  "total": 2750,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -402,6 +402,125 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Obese and overweight patients with type 2 diabetes mellitus are not treated optimally - is it time to reconsider clinical practice?",
+      "summary": "Milardović TM et al. · Expert review of clinical pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467408/",
+      "publisher": "Expert review of clinical pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Evolving utilization of bariatric surgery since the rise of semaglutide and tirzepatide",
+      "summary": "Kozato A et al. · Surgical endoscopy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467193/",
+      "publisher": "Surgical endoscopy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Peripheral artery disease: advances in medical therapy",
+      "summary": "Garagoli F et al. · European heart journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466921/",
+      "publisher": "European heart journal",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Pharmacological treatment of MASH",
+      "summary": "Stefan N et al. · Diabetologia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467088/",
+      "publisher": "Diabetologia",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Comparative Cardiovascular Outcomes of Tirzepatide and Glucagon-Like Peptide-1 Receptor Agonists in Patients With Type 2 Diabetes and Atherosclerotic Cardiovascular Disease",
+      "summary": "Wu JY et al. · Journal of the American Heart Association",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466510/",
+      "publisher": "Journal of the American Heart Association",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Trends in Usage and Payments for Glucagon-Like Peptide-1 Receptor Agonists in the United States, 2017 to 2022: A Nationally Representative Repeated Cross-Sectional Study",
+      "summary": "Hammond MM et al. · Journal of the American Heart Association",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464889/",
+      "publisher": "Journal of the American Heart Association",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Effect of semaglutide on hidradenitis suppurativa disease control and quality of life: A case series",
+      "summary": "Drayne R et al. · Journal of the European Academy of Dermatology and Venereology : JEADV",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466886/",
+      "publisher": "Journal of the European Academy of Dermatolog",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -2431,6 +2550,24 @@
       "companies": []
     },
     {
+      "title": "Semaglutide-Induced Ischemic Colitis in A Middle-Aged Female Without Vascular Risk Factors",
+      "summary": "Joma M et al. · European journal of case reports in internal medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466220/",
+      "publisher": "European journal of case reports in internal ",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "Obesity in Adults with Type 1 Diabetes Mellitus",
       "summary": "Batman A et al. · Journal of obesity & metabolic syndrome",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42421260/",
@@ -3773,6 +3910,22 @@
       "companies": []
     },
     {
+      "title": "GLP Medications and Severe Post-COVID-19 Outcomes Among Individuals with Type 2 Diabetes Mellitus",
+      "summary": "Butzin-Dozier Z et al. · medRxiv : the preprint server for health sciences",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42465874/",
+      "publisher": "medRxiv : the preprint server for health scie",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Total Care Strategies in Atrial Fibrillation Practice: Lifestyle Intervention and Risk Factor Management",
       "summary": "Tokuda M et al. · Journal of cardiology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402270/",
@@ -4690,6 +4843,38 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Postshortage Compounded GLP-1 RA Market in 2 States With Potentially High Demand",
+      "summary": "DiStefano MJ et al. · JAMA health forum",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467450/",
+      "publisher": "JAMA health forum",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Incretin-based cardiovascular protection beyond diabetes: evidence, mechanisms, and therapeutic frontiers from GLP-1 receptor agonists to multi-agonist therapy",
+      "summary": "Qiu L et al. · Frontiers in endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466348/",
+      "publisher": "Frontiers in endocrinology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -8790,6 +8975,22 @@
       "companies": []
     },
     {
+      "title": "Genetic Bone Diseases: A Scoping Review of Pathology, Symptoms, Diagnosis, Treatment, and New Horizons",
+      "summary": "Jones C et al. · Advanced genetics (Hoboken, N.J.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466325/",
+      "publisher": "Advanced genetics (Hoboken, N.J.)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.23",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Obesity Management Pharmacotherapies and Lifestyle Treatment for Pediatric Obesity Management: A Systematic Review and Network Meta-Analysis",
       "summary": "Wan KW et al. · JAMA pediatrics",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42329656/",
@@ -11533,6 +11734,22 @@
       "summary": "Zhou F et al. · Annals of medicine and surgery (2012)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42433766/",
       "publisher": "Annals of medicine and surgery (2012)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Urological Complications of Morbid Obesity and the Role of Bariatric Surgery and Glucagon-Like Peptide-1 Receptor Agonists in Their Management: A Systematic Review",
+      "summary": "Khalil W et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42465136/",
+      "publisher": "Cureus",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
