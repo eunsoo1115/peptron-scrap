@@ -1,14 +1,14 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T07:36:47.495901+09:00",
-  "total": 2258,
+  "generated_at": "2026-07-18T14:35:42.204385+09:00",
+  "total": 2330,
   "counts": {
-    "core": 334,
-    "obesity": 585,
-    "npr": 317,
-    "platform": 467,
-    "reg": 330,
-    "mkt": 225
+    "core": 336,
+    "obesity": 617,
+    "npr": 318,
+    "platform": 477,
+    "reg": 336,
+    "mkt": 246
   },
   "items": [
     {
@@ -658,6 +658,24 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "‘펩트론’ 최호일 대표가 회사지분 1만주 장내 매수한다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OY1RoSzFCQ3NMaVJjWnlVWDliaF9Ib1pyQUhFbGdFZGpkLXR2UUNVNllmekFZWXh2U1Q2VEo5bmhoRWFmR2V4TGJWN2pIVWVabjUzbndjZlJ3SFJOY3ptRDJhNHdGcWFyTUdEOdIBcEFVX3lxTE1CZVdKLVlCSjFQdktqb1RyZWdOcE9jdWhxWHhDMGl6dnhPR0ZPWXBQMXlEN1hkcjNSZkoyZHZwQ2F0YU90RHNvRGNBUmlIOTd4LVBmR2FDaXdDRlNPVFdrQi1RZGdXRlFMSWZhcnBqbVk?oc=5",
+      "publisher": "세종경제뉴스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-14T14:33:32+09:00",
+      "time": "14:33",
+      "date": "2026.07.14",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
       "companies": [
         "peptron"
       ]
@@ -1969,6 +1987,24 @@
       "companies": [
         "peptron",
         "lilly"
+      ]
+    },
+    {
+      "title": "펩트론, \"차세대 비만당뇨 치료제 공동연구 정상 진행 중\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DMVAzUjJHdDhHVXlSZ0tJaWpvLXVPcjNOSnZCU2g1bmpxdHBSNWRsRUR2c1QwZUlnakpCVDdDM0Y2MjdCQm9Ba2VuYlN1akFMcTRNRUVKZWt3R2VLMWdMSTgyYWI3YmR2cndj?oc=5",
+      "publisher": "메디파나뉴스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-10T10:54:37+09:00",
+      "time": "10:54",
+      "date": "2026.07.10",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
       ]
     },
     {
@@ -6349,6 +6385,128 @@
       ]
     },
     {
+      "title": "Fat cat? Weight-loss drugs may be coming for your overweight pet",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzS0RWQklHSlFEc1BwTC1Vbm5fOHZzUzlGUzJTcjJGNWNGN1FOWXlxZ243UEZjNGVuQV9EanFfUnRVUXREckVrQUsteEVyY3BiVTJqV3JBQXNQY3hURlV3MDV4Q2l6ZEVtaTc5R1ByWDlrWWx4d25yQWtWTVE?oc=5",
+      "publisher": "CNBC",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-07-18T14:00:02+09:00",
+      "time": "14:00",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "비만약 경쟁 화두 '뺏냐→지켰냐' … 체중보다 중요한 '건강의 질'",
+      "summary": "STEER 연구는 ESC(유럽심장학회) 2025에서 발표됐으며, 세마글루티드와 티르제파타이드를 투여한 환자 각각... 세마글루티드군이 티르제파타이드군보다 57% 낮았다. 여기에 심부전 입원과 관상동맥 재개통술을 추가한...",
+      "url": "http://www.medisobizanews.com/news/articleView.html?idxno=140195",
+      "publisher": "medisobizanews.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-18T09:14:00+09:00",
+      "time": "09:14",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "일라이 릴리, 비만 치료제 경쟁 속 신중한 상승 : 해외증시",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSakJWSkNab3lLcXczWmJEWkdsOS1SZlozeGJnWDNCaG9VYjBCdkZQNWxqUllOY3lzM3h6MFphajZwcXJSSXJhSjdn?oc=5",
+      "publisher": "재경일보",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-18T08:09:00+09:00",
+      "time": "08:09",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": [
+        "lilly"
+      ]
+    },
+    {
+      "title": "마운자로가 바꾼 매대 서열…식품업계 ‘고단백’ 전쟁",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92RmVsOVplWjFISTVpWlE3NUJGelFkZG1JY0ZmWV9mRTN3aVBuMmFqU1NpRGtrNG5Qa2hpX0FmNHNaOWFmSVc3OEQ1WFhXdDA?oc=5",
+      "publisher": "v.daum.net",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-18T08:03:08+09:00",
+      "time": "08:03",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "마운자로가 바꾼 매대 서열… 막 오른 ‘고단백’ 전쟁",
+      "summary": "위고비와 마운자로 등 글루카곤 유사 펩타이드-1(GLP-1) 계열의 비만치료제 열풍도 단백질 음료 인기의 배경이다. 약물을 복용하는 소비자들이 적게 먹고 오래 포만감을 유지하는 식습관을 갖게 되면서 식품을 선택하는...",
+      "url": "https://www.dt.co.kr/article/12073328?ref=naver",
+      "publisher": "dt.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-18T08:01:00+09:00",
+      "time": "08:01",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "비만 치료제로 급격한 체중 감량?... \"담낭 수축력 떨어뜨려 '담석' 유발...",
+      "summary": "소화기내과 이상협 교수(서울대학교병원)는 \"GLP-1 계열 비만치료제는 담낭의 수축력을 떨어뜨려 담석이 생기기 쉬운 환경을 만든다\"며 \"다만 담석 환자의 90% 이상은 평생 증상 없이 지나가는 만큼, 수술 여부는 신중하게...",
+      "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=65068",
+      "publisher": "hidoc.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-18T08:00:00+09:00",
+      "time": "08:00",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Slowing Biological Aging May Be GLP-1 Drugs' Next Medical Frontier",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2ZidW1yMzdBbkVoZXB4MmZJX01fVFV4M0xwaUF6cDhrVXlUOUc2dU5yMThBWWlCZHk2Zlo0RS1mR0hrM3RvYUdDX0dVQ1FQb2tkc0Q3UlJQNlFtakcwV1dwVWQzaG1Rc2p5d2REZlI5MFV3TW9DQUVsYW5oejdKaTNQYTZSUEdtclpwbnZtbUhQTklPanpZWVByRE9rRkdwTmJRMHhSdw?oc=5",
+      "publisher": "Discover Magazine",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-07-18T07:49:48+09:00",
+      "time": "07:49",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "美제약사 일라이릴리, 정신건강 신약개발사 5조원대 인수",
       "summary": "비만치료제 젭바운드, 마운자로 등으로 유명한 일라이릴리는 비만치료제 열풍 속에 시장을 선도하며 막대한 순익을 올리고 있다. 최근 들어서는 비만치료제 외에도 신약 개발 분야에도 투자를 확대하고 있다. 일라이릴리...",
       "url": "https://www.tfmedia.co.kr/news/article.html?no=205844",
@@ -6454,6 +6612,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 Drugs Like Ozempic, Wegovy May Help With Binge Eating Disorder",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQS1DcVdyampWcF9DbHpsSVdNZ1ZIZ0c3ZmpyZVgwMUlRbzhHMU1yNEgzNUtmY19rMWhOLWs3bnZ6MlVEZVhMV1hfazJkMjBqRE1OOWdmWmhiVzFrYUNvNE96dHBnelFfUDdMLUZZY1RYNTg4YVhRNUFaUklmUThwS1hn?oc=5",
+      "publisher": "Healthline",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-07-18T05:44:06+09:00",
+      "time": "05:44",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -7610,6 +7786,42 @@
       ],
       "companies": [
         "lilly"
+      ]
+    },
+    {
+      "title": "GLP-1 Shows Promise for Patients with Advanced Fatty Liver Disease",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUFQMUZVdTJoX3hJZWRzQ2Z0eUlpWHVXVHhfYUNmdEdMcDBRdFJXZHJicDRkay1BdFVZTC1VdEVUMmczNHRGRTg3bTZoSGlmbHJNNEZjbXpaeE4yMVg1TjhjblpiV216UkRKbS1qTEMzVzhIMWNRZFhza0dwQ3N3NS1ULWVidU5qWW9fb0dOd1FvVDRyS0Y4RlVxbXBuLWNMYnU0UFMxbzBBWEY4Wm92aHdodGc5XzJVSVRTZmtpZw?oc=5",
+      "publisher": "UC San Diego Health",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-07-17T02:36:10+09:00",
+      "time": "02:36",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Novo Nordisk (NYSE:NVO) Wins First EU Approval For Oral Wegovy In Weight Management",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkZlc0QyMTNmTFZxQy1CMEIyNkxBcGRyVTZPUEltQ29VYWszM0FjLUF6eXA4LXQzbUZQRC0ycFZvSkZsaTduamNobno5VW1LYkhrQU15UnpkMXZzOHdYaV9sbzUwY000V0FGaTkwSVJ5SFdqYTNoblVKV0xTNktzMVAyVDM2a1U2QXNaR2RoaDM?oc=5",
+      "publisher": "Yahoo Finance",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-07-17T02:15:21+09:00",
+      "time": "02:15",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": [
+        "novo"
       ]
     },
     {
@@ -11786,6 +11998,24 @@
       "companies": []
     },
     {
+      "title": "Some Patients With Sleep Apnea Benefit the Most From Tirzepatide",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbktEVC1mVC1mamFEdFpBaWJ0ckJIRzc4WGQzbkZlSjlHamRTdGl5dWVLTThtb0xKNDBRLVZVRndlTWxweE5LRTVlSURoQkFkakdUOU5rZFZob0h5YWgwMXBXb1YxUzJWd25qaFJUMlBwMHllb3lqN2w2WU82d0c4NGd5eUNPeEU1R1RRYmxtNG1uR2I2WktqOWQ0MVZHbk50bGc?oc=5",
+      "publisher": "Medscape",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-07-07T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.07.07",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "From Weight Loss to Organ-Specific Disease Modification: A Narrative Review of Incretin-Based Therapies in Obesity-Related Cardiometabolic Disease, Chronic Kidney Disease, Metabolic Dysfunction-Associated Steatohepatitis, and Obstructive Sleep Apnoe",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPR2ZvY0ZfbzVpS1JXR3g4NXhsYVc0TVFqVW5mSUxhc2Ezcm1MVUlYUENqRWxsUEd1U3lnSkViNnI1RXhlUWdTWTFfbC1Xc2gxYXdjOWZqY0FKUnRRTzF6UXpndVJZQjItbmJoeDZqdEtvbHRxaVVHdGNDNm9XWnVUYXEzc2ZUb1U0clQtOVQ5VlhTMXVHNTNXNlF1ZGZ5UmVPM1JxMkdhaTBIUVB5aFl3cDVqbklNRWJ6NDV3Y3E0bTB5OHFFVFYwQUhmSjYzdzRHdFJrQ19fY1lLY3lEWFJOOWY3UFFXRGhWNzdrWlc5NHhSOWNQcHZ3Smwwa1hUR19mQkx3QU9Fb3lXaFdDWVNCRHB1dlBPT0RJQWtFU2JXejMwQldtTW9nMzZzT2tUTHRONDdOZXVCdGdGSklhTkxiQkpyWUtRalUzMERiOVlZZVJjUkxYTklTSkpJaFk3aGF0aVJ5MGpxU0VNV2VqODFXbC1tODdPem1CcGc5Tm82ZVlKVUh2Z21iYkJkVmI0NXFNTWFBeWNEQ2E?oc=5",
@@ -12833,6 +13063,41 @@
       "companies": []
     },
     {
+      "title": "[와글와글 플러스] 비만약 마운자로·위고비 '밀반입' 급증",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sTEFQQTlDV0VadzhDVXJqX2UzZHBLY1hDc2Y3QmZaSG1PcnZPclRyVUNlazVSYmx6YkZzUUhZNkFMaDJFSVpLblk5ZUZ1aFB1TmdQcFZYU1BWbG9ZdnE1cnZuT3FYSUJmNHF5RUdTUF9Gc0Q1cXBNdDN3?oc=5",
+      "publisher": "MBC 뉴스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-06-29T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.29",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Oral GLP-1 pill delivers nearly 12 percent weight loss in 36 weeks, study finds",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWpiaDJCX1hKQW1rZUxEZ3lkM0VqVHFCcHdfTlNDTE9EMEozOEpHay0yWnF4SnE1cFRSVU5rTVhoLXN2VGtfWEhMVy1rWTQzUDU5SS0yZHZFNW5Ib1B1bzBhbmFIdVFnUUxNSWdvT3lhX0EwLVItNzJPZ3lFSnR1VUFn0gGHAUFVX3lxTE1LaW5BeHNVYlNjek40NUhUbEFadmJSM01sWVJqUnpRdFdFeXRia1dJbVh1dHJFanJZYkZEem9fX2ZzekZ2MnB1bzRSbDVrMHlwVnF5ZTVyVF9ucVhmRVk3czRfelRkb3hYT0lZRXlMSmd1OWZ5M0MxeHlmV0lyb01JSElGVlQyOA?oc=5",
+      "publisher": "The Hill",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-28T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "비만약 '위고비·마운자로' 밀반입 급증…세관 \"3441건 적발\"",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHdjlnZ2tHdlpLWjhBSXpZUGpMVGthS014ck1rQkNMc1lLZkhBZ3JuREhoU08zbDYtVjNlT2dTWHptUFZYVW9QRkhXWUg5WlNC?oc=5",
@@ -13286,6 +13551,24 @@
       "companies": []
     },
     {
+      "title": "6 Best Affordable Online Tirzepatide Providers (2026)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGh0ZTd4MzBoUkxuYnF6X2lkNFNaWTB1N3dxNFhBOG5jNEhCaU1zTHJlcWF5ZTZ6Y2lpY1dNT3hfYTJxekY3NDdLbFd0RmJOdHQza0VndkF0TVNEVVdXQjdaa21qeHg5bTltX0x5dnljaTRsZHBhdzd6UXhNLVZfeXR1SmN2c0U?oc=5",
+      "publisher": "Forbes",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-23T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "세마글루타이드, 비만수술 후 18% 추가감량",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Xcm9mblJ3clVjNGhuTTUzb0FtcjJKS3E3SXJuVF9BM1dka1R2emVQM0ZPb2wyQ2F1ZmZmclVlQTBwVUVuUEZWN2Nwal84Q1ZFZlA5Z0ZDaHloRjI2SUJVd2NHVnVrS29TdkRNSVlQdU8?oc=5",
@@ -13366,6 +13649,22 @@
       "source": "gnews",
       "layer": "news",
       "region": "os",
+      "published": "2026-06-22T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.22",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "“암·심장병·중독 치료까지 효과 있다고?”… 비만치료제 ‘21세기 만병통치약’ 되나",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1h6UnVsQms0TTJDZDcyNG9CSTg1SHdhWUZ5TWdwc0M2R1ZHd2wwdDdxQ2NGUGVmNnh5aTcwRnlfUXF0Y2NQc2s0SVlZQl9CUGNEcmV1c05rLWdLbWR0cnR6Q3NVR2pmdE4xNVlHbE16OVAwRE83RE50bEMza1dEb2Mtbw?oc=5",
+      "publisher": "조선일보",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
       "published": "2026-06-22T16:00:00+09:00",
       "time": "16:00",
       "date": "2026.06.22",
@@ -13516,6 +13815,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "위고비 등 비만치료제 투여받은 남성 정자 수·가임력 좋아졌다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FcVAxY09DdUpvRW1SblJBaUVObXpEUzdCWndHa0lpVG1CUmxEajU1eWZpOHNqV2dkWXlidGhlQWg3djFMY2dXYXNfM1NOOENGeWRmRQ?oc=5",
+      "publisher": "동아사이언스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-06-16T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -13747,6 +14064,22 @@
       "companies": []
     },
     {
+      "title": "Oral GLP-1 drug elecoglipron helps adults lose up to 11.8% body weight",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMjZ1MlhsX0FzYjhmekV4TS10UWpnN1pIMTdqMUFoY3ctUWhLcWRUcWtRVDVaemZzZFdsa3JsZ1RCRHFVWldEOVVmaUZDSDZ0UFFwWms3Mnk4UkdtWDhUbF9rWVU2NkdTWWYtU2NqZHgtMm5reUdNQ3RYaklpdVRhWnlOYVk5LVkwbWp2UGtFcDBlMTFqZ3VDQUt3bWNkQ1p2U2dUZ0QtMVpQNC1BdFJzV0hkV212d0VGRHc?oc=5",
+      "publisher": "News-Medical",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-11T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "[삼천당제약 플랫폼]S-PASS 확대, 경구용 터제파타이드·키트루다 개발",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54cEIxLWFpS2g5VlROOUtLYWxWbmVNV3BXSnlTLVp1Tl9rY3pvQVJsNEROQzJMNFQ1djlUR1pNVEVBX0dpRWRnQi1XYzl3MmZpY21JN1hMTWNpTHpsNFA5TkV2S2pFUQ?oc=5",
@@ -13814,6 +14147,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Zepbound® (tirzepatide) and Shaquille O'Neal launch national campaign after NBA legend learns the obstructive sleep apnea he has lived with for years is treatable",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNeVNScmh2b0lEa2Y1MmVkNlo2MTB0U085a2FsRkdrdWpqTEhxbndJVUpQUlB6T1BiUWlEbEJxRG1iWWo3a0V0UHRYS2xoLW9xMTJaUGFzTVBsbGF2SkRwUG55eUNkS1dMYVYxX0pHc0JQNTRSdnJkckU2bUotdENXZ2d5bFlIU3Rza0NmWnAxaUlEenhrZ1NVWGlZdVNfWGJQM1JicC14QkphYUgwc3NEWFBuSG05cUE1UWVLZHFNUU9oSG0yV0ZYVEVUZnVXWjRSajg3VEl4VkZFZTRmU0NETGdTTS1VOW5RTDdRWTN2YXZmMmhUTEtmNGtuc2dwR0hvSW8tWnAwVUxlZVcwMUdlU0FEb0tScDYwNWpveXhxbHR2MmFGSGYzQXRQcU1TbEJCb0VsRVBVRkt0dw?oc=5",
+      "publisher": "PR Newswire",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-10T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -13976,6 +14327,40 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Mounjaro Costs, Insurance Coverage & Savings Tips",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53dHk0RjdTN0MtR0pzZzU3aTgyYi1RNmhGQUJsQnBVYkQySEFTMjlXU2NqdG1WWWlNTG9lNDI4RWFpSWNNc255NGJQcFNuZlVnenp3Q0tqTTA2TEZRczBYdW9ZWEVUdHBw?oc=5",
+      "publisher": "Forbes",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-09T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.09",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Type 2 Diabetes: AstraZeneca's New Oral GLP-1 Led to 10.5% Weight Loss",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDB6SjRudW1kTEt2NkRIQkY3MjV4aC1EZ3ZEMWlEaUNQdTctUkFhMmpLN0UxTXl3Z000QUZraUV1OFlYcWhIMDJDdXF2Zkw5S3ZiQ3FGSXZCaVlFT0s5VXdmMi1ncFF1Nkc1dTVrU1oyUXZCQlFVd0hKajZrcGVERXAtdEppSVlFeWNKZ1kxNjM5TGtNWkRtV1V3?oc=5",
+      "publisher": "Healthline",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-09T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.09",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -14224,6 +14609,24 @@
       ]
     },
     {
+      "title": "Apitegromab for lean mass preservation during tirzepatide-induced weight loss: a randomized, double-blind, placebo-controlled phase 2 trial",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxb3BqUERCOURxWEM4R1pra2E4Q3JBUC1OYm8yUy1IQ2x1NTNKTmM0N1RsTFdyQzB1TThnNWFYb21UTzRUZEF4azVNMVVzZzI5QXBUUmwzUTdvdmFuc0F3?oc=5",
+      "publisher": "Nature",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-08T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.08",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "Wegovy® pill prescriptions surpass 3 million, 1 filled roughly every 5 seconds, bringing GLP-1 therapy to people with obesity previously untreated, while Novo Nordisk unveils new data at ADA 2026",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVU9ESWpHZVZlMXROam1nZTdjVnBmTzZ5TzFVUTc2V2ZjcEJoRERYSHA3QTU2UjNodmZndnViX2pSZGNaY3B5bjJBZmVBc0xrRkJ6bEcwNkVGaEd5MkVkTDd6QW1lRWlxTnRCS2JNd2FTRXJrWGhsRXB6ek1kdWx3Nk5UaWIyWDFyRk13RllBQUxFUTNQWHI3eDVua3kwQWRYVWxDY0kyUGViUFJUdkRkVVVSOW1iZzFoWERha0hJMHhyMzA3NjJidFctVm5KSDExLXZPa1JQV2RpUDNVblgzaHRaeTI4VjUtd3pCc3JiMTlrU3hRTXVqQ0hHYlM4MW9Vb2lvMUsyQVMzczROWFgtV3g4ZDJja2tKVS16VDZwcDM4V1hvMzlvMDFXaDVEWWx1ZmMyU3JqeTg1Yy12NWFVc0MtT2VmeGtrRlJXRG1KQ2ZSY3lFZ3N2U0NYWEJoYTk0aEY1ZDZR?oc=5",
@@ -14337,6 +14740,42 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "This new diabetes pill burns fat without the downsides of Ozempic",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jTHVGZUdMc3lMZTFJR21tR2t0dmxVaWpwbjliNDdKaDZxLVlPb1ozS0poS3RGbWtlai1WanpCeHM0MWtCUEFEQlh6LTJCMXA1cmZMZ3lwTlpPZDROcDlpMVZ4Vk5rdDBjMXlTTXd0SQ?oc=5",
+      "publisher": "ScienceDaily",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-03T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.03",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "AI Finds Potential Ozempic Side Effects Hidden in an Unexpected Data Source",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXY1aS1jdVZycUFlb0c3dmR6SWQ2c3RsMGtvUmw0YkM3YlJWTmZrdno1dllsVGo3NUx6WngyanBubWUwSEpDQjBLVkgzQzltcFVzZzNXa1NUMjJYN0c3ellla2trc2E5Um9fbGw4dk9kUzBBR2hjZ18wTGRXUVA2Z1EydlV2bFl4RXo1Nm5TNnJjNk15cDEySmRWOHZRRENTUi1XNFM2MA?oc=5",
+      "publisher": "ScienceAlert",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-02T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -14587,6 +15026,42 @@
       ]
     },
     {
+      "title": "One Weight Loss Strategy Is 5x More Effective Than Ozempic, Study Shows",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFYtckJreTQ4RGRqS0NFZnhwdExrWWsxejBOOUdXdWM3Y1JaaEpCR2Z0cE8zeTM2djhLeWpmMXJqdzdPVVByMGZmZ1FtNmk5WmVudGREN01TWXBXZkZ3STNJODA5UldWOXRJVXQzZHR4c0h0YUVwRUtISHBRS1NaWEhoTzVlWDE2SllCREo3NVJwVERKSE9LYlk1WVBpd1Qx?oc=5",
+      "publisher": "ScienceAlert",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-05-28T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Ozempic may be reshaping the brain, scientists say",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPemdEMi1FT1NPNlhzM284Y2x4ZXVDVlUyVnZ0aDJCVXNZX0ludEJOOHB6QlBqcmVFV2tQOHI3UElQWkJyMHJpczZuMXRDaF8zY3MwN2t0aEx1VG15MzBRMmhoaHpSNGM3WWgyUmYyUGRHQ0JSWnMyXzNVRkZLYl9DYXI1bDlPSDRCOWtnTWlwQmxJT1lNa1ZfeDFhQQ?oc=5",
+      "publisher": "The Washington Post",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-05-28T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "Mounjaro vs. Ozempic: What’s The Difference?",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00MnFlSEN2Q1d5NkJXZG5TM2J4X19HSWxRS1YyNTV2NHpfN1ZtbjdiWUZINURuTVlnVnFNVXg4bXBuUFZOTzB6bkc4RVBHRWd4Z1FVTEFSX1YyMUtRTTVwWGhnQjUySkZQOUFDMDhNaw?oc=5",
@@ -14601,6 +15076,24 @@
       "category": "obesity",
       "pipelines": [
         "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide Lowers Major Kidney Event Risk vs Dulaglutide in T2D",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0dubnZ3Ui1lbU8xZ2s5ZG55Q3FLMEs2WEllVGt5VGphS0w5UEo1RWRyMXdId0J2SERzY1JOdy1iSnZ1eUI3MFltU09WMzhvZDJHVjJ5UmFCekdHYVZWU0l1SkNxYlFxRlZKSzBGcWdoaXlFaWZKRDJKLWhZRUZkT0lrOUN0anlyTEE?oc=5",
+      "publisher": "Endocrinology Advisor",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-05-27T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.27",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
         "PT404"
       ],
       "companies": []
@@ -14898,6 +15391,24 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IZzk1VUJESlFITWJWWGZfZTZ6clJZTDJVM2xxb0d4SHM4cVh4bXl0dG9TTUZSMldCaTdtUWxiRjVsLXNrcllaSjBfd3hpX19tWF9GdldB?oc=5",
       "publisher": "데일리팜",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-05-20T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.20",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "프로젠, GLP-1/GLP-2 이중작용제 'PG-102' 오젬픽 비교 2b상 IND 승인",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1UnV5MVd0TndibmU3ZTAzNmRQMDFwRE9MNFZSRUdNX25KdFVVRU5YQUtzVUlmUERyc0dlT0ZnV0dXUlVGcUo1cW5wNzIwRmxURXdQYllhUGNrVjNpaV9ZZDhlYnMxY0UzSGtZ?oc=5",
+      "publisher": "히트뉴스",
       "source": "gnews",
       "layer": "news",
       "region": "kr",
@@ -15319,6 +15830,40 @@
       "companies": []
     },
     {
+      "title": "살 빼는 비만약, 술 생각도 지웠다...세마글루타이드의 반전",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5heHpVZDRsVkM0b3pyTGV4YVJjU1N3aW5FWmw2SV9ka0trM3BSa09Nc05rVGVmNGFXU04wTlhBOU1ISHY1czVVaktDTlRqOExZVTd0dk5BS0RlQ0EyMDBnb3pOWS1pTzBjeGNaNw?oc=5",
+      "publisher": "팜뉴스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-05-06T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "주사제 지고 경구제 온다…개원가 비만치료 게임 체인저는?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hV3o3WWZqRDE5NXhPeml5YzFoN2FEem1NdGpGci02NXRfT0hDZkF0empqTkJGa0JHWks2T1NFM2lSV3JZUXJsZDdQU3dJbm1rOVp4UFRjT204bkNrX01aY2dNT1pJbmxBU2NiRXpoaUV0U0U?oc=5",
+      "publisher": "메디칼타임즈",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-05-04T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.04",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "일라이릴리, 비만약 수요 증가에 순익 '껑충'…주가 급등세",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUkFlMjROeVBQNmhsLXVFd0pHdmcwMXdFRDNFOUkzU2lNQ19NME9xRV93YU9jTExCVk5ha25jdlE4bkU3OUFmQmVVVlFFV3VDQ0ZpUEpBemhSME3SAWBBVV95cUxQZUFIckNEdFdqWndlNVF2MTI3QzhHbk9YalA4YUFIeVJFTTRXSkp3d2R5R09zS2NiX0UyVEw0c0dFckxrWGVkalJtbkRYMXN6RjFqSFczeTZHYmFTUzNVTXM?oc=5",
@@ -15524,6 +16069,22 @@
       "companies": [
         "lilly"
       ]
+    },
+    {
+      "title": "Restrictions on obesity drug coverage force patients to pivot",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzdRSHZ0ekpiV3VIR0VIcjlXRFlnaVNQd1JrM2VIcjRGMVlVWGtscWtHRWI0eW10X1dra3FZN2V6T3Y5X0ZvazFJM1J2Wllxa2ZTNWZ2U2lQX3Q2dVFQR1dIYWhrTVBRUnlldm4xWXd6SVRtSnRWbTdrbWI1V0R0dGNSTQ?oc=5",
+      "publisher": "NPR",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-04-22T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.04.22",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
     },
     {
       "title": "체중 더 뺀 티르제파타이드, 근육 감소 폭도 더 컸다",
@@ -15897,6 +16458,24 @@
       "companies": []
     },
     {
+      "title": "세마글루타이드 복제약 쏟아진다…시장 ‘혼전’ 예상",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sOFRqZ2h5VDUzWWlpTmduVmhXbkM1ZXRiRzNvV0plX0NsWVA0eGU0TWYtVzdCZHFBMm1WV2ZHOWdNamVJdDNLMzkxTEFFUDJrNFpDWjkzc1ZONmJsSnJVd1VnVG54Zw?oc=5",
+      "publisher": "약업신문",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-03-23T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.03.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "Non-incretin approach for weight loss",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsLUFGcmRQa0lIQW5YQkFRQWJTYndjV0Y2blpkeXRINjFjR1FxSkJoUUFZMnljWHhaVXFZT0Q4YXktWjExdXVNdUlha0trRlBzaVFtalZyQ1B4NTRYOFk4?oc=5",
@@ -15929,6 +16508,26 @@
         "PT403"
       ],
       "companies": []
+    },
+    {
+      "title": "릴리, ‘터제파타이드+B12’ 조제약서 불순물 확인…안전성 경고",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96ZzVVQXhpYzFjTzlFYkFLTmdCeUJPekFHdk0tMjJ2X2RuWGJxbGlycjJHZEN3YWVsR3Z0eU5hTlB6YmI3LVBXS3dGaWhrNkhKYUo1M2J3Y19PcDFmTmc5aUN2RzFiX3hVZjNEbmNTRm5Tdw?oc=5",
+      "publisher": "메디코파마",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-03-16T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.03.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": [
+        "lilly"
+      ]
     },
     {
       "title": "An open letter from Eli Lilly and Company warning of potential patient safety risks associated with tirzepatide compounded with vitamin B12",
@@ -21325,6 +21924,24 @@
       "companies": []
     },
     {
+      "title": "식약처, 소아 연골무형성증 희귀약 ‘복스조고’ 허가",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VVjlUSFdmYXllVlQwZXhkelEyQ3dyaDNMMlpURDR4aDB5VTcyc1RydFFKS3BNSDF1ZE9uZDNJQklxWnNmTklvZGxmZV8yZjcyeDBvN2RIcmxFX0YzWWhMd2tYNVM?oc=5",
+      "publisher": "메디포뉴스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2024-12-31T17:00:00+09:00",
+      "time": "17:00",
+      "date": "2024.12.31",
+      "year": 2024,
+      "category": "npr",
+      "pipelines": [
+        "PND3174"
+      ],
+      "companies": []
+    },
+    {
       "title": "Cardiac cGMP Regulation and Therapeutic Applications | Hypertension",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YcHZWcGRfMGhiRTE2ZXN5MEZDQndfTTFySmpGaklBWFNjSjYtQkxMWlVBM3NuamxIdTNDZHlRNWtWTnItOS1NVVRqbHAxUXJnREo5cHJQVVBoQkhRT3pvcFhEaTBpUEx3MzU2Vmx3SE10UFU?oc=5",
@@ -23769,6 +24386,24 @@
       "companies": []
     },
     {
+      "title": "지투지바이오, AAIC서 월 1회 치매치료제 반복 투약 데이터 공개",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aMTBNT2o1MUE3Ujg3US00a2RtTGZPQXhjbEFlWTI4OUc0ZDczdDJ2TktDUjZYTHBMOXgwQ0Zub3hvWlRjb1Z4QTZUSTZQckpNQ3d0SmViTXBFeFUxcDVHeUMwTDZpeS1OSFJz?oc=5",
+      "publisher": "히트뉴스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-09T15:10:30+09:00",
+      "time": "15:10",
+      "date": "2026.07.09",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": [
+        "g2gbio"
+      ]
+    },
+    {
       "title": "디앤디파마텍, MASH 치료제 '자보페그두타이드' 日 특허 등록",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91d0h2YXJkSlNPcjhDeFo1ZXZ3VEJJN1JoaEl6VTVDd21iZTBCX2ROT0NVcWsyOUpwX3U0cWRTblg5ZkZuYkhfX2NQTmxKMmwtYkZtQVZTOTdnUXltaldLTlBwZHJ3U1Noc2c?oc=5",
@@ -24835,6 +25470,22 @@
       "companies": []
     },
     {
+      "title": "디앤디파마텍 \"MASH 신약으로 K-바이오 이정표 세울 것\" - 머니투데이",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80QVlUVFJZNl9BZENVUGdtZ2FURklGbC10UFJobDNUZTdxM3hzRHFLcFVZV01ZWEFhVmR1N0tYc2VQUkVzMEZ0NVJJNGdydXQzTGtmeEtyb3lwMFR2YzM5YTlkWE5nWUdIR0HSAW9BVV95cUxONHVoWHo4b0J0OEZoVS1TUU1PVDlhM1JiaUM1dS1XZy11LVd6c0NGWEp2NDJuY0gyQnNLVmVBMm9wMG5IeW9uWGhFaTlzS3VHLUIzMnRMNHhNYlQ3aHZJXy1jeDBsREw3TlBCWWJoX2c?oc=5",
+      "publisher": "머니투데이",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-06-28T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.28",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "삼성에피스·에피스넥스랩, 지투지바이오와 비만약 개발 협력",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05YzMwcHJHLWdFZzNiS09yZTNISmN5aTdqR3ktbHdtSXFZb0FDYm1qaVYxN19GaVJEUmctb1NFWUYtbjdiUkV2N05CMU84N09obTVJX2ZVZGFPQi16YWszSnktQQ?oc=5",
@@ -25331,6 +25982,22 @@
       "companies": []
     },
     {
+      "title": "위더스제약, 탈모치료제 생산 채비…‘피나‧두타’ 장기지속형 주사제 생산",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DR0c2U3I4cVBuZ3pLbDNfX1ZqaW9Ia0lwb3BiNEpqSlBsZGlPVzFISGYwMmRqZVBZZmtNUFhyQkNXZy1FamNPU0pKNDUzT28?oc=5",
+      "publisher": "v.daum.net",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-06-15T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.15",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "제7장 약물전달 소재기술(1)-김문일(가천대학교)-신소재경제신문·재료...",
       "summary": "용도에 따라 분류하면 지속성(서방형), 제어 방출형, 표적 부위 집중형, 인공지능(AI) 기반 약물 전달 시스템... 수액제, 현탁제 및 유제와 같은 종래의 주사 제형은 근육이나 피하 투여 후 체내에서 빨리 제거되기 때문에...",
       "url": "http://amenews.kr/news/view.php?idx=67083",
@@ -25379,6 +26046,22 @@
       "companies": [
         "inventage"
       ]
+    },
+    {
+      "title": "이슬기 디앤디파마텍 대표 \"MASH신약, 섬유화 개선 AI로도 재확인…상용화 빠른 파트너 찾는다&quo...",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41RGw0NnBnNWFHdDNqRkR1YUh5eWNESVZwbmI5R1FnVGpRWHVoY1Qybkp3VjhRTk9kUEt5dnhPNHdHVEpFaFZ6SnNFTy1CREtydzVXRFUwS0Y3c2stME1fWlVwNGV2MVRUZFBuNWJR?oc=5",
+      "publisher": "팜이데일리",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-06-11T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.11",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
     },
     {
       "title": "지투지바이오, 비만·치매·통증 파이프라인 가시화…장기지속형 제형 기술 주목",
@@ -25929,6 +26612,26 @@
       "companies": []
     },
     {
+      "title": "지투지바이오, '세마글루타이드' 서방형미립구특허 美 등록",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zaVM3eDh4ZUt5NWVnZVRmR1gxWS15UGo0dHFSY19heVRGblp0c0tfS2tSU1RtLXJZTHVPellyZFMtVlo5dUZ2YVkwRW85RmY1enl4bGNfZzRWOExTNVVjbF9tbkU3WnU2eTdMQm9n?oc=5",
+      "publisher": "팜이데일리",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-05-18T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.18",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": [
+        "g2gbio"
+      ]
+    },
+    {
       "title": "Yuhan Expands Obesity Drug Pipeline With Injectable, Oral and Novel-Mechanism Candidates",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90QVNLa0ZucFRtWGo4ZWt2akMxT1AwZHpzRDVGUnRpc0Fob2ZCT0l0WUJaTk5YendYc2hkRWZHSFk3VDlpNXVKTGtINUtjdXR4ZXR5UmdLUm1GdUVza3JmYlFkQnNHaTA?oc=5",
@@ -25936,6 +26639,22 @@
       "source": "gnews",
       "layer": "news",
       "region": "os",
+      "published": "2026-05-14T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.14",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "“한 달에 한 번 주사” 글로벌 비만약 ‘장기지속제’ 탄생 초읽기…韓은?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05aE81MUprWDhWQXVqNWFCckZGemloYVlackVmcTd1bmxpYXlrTlcxNm9MZEpRWVd0MHhLemxPV3kzbzVtMHR0ajY4aHB4RjViYXVoUlJXTXVZQTQ?oc=5",
+      "publisher": "에너지경제신문",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
       "published": "2026-05-14T16:00:00+09:00",
       "time": "16:00",
       "date": "2026.05.14",
@@ -26016,6 +26735,26 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": [
+        "inventage"
+      ]
+    },
+    {
+      "title": "Inventage Lab Secures Korean Patent for Oral Semaglutide Formulation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmlqMU8zcno1a2hCLW5ZdllWOURvejJMRUpDMzFYbzctM3JtN3lvdlFoUjNGcVJwNk5Lcm8zclNtdFlvcGZCZF9KVHA1cTVOM2prX3BjUVBfak1hZjRyV2hTd0lUdEJ2eHkyUlc5Zk9kSUo3UnptMHMyS1VqbE5SRi1rSG9lSWVjbDlpbjBJOHg2RnlOYzJjZmxTOXdCWnM?oc=5",
+      "publisher": "Seoul Economic Daily",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-05-11T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.11",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": [
         "inventage"
       ]
@@ -27538,6 +28277,22 @@
       "source": "gnews",
       "layer": "news",
       "region": "kr",
+      "published": "2025-12-09T17:00:00+09:00",
+      "time": "17:00",
+      "date": "2025.12.09",
+      "year": 2025,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Medincell’s Partner Teva Pharmaceuticals Announces the New Drug Application1 Submission to U.S. FDA for Olanzapine Extended-Release Injectable Suspension (TEV-'749 / mdc-TJK) for the Once-Monthly Treatment of Schizophrenia in Adults",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPTVA1S1lUeEVuZDliRUlkYnc0UmJrTGU0T0Y4Q2RMZkh6T0ZyUmt3LWlQMEFFb2g1Z2E1MVVWMzBlTHBDUEVEcWFZSE5XcFlEV3pMcmZhem9YeEVvM0FXdE43cjI1b0RDUm9FLS1iZl8tSEpnZzFmQWZhdEJyODBYcmtxQk80OGtaZDR4TFByZXMzNENiWm9LZmxXSG9jYmRjVG1mS2c3cWNYU2RCRzN4NTk2Q0pHcHJFRGtaTzRlSjc4Y3FxVmVxUjNSWkdDWWxVZlByNnJVTUNWdWhMVFc0RkdfWWV3QjdlVjV6UllhVnk3OFhKRnJiU0pVS0ZaSXh3MFFNWnJSZEpvYVZBV1d1Z1htWWc0RDhoVDRKSjZhTVotY1I2UEY1T3ItVG9mazNlZVpObnhnblpfQ19wb3NxR3RJNkkwRl85eTZRQTZUVmRiODFncTVYMXFnMVZMeWVpeHM1QTk1ZWk4bWdPMlNESkJfUU5aX1RmYkhicVlwdWRUQnA0LUtDdE53djJ6N1hkT25ueDdR?oc=5",
+      "publisher": "Business Wire",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
       "published": "2025-12-09T17:00:00+09:00",
       "time": "17:00",
       "date": "2025.12.09",
@@ -29898,6 +30653,24 @@
       "companies": []
     },
     {
+      "title": "Daewoong partners with Inventage Lab for long-acting drug",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95eDBJRWRBUE9NWm1jYVZKMkNvWFY3VjRGNFBUZER0LUVQQ0dIRVlUOXRqTnpndTFnbHIxUXVOS0NYZ2ZHb29LNHdDaEJydW56elhtMWR0YWRhZ2Y0ak11enA4VnE2eUxGelpMX9IBcEFVX3lxTE1hZG44cWhrTnFUcUdvZ3Vndlc4OG9JZUdCQzl2cDRkclJpeHFQUkxsNkt4MEt6RGhBSm9FU2ZzbnhYSjdTSEZXaFV6ZGQ4SFZobFBZQWdVMTJZQ2t5TU1mOWJSUVpLczM3OGt2TkRHZFE?oc=5",
+      "publisher": "koreabiomed.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2020-05-25T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2020.05.25",
+      "year": 2020,
+      "category": "platform",
+      "pipelines": [],
+      "companies": [
+        "inventage"
+      ]
+    },
+    {
       "title": "Facile control of porous structures of polymer microspheres using an osmotic agent for pulmonary delivery",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NQlByUk9GNlpDQk1WMDFqcUR4dGJXNURrSXd2U0tXUmcwcjRqd3RhR2pOUzVGd2U2LWZrR29oQXZ2dWRaR2d6Y0lUTV9xVzhmMGZqOE5aR1VDNWtFYjlWWENTNFV6UVFzaWk1dzFVTFpkOHUxVUZTMFRTMA?oc=5",
@@ -29928,6 +30701,24 @@
       "category": "platform",
       "pipelines": [],
       "companies": []
+    },
+    {
+      "title": "인벤티지랩, 피나스테라이드 1개월 지속형 주사제 개발",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GVXk2emYxNTBRckUwamJ6bkh5THBrUHBoLW9WYVBrY0NEV090cEJpd1dBZUpFQ2lObjhVVXppQ002UlBJRENwZmNyTkdSVjNSVGlsSmpn?oc=5",
+      "publisher": "바이오스펙테이터",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2019-10-17T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2019.10.17",
+      "year": 2019,
+      "category": "platform",
+      "pipelines": [],
+      "companies": [
+        "inventage"
+      ]
     },
     {
       "title": "Injectable, long-acting PLGA formulations: Analyzing PLGA and understanding microparticle formation",
@@ -30150,6 +30941,38 @@
       "date": "2011.12.05",
       "year": 2011,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "신체의 시간이 거꾸로 간다?…회춘, 꿈을 넘어서 [스페셜리포트]",
+      "summary": "칼리코는 2014년 세계 매출 1위 의약품 ‘휴미라’를 배출한 미국 빅파마 ‘애브비’와 15억달러(약 2조원)... 노화를 되돌리는 약을 만들어도 건강보험을 적용받거나 신약 허가를 받을 만한 적응증이 없다는 얘기다....",
+      "url": "https://www.mk.co.kr/article/12095385",
+      "publisher": "매일경제",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-18T13:01:00+09:00",
+      "time": "13:01",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "ADC가 미래 먹거리···제약·바이오사, 글로벌 시장 공략 가속",
+      "summary": "지난해 7월 FDA로부터 임상 1/2a상 시험계획(IND)을 승인받은 데 이어 올해 2월에는 식품의약품안전처로부터... 글로벌 허가 절차에서도 성과가 이어지고 있다. 셀트리온의 ADC 기반 항암 신약 후보물질 'CT-P71'은 이전...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=633450",
+      "publisher": "seoulfn.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-18T08:00:00+09:00",
+      "time": "08:00",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "reg",
       "pipelines": [],
       "companies": []
     },
@@ -31167,6 +31990,22 @@
       "region": "kr",
       "published": "2026-07-15T15:30:00+09:00",
       "time": "15:30",
+      "date": "2026.07.15",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Beyond Efficacy: The ADAPT Framework for Implementing Long-Acting Inje | HIV",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdzRwTDZ5TWU5dXppaXJway1JZ201YVFjSWJ4aWd6OHBaSHQ5Yk5qbnZRMkJPSW1ucHkxcW5iMzJpZ0pNb0FHRGhWVU1LZVo2aHI0c0Zybnh4QXd0T0c1ZjYyNndhNXc2c1BfdFNNWjBWdXY5QWJTNzF5d0xCaVVUNlFLU0RvTUoxRzBYdFpEU2htaXpEV2N3YlF1NXYxanBDZ1dkRnFDT1dQalZsd1VvR3hIbWR6SnRvdXJaQXpmLXZTbGwxSUxmWkR3SQ?oc=5",
+      "publisher": "Dove Medical Press",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-07-15T14:38:21+09:00",
+      "time": "14:38",
       "date": "2026.07.15",
       "year": 2026,
       "category": "reg",
@@ -34202,6 +35041,22 @@
       "companies": []
     },
     {
+      "title": "FDA reverses decades of guidance on hormone therapy for menopause",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnBHaGdGdUhyNlFZSHZkSWwwZVJtX3Q4OWJrVm5GaERsai1GcVpxaklpTjNlTDB1ZXJmOURuZG5oMzhTOXdkc3lSc2dIeklIY1hpOFpaTlNISFlyUHZ2RXVoeVM2YzVHdWhoV1hzQUc4R3g3ZlVjSFlSY2phdDJ5WDl5ZXdiVTMzUnNzb3RNQ3pCZFI1N012V2hKQ0ZtRUFBZm5qaDZCRU9yaVlYblBV?oc=5",
+      "publisher": "NPR",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2025-11-10T17:00:00+09:00",
+      "time": "17:00",
+      "date": "2025.11.10",
+      "year": 2025,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "신약개발 회사 분사 효과 톡톡…역대급 실적에 R&D 역량 강화까지",
       "summary": "올해 4월 연매출 가이던스(전망치)를 162억 원에서 249억 원으로 상향한 온코닉테라퓨틱스는 3분기 누적... 바이오 유럽에 참가해 비만·당뇨를 겨냥한 글루카곤 유사 펩타이드-1 수용체 작용제(GLP-1 RA) ‘ID110521156’과...",
       "url": "https://www.etoday.co.kr/news/view/2521552",
@@ -34938,6 +35793,22 @@
       "companies": []
     },
     {
+      "title": "희귀의약품 FDA 직접 승인 공략 K-바이오, 시장독점권 등 혜택 노린다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOdlVwR1FiUUlEQUJDZlNfZnc1a1RPY2x1dXdsMFhBYlg5djE4MGpyZGlUbmY3dS1IcGdBVU52ZEJSVkdsYUtobDhNNXRrbWY1anNBU25leXhWa1FkYVF1UzUxRjV5Uzc2djBhYw?oc=5",
+      "publisher": "팜뉴스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2024-10-10T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2024.10.10",
+      "year": 2024,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "\"신약 허가 수수료 800만원→4억으로 인상…인력 늘려 심사기간 단축\"",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZjFJR055TGpGNXlRQ3RIekJnZHBEUVZ5ZXhYZmV2UVpCX0pQMURRazFGLW1Rb1BvaGZnVEdGRkpiemhtNklQaV9kT0hsVVdjVEc2aFRqWURoUdIBVEFVX3lxTE9tcURCT3JicHhaazdFRFNSOC0tVm5telJDYnU5RlFaN1JtbldzeDVzV3h1NmZjb1ZSQURrY1ROWEJoRXRFUVBTUFpPM2ZKcjluRy15aA?oc=5",
@@ -35290,6 +36161,22 @@
       "companies": []
     },
     {
+      "title": "US FDA approved cabotegravir extended-release – the first long-acting injectable option for HIV pre-exposure prophylaxis",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGd0ZEJXU19rT05BZnV4U3JoUU9GNktiSHlPclM2VEhmYmpwQ1V5Z2pYZ0Q5NnRuWGVONm9oanV6Njh2MUoxanVnbGtJUG9fYWw5WmowZUxwc0JjRWhaUktLYmlwZTlJcXFmMTRIQUZ1YmRqM3VNbkItZWRMa1NSbmFEN3BFMEh2N1FJ?oc=5",
+      "publisher": "World Health Organization (WHO)",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2021-12-21T17:00:00+09:00",
+      "time": "17:00",
+      "date": "2021.12.21",
+      "year": 2021,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "FDA approves first long-acting injectable for HIV prevention",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWJ1WFNUVGNrSHplRlVXcjl5WnA5bGdBcGM1M2dtaTZBRFF1aHdVM214UTVFMmhZamUxOGhKQzdkRl9ZMGNCbmNuQzdhc09heHBqUVVHbnBNTkF6OXFYZ0lCSWFHVllhQTdrRlo0TjYwcVc2b28yMkUzZExQUEFXN3RmSjd5cHQ5dWRvNkZldjN0VkgzOUx2Ulp3M2NDcUxwVWJfS3pmeXFIRktLdm9kblBuSGZoZw?oc=5",
@@ -35498,6 +36385,54 @@
       "companies": []
     },
     {
+      "title": "코스피는 올랐다는데, 왜 내 계좌는 가벼워질까?...\"한국 자본시장 민낯...",
+      "summary": "선진 자본시장이라면 특정 첨단기술에만 전적으로 의존할 것이 아니라... 둘째, 무역흑자와 원화 약세의 역설 과거에는 수출이 늘면 달러가 원화로 환전되며 원화...",
+      "url": "http://www.breaknews.com/1222535",
+      "publisher": "breaknews.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-18T12:40:00+09:00",
+      "time": "12:40",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "대형 반도체주 폭락에 '순환매 장세' 촉발…중소형주·테마주로 돈 몰린...",
+      "summary": "중형주 시장에서는 수출 모멘텀이 살아있는 코스맥스(17%), 아모레퍼시픽홀딩스(15%) 등 화장품주와... 시장에서 기술 성장주 중심의 코스닥 시장이 고유의 모멘텀을 잃어버렸다는 지적이 나오는 배경이다. ◆ 코스닥...",
+      "url": "https://www.mediapen.com/news/view/1110811",
+      "publisher": "mediapen.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-18T11:06:00+09:00",
+      "time": "11:06",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "유럽 재무장 '산업동맹' 재편… 사브 증산·록히드 투자에 한국 방산 어...",
+      "summary": "생산과 기술 참여를 요구하고 있다. 제품 수출 중심인 한국 방산이 현지화 없이는 구조적으로 배제되는... 직접 제약할 수 있다. 둘째, 록히드마틴 벤처스의 유럽 방산 스타트업 투자 집행 속도다. 투자 건수가...",
+      "url": "https://www.g-enews.com/view.php?ud=202607180750439750fbbec65dfb_1",
+      "publisher": "g-enews.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-18T08:12:00+09:00",
+      "time": "08:12",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "계약금에 기술료까지…유한·한미·GC녹십자 돈 되는 R&D 입증",
       "summary": "기술수출에서 상업화 수익으로 업계에서는 국내 제약사들의 글로벌 전략이 기술수출 계약 자체보다 이후 창출되는 상업화 수익으로 무게중심이 이동하고 있다는 분석이다. 과거에는 대규모 기술수출 계약이 핵심...",
       "url": "https://www.dailypharm.com/user/news/340554?REFERER=NP",
@@ -35517,6 +36452,22 @@
       "title": "4621억 수익, 1400억 투자…녹십자의 차세대 먹거리 퍼즐",
       "summary": "향후 미국에 수출되는 차세대 알리글로의 생산기지를 선제적으로 확보하겠다는 취지다. 녹십자가 공장 건설에 투자하는 1400억원은 최근 제약사들의 투자 규모와 비교해도 매우 큰 금액이다. HK이노엔은 지난 5월...",
       "url": "https://www.dailypharm.com/user/news/340576?REFERER=NP",
+      "publisher": "데일리팜",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-18T06:02:00+09:00",
+      "time": "06:02",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "계약금에 기술료까지…유한·한미·녹십자 돈 되는 R&D 입증",
+      "summary": "기술수출에서 상업화 수익으로 업계에서는 국내 제약사들의 글로벌 전략이 기술수출 계약 자체보다 이후 창출되는 상업화 수익으로 무게중심이 이동하고 있다는 분석이다. 과거에는 대규모 기술수출 계약이 핵심...",
+      "url": "https://www.dailypharm.com/user/news/340554?REFERER=NP",
       "publisher": "데일리팜",
       "source": "naver",
       "layer": "news",
@@ -36898,6 +37849,22 @@
       "companies": []
     },
     {
+      "title": "[바이오현장] 기술수출 넘어 공동개발로...한·중 협력 틀이 바뀐다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2eGZyS2t3Wk1FSDVUUG1KcEZCTzRwaGp0R19NcmFEUTdvd2RJOWV3cWFvVF91N2xQakxSMlpabTBqSXQzZGJMUW1UM1lXemthVnJGUnNVOWtkUXFFTmdGZEZ0VXJjR3hZ?oc=5",
+      "publisher": "ebn.co.kr",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-10T17:03:15+09:00",
+      "time": "17:03",
+      "date": "2026.07.10",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "“과자는 좀 덜 먹자”…지갑 얇아진 美 소비자에 펩시코 타격",
       "summary": "순이익도 약 30억달러로 시장 전망에 부합했다. 다만 생활비 부담뿐 아니라 가공식품 기피 현상과 식욕을 억제하는 GLP-1 계열 비만치료제 확산에 따라 스낵 수요가 줄어들 수 있다는 우려는 커지고 있다.",
       "url": "https://www.mk.co.kr/article/12095388",
@@ -37046,6 +38013,22 @@
       "companies": []
     },
     {
+      "title": "NH투자 \"한미약품 하반기 기술수출 성과 가능, 후보물질은 비만 치료제\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iNUJLY2dhZGRTVk04WXhqYVRIZy1oQnVFdzRFSC1oRDlXMlV5WUtqOWFzX1ZLRlhOM1RVejZNWWYtRzk4YXZ1d2Z5MUVwWk5pVDI1Q2tFcGN5UTJicXdhdDFfX1FNYXhYb1l1RUN1eHBFWkE?oc=5",
+      "publisher": "비즈니스포스트",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-09T10:46:25+09:00",
+      "time": "10:46",
+      "date": "2026.07.09",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "리가켐바이오, \"기술수출 다음은 임상…엔허투 이후 ADC 노린다\"",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBudDkzOWZya3Rhc3BUU1diczBBd1MtcHRyNUMwZVo5UHJkb3NLX2pvdTZyZW5sYUVZQnlXXzhUTFdLdUxRZ0VrX1M1MEJLa3JRY29OR2UwcUhmRnF0cHFXelVnb1ZLTXZWUU1R?oc=5",
@@ -37128,6 +38111,22 @@
       "companies": []
     },
     {
+      "title": "영진약품, 기술수출 ‘KL1333’ 글로벌 임상 상황 점검",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RYUhaRHdCQlhJNHh6UW1UM1VkdXVlQ012RkgyYjYtdlY5RktHUzBGTS1EWEszdVU1cXNmX2tPZldHVG1GczFnemQ1WV9SVVFULTJMcElSMW5paG5FSTlYMm5FOHZ0ZTFOeUE?oc=5",
+      "publisher": "의학신문",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-06T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.07.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "GLP-1 Companion Products Market Size Report, 2026-2033",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdjdGd253UG12dGR6SjBra3ZSdEVRTTUxdnpNT3VudWJDeU5TR05UQ05QRHJWWHBHelprcGV5Z0tMOVJnRnFCWUNlaFNteER5d1pkMU05SVYxNDB3a2xOYjJjMFVXb0w0U0JnV29sRjYxNTRuckoxSVhjVjA1SnJJT0hSQmpXSTgwOEszVDNqTTdoSkVM?oc=5",
@@ -37137,6 +38136,54 @@
       "region": "os",
       "published": "2026-07-03T16:46:10+09:00",
       "time": "16:46",
+      "date": "2026.07.03",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "K-바이오 키운 코스닥…기술 수출 꽃 피우고 ‘옥석 가리기’ 시험대 - 조선비즈",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2w4ekdZemlzMlQ1LS1PQnRMY182aTQtai1WSUF1T3BGaE5PNTdxbnZjTFlWZml0QUZnemtWVnAzaXJmNmVWeHFxVllXc2Rwd1c4V0tseENvRkpYMHVWcDhtME1rNHpia1FDUEdYa3ZTQ3FyQnBtV05sSDZEdXhhX043aW9CR2_SAZsBQVVfeXFMUDBWX1FSOTJPVEhrSnV5RVhMODZSYUFyVGRNVG16MDU5SzRVc05TVEYtczRuX3JTWFVBSnNlRlNxVjVtQkp1N1o1QVZncFJPNFRsSWdzWlNlTzg5cnJuOVYxOUEtNlZPUWUtNkNZQUs4V2xnUjZGUWtvcmZiOFlxOV81YmJqY21CaGdGa2tkbFFoYXNzNDR3YlBrRjA?oc=5",
+      "publisher": "Chosunbiz",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-03T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.07.03",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "中푸싱, 아리바이오에 425억원 투자..기술수출 넘어 '주주' 됐다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CRTlJeEVTY2FaRWVnQmZwc2JZOWVSbFlUMUlFX3RwTF92bFZsR3pNOUcxRkd4RkFvai1BbExtcEwxSFRTUDJoTndJREZCTy1zQTRZQQ?oc=5",
+      "publisher": "v.daum.net",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-03T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.07.03",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "\"상반기에만 13조\"…K-바이오, '기술수출 30조 시대' 기대감 '쑥'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LT0VZUU9CT0NIbjNMaFlzcTBIWWNDZ0otYU9UYmxtMTk1elZ0YzR4VEtfYkNTMk5Jd2g1UGx5N1M3MHE3ajJsbmlyb01ZTk1fQkNNOHFtRW4?oc=5",
+      "publisher": "뷰어스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-03T09:53:10+09:00",
+      "time": "09:53",
       "date": "2026.07.03",
       "year": 2026,
       "category": "mkt",
@@ -37274,6 +38321,22 @@
       ]
     },
     {
+      "title": "기술수출·신약 성과 '쌍끌이'···K-바이오, 글로벌 존재감 키운다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FTVA3TFc3MkNGZEY2V3g0VkluYjF6QlJ0NFQ0Y0VZeTd0LTN1Z2tSTnU1RzB1ZVhlSHdKMzZmb2tZWURQdlJ5TGRkY3h1b2VQMXVlOEd3cHRqMWJIeWRDeVl5MmZLV2xKLWc?oc=5",
+      "publisher": "서울파이낸스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-06-30T08:00:00+09:00",
+      "time": "08:00",
+      "date": "2026.06.30",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "\"마운자로 이어 지방분해주사\"…GC녹십자웰빙, 체형관리 시장 정조준",
       "summary": "GC녹십자웰빙에 따르면 글로벌 바디 컨투어링 시장은 2025년 약 3조원에서 2034년 약 10조원 규모로 성장할 전망이다. 특히 GLP-1 비만치료제 확산 이후 체중 감량과 체형관리 수요가 맞물리면서 관련 시장이 빠르게 커질...",
       "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599126065655",
@@ -37289,6 +38352,22 @@
       "pipelines": [
         "PT404"
       ],
+      "companies": []
+    },
+    {
+      "title": "유한양행 ‘레시게르셉트’·MASH藥, ‘뉴코’ 없이 기술수출 직행할까",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Edld4THRDTWhIZWpNdzVJazRFdjNYMThRSk9icEZzWDJmenN4R0NSNGs2bmttZHdnR3FWQjVqZjJjNHhCNWtUNUM3clh2dDZyQmZ2R1d0eVlVOEFkZ09QcDVnN2h0aGdPdW5yekVqZDA5QdIBdkFVX3lxTFBpNnE2VHlXcmxxUEFoeC1odURwX3ZpSFVBODZBOTJCMW9FOVRQWmdzRHBGVUZSdlBaY0VTREFnZ21IbmNxYlo0YWtTQWdHWURsS3NUR1dhQVVVUDdtZ3BEQU4zZXd2UHoyMGdodHdnZnFTWTF3NGc?oc=5",
+      "publisher": "시사저널e",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-06-29T16:48:26+09:00",
+      "time": "16:48",
+      "date": "2026.06.29",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -37416,6 +38495,22 @@
       "source": "gnews",
       "layer": "news",
       "region": "os",
+      "published": "2026-06-24T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.24",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "바이오USA 개막에도 밀린 바이오株…기술수출 13조가 반전카드 될까",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55XzBsbGM3TXZHZ0hTWU9kR0lOMS02QUxjZ3Q5clpieTFaZWlwQi1Vc3hNOTZlcEFGcW8zalppSmg1cHBfcng2OHoyd1FYdkJueUJnSFczUGs0R2Jn?oc=5",
+      "publisher": "뉴스핌",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
       "published": "2026-06-24T16:00:00+09:00",
       "time": "16:00",
       "date": "2026.06.24",
@@ -37715,6 +38810,24 @@
       "companies": []
     },
     {
+      "title": "일라이 릴리, '차세대 비만약' 기대감에 주가 급등",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fSGtzQ1ZrRkZTMEg2bkZfUHVzRlQtTnVCREYxV3M2dmhBQWtJc3BvS1BPTEUxMUliRHFxblVIeUdEQzVzSnEwdWlSdkJHMnQ1UmF5Y2RWN2dYV2xHQ0JmcmF3?oc=5",
+      "publisher": "초이스스탁US",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-06-09T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.09",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": [
+        "lilly"
+      ]
+    },
+    {
       "title": "식욕억제는 더 오래, 감량은 더 세게…비만치료제 ‘고용량’ 경쟁",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90ZkJuUlM4clR2Sk5ocEI3NTJadGNZTDBHWlhfR1otVll0aUsydHAxZ05Jd2VLbUUwVnJkVk9ndV8xcmROaDlDQmp0cUtXUy15Yl9MRGphVnFtWVVCcEgzVGhPaXpiSWtCblNBcmM5SUxLbmxXRHfSAWZBVV95cUxQbHQyS1BKTGs2N1I4OXVwOTdHc0xpdDFodmh3OTNCZzRkY1VxcmN6bi1Melo5QmhIQ3hGV0FYaHhoSDM4S2hPMlc5V1ZJWEFZcW16blJ1X1JoLVBYTjlzVmhpNWtsMmc?oc=5",
@@ -37773,6 +38886,22 @@
       "published": "2026-06-06T16:00:00+09:00",
       "time": "16:00",
       "date": "2026.06.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "TD Cowen Lifts GLP-1 Market Outlook, Sees Global Sales Reaching $150 Billion by 2030",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR1ljb1hVWlFpdXlYOHU5ZXBKcFBGam9IMmVINWl6U0IwX0x1ZGV6cnBCWDJjUkI4OFVCcVpvems1aFpOQVVZMHBUMUhKSjIyZENCTFozM2tneUJUdkh3VW13VVl3R19sbVJwUGVjY1dUbDFCbG9IUkh3elVWSlR2d2ZMT19xYThBRzgzV1Y3WUd1SGM?oc=5",
+      "publisher": "Yahoo Finance",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-05T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.05",
       "year": 2026,
       "category": "mkt",
       "pipelines": [],
@@ -37971,6 +39100,22 @@
       "companies": []
     },
     {
+      "title": "Lupin bets big on India's GLP-1 market & respiratory drugs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWd2T0dtbmZNNWJaZ0w0VEtBODFHNUVzN3c1VjZTVHpVZG1SdlJIamg5ellmSWx6bW1GWkgwdEdUNDg4OUw2VDd3VS02bkRFOHd5dUYzVmxsRGFsWDJzaEJXdVF6eXBsdnlVc216c3VkLW9GM0Z1cWZPaDRYeVVrQWpkMWcwYkV1MW5rZGc5YWlMOTlSd3l5dW9Wb3p3WXc?oc=5",
+      "publisher": "CNBC",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-05-20T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.20",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "\"가슴 설레는 시간\"…삼진, 아리바이오 기술수출에 웃는 이유",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yRzNpdlAyZDlmNlNrMzU0ZVp2eC1haE52V295Z2xvZHpBM09BakdZZnZRV1hOM2Y1aDlUYTdWUkNFb2lldmtUNm5fUWMxQnJY?oc=5",
@@ -38163,6 +39308,24 @@
       "companies": []
     },
     {
+      "title": "Eli Lilly CEO sees large untapped GLP-1 market",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85M1lYVi12WUE1ckl5V2JVTU5PRFIwVjJuTjNaWlNVNENKMFdsUWo3UC10bjFCYWIzQS1IWTJXMjhoWFE2a0FNc0h1T0IzM1BPRlppOVBoQ3AtSUJIVXc3R2FjTXNzaEdfWDZ2THg0WQ?oc=5",
+      "publisher": "medwatch.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-04-20T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.04.20",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": [
+        "lilly"
+      ]
+    },
+    {
       "title": "7000억원 규모 ‘韓 비만 시장’ 잡아라…완성되는 국내 제약사 GLP-1 ‘대진표’",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42V3ZWWWx1Wm90V2JCWGVPWGZYTmRocWJZMVJ6dmhvZHdjZlF2RUxMdXJ6Vkx1TkZuTHozeUxjWmN3NjcyZzNGeVdhQzNrcDFyRl9tdW9BNTdyZDNqZm1pN3o4UkZfMndoSlhHcdIBcEFVX3lxTE5DRHJjYkQ3VGlvYXRhNDIzNDBnRlhHRlIzVUF3VTg1SkZUWG9IUEpMajExeWZrYjkwXzJiUXBTRXdrc0lTMG5uS2oyS0d5WGVIRVNqcTV4Tlp1a0RwMTBpaHBqZGhrclVlaG81VjA3cGI?oc=5",
@@ -38313,6 +39476,22 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45YjlGWVRsSllSQkdoTVBIUVo4dkQ0OGZfUjlJQXpybFNFdWg5UW5QRGFzZXdXSWdoWFJleE5xMk9mT0Npeks3ZmpRdGJ6UTMwVjBpamlZaEpOd0lXV3hmUw?oc=5",
       "publisher": "아시아경제",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-03-26T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.03.26",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "\"단돈 4만원으로 52만원짜리 효과 낸다\"…특허 만료에 中 비만치료제 시장 경쟁 '시동'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ib0JQc3liSWtyRUpKNEJObkFtMV83SVc3TWJuSnZjWUc3SDVFSndtUm1wOERJMUIwa1htcjhRdThaZHNKb0RoaHJCOXpRNGM?oc=5",
+      "publisher": "v.daum.net",
       "source": "gnews",
       "layer": "news",
       "region": "kr",
@@ -38535,6 +39714,22 @@
       "companies": []
     },
     {
+      "title": "Peptide Therapeutics Market Size - Growth Forecasts 2035",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pTFMxXzNCT2JkMnFDaWRveDBnbHRVeV9GRVZ3Y3pnT2hLWkE0R1dqcUZhMEdDTnktR3NzVnNDUFd3SlZyTFNNRnBWY0NqNUFpWG5LbG1maGRCeVhDbU1TYlltc05Ba1liMW5zMUg2RUFOOEhFbHI2X2Vn?oc=5",
+      "publisher": "Research Nester",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-02-25T17:00:00+09:00",
+      "time": "17:00",
+      "date": "2026.02.25",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Novo Nordisk faces a defining year in the obesity drug market. It’s off to a dramatic start",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbmxGTTdGcmxuQXV3OWx5SUY0UldzM0lRanBrNUpBWkV1QXUwUXRBdnhjQ3B2YVU0Vy14aFduSDBpcVRFM3M4bkRnS2FOSkhkTzZhUDFmMkxQb0s3N0V3cmNJWnUzYWtuVk9pVFVtSXVKTDF2Y1A0cDMxbndGUkNwSUFncHl5eXluRHhfOXJISDBuZkxGY0l4a3A0dzPSAaIBQVVfeXFMTVZOZXhaMjlvVlMxTTBlMEEwSHBDbFBINFZQV0dTRVJLaVd0SkhVRFg3ZURuQmV5LVNoWGVRYjNoSDJvZE43cmx3QWp5VXRLNEtxZWltTC16YU54clFPOTNCaDJPczBmRFVvMTFlNDYxVWhUWWtlMzlLSUdJWEhCSGtQQkl5OWJIVndOWDNwV1JvSUxBQWFrV0llQUh5cGFCTDR3?oc=5",
@@ -38549,6 +39744,25 @@
       "category": "mkt",
       "pipelines": [],
       "companies": [
+        "novo"
+      ]
+    },
+    {
+      "title": "Eli Lilly's GLP-1 growth is only getting started as Novo Nordisk braces for a decline in 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2pkcUZhbWVOQjVQU3l6MGx1OEc0Y29XMDRyMmw3b2VyWFMwV3RBYzJ1VWV0bHE5U0w5eGdCNTl3V1FDS1BDalFiRzR2Mm5WU2dWckVRQUVrTlpoTVR3VEw4TF85bjAxMUp1T2Zmb0stT25KLWNnNFIwS3RRdXZmdVlmU0RabjDSAYwBQVVfeXFMTkUwQUY3YnZHcTctQ3NWcjN1TFVUZjFYUXI4VDR0c2N6d1hUVXFHOXFMU0VnNjFJRklHQzhGSmhnX2dyVEExeFJrRl8wcmpEYjg4NTlScVRJTzg5bndjLUFFQnBhWkV6Rm5UQnlWRWY3VTlDcDJZNGdQbUVtTExLczVLLVdJemthSFdjRlo?oc=5",
+      "publisher": "CNBC",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-02-04T17:00:00+09:00",
+      "time": "17:00",
+      "date": "2026.02.04",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": [
+        "lilly",
         "novo"
       ]
     },
@@ -38950,6 +40164,22 @@
       "published": "2025-07-19T16:00:00+09:00",
       "time": "16:00",
       "date": "2025.07.19",
+      "year": 2025,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "이재명 정부 '국가 균형발전' 정책…제약바이오 주목할 지역은?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45VUNuTGNhTDF1TFpOajBSWjhBWTY3TXpXMWVnMnpaMzZCM2NyaWNJN1JNYjZ2YlpyVEM3XzV4Y1JKUk1razhUYjZteHRVazdIeGo5RGdtUlZya3EyREJpcmwzc21uY0Nta1p0RA?oc=5",
+      "publisher": "팜뉴스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2025-07-17T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2025.07.17",
       "year": 2025,
       "category": "mkt",
       "pipelines": [],

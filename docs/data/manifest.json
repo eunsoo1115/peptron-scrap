@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-18T07:47:13.981458+09:00",
+  "updated_at": "2026-07-18T14:46:07.013711+09:00",
   "dates": [
     {
       "date": "2026-07-18",
-      "total": 2258,
+      "total": 2330,
       "counts": {
-        "core": 334,
-        "obesity": 585,
-        "npr": 317,
-        "platform": 467,
-        "reg": 330,
-        "mkt": 225
+        "core": 336,
+        "obesity": 617,
+        "npr": 318,
+        "platform": 477,
+        "reg": 336,
+        "mkt": 246
       }
     },
     {
@@ -659,7 +659,7 @@
     }
   ],
   "papers": {
-    "total": 2750,
+    "total": 2756,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -673,16 +673,16 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6868,
+  "news_recent_total": 6885,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1477,
-      "papers": 239,
+      "news": 1480,
+      "papers": 241,
       "trials": 101,
-      "total": 1817,
-      "recent": "2026-07-18T07:03:39+09:00",
+      "total": 1822,
+      "recent": "2026-07-18T09:14:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -708,11 +708,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 886,
-      "papers": 169,
+      "news": 889,
+      "papers": 170,
       "trials": 98,
-      "total": 1153,
-      "recent": "2026-07-18T07:18:00+09:00",
+      "total": 1157,
+      "recent": "2026-07-18T09:14:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -803,10 +803,10 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 469,
+      "news": 470,
       "papers": 0,
       "trials": 0,
-      "total": 469,
+      "total": 470,
       "recent": "2026-07-17T09:00:00+09:00",
       "logo": "logos/peptron.png"
     },
@@ -833,11 +833,11 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 319,
+      "news": 320,
       "papers": 0,
       "trials": 0,
-      "total": 319,
-      "recent": "2026-07-18T07:18:00+09:00",
+      "total": 320,
+      "recent": "2026-07-18T08:09:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -863,12 +863,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 35,
-      "yesterday": 105
+      "today": 49,
+      "yesterday": 106
     },
     "paper": {
       "today": 0,
-      "yesterday": 10
+      "yesterday": 13
     },
     "trial": {
       "today": 0,
@@ -1009,7 +1009,7 @@
     {
       "date": "2026-07-07",
       "news": 269,
-      "paper": 23,
+      "paper": 24,
       "trial": 12,
       "regulatory": 14
     },
@@ -1023,7 +1023,7 @@
     {
       "date": "2026-07-09",
       "news": 301,
-      "paper": 19,
+      "paper": 20,
       "trial": 9,
       "regulatory": 3
     },
@@ -1057,14 +1057,14 @@
     },
     {
       "date": "2026-07-14",
-      "news": 314,
+      "news": 315,
       "paper": 29,
       "trial": 15,
       "regulatory": 14
     },
     {
       "date": "2026-07-15",
-      "news": 242,
+      "news": 243,
       "paper": 16,
       "trial": 11,
       "regulatory": 14
@@ -1072,20 +1072,20 @@
     {
       "date": "2026-07-16",
       "news": 339,
-      "paper": 14,
+      "paper": 15,
       "trial": 8,
       "regulatory": 14
     },
     {
       "date": "2026-07-17",
-      "news": 105,
-      "paper": 10,
+      "news": 106,
+      "paper": 13,
       "trial": 5,
       "regulatory": 14
     },
     {
       "date": "2026-07-18",
-      "news": 35,
+      "news": 49,
       "paper": 0,
       "trial": 0,
       "regulatory": 4

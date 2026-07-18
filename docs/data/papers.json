@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T07:36:48.042140+09:00",
-  "total": 2750,
+  "updated_at": "2026-07-18T14:35:42.753206+09:00",
+  "total": 2756,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -524,6 +524,54 @@
       "companies": []
     },
     {
+      "title": "Glucagon-like peptide-1 receptor agonists in the aging population of people with HIV: emerging evidence and clinical implications",
+      "summary": "Haidar L et al. · Current opinion in HIV and AIDS",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467949/",
+      "publisher": "Current opinion in HIV and AIDS",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "N-terminally modified GLP1R agonists drive G protein bias via extracellular loop 3 displacement",
+      "summary": "Zhao LH et al. · Cell reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467532/",
+      "publisher": "Cell reports",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Bio-functional porous PLA microspheres: an in-vitro study of a platform for plasma rich in growth factors (PRGF) delivery",
+      "summary": "Shah-Mohammadi-Loshani M et al. · Biomedical materials (Bristol, England)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468554/",
+      "publisher": "Biomedical materials (Bristol, England)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Glucagon-like peptide-1 receptor agonists and pancreatic outcomes in chronic pancreatitis: a real-world cohort study",
       "summary": "Dhali A et al. · BMC gastroenterology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42458277/",
@@ -753,6 +801,24 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Management of patients with cardiovascular disease and overweight/obesity: expert opinion on semaglutide use",
+      "summary": "Bilato C et al. · Nutrition, metabolism, and cardiovascular diseases : NMCD",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42469146/",
+      "publisher": "Nutrition, metabolism, and cardiovascular dis",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -2874,6 +2940,22 @@
       "companies": []
     },
     {
+      "title": "Hyperuricemia, gout and obesity: should weight management be more of a focus in gout management?",
+      "summary": "Scilletta S et al. · Nutrition, metabolism, and cardiovascular diseases : NMCD",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42469142/",
+      "publisher": "Nutrition, metabolism, and cardiovascular dis",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-09T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.09",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Glucagon-Like Peptide-1 Receptor Agonist-Based Agents and Body Composition: Filling More Gaps",
       "summary": "Dubin RL et al. · Obesity (Silver Spring, Md.)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42415595/",
@@ -3571,6 +3653,25 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Coronary artery disease -related outcomes associated with semaglutide and tirzepatide in type 2 diabetes mellitus and obesity: a systematic review and meta-analysis",
+      "summary": "Zhou XY et al. · Nutrition, metabolism, and cardiovascular diseases : NMCD",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42469143/",
+      "publisher": "Nutrition, metabolism, and cardiovascular dis",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-07T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.07",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
       "companies": []
     },
     {
