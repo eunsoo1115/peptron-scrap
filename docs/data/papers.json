@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T07:36:31.576672+09:00",
-  "total": 2757,
+  "updated_at": "2026-07-19T15:08:02.392749+09:00",
+  "total": 2768,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -369,6 +369,104 @@
       "date": "2026.07.18",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Optimal Timing of GLP-1 Receptor Agonist Initiation in Patients with Obesity Eligible for Metabolic Bariatric Surgery",
+      "summary": "Nguefang GL et al. · Obesity surgery",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42471527/",
+      "publisher": "Obesity surgery",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-18T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Can glucagon-like peptide-1 receptor agonists affect outcomes after spine surgery? A systematic review and meta-analysis",
+      "summary": "Muthu S et al. · European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42471496/",
+      "publisher": "European spine journal : official publication",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-18T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "GLP1 Mimetics and Stem Cells: An Intersection of Metabolic and Regenerative Medicine",
+      "summary": "Kolonin MG · Stem cell reviews and reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42470527/",
+      "publisher": "Stem cell reviews and reports",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-18T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Combination cardiometabolic therapy in type 2 diabetes: optimizing SGLT2 inhibitor and GLP‑1 receptor agonist use",
+      "summary": "Porterfield LR et al. · Current atherosclerosis reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42470502/",
+      "publisher": "Current atherosclerosis reports",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-18T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide promotes angiogenesis and blood-brain barrier repair after traumatic brain injury via PDGF-BB/PDGFRβ/Ang1/Tie2/VEGF signaling pathway",
+      "summary": "Shi Y et al. · Scientific reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42471364/",
+      "publisher": "Scientific reports",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-18T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Safety of Pharmaceutical Nanosuspensions in Drug Delivery: Evidence, Knowledge Gaps, and Safety-By-Design Strategies",
+      "summary": "Ma Y et al. · Molecular pharmaceutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42470382/",
+      "publisher": "Molecular pharmaceutics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-18T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.18",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
@@ -2647,6 +2745,38 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 receptor agonists in multiple sclerosis: a systematic review of preclinical and clinical evidence",
+      "summary": "Sajjad M et al. · Multiple sclerosis and related disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42470876/",
+      "publisher": "Multiple sclerosis and related disorders",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Injectable hydrogel-mediated spermidine delivery triggers tumor pyroptosis via oxidative metabolism for enhanced cancer therapy",
+      "summary": "Deng Z et al. · Biomaterials",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42470732/",
+      "publisher": "Biomaterials",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.10",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -6611,6 +6741,24 @@
       "companies": []
     },
     {
+      "title": "Tirzepatide Versus Conventional Glucagon-Like Peptide-1 Receptor Agonists for Treatment Simplification in Type 2 Diabetes Mellitus: A Real-World Study",
+      "summary": "Sawamura T et al. · Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42379268/",
+      "publisher": "Endocrine practice : official journal of the ",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "Weight loss, exercise haemodynamics, and health status with incretin therapy for heart failure with preserved ejection fraction and obesity",
       "summary": "Pandey A et al. · European heart journal",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42366808/",
@@ -10308,6 +10456,22 @@
       "companies": []
     },
     {
+      "title": "Eating Hygiene as a regulatory system: from the gut-brain axis to biopsychosocial homeostasis",
+      "summary": "Kolanowski W et al. · Nutrition (Burbank, Los Angeles County, Calif.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42470775/",
+      "publisher": "Nutrition (Burbank, Los Angeles County, Calif",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-19T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.19",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Glucagon-Like Peptide-1 Receptor Agonists in Cardiovascular Disease: Redefining Therapy Through Cardiometabolic Substrate Modification",
       "summary": "Ramadan A et al. · Cardiology in review",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42307757/",
@@ -10817,6 +10981,22 @@
       "date": "2026.06.18",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Association of GLP1-Receptor Agonists With Risk of Hematologic Malignancies in People With Diabetes",
+      "summary": "Ramos S et al. · Clinical lymphoma, myeloma & leukemia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42471299/",
+      "publisher": "Clinical lymphoma, myeloma & leukemia",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-18T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.18",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },

@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-19T07:37:29.044120+09:00",
+  "updated_at": "2026-07-19T15:09:00.820913+09:00",
   "dates": [
     {
       "date": "2026-07-19",
-      "total": 2267,
+      "total": 2372,
       "counts": {
-        "core": 329,
-        "obesity": 593,
-        "npr": 319,
-        "platform": 468,
-        "reg": 332,
-        "mkt": 226
+        "core": 333,
+        "obesity": 626,
+        "npr": 323,
+        "platform": 485,
+        "reg": 341,
+        "mkt": 264
       }
     },
     {
@@ -671,7 +671,7 @@
     }
   ],
   "papers": {
-    "total": 2757,
+    "total": 2768,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -685,16 +685,16 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6584,
+  "news_recent_total": 6619,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1427,
-      "papers": 241,
+      "news": 1431,
+      "papers": 242,
       "trials": 101,
-      "total": 1769,
-      "recent": "2026-07-19T01:23:00+09:00",
+      "total": 1774,
+      "recent": "2026-07-19T14:46:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -720,11 +720,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 862,
-      "papers": 170,
+      "news": 869,
+      "papers": 171,
       "trials": 98,
-      "total": 1130,
-      "recent": "2026-07-18T09:14:00+09:00",
+      "total": 1138,
+      "recent": "2026-07-19T14:46:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -845,11 +845,11 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 307,
+      "news": 309,
       "papers": 0,
       "trials": 0,
-      "total": 307,
-      "recent": "2026-07-19T06:01:00+09:00",
+      "total": 309,
+      "recent": "2026-07-19T14:58:43+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -875,12 +875,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 10,
+      "today": 44,
       "yesterday": 54
     },
     "paper": {
       "today": 0,
-      "yesterday": 1
+      "yesterday": 7
     },
     "trial": {
       "today": 0,
@@ -908,7 +908,7 @@
     },
     {
       "date": "2026-06-22",
-      "news": 218,
+      "news": 219,
       "paper": 30,
       "trial": 6,
       "regulatory": 0
@@ -965,7 +965,7 @@
     {
       "date": "2026-06-30",
       "news": 278,
-      "paper": 31,
+      "paper": 32,
       "trial": 7,
       "regulatory": 18
     },
@@ -1035,7 +1035,7 @@
     {
       "date": "2026-07-10",
       "news": 295,
-      "paper": 15,
+      "paper": 17,
       "trial": 4,
       "regulatory": 10
     },
@@ -1091,13 +1091,13 @@
     {
       "date": "2026-07-18",
       "news": 54,
-      "paper": 1,
+      "paper": 7,
       "trial": 0,
       "regulatory": 4
     },
     {
       "date": "2026-07-19",
-      "news": 10,
+      "news": 44,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
