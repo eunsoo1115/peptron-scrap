@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-19T15:09:00.820913+09:00",
+  "updated_at": "2026-07-19T19:51:36.857319+09:00",
   "dates": [
     {
       "date": "2026-07-19",
-      "total": 2372,
+      "total": 2433,
       "counts": {
-        "core": 333,
-        "obesity": 626,
-        "npr": 323,
-        "platform": 485,
-        "reg": 341,
-        "mkt": 264
+        "core": 335,
+        "obesity": 655,
+        "npr": 324,
+        "platform": 490,
+        "reg": 348,
+        "mkt": 281
       }
     },
     {
@@ -671,7 +671,7 @@
     }
   ],
   "papers": {
-    "total": 2768,
+    "total": 2772,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -685,16 +685,16 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6619,
+  "news_recent_total": 6643,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1431,
+      "news": 1440,
       "papers": 242,
       "trials": 101,
-      "total": 1774,
-      "recent": "2026-07-19T14:46:00+09:00",
+      "total": 1783,
+      "recent": "2026-07-19T19:31:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -720,11 +720,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 869,
+      "news": 873,
       "papers": 171,
       "trials": 98,
-      "total": 1138,
-      "recent": "2026-07-19T14:46:00+09:00",
+      "total": 1142,
+      "recent": "2026-07-19T19:31:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -845,11 +845,11 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 309,
+      "news": 311,
       "papers": 0,
       "trials": 0,
-      "total": 309,
-      "recent": "2026-07-19T14:58:43+09:00",
+      "total": 311,
+      "recent": "2026-07-19T18:07:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -875,7 +875,7 @@
   ],
   "kpi": {
     "news": {
-      "today": 44,
+      "today": 68,
       "yesterday": 54
     },
     "paper": {
@@ -979,7 +979,7 @@
     {
       "date": "2026-07-02",
       "news": 389,
-      "paper": 18,
+      "paper": 19,
       "trial": 5,
       "regulatory": 5
     },
@@ -1007,7 +1007,7 @@
     {
       "date": "2026-07-06",
       "news": 295,
-      "paper": 21,
+      "paper": 22,
       "trial": 9,
       "regulatory": 19
     },
@@ -1028,14 +1028,14 @@
     {
       "date": "2026-07-09",
       "news": 301,
-      "paper": 20,
+      "paper": 21,
       "trial": 9,
       "regulatory": 3
     },
     {
       "date": "2026-07-10",
       "news": 295,
-      "paper": 17,
+      "paper": 18,
       "trial": 4,
       "regulatory": 10
     },
@@ -1097,7 +1097,7 @@
     },
     {
       "date": "2026-07-19",
-      "news": 44,
+      "news": 68,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
