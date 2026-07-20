@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-20T07:40:22.285696+09:00",
+  "updated_at": "2026-07-20T15:26:28.094714+09:00",
   "dates": [
     {
       "date": "2026-07-20",
-      "total": 2281,
+      "total": 2496,
       "counts": {
-        "core": 331,
-        "obesity": 604,
-        "npr": 322,
-        "platform": 470,
-        "reg": 332,
-        "mkt": 222
+        "core": 343,
+        "obesity": 718,
+        "npr": 328,
+        "platform": 487,
+        "reg": 344,
+        "mkt": 276
       }
     },
     {
@@ -683,7 +683,7 @@
     }
   ],
   "papers": {
-    "total": 2772,
+    "total": 2774,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -697,16 +697,16 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6475,
+  "news_recent_total": 6644,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1401,
+      "news": 1465,
       "papers": 242,
       "trials": 101,
-      "total": 1744,
-      "recent": "2026-07-20T07:00:00+09:00",
+      "total": 1808,
+      "recent": "2026-07-20T15:04:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -732,11 +732,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 860,
+      "news": 881,
       "papers": 171,
       "trials": 98,
-      "total": 1129,
-      "recent": "2026-07-20T07:26:00+09:00",
+      "total": 1150,
+      "recent": "2026-07-20T15:04:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -764,11 +764,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 57,
+      "news": 58,
       "papers": 139,
       "trials": 40,
-      "total": 236,
-      "recent": "2026-07-20T06:02:00+09:00",
+      "total": 237,
+      "recent": "2026-07-20T09:04:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -794,11 +794,11 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 21,
+      "news": 22,
       "papers": 29,
       "trials": 4,
-      "total": 54,
-      "recent": "2026-07-16T14:12:00+09:00",
+      "total": 55,
+      "recent": "2026-07-20T15:02:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -827,21 +827,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 431,
+      "news": 438,
       "papers": 0,
       "trials": 0,
-      "total": 431,
-      "recent": "2026-07-17T09:00:00+09:00",
+      "total": 438,
+      "recent": "2026-07-20T15:04:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 122,
+      "news": 124,
       "papers": 0,
       "trials": 0,
-      "total": 122,
-      "recent": "2026-07-20T07:20:00+09:00",
+      "total": 124,
+      "recent": "2026-07-20T13:30:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -857,21 +857,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 307,
+      "news": 314,
       "papers": 0,
       "trials": 0,
-      "total": 307,
-      "recent": "2026-07-19T23:57:00+09:00",
+      "total": 314,
+      "recent": "2026-07-20T14:34:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 175,
+      "news": 182,
       "papers": 1,
       "trials": 0,
-      "total": 176,
-      "recent": "2026-07-18T05:58:07+09:00",
+      "total": 183,
+      "recent": "2026-07-20T13:45:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -887,12 +887,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 47,
+      "today": 215,
       "yesterday": 73
     },
     "paper": {
       "today": 0,
-      "yesterday": 0
+      "yesterday": 2
     },
     "trial": {
       "today": 0,
@@ -1088,7 +1088,7 @@
     },
     {
       "date": "2026-07-17",
-      "news": 109,
+      "news": 110,
       "paper": 13,
       "trial": 5,
       "regulatory": 14
@@ -1103,13 +1103,13 @@
     {
       "date": "2026-07-19",
       "news": 73,
-      "paper": 0,
+      "paper": 2,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-07-20",
-      "news": 47,
+      "news": 215,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
@@ -1167,6 +1167,50 @@
     {
       "level": "High",
       "score": 11,
+      "title": "참을 수 없는 \"폭식\", 비만 치료제로 줄인다",
+      "layer": "news",
+      "url": "http://www.whosaeng.com/172249",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404",
+        "PT320"
+      ],
+      "published": "2026-07-20T15:02:00+09:00",
+      "date": "2026.07.20",
+      "publisher": "whosaeng.com"
+    },
+    {
+      "level": "High",
+      "score": 11,
+      "title": "[특징주] 삼천당제약, 美 FDA 'Pre-ANDA' 답변서 확보에 상한가 직행",
+      "layer": "news",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716950",
+      "companies": [],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-07-20T12:06:00+09:00",
+      "date": "2026.07.20",
+      "publisher": "ebn.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 11,
+      "title": "삼천당제약 \"경구용 비만 제네릭, FDA 답변 수령\"",
+      "layer": "news",
+      "url": "https://www.newsis.com/view/NISX20260720_0003715015",
+      "companies": [],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-07-20T11:13:00+09:00",
+      "date": "2026.07.20",
+      "publisher": "newsis.com"
+    },
+    {
+      "level": "High",
+      "score": 11,
       "title": "한국릴리, '마운자로' 건보 급여 재도전…심평원에 재신청",
       "layer": "news",
       "url": "https://www.news1.kr/bio/pharmaceutical-bio/6220681",
@@ -1195,42 +1239,6 @@
       "published": "2026-05-14T00:00:00+09:00",
       "date": "2026.05.14",
       "publisher": "Cureus"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "프랙틸헬스, GLP-1 중단 후 체중 유지 임상 결과 발표…FDA 허가 신청 가시권",
-      "layer": "news",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UUmgwcm9NZzZENTZCNm9aNXM4eEtHOGg3TTd4ZU9Kbkxnam1kSnp3RmpFWm5BWjFlaDZUcXZSY3RYekJ4ZDBDbHFzOE5nMWduS1E?oc=5",
-      "companies": [],
-      "pipelines": [],
-      "published": "2026-07-15T19:20:20+09:00",
-      "date": "2026.07.15",
-      "publisher": "매일경제 마켓"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "셀트리온,'키트루다' 바이오시밀러 유럽 3상 조기종료-IND 자진취하",
-      "layer": "news",
-      "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=329791",
-      "companies": [],
-      "pipelines": [],
-      "published": "2026-07-14T16:30:00+09:00",
-      "date": "2026.07.14",
-      "publisher": "약업신문"
-    },
-    {
-      "level": "High",
-      "score": 10,
-      "title": "신약허가 규제 푸는데…제약사는 '혁신 병목현상'",
-      "layer": "news",
-      "url": "https://www.newsis.com/view/NISX20260714_0003708343",
-      "companies": [],
-      "pipelines": [],
-      "published": "2026-07-14T13:23:00+09:00",
-      "date": "2026.07.14",
-      "publisher": "newsis.com"
     }
   ],
   "highlights": {
@@ -1255,30 +1263,30 @@
       },
       {
         "level": "High",
-        "title": "한국릴리, '마운자로' 건보 급여 재도전…심평원에 재신청",
+        "title": "참을 수 없는 \"폭식\", 비만 치료제로 줄인다",
         "layer": "news",
-        "url": "https://www.news1.kr/bio/pharmaceutical-bio/6220681",
-        "date": "2026.07.07",
-        "published": "2026-07-07T17:40:00+09:00",
-        "publisher": "news1.kr"
+        "url": "http://www.whosaeng.com/172249",
+        "date": "2026.07.20",
+        "published": "2026-07-20T15:02:00+09:00",
+        "publisher": "whosaeng.com"
       },
       {
         "level": "High",
-        "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
-        "layer": "paper",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
-        "date": "2026.05.14",
-        "published": "2026-05-14T00:00:00+09:00",
-        "publisher": "Cureus"
+        "title": "[특징주] 삼천당제약, 美 FDA 'Pre-ANDA' 답변서 확보에 상한가 직행",
+        "layer": "news",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716950",
+        "date": "2026.07.20",
+        "published": "2026-07-20T12:06:00+09:00",
+        "publisher": "ebn.co.kr"
       },
       {
         "level": "High",
-        "title": "복용양 대폭 줄인 대장정결제 ‘굿모닝프렙산’ 식약처 허가",
+        "title": "삼천당제약 \"경구용 비만 제네릭, FDA 답변 수령\"",
         "layer": "news",
-        "url": "https://www.ekn.kr/web/view.php?key=20260714027482241",
-        "date": "2026.07.14",
-        "published": "2026-07-14T11:14:00+09:00",
-        "publisher": "ekn.kr"
+        "url": "https://www.newsis.com/view/NISX20260720_0003715015",
+        "date": "2026.07.20",
+        "published": "2026-07-20T11:13:00+09:00",
+        "publisher": "newsis.com"
       }
     ],
     "PT404": [
@@ -1311,21 +1319,21 @@
       },
       {
         "level": "High",
+        "title": "참을 수 없는 \"폭식\", 비만 치료제로 줄인다",
+        "layer": "news",
+        "url": "http://www.whosaeng.com/172249",
+        "date": "2026.07.20",
+        "published": "2026-07-20T15:02:00+09:00",
+        "publisher": "whosaeng.com"
+      },
+      {
+        "level": "High",
         "title": "한국릴리, '마운자로' 건보 급여 재도전…심평원에 재신청",
         "layer": "news",
         "url": "https://www.news1.kr/bio/pharmaceutical-bio/6220681",
         "date": "2026.07.07",
         "published": "2026-07-07T17:40:00+09:00",
         "publisher": "news1.kr"
-      },
-      {
-        "level": "High",
-        "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
-        "layer": "paper",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
-        "date": "2026.05.14",
-        "published": "2026-05-14T00:00:00+09:00",
-        "publisher": "Cureus"
       }
     ],
     "PND3174": [
@@ -1378,6 +1386,15 @@
     "PT320": [
       {
         "level": "High",
+        "title": "참을 수 없는 \"폭식\", 비만 치료제로 줄인다",
+        "layer": "news",
+        "url": "http://www.whosaeng.com/172249",
+        "date": "2026.07.20",
+        "published": "2026-07-20T15:02:00+09:00",
+        "publisher": "whosaeng.com"
+      },
+      {
+        "level": "High",
         "title": "한국비엔씨 파트너사 케리야사, 알츠하이머·파킨슨 치료제 임상1상 성...",
         "layer": "news",
         "url": "http://www.press9.kr/news/articleView.html?idxno=78370",
@@ -1411,15 +1428,6 @@
         "date": "2026.07.16",
         "published": "2026-07-16T09:57:04+09:00",
         "publisher": "hdnews.co.kr"
-      },
-      {
-        "level": "Medium",
-        "title": "HLB바이오스텝, 파킨슨병 신약 임상 진입 지원…식약처 IND 승인",
-        "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13X1N2UGhXUFdoRjhKdnhfWDJQWVJ1Y1FzdEQ0bThfWExUand1VUlQek9KT2xNcC00MHV0ZktpRlNlR1JRVWtoNTNsVVNHY3VRWU1hano2bElJeFVFb3F2WHU1U3FCWkVnZlI0?oc=5",
-        "date": "2026.07.16",
-        "published": "2026-07-16T09:56:23+09:00",
-        "publisher": "충청시사신문"
       }
     ]
   }
