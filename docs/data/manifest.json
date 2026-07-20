@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-20T15:26:28.094714+09:00",
+  "updated_at": "2026-07-20T21:04:04.377539+09:00",
   "dates": [
     {
       "date": "2026-07-20",
-      "total": 2496,
+      "total": 2617,
       "counts": {
-        "core": 343,
-        "obesity": 718,
-        "npr": 328,
-        "platform": 487,
-        "reg": 344,
-        "mkt": 276
+        "core": 347,
+        "obesity": 798,
+        "npr": 334,
+        "platform": 495,
+        "reg": 351,
+        "mkt": 292
       }
     },
     {
@@ -683,7 +683,7 @@
     }
   ],
   "papers": {
-    "total": 2774,
+    "total": 2777,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -697,16 +697,16 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6644,
+  "news_recent_total": 6745,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1465,
-      "papers": 242,
+      "news": 1517,
+      "papers": 243,
       "trials": 101,
-      "total": 1808,
-      "recent": "2026-07-20T15:04:00+09:00",
+      "total": 1861,
+      "recent": "2026-07-20T19:40:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -732,11 +732,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 881,
+      "news": 902,
       "papers": 171,
       "trials": 98,
-      "total": 1150,
-      "recent": "2026-07-20T15:04:00+09:00",
+      "total": 1171,
+      "recent": "2026-07-20T18:39:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -764,11 +764,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 58,
+      "news": 59,
       "papers": 139,
       "trials": 40,
-      "total": 237,
-      "recent": "2026-07-20T09:04:00+09:00",
+      "total": 238,
+      "recent": "2026-07-20T13:38:16+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -827,11 +827,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 438,
+      "news": 439,
       "papers": 0,
       "trials": 0,
-      "total": 438,
-      "recent": "2026-07-20T15:04:00+09:00",
+      "total": 439,
+      "recent": "2026-07-20T16:32:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -841,37 +841,37 @@
       "papers": 0,
       "trials": 0,
       "total": 124,
-      "recent": "2026-07-20T13:30:00+09:00",
+      "recent": "2026-07-20T15:36:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 85,
+      "news": 84,
       "papers": 0,
       "trials": 0,
-      "total": 85,
+      "total": 84,
       "recent": "2026-07-16T10:14:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 314,
+      "news": 319,
       "papers": 0,
       "trials": 0,
-      "total": 314,
-      "recent": "2026-07-20T14:34:00+09:00",
+      "total": 319,
+      "recent": "2026-07-20T18:17:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 182,
+      "news": 189,
       "papers": 1,
       "trials": 0,
-      "total": 183,
-      "recent": "2026-07-20T13:45:00+09:00",
+      "total": 190,
+      "recent": "2026-07-20T18:46:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -887,12 +887,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 215,
+      "today": 315,
       "yesterday": 73
     },
     "paper": {
       "today": 0,
-      "yesterday": 2
+      "yesterday": 3
     },
     "trial": {
       "today": 0,
@@ -941,7 +941,7 @@
     },
     {
       "date": "2026-06-26",
-      "news": 252,
+      "news": 253,
       "paper": 18,
       "trial": 14,
       "regulatory": 3
@@ -1075,7 +1075,7 @@
     {
       "date": "2026-07-15",
       "news": 243,
-      "paper": 16,
+      "paper": 17,
       "trial": 11,
       "regulatory": 14
     },
@@ -1103,13 +1103,13 @@
     {
       "date": "2026-07-19",
       "news": 73,
-      "paper": 2,
+      "paper": 3,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-07-20",
-      "news": 215,
+      "news": 315,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
@@ -1163,6 +1163,20 @@
       "published": "2026-06-30T09:14:00+09:00",
       "date": "2026.06.30",
       "publisher": "팜뉴스"
+    },
+    {
+      "level": "High",
+      "score": 11,
+      "title": "삼천당제약, 경구용 세마글루타이드 'FDA Pre-ANDA' 공식 답변 확보",
+      "layer": "news",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=207812",
+      "companies": [],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-07-20T17:18:00+09:00",
+      "date": "2026.07.20",
+      "publisher": "srtimes.kr"
     },
     {
       "level": "High",
@@ -1224,21 +1238,6 @@
       "published": "2026-07-07T17:40:00+09:00",
       "date": "2026.07.07",
       "publisher": "news1.kr"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
-      "layer": "paper",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-05-14T00:00:00+09:00",
-      "date": "2026.05.14",
-      "publisher": "Cureus"
     }
   ],
   "highlights": {
@@ -1263,6 +1262,15 @@
       },
       {
         "level": "High",
+        "title": "삼천당제약, 경구용 세마글루타이드 'FDA Pre-ANDA' 공식 답변 확보",
+        "layer": "news",
+        "url": "http://www.srtimes.kr/news/articleView.html?idxno=207812",
+        "date": "2026.07.20",
+        "published": "2026-07-20T17:18:00+09:00",
+        "publisher": "srtimes.kr"
+      },
+      {
+        "level": "High",
         "title": "참을 수 없는 \"폭식\", 비만 치료제로 줄인다",
         "layer": "news",
         "url": "http://www.whosaeng.com/172249",
@@ -1278,15 +1286,6 @@
         "date": "2026.07.20",
         "published": "2026-07-20T12:06:00+09:00",
         "publisher": "ebn.co.kr"
-      },
-      {
-        "level": "High",
-        "title": "삼천당제약 \"경구용 비만 제네릭, FDA 답변 수령\"",
-        "layer": "news",
-        "url": "https://www.newsis.com/view/NISX20260720_0003715015",
-        "date": "2026.07.20",
-        "published": "2026-07-20T11:13:00+09:00",
-        "publisher": "newsis.com"
       }
     ],
     "PT404": [

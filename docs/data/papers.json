@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T15:25:30.014655+09:00",
-  "total": 2774,
+  "updated_at": "2026-07-20T20:53:38.809937+09:00",
+  "total": 2777,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -81,6 +81,22 @@
       "date": "2026.12.31",
       "year": 2026,
       "category": "npr",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Peptide LKLKLL is a more effective component of Akkermansia muciniphila which regulate glucolipid metabolism through GLP-1/GIP dual modulation",
+      "summary": "Li Y et al. · Gut microbes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42473065/",
+      "publisher": "Gut microbes",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-12-31T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.12.31",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -386,6 +402,24 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Insulin, Semaglutide and Dapagliflozin in Adults With Type 1 Diabetes: Design and Methods of Triple Therapy for Type 1 Diabetes (TTT1)-An International Phase 3 Clinical Trial",
+      "summary": "Timmons JG et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42473259/",
+      "publisher": "Diabetes, obesity & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-19T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.19",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -1228,6 +1262,22 @@
       "date": "2026.07.15",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Comparative Risk of Psoriatic Arthritis in Type 2 Diabetes: An Emulated Target Trial of SGLT2 Inhibitors vs. GLP-1 Receptor Agonists",
+      "summary": "Yen FS et al. · Drug design, development and therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42473649/",
+      "publisher": "Drug design, development and therapy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.15",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
