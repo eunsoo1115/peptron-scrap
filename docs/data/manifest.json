@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-21T07:54:54.263479+09:00",
+  "updated_at": "2026-07-21T15:00:15.697492+09:00",
   "dates": [
     {
       "date": "2026-07-21",
-      "total": 2340,
+      "total": 2554,
       "counts": {
-        "core": 335,
-        "obesity": 660,
-        "npr": 323,
-        "platform": 469,
-        "reg": 335,
-        "mkt": 218
+        "core": 344,
+        "obesity": 766,
+        "npr": 338,
+        "platform": 504,
+        "reg": 345,
+        "mkt": 257
       }
     },
     {
@@ -695,7 +695,7 @@
     }
   ],
   "papers": {
-    "total": 2784,
+    "total": 2789,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -705,20 +705,20 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 475,
+    "total": 476,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6754,
+  "news_recent_total": 6914,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1528,
+      "news": 1564,
       "papers": 244,
       "trials": 102,
-      "total": 1874,
-      "recent": "2026-07-21T07:06:00+09:00",
+      "total": 1910,
+      "recent": "2026-07-21T14:55:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -744,11 +744,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 905,
+      "news": 915,
       "papers": 171,
       "trials": 98,
-      "total": 1174,
-      "recent": "2026-07-21T07:06:00+09:00",
+      "total": 1184,
+      "recent": "2026-07-21T14:54:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -776,11 +776,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 58,
+      "news": 60,
       "papers": 139,
       "trials": 40,
-      "total": 237,
-      "recent": "2026-07-20T13:38:16+09:00",
+      "total": 239,
+      "recent": "2026-07-21T08:51:56+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -839,21 +839,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 437,
+      "news": 442,
       "papers": 0,
       "trials": 0,
-      "total": 437,
-      "recent": "2026-07-21T07:10:00+09:00",
+      "total": 442,
+      "recent": "2026-07-21T14:31:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 126,
+      "news": 143,
       "papers": 0,
       "trials": 0,
-      "total": 126,
-      "recent": "2026-07-21T07:10:00+09:00",
+      "total": 143,
+      "recent": "2026-07-21T14:52:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -869,21 +869,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 321,
+      "news": 324,
       "papers": 0,
       "trials": 0,
-      "total": 321,
-      "recent": "2026-07-21T07:04:00+09:00",
+      "total": 324,
+      "recent": "2026-07-21T14:50:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 198,
+      "news": 200,
       "papers": 1,
       "trials": 0,
-      "total": 199,
-      "recent": "2026-07-21T07:02:00+09:00",
+      "total": 201,
+      "recent": "2026-07-21T14:32:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -899,19 +899,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 63,
-      "yesterday": 338
+      "today": 220,
+      "yesterday": 336
     },
     "paper": {
       "today": 0,
-      "yesterday": 4
+      "yesterday": 8
     },
     "trial": {
       "today": 0,
       "yesterday": 7
     },
     "regulatory": {
-      "today": 5,
+      "today": 6,
       "yesterday": 0
     }
   },
@@ -967,7 +967,7 @@
     },
     {
       "date": "2026-06-29",
-      "news": 283,
+      "news": 284,
       "paper": 25,
       "trial": 9,
       "regulatory": 1
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-07-14",
-      "news": 316,
+      "news": 317,
       "paper": 29,
       "trial": 15,
       "regulatory": 14
@@ -1086,21 +1086,21 @@
     },
     {
       "date": "2026-07-16",
-      "news": 339,
+      "news": 340,
       "paper": 15,
       "trial": 8,
       "regulatory": 14
     },
     {
       "date": "2026-07-17",
-      "news": 110,
+      "news": 111,
       "paper": 13,
       "trial": 5,
       "regulatory": 14
     },
     {
       "date": "2026-07-18",
-      "news": 54,
+      "news": 55,
       "paper": 7,
       "trial": 0,
       "regulatory": 4
@@ -1114,17 +1114,17 @@
     },
     {
       "date": "2026-07-20",
-      "news": 338,
-      "paper": 4,
+      "news": 336,
+      "paper": 8,
       "trial": 7,
       "regulatory": 0
     },
     {
       "date": "2026-07-21",
-      "news": 63,
+      "news": 220,
       "paper": 0,
       "trial": 0,
-      "regulatory": 5
+      "regulatory": 6
     }
   ],
   "alerts": [
@@ -1368,30 +1368,30 @@
       },
       {
         "level": "Medium",
+        "title": "Biotech Advances VOXZOGO Toward Landmark US FDA Approval",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3loSGNabkFhTFhsR0xSeGt0MmJLOHhNZzlqRmpKSVdyZ2dURXdMdjc2VmJLeHZDRE9MMkUtQU5jd01lTWlQTUhZWTRib0JmRG5iQkJ0Y1V5ZnZtUmpMemx0QVl3ZE05d3VoOXczbnkyaWhndUIzU1ZTeVJFSzc3SlZpOERJRTNicEh4Rm45WjVWQWNQa1FJeU9hTXp1dzViSjkwWVM5TURLU01mcENQbXcxRDA?oc=5",
+        "date": "2026.07.21",
+        "published": "2026-07-21T08:51:56+09:00",
+        "publisher": "Streetwise Reports"
+      },
+      {
+        "level": "Medium",
+        "title": "BioMarin Advances VOXZOGO Toward Full FDA Approval",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdUpGY1Nrb1hNODM1b1FhWE84cHpPTklJbUQ4bFV5d2lvei1SUktoSFFlSzRKTWZ4cGp2NFQ0Z2YwblNXUG5qRzhmenhUQXBrUnhsOEo3UFlWUkMyaTdEU2xxdDB2Yy1GcGVhNVFPUVlmNXBNbmItRUs3ZHQ1Rjk2M3FvSmgxNE9MV2ZsUC1YeUlQREFKc0tPN0dEdTl1clVLbVpqRGdnc1BuNmd3?oc=5",
+        "date": "2026.07.21",
+        "published": "2026-07-21T08:51:56+09:00",
+        "publisher": "Streetwise Reports"
+      },
+      {
+        "level": "Medium",
         "title": "How FDA Review of VOXZOGO Full-Approval Data at BioMarin (BMRN) Has Changed Its Investment Story",
         "layer": "news",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR2dYY2tqSDB2TUVwTmEtQjMtVktxZHFCZ05OSEpSS0xyVXpNOGlycHJfcXF5RzN0eUd4NXgzZS1BZWhNc3VSV2YxSEpyZGRkbExlM0x3SC1nSGVsVXMwekQxNFo3WlBITWtackVCUmI4blBiWm5IdFFseVlPRV9fZnFYWEc1NXllMnRZa294eGpDRVB2LS1SQlhqVXFTcWQ0WGJGRy1GRDY4NTdPNlhUTUlYMW1Cak9zajFNV19qZm1HRFhaQlpaamxfdHQxQ0p3a1VoLXRNdjBUR2djRWVKVW1SUlF2MzlZSVlYbTZR0gHzAUFVX3lxTFA3MkQ3S3RxNzZId1gtRlJ3eF9URnY2MU5mOGdfWjk0c045b1VyV3NmZGd2VEVGamJxZGhDTGdNQUdRbkJOSl84ODRNaGRlNzJzMXZ6R2I1WXpwTk8wMm5OZnhEZFNDeFliTXRsUEU4NThaWkFsS1BXZm9LR2lEYzNRTzJ2Zk84Sm12enI0SGh0RGFNYzRCRW4wQnkxUjd6a3l6dTVJQURjZkhUX3hwZ3FHd2M2aFJSaGdTcXUwZV9BNjA1TkM2enNzaWtMbTBnLXcwNWxONWx0TExubWJTaFJBelhyRk9tUE81XzFZSFRlaF9sZw?oc=5",
         "date": "2026.07.18",
         "published": "2026-07-18T06:46:17+09:00",
         "publisher": "simplywall.st"
-      },
-      {
-        "level": "Medium",
-        "title": "BioMarin (BMRN) Wins FDA Review For VOXZOGO Full Approval In Achondroplasia",
-        "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTk1jWWFSNFlQVTctVU1fRzUwOFdETGc5OGlRQ18xZ09DR2VLZm51Rjc0SWQwTEFFY1pDV3h2RmhqVDJBNElMZzlWbG5IZ19yZGI0R0UwNUx4V1liaElPcUlqdjlyZ3lndi1xVUJSSVlzLWgwb0gyRHIzMzk1blFRcWd0cGlXaHAyaWpzTjF1MmFORUJNNlg4YjV0SzhLenlCMm1jbjdFU0JEQ1lmaFFtN0pMZlJWS0tBczEzQ0JPODhJc1NTbHF6RmRhVm40YjIzMU5XaTdZa1FZTTk0MWJvcUJUZ3VpN1VOY2pBTUxB0gHzAUFVX3lxTE9XelRZelJuUXlCcGpkeU1uWlpNNFh6RFZFNjJWRnk1Zng2THR4anlkMHJ6cnRma25RVGRYSXowdDBHVXBjaTBzQTR2eW1tQjRwWWR3a09DYzdfNHN5MXpjcUNPdF9TUmJKVEpPTTEtM2FaVkFZRDY3aFV5d2N5T2ZoV0p6T0hBd1NxY3AxQ0x3TURQd05tQ1ZTRmdtSlp6cmdWRUdYazFzbHNzS2gwOEhScnlJbEZCYTRMV1BPTGd5RlpGUjBydGhCSjdGQlZucUxXaHFUMVYyTkdDZVB1NTBDSmNzUUlfcm9GVkxITjY4Mkt4QQ?oc=5",
-        "date": "2026.07.16",
-        "published": "2026-07-16T19:31:37+09:00",
-        "publisher": "simplywall.st"
-      },
-      {
-        "level": "Medium",
-        "title": "FDA Accepts BMRN's sNDA Seeking Full Approval for Voxzogo",
-        "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3NUODhIS3E5NU42czVUdEFhSkVTSTFlZWtmZUtOMkJkblVYcnlGbUk3ME9KYVNJVTJKR3JDMkZlRUpROV9sbXl6Q1p0VTI2TEJEYUMzeE40SERlcUpOdXllcWtWd3dXc2d4QWYxV0h1VG51TUptT3h4bDRRc05NQlFiRVdjQ0ZKSUdRQnhyZWF4RmdVNkE?oc=5",
-        "date": "2026.07.14",
-        "published": "2026-07-14T23:42:00+09:00",
-        "publisher": "Yahoo Finance"
       }
     ],
     "PT320": [
