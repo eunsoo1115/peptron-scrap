@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-21T15:00:15.697492+09:00",
+  "updated_at": "2026-07-21T20:15:56.270562+09:00",
   "dates": [
     {
       "date": "2026-07-21",
-      "total": 2554,
+      "total": 2680,
       "counts": {
-        "core": 344,
-        "obesity": 766,
-        "npr": 338,
-        "platform": 504,
-        "reg": 345,
-        "mkt": 257
+        "core": 349,
+        "obesity": 827,
+        "npr": 346,
+        "platform": 513,
+        "reg": 353,
+        "mkt": 292
       }
     },
     {
@@ -709,16 +709,16 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 6914,
+  "news_recent_total": 6996,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1564,
+      "news": 1593,
       "papers": 244,
       "trials": 102,
-      "total": 1910,
-      "recent": "2026-07-21T14:55:00+09:00",
+      "total": 1939,
+      "recent": "2026-07-21T20:08:24+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -744,11 +744,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 915,
+      "news": 921,
       "papers": 171,
       "trials": 98,
-      "total": 1184,
-      "recent": "2026-07-21T14:54:00+09:00",
+      "total": 1190,
+      "recent": "2026-07-21T18:45:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -839,21 +839,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 442,
+      "news": 447,
       "papers": 0,
       "trials": 0,
-      "total": 442,
-      "recent": "2026-07-21T14:31:00+09:00",
+      "total": 447,
+      "recent": "2026-07-21T17:05:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 143,
+      "news": 146,
       "papers": 0,
       "trials": 0,
-      "total": 143,
-      "recent": "2026-07-21T14:52:00+09:00",
+      "total": 146,
+      "recent": "2026-07-21T15:58:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -869,21 +869,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 324,
+      "news": 326,
       "papers": 0,
       "trials": 0,
-      "total": 324,
-      "recent": "2026-07-21T14:50:00+09:00",
+      "total": 326,
+      "recent": "2026-07-21T18:15:50+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 200,
+      "news": 203,
       "papers": 1,
       "trials": 0,
-      "total": 201,
-      "recent": "2026-07-21T14:32:00+09:00",
+      "total": 204,
+      "recent": "2026-07-21T18:38:32+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -899,8 +899,8 @@
   ],
   "kpi": {
     "news": {
-      "today": 220,
-      "yesterday": 336
+      "today": 301,
+      "yesterday": 337
     },
     "paper": {
       "today": 0,
@@ -1114,14 +1114,14 @@
     },
     {
       "date": "2026-07-20",
-      "news": 336,
+      "news": 337,
       "paper": 8,
       "trial": 7,
       "regulatory": 0
     },
     {
       "date": "2026-07-21",
-      "news": 220,
+      "news": 301,
       "paper": 0,
       "trial": 0,
       "regulatory": 6
@@ -1175,6 +1175,20 @@
       "published": "2026-06-30T09:14:00+09:00",
       "date": "2026.06.30",
       "publisher": "팜뉴스"
+    },
+    {
+      "level": "High",
+      "score": 11,
+      "title": "삼천당제약, FDA Pre-ANDA 답변서 수령…“허가 문턱은 아직…”",
+      "layer": "news",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607201745360510777",
+      "companies": [],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-07-21T16:42:00+09:00",
+      "date": "2026.07.21",
+      "publisher": "dnews.co.kr"
     },
     {
       "level": "High",
@@ -1233,23 +1247,6 @@
       "published": "2026-07-20T11:13:00+09:00",
       "date": "2026.07.20",
       "publisher": "newsis.com"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "한국릴리, '마운자로' 건보 급여 재도전…심평원에 재신청",
-      "layer": "news",
-      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6220681",
-      "companies": [
-        "lilly"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-07-07T17:40:00+09:00",
-      "date": "2026.07.07",
-      "publisher": "news1.kr"
     }
   ],
   "highlights": {
@@ -1274,6 +1271,15 @@
       },
       {
         "level": "High",
+        "title": "삼천당제약, FDA Pre-ANDA 답변서 수령…“허가 문턱은 아직…”",
+        "layer": "news",
+        "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607201745360510777",
+        "date": "2026.07.21",
+        "published": "2026-07-21T16:42:00+09:00",
+        "publisher": "dnews.co.kr"
+      },
+      {
+        "level": "High",
         "title": "삼천당제약, 경구용 세마글루타이드 'FDA Pre-ANDA' 공식 답변 확보",
         "layer": "news",
         "url": "http://www.srtimes.kr/news/articleView.html?idxno=207812",
@@ -1289,15 +1295,6 @@
         "date": "2026.07.20",
         "published": "2026-07-20T15:02:00+09:00",
         "publisher": "whosaeng.com"
-      },
-      {
-        "level": "High",
-        "title": "[특징주] 삼천당제약, 美 FDA 'Pre-ANDA' 답변서 확보에 상한가 직행",
-        "layer": "news",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716950",
-        "date": "2026.07.20",
-        "published": "2026-07-20T12:06:00+09:00",
-        "publisher": "ebn.co.kr"
       }
     ],
     "PT404": [
