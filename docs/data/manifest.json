@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-22T07:44:24.050436+09:00",
+  "updated_at": "2026-07-22T14:59:00.464715+09:00",
   "dates": [
     {
       "date": "2026-07-22",
-      "total": 2304,
+      "total": 2519,
       "counts": {
-        "core": 339,
-        "obesity": 624,
-        "npr": 316,
-        "platform": 463,
-        "reg": 339,
-        "mkt": 223
+        "core": 354,
+        "obesity": 725,
+        "npr": 318,
+        "platform": 497,
+        "reg": 352,
+        "mkt": 273
       }
     },
     {
@@ -721,16 +721,16 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7054,
+  "news_recent_total": 7201,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1610,
+      "news": 1667,
       "papers": 245,
       "trials": 103,
-      "total": 1958,
-      "recent": "2026-07-22T07:40:14+09:00",
+      "total": 2015,
+      "recent": "2026-07-22T14:21:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -756,11 +756,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 946,
+      "news": 982,
       "papers": 171,
       "trials": 99,
-      "total": 1216,
-      "recent": "2026-07-22T07:40:14+09:00",
+      "total": 1252,
+      "recent": "2026-07-22T13:53:48+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -851,21 +851,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 449,
+      "news": 461,
       "papers": 0,
       "trials": 0,
-      "total": 449,
-      "recent": "2026-07-22T07:00:00+09:00",
+      "total": 461,
+      "recent": "2026-07-22T13:38:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 147,
+      "news": 148,
       "papers": 0,
       "trials": 0,
-      "total": 147,
-      "recent": "2026-07-21T23:32:22+09:00",
+      "total": 148,
+      "recent": "2026-07-22T10:18:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -881,21 +881,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 391,
+      "news": 419,
       "papers": 0,
       "trials": 0,
-      "total": 391,
-      "recent": "2026-07-22T07:32:10+09:00",
+      "total": 419,
+      "recent": "2026-07-22T13:53:48+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 268,
+      "news": 295,
       "papers": 1,
       "trials": 0,
-      "total": 269,
-      "recent": "2026-07-22T07:32:10+09:00",
+      "total": 296,
+      "recent": "2026-07-22T13:53:48+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -911,8 +911,8 @@
   ],
   "kpi": {
     "news": {
-      "today": 94,
-      "yesterday": 342
+      "today": 236,
+      "yesterday": 346
     },
     "paper": {
       "today": 0,
@@ -1119,21 +1119,21 @@
     },
     {
       "date": "2026-07-20",
-      "news": 338,
+      "news": 339,
       "paper": 8,
       "trial": 7,
       "regulatory": 0
     },
     {
       "date": "2026-07-21",
-      "news": 342,
+      "news": 346,
       "paper": 10,
       "trial": 7,
       "regulatory": 6
     },
     {
       "date": "2026-07-22",
-      "news": 94,
+      "news": 236,
       "paper": 0,
       "trial": 0,
       "regulatory": 12
@@ -1156,6 +1156,60 @@
       "published": "2026-07-08T14:11:00+09:00",
       "date": "2026.07.08",
       "publisher": "newsis.com"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "'1위 자리 내 거야'…비만약 최강자들 결국 법정 가는 이유",
+      "layer": "news",
+      "url": "https://www.hankyung.com/article/202607228651i",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-07-22T10:36:00+09:00",
+      "date": "2026.07.22",
+      "publisher": "한국경제"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "'위고비-마운자로 혈투' 법정으로…노보 \"릴리, 기만적 비교광고\"",
+      "layer": "news",
+      "url": "https://www.news1.kr/world/usa-canada/6234875",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-07-22T09:36:00+09:00",
+      "date": "2026.07.22",
+      "publisher": "news1.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "위고비 vs 마운자로 이번엔 광고 전쟁…노보, 릴리 상대 소송",
+      "layer": "news",
+      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6234814",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-07-22T08:37:00+09:00",
+      "date": "2026.07.22",
+      "publisher": "news1.kr"
     },
     {
       "level": "High",
@@ -1215,50 +1269,6 @@
       "published": "2026-07-20T17:18:00+09:00",
       "date": "2026.07.20",
       "publisher": "srtimes.kr"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "참을 수 없는 \"폭식\", 비만 치료제로 줄인다",
-      "layer": "news",
-      "url": "http://www.whosaeng.com/172249",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404",
-        "PT320"
-      ],
-      "published": "2026-07-20T15:02:00+09:00",
-      "date": "2026.07.20",
-      "publisher": "whosaeng.com"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "[특징주] 삼천당제약, 美 FDA 'Pre-ANDA' 답변서 확보에 상한가 직행",
-      "layer": "news",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716950",
-      "companies": [],
-      "pipelines": [
-        "PT403"
-      ],
-      "published": "2026-07-20T12:06:00+09:00",
-      "date": "2026.07.20",
-      "publisher": "ebn.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "삼천당제약 \"경구용 비만 제네릭, FDA 답변 수령\"",
-      "layer": "news",
-      "url": "https://www.newsis.com/view/NISX20260720_0003715015",
-      "companies": [],
-      "pipelines": [
-        "PT403"
-      ],
-      "published": "2026-07-20T11:13:00+09:00",
-      "date": "2026.07.20",
-      "publisher": "newsis.com"
     }
   ],
   "highlights": {
@@ -1274,39 +1284,39 @@
       },
       {
         "level": "High",
+        "title": "'1위 자리 내 거야'…비만약 최강자들 결국 법정 가는 이유",
+        "layer": "news",
+        "url": "https://www.hankyung.com/article/202607228651i",
+        "date": "2026.07.22",
+        "published": "2026-07-22T10:36:00+09:00",
+        "publisher": "한국경제"
+      },
+      {
+        "level": "High",
+        "title": "'위고비-마운자로 혈투' 법정으로…노보 \"릴리, 기만적 비교광고\"",
+        "layer": "news",
+        "url": "https://www.news1.kr/world/usa-canada/6234875",
+        "date": "2026.07.22",
+        "published": "2026-07-22T09:36:00+09:00",
+        "publisher": "news1.kr"
+      },
+      {
+        "level": "High",
+        "title": "위고비 vs 마운자로 이번엔 광고 전쟁…노보, 릴리 상대 소송",
+        "layer": "news",
+        "url": "https://www.news1.kr/bio/pharmaceutical-bio/6234814",
+        "date": "2026.07.22",
+        "published": "2026-07-22T08:37:00+09:00",
+        "publisher": "news1.kr"
+      },
+      {
+        "level": "High",
         "title": "\"위고비·마운자로 다이어트약 아냐\"…오남용 경고",
         "layer": "news",
         "url": "https://www.newsis.com/view/NISX20260708_0003700526",
         "date": "2026.07.08",
         "published": "2026-07-08T10:58:00+09:00",
         "publisher": "newsis.com"
-      },
-      {
-        "level": "High",
-        "title": "삼천당제약, FDA Pre-ANDA 답변서 수령…“허가 문턱은 아직…”",
-        "layer": "news",
-        "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607201745360510777",
-        "date": "2026.07.21",
-        "published": "2026-07-21T16:42:00+09:00",
-        "publisher": "dnews.co.kr"
-      },
-      {
-        "level": "High",
-        "title": "삼천당제약, 경구용 세마글루타이드 'FDA Pre-ANDA' 공식 답변 확보",
-        "layer": "news",
-        "url": "http://www.srtimes.kr/news/articleView.html?idxno=207812",
-        "date": "2026.07.20",
-        "published": "2026-07-20T17:18:00+09:00",
-        "publisher": "srtimes.kr"
-      },
-      {
-        "level": "High",
-        "title": "참을 수 없는 \"폭식\", 비만 치료제로 줄인다",
-        "layer": "news",
-        "url": "http://www.whosaeng.com/172249",
-        "date": "2026.07.20",
-        "published": "2026-07-20T15:02:00+09:00",
-        "publisher": "whosaeng.com"
       }
     ],
     "PT404": [
@@ -1321,39 +1331,39 @@
       },
       {
         "level": "High",
+        "title": "'1위 자리 내 거야'…비만약 최강자들 결국 법정 가는 이유",
+        "layer": "news",
+        "url": "https://www.hankyung.com/article/202607228651i",
+        "date": "2026.07.22",
+        "published": "2026-07-22T10:36:00+09:00",
+        "publisher": "한국경제"
+      },
+      {
+        "level": "High",
+        "title": "'위고비-마운자로 혈투' 법정으로…노보 \"릴리, 기만적 비교광고\"",
+        "layer": "news",
+        "url": "https://www.news1.kr/world/usa-canada/6234875",
+        "date": "2026.07.22",
+        "published": "2026-07-22T09:36:00+09:00",
+        "publisher": "news1.kr"
+      },
+      {
+        "level": "High",
+        "title": "위고비 vs 마운자로 이번엔 광고 전쟁…노보, 릴리 상대 소송",
+        "layer": "news",
+        "url": "https://www.news1.kr/bio/pharmaceutical-bio/6234814",
+        "date": "2026.07.22",
+        "published": "2026-07-22T08:37:00+09:00",
+        "publisher": "news1.kr"
+      },
+      {
+        "level": "High",
         "title": "\"위고비·마운자로 다이어트약 아냐\"…오남용 경고",
         "layer": "news",
         "url": "https://www.newsis.com/view/NISX20260708_0003700526",
         "date": "2026.07.08",
         "published": "2026-07-08T10:58:00+09:00",
         "publisher": "newsis.com"
-      },
-      {
-        "level": "High",
-        "title": "비만약 복제약 심사 돌입…유럽선 암종 불문 항암제 승인",
-        "layer": "news",
-        "url": "https://www.pharmnews.com/news/articleView.html?idxno=304527",
-        "date": "2026.06.30",
-        "published": "2026-06-30T09:14:00+09:00",
-        "publisher": "팜뉴스"
-      },
-      {
-        "level": "High",
-        "title": "참을 수 없는 \"폭식\", 비만 치료제로 줄인다",
-        "layer": "news",
-        "url": "http://www.whosaeng.com/172249",
-        "date": "2026.07.20",
-        "published": "2026-07-20T15:02:00+09:00",
-        "publisher": "whosaeng.com"
-      },
-      {
-        "level": "High",
-        "title": "한국릴리, '마운자로' 건보 급여 재도전…심평원에 재신청",
-        "layer": "news",
-        "url": "https://www.news1.kr/bio/pharmaceutical-bio/6220681",
-        "date": "2026.07.07",
-        "published": "2026-07-07T17:40:00+09:00",
-        "publisher": "news1.kr"
       }
     ],
     "PND3174": [
