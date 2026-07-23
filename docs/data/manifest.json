@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-23T20:18:36.166579+09:00",
+  "updated_at": "2026-07-24T07:45:54.186373+09:00",
   "dates": [
+    {
+      "date": "2026-07-24",
+      "total": 2307,
+      "counts": {
+        "core": 339,
+        "obesity": 612,
+        "npr": 316,
+        "platform": 470,
+        "reg": 348,
+        "mkt": 222
+      }
+    },
     {
       "date": "2026-07-23",
       "total": 2631,
@@ -719,30 +731,30 @@
     }
   ],
   "papers": {
-    "total": 2851,
+    "total": 2860,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1292,
+    "total": 1301,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 493,
+    "total": 504,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7421,
+  "news_recent_total": 7218,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1795,
-      "papers": 251,
-      "trials": 104,
-      "total": 2150,
-      "recent": "2026-07-23T20:00:00+09:00",
+      "news": 1762,
+      "papers": 253,
+      "trials": 105,
+      "total": 2120,
+      "recent": "2026-07-24T07:31:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -768,11 +780,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1030,
-      "papers": 174,
+      "news": 1012,
+      "papers": 176,
       "trials": 99,
-      "total": 1303,
-      "recent": "2026-07-23T20:00:00+09:00",
+      "total": 1287,
+      "recent": "2026-07-24T06:32:58+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -800,10 +812,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 57,
+      "news": 56,
       "papers": 140,
       "trials": 40,
-      "total": 237,
+      "total": 236,
       "recent": "2026-07-23T12:06:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -863,51 +875,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 468,
+      "news": 460,
       "papers": 0,
       "trials": 0,
-      "total": 468,
-      "recent": "2026-07-23T17:28:00+09:00",
+      "total": 460,
+      "recent": "2026-07-24T06:02:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 148,
+      "news": 146,
       "papers": 0,
       "trials": 0,
-      "total": 148,
+      "total": 146,
       "recent": "2026-07-23T06:12:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 78,
+      "news": 72,
       "papers": 0,
       "trials": 0,
-      "total": 78,
+      "total": 72,
       "recent": "2026-07-22T17:39:10+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 454,
+      "news": 455,
       "papers": 0,
       "trials": 0,
-      "total": 454,
-      "recent": "2026-07-23T19:49:43+09:00",
+      "total": 455,
+      "recent": "2026-07-24T06:06:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 321,
+      "news": 318,
       "papers": 1,
       "trials": 0,
-      "total": 322,
-      "recent": "2026-07-23T14:05:00+09:00",
+      "total": 319,
+      "recent": "2026-07-24T06:02:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -923,30 +935,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 300,
-      "yesterday": 360
+      "today": 60,
+      "yesterday": 332
     },
     "paper": {
-      "today": 3,
-      "yesterday": 20
+      "today": 0,
+      "yesterday": 5
     },
     "trial": {
       "today": 0,
-      "yesterday": 9
+      "yesterday": 10
     },
     "regulatory": {
-      "today": 4,
-      "yesterday": 13
+      "today": 11,
+      "yesterday": 4
     }
   },
   "trend": [
-    {
-      "date": "2026-06-24",
-      "news": 368,
-      "paper": 22,
-      "trial": 7,
-      "regulatory": 14
-    },
     {
       "date": "2026-06-25",
       "news": 305,
@@ -992,7 +997,7 @@
     {
       "date": "2026-07-01",
       "news": 307,
-      "paper": 73,
+      "paper": 74,
       "trial": 7,
       "regulatory": 12
     },
@@ -1006,7 +1011,7 @@
     {
       "date": "2026-07-03",
       "news": 241,
-      "paper": 27,
+      "paper": 30,
       "trial": 0,
       "regulatory": 6
     },
@@ -1055,7 +1060,7 @@
     {
       "date": "2026-07-10",
       "news": 295,
-      "paper": 19,
+      "paper": 20,
       "trial": 4,
       "regulatory": 10
     },
@@ -1104,7 +1109,7 @@
     {
       "date": "2026-07-17",
       "news": 112,
-      "paper": 13,
+      "paper": 14,
       "trial": 5,
       "regulatory": 14
     },
@@ -1138,17 +1143,24 @@
     },
     {
       "date": "2026-07-22",
-      "news": 360,
+      "news": 361,
       "paper": 20,
       "trial": 9,
       "regulatory": 13
     },
     {
       "date": "2026-07-23",
-      "news": 300,
-      "paper": 3,
-      "trial": 0,
+      "news": 332,
+      "paper": 5,
+      "trial": 10,
       "regulatory": 4
+    },
+    {
+      "date": "2026-07-24",
+      "news": 60,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 11
     }
   ],
   "alerts": [
@@ -1168,6 +1180,24 @@
       "published": "2026-07-08T14:11:00+09:00",
       "date": "2026.07.08",
       "publisher": "newsis.com"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "[미국 특징주] 릴리 차세대 비만약, 3상 2건 추가 성공…내년 1분기 FDA ...",
+      "layer": "news",
+      "url": "https://www.newspim.com/news/view/20260723001335",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-07-23T22:54:00+09:00",
+      "date": "2026.07.23",
+      "publisher": "newspim.com"
     },
     {
       "level": "High",
@@ -1257,30 +1287,16 @@
     {
       "level": "High",
       "score": 11,
-      "title": "삼천당제약, FDA Pre-ANDA 답변서 수령…“허가 문턱은 아직…”",
-      "layer": "news",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607201745360510777",
+      "title": "Cessation or Reduction of Alcohol Consumption in Veterans: A Randomized, Double-Blind, Placebo-Controlled Phase 3 Trial to Evaluate the Efficacy and Safety of a GLP-1 Receptor Agonist Semaglutide in U.S. Veterans With Alcohol Use Disorder",
+      "layer": "trial",
+      "url": "https://clinicaltrials.gov/study/NCT07218354",
       "companies": [],
       "pipelines": [
         "PT403"
       ],
-      "published": "2026-07-21T16:42:00+09:00",
-      "date": "2026.07.21",
-      "publisher": "dnews.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "삼천당제약, 경구용 세마글루타이드 'FDA Pre-ANDA' 공식 답변 확보",
-      "layer": "news",
-      "url": "http://www.srtimes.kr/news/articleView.html?idxno=207812",
-      "companies": [],
-      "pipelines": [
-        "PT403"
-      ],
-      "published": "2026-07-20T17:18:00+09:00",
-      "date": "2026.07.20",
-      "publisher": "srtimes.kr"
+      "published": "2026-07-23T00:00:00+09:00",
+      "date": "2026.07.23",
+      "publisher": "VA Office of Research and Development"
     }
   ],
   "highlights": {
@@ -1296,6 +1312,15 @@
       },
       {
         "level": "High",
+        "title": "[미국 특징주] 릴리 차세대 비만약, 3상 2건 추가 성공…내년 1분기 FDA ...",
+        "layer": "news",
+        "url": "https://www.newspim.com/news/view/20260723001335",
+        "date": "2026.07.23",
+        "published": "2026-07-23T22:54:00+09:00",
+        "publisher": "newspim.com"
+      },
+      {
+        "level": "High",
         "title": "'1위 자리 내 거야'…비만약 최강자들 결국 법정 가는 이유",
         "layer": "news",
         "url": "https://www.hankyung.com/article/202607228651i",
@@ -1320,15 +1345,6 @@
         "date": "2026.07.22",
         "published": "2026-07-22T08:37:00+09:00",
         "publisher": "news1.kr"
-      },
-      {
-        "level": "High",
-        "title": "\"위고비·마운자로 다이어트약 아냐\"…오남용 경고",
-        "layer": "news",
-        "url": "https://www.newsis.com/view/NISX20260708_0003700526",
-        "date": "2026.07.08",
-        "published": "2026-07-08T10:58:00+09:00",
-        "publisher": "newsis.com"
       }
     ],
     "PT404": [
@@ -1343,6 +1359,15 @@
       },
       {
         "level": "High",
+        "title": "[미국 특징주] 릴리 차세대 비만약, 3상 2건 추가 성공…내년 1분기 FDA ...",
+        "layer": "news",
+        "url": "https://www.newspim.com/news/view/20260723001335",
+        "date": "2026.07.23",
+        "published": "2026-07-23T22:54:00+09:00",
+        "publisher": "newspim.com"
+      },
+      {
+        "level": "High",
         "title": "'1위 자리 내 거야'…비만약 최강자들 결국 법정 가는 이유",
         "layer": "news",
         "url": "https://www.hankyung.com/article/202607228651i",
@@ -1367,15 +1392,6 @@
         "date": "2026.07.22",
         "published": "2026-07-22T08:37:00+09:00",
         "publisher": "news1.kr"
-      },
-      {
-        "level": "High",
-        "title": "\"위고비·마운자로 다이어트약 아냐\"…오남용 경고",
-        "layer": "news",
-        "url": "https://www.newsis.com/view/NISX20260708_0003700526",
-        "date": "2026.07.08",
-        "published": "2026-07-08T10:58:00+09:00",
-        "publisher": "newsis.com"
       }
     ],
     "PND3174": [

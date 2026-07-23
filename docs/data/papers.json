@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T20:17:42.960578+09:00",
-  "total": 2851,
+  "updated_at": "2026-07-24T07:44:54.750134+09:00",
+  "total": 2860,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -409,6 +409,40 @@
       "summary": "Cossu MV et al. · International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42486219/",
       "publisher": "International journal of infectious diseases ",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.23",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Advances in proteomics research related to semaglutide: evidence from humans and animals",
+      "summary": "Jia Q et al. · Journal of endocrinological investigation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42489869/",
+      "publisher": "Journal of endocrinological investigation",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Advances in Pectin-Based Bead Formation via Ionotropic Gelation for Enhanced Drug Delivery: A Scoping Review",
+      "summary": "Schroeder Borges LH et al. · Drug development and industrial pharmacy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42489579/",
+      "publisher": "Drug development and industrial pharmacy",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -1641,6 +1675,22 @@
       "date": "2026.07.17",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Association between glucagon-like peptide-1 receptor agonist use and ischemic stroke severity",
+      "summary": "Chen H et al. · Journal of the neurological sciences",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492143/",
+      "publisher": "Journal of the neurological sciences",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -3819,6 +3869,24 @@
       "companies": []
     },
     {
+      "title": "Real-world treatment satisfaction and experience with once-weekly tirzepatide: Insights from prescribing physicians and people with obesity or overweight",
+      "summary": "Gibble TH et al. · Obesity pillars",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42491427/",
+      "publisher": "Obesity pillars",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "Obesity in Adults with Type 1 Diabetes Mellitus",
       "summary": "Batman A et al. · Journal of obesity & metabolic syndrome",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42421260/",
@@ -5964,6 +6032,54 @@
       "companies": []
     },
     {
+      "title": "Comparative analysis of glucagon-like peptide-1 receptor agonists, metformin, and inositol in improving anthropometric and metabolic outcomes in women with polycystic ovary syndrome: a network meta-analysis",
+      "summary": "Omarion A et al. · Frontiers in endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490840/",
+      "publisher": "Frontiers in endocrinology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-03T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.03",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Sensory signaling mediates the systemic metabolic and neurological effects of epigallocatechin gallate",
+      "summary": "Yoshida Y et al. · Frontiers in nutrition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490925/",
+      "publisher": "Frontiers in nutrition",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-03T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.03",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Contractile effects of albiglutide in the human and mouse atrium",
+      "summary": "Neumann J et al. · Frontiers in endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490806/",
+      "publisher": "Frontiers in endocrinology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-03T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.03",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Rebooting blood vessel repair: implications of the SEMA-VR CardioLink-15 trial",
       "summary": "Verma R et al. · Current opinion in cardiology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42388102/",
@@ -7476,6 +7592,25 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Cardiovascular and Cerebrovascular Outcomes Risk Reduction Associated With Semaglutide vs Tirzepatide: A Target Trial Emulation",
+      "summary": "Azzam AY et al. · JACC. Advances",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42489387/",
+      "publisher": "JACC. Advances",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -34467,6 +34602,22 @@
       "summary": "Dziewońska A et al. · Archives of medical science : AMS",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42305296/",
       "publisher": "Archives of medical science : AMS",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-04-03T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.04.03",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Trends in Sodium-Glucose Cotransporter 2 Inhibitor and Glucagon‑Like Peptide‑1 Receptor Agonist Prescription Rates Among Patients With Type 2 Diabetes: An Epic Cosmos Real-World Data Analysis, 2014-2024",
+      "summary": "Zhang DS et al. · AACE endocrinology and diabetes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42491541/",
+      "publisher": "AACE endocrinology and diabetes",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
