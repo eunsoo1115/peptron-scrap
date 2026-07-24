@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-24T07:45:54.186373+09:00",
+  "updated_at": "2026-07-24T14:58:34.588290+09:00",
   "dates": [
     {
       "date": "2026-07-24",
-      "total": 2307,
+      "total": 2517,
       "counts": {
-        "core": 339,
-        "obesity": 612,
-        "npr": 316,
-        "platform": 470,
-        "reg": 348,
-        "mkt": 222
+        "core": 348,
+        "obesity": 733,
+        "npr": 319,
+        "platform": 483,
+        "reg": 365,
+        "mkt": 269
       }
     },
     {
@@ -731,7 +731,7 @@
     }
   ],
   "papers": {
-    "total": 2860,
+    "total": 2864,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -741,20 +741,20 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 504,
+    "total": 508,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7218,
+  "news_recent_total": 7362,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1762,
-      "papers": 253,
+      "news": 1789,
+      "papers": 255,
       "trials": 105,
-      "total": 2120,
-      "recent": "2026-07-24T07:31:00+09:00",
+      "total": 2149,
+      "recent": "2026-07-24T13:36:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -780,11 +780,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1012,
+      "news": 1028,
       "papers": 176,
       "trials": 99,
-      "total": 1287,
-      "recent": "2026-07-24T06:32:58+09:00",
+      "total": 1303,
+      "recent": "2026-07-24T14:36:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -812,11 +812,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 56,
+      "news": 57,
       "papers": 140,
       "trials": 40,
-      "total": 236,
-      "recent": "2026-07-23T12:06:00+09:00",
+      "total": 237,
+      "recent": "2026-07-24T11:50:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -875,51 +875,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 460,
+      "news": 464,
       "papers": 0,
       "trials": 0,
-      "total": 460,
-      "recent": "2026-07-24T06:02:00+09:00",
+      "total": 464,
+      "recent": "2026-07-24T13:06:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 146,
+      "news": 148,
       "papers": 0,
       "trials": 0,
-      "total": 146,
-      "recent": "2026-07-23T06:12:00+09:00",
+      "total": 148,
+      "recent": "2026-07-24T13:56:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 72,
+      "news": 73,
       "papers": 0,
       "trials": 0,
-      "total": 72,
-      "recent": "2026-07-22T17:39:10+09:00",
+      "total": 73,
+      "recent": "2026-07-24T14:48:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 455,
+      "news": 469,
       "papers": 0,
       "trials": 0,
-      "total": 455,
-      "recent": "2026-07-24T06:06:00+09:00",
+      "total": 469,
+      "recent": "2026-07-24T14:36:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 318,
+      "news": 324,
       "papers": 1,
       "trials": 0,
-      "total": 319,
-      "recent": "2026-07-24T06:02:00+09:00",
+      "total": 325,
+      "recent": "2026-07-24T11:56:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -935,19 +935,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 60,
-      "yesterday": 332
+      "today": 196,
+      "yesterday": 337
     },
     "paper": {
       "today": 0,
-      "yesterday": 5
+      "yesterday": 9
     },
     "trial": {
       "today": 0,
       "yesterday": 10
     },
     "regulatory": {
-      "today": 11,
+      "today": 15,
       "yesterday": 4
     }
   },
@@ -1129,38 +1129,38 @@
     },
     {
       "date": "2026-07-20",
-      "news": 340,
+      "news": 341,
       "paper": 9,
       "trial": 7,
       "regulatory": 0
     },
     {
       "date": "2026-07-21",
-      "news": 356,
+      "news": 357,
       "paper": 23,
       "trial": 7,
       "regulatory": 6
     },
     {
       "date": "2026-07-22",
-      "news": 361,
+      "news": 362,
       "paper": 20,
       "trial": 9,
       "regulatory": 13
     },
     {
       "date": "2026-07-23",
-      "news": 332,
-      "paper": 5,
+      "news": 337,
+      "paper": 9,
       "trial": 10,
       "regulatory": 4
     },
     {
       "date": "2026-07-24",
-      "news": 60,
+      "news": 196,
       "paper": 0,
       "trial": 0,
-      "regulatory": 11
+      "regulatory": 15
     }
   ],
   "alerts": [
@@ -1180,6 +1180,24 @@
       "published": "2026-07-08T14:11:00+09:00",
       "date": "2026.07.08",
       "publisher": "newsis.com"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "릴리 비만약 ‘레타트루타이드’, 임상 3상 2건 성공…내년 1분기 FDA BL...",
+      "layer": "news",
+      "url": "https://www.kukinews.com/article/view/kuk202607240024",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-07-24T09:50:00+09:00",
+      "date": "2026.07.24",
+      "publisher": "kukinews.com"
     },
     {
       "level": "High",
@@ -1283,20 +1301,6 @@
       "published": "2026-06-30T09:14:00+09:00",
       "date": "2026.06.30",
       "publisher": "팜뉴스"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "Cessation or Reduction of Alcohol Consumption in Veterans: A Randomized, Double-Blind, Placebo-Controlled Phase 3 Trial to Evaluate the Efficacy and Safety of a GLP-1 Receptor Agonist Semaglutide in U.S. Veterans With Alcohol Use Disorder",
-      "layer": "trial",
-      "url": "https://clinicaltrials.gov/study/NCT07218354",
-      "companies": [],
-      "pipelines": [
-        "PT403"
-      ],
-      "published": "2026-07-23T00:00:00+09:00",
-      "date": "2026.07.23",
-      "publisher": "VA Office of Research and Development"
     }
   ],
   "highlights": {
@@ -1312,6 +1316,15 @@
       },
       {
         "level": "High",
+        "title": "릴리 비만약 ‘레타트루타이드’, 임상 3상 2건 성공…내년 1분기 FDA BL...",
+        "layer": "news",
+        "url": "https://www.kukinews.com/article/view/kuk202607240024",
+        "date": "2026.07.24",
+        "published": "2026-07-24T09:50:00+09:00",
+        "publisher": "kukinews.com"
+      },
+      {
+        "level": "High",
         "title": "[미국 특징주] 릴리 차세대 비만약, 3상 2건 추가 성공…내년 1분기 FDA ...",
         "layer": "news",
         "url": "https://www.newspim.com/news/view/20260723001335",
@@ -1335,15 +1348,6 @@
         "url": "https://www.news1.kr/world/usa-canada/6234875",
         "date": "2026.07.22",
         "published": "2026-07-22T09:36:00+09:00",
-        "publisher": "news1.kr"
-      },
-      {
-        "level": "High",
-        "title": "위고비 vs 마운자로 이번엔 광고 전쟁…노보, 릴리 상대 소송",
-        "layer": "news",
-        "url": "https://www.news1.kr/bio/pharmaceutical-bio/6234814",
-        "date": "2026.07.22",
-        "published": "2026-07-22T08:37:00+09:00",
         "publisher": "news1.kr"
       }
     ],
@@ -1359,6 +1363,15 @@
       },
       {
         "level": "High",
+        "title": "릴리 비만약 ‘레타트루타이드’, 임상 3상 2건 성공…내년 1분기 FDA BL...",
+        "layer": "news",
+        "url": "https://www.kukinews.com/article/view/kuk202607240024",
+        "date": "2026.07.24",
+        "published": "2026-07-24T09:50:00+09:00",
+        "publisher": "kukinews.com"
+      },
+      {
+        "level": "High",
         "title": "[미국 특징주] 릴리 차세대 비만약, 3상 2건 추가 성공…내년 1분기 FDA ...",
         "layer": "news",
         "url": "https://www.newspim.com/news/view/20260723001335",
@@ -1382,15 +1395,6 @@
         "url": "https://www.news1.kr/world/usa-canada/6234875",
         "date": "2026.07.22",
         "published": "2026-07-22T09:36:00+09:00",
-        "publisher": "news1.kr"
-      },
-      {
-        "level": "High",
-        "title": "위고비 vs 마운자로 이번엔 광고 전쟁…노보, 릴리 상대 소송",
-        "layer": "news",
-        "url": "https://www.news1.kr/bio/pharmaceutical-bio/6234814",
-        "date": "2026.07.22",
-        "published": "2026-07-22T08:37:00+09:00",
         "publisher": "news1.kr"
       }
     ],

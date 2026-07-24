@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T07:44:54.750134+09:00",
-  "total": 2860,
+  "updated_at": "2026-07-24T14:57:28.965468+09:00",
+  "total": 2864,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -451,6 +451,74 @@
       "date": "2026.07.23",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "One receptor, two opposite approaches: efficacy and tolerability of GIPR agonism and antagonism in obesity pharmacotherapy",
+      "summary": "Gao SX et al. · Appetite",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492687/",
+      "publisher": "Appetite",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Impact of semaglutide on cognitive function in patients with type 2 diabetes and mild cognitive impairment: a 24-month observational study",
+      "summary": "Cassataro G et al. · Internal and emergency medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42493728/",
+      "publisher": "Internal and emergency medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide for prevention of type 2 diabetes in women with postpartum prediabetes after gestational diabetes: protocol for a Belgian multicentre double-blind randomised placebo-controlled trial",
+      "summary": "Vanlaer Y et al. · BMJ open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42493207/",
+      "publisher": "BMJ open",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Retatrutide and the urinary tract infection signal: Is the answer hidden in timing?",
+      "summary": "Koufakis T et al. · European journal of internal medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42493254/",
+      "publisher": "European journal of internal medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.23",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
