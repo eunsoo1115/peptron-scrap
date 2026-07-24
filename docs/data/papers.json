@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T14:57:28.965468+09:00",
-  "total": 2864,
+  "updated_at": "2026-07-24T20:08:45.530468+09:00",
+  "total": 2875,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -373,6 +373,22 @@
       "companies": []
     },
     {
+      "title": "Could GLP-1RAs improve outcomes for patients with chronic migraine?",
+      "summary": "Hou TW et al. · Expert review of clinical pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494252/",
+      "publisher": "Expert review of clinical pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-24T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.24",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Differential Effects of GLP-1 Receptor Agonist and SGLT2 Inhibitor Add-on Therapy on Outcomes Following Cardiac Surgery: A Propensity Score-Matched Analysis",
       "summary": "Biswas S et al. · Cardiology in review",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42487161/",
@@ -520,6 +536,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Retrospective Study of Foramen Magnum Development in Patients with Achondroplasia Starting Vosoritide Before Age Three",
+      "summary": "Nakagawa M et al. · Genetics in medicine : official journal of the American College of Medical Genetics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42495828/",
+      "publisher": "Genetics in medicine : official journal of th",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.23",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [
+        "PND3174"
+      ],
       "companies": []
     },
     {
@@ -1751,6 +1785,38 @@
       "summary": "Chen H et al. · Journal of the neurological sciences",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42492143/",
       "publisher": "Journal of the neurological sciences",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "A survey of primary care physicians' views on supporting patients who lose insurance coverage for Glucagon-Like Peptide-1-based drugs for weight management",
+      "summary": "Oshman L et al. · Obesity pillars",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494804/",
+      "publisher": "Obesity pillars",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Bitter hop nutraceutical stimulates fat mass loss while preserving muscle mass in a cohort of individuals with overweight or obesity receiving diet and exercise advice",
+      "summary": "Walker E et al. · Obesity pillars",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494803/",
+      "publisher": "Obesity pillars",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -4309,6 +4375,22 @@
       "companies": []
     },
     {
+      "title": "Therapeutic monoclonal antibodies for diabetic kidney disease: a narrative review from basic mechanisms to clinical evidence",
+      "summary": "Yang XH et al. · Frontiers in endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494867/",
+      "publisher": "Frontiers in endocrinology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-09T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.09",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Glucagon-Like Peptide-1 Receptor Agonist-Based Agents and Body Composition: Filling More Gaps",
       "summary": "Dubin RL et al. · Obesity (Silver Spring, Md.)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42415595/",
@@ -4666,6 +4748,22 @@
       "date": "2026.07.08",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Palonosetron-loaded binary ethosome-incorporated transdermal gel: Formulation optimization, in vitro/in vivo evaluation, and therapeutic efficacy in chemotherapy-induced nausea and vomiting",
+      "summary": "Wang Q et al. · International journal of pharmaceutics: X",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42495157/",
+      "publisher": "International journal of pharmaceutics: X",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-08T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.08",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
@@ -7679,6 +7777,38 @@
         "PT403",
         "PT404"
       ],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-like peptide-1 receptor agonists in India: Psychiatric considerations and the case for integrated metabo-psychiatry care",
+      "summary": "Alam A · Indian journal of psychiatry",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42495031/",
+      "publisher": "Indian journal of psychiatry",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Hypoglycemic and Hypolipidemic Potentials of Mulberry Fermented With Lactobacillus brevis YM 1301 and Lactobacillus plantarum CICC 24202",
+      "summary": "Wan J et al. · Journal of food science",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494166/",
+      "publisher": "Journal of food science",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -10730,6 +10860,24 @@
       "companies": []
     },
     {
+      "title": "Efficacy and Safety of Once-Weekly Semaglutide Versus Basal Insulin and Other GLP-1 Receptor Agonists in Adults With Type 2 Diabetes Uncontrolled on Oral Antidiabetic Drugs: A Systematic Review and Pairwise Meta-Analysis",
+      "summary": "Aljulajil FA et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42495484/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "Obesity Management Pharmacotherapies and Lifestyle Treatment for Pediatric Obesity Management: A Systematic Review and Network Meta-Analysis",
       "summary": "Wan KW et al. · JAMA pediatrics",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42329656/",
@@ -11229,6 +11377,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Evaluating the Cardiovascular Benefits of Innovator Semaglutide 2.4 mg (Recombinant DNA (r-DNA)) in Patients With Overweight or Obesity: A Critical Review of Current Evidence",
+      "summary": "Teli B et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42495454/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-22T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.22",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -13055,6 +13221,22 @@
       "pipelines": [
         "PT404"
       ],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 Receptor Agonists and Endoscopy: Understanding Gastric Stasis, Aspiration Risk, and Contemporary Peri-Procedural Guidance",
+      "summary": "Beig J et al. · Chronic diseases and translational medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494946/",
+      "publisher": "Chronic diseases and translational medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
