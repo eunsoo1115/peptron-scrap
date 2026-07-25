@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T14:50:17.673896+09:00",
-  "total": 2897,
+  "updated_at": "2026-07-25T19:41:06.876319+09:00",
+  "total": 2902,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -662,6 +662,40 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Comorbidity Between Mood Disorders and Chronic Somatic Diseases, With a Focus on Cardiometabolic Disease, and Its Mechanistic Crosstalk",
+      "summary": "Du H et al. · Depression and anxiety",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42499648/",
+      "publisher": "Depression and anxiety",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-24T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.24",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Therapeutic role of semaglutide in metabolic dysfunction-associated steatotic liver disease and metabolic dysfunction-associated steatohepatitis: A systematic review and meta-analysis of placebo-controlled trials with GRADE evidence assessment",
+      "summary": "Khan S et al. · Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42499082/",
+      "publisher": "Medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-24T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.24",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -3171,6 +3205,22 @@
       "companies": []
     },
     {
+      "title": "Combination GLP-1 receptor agonist and SGLT2 inhibitor therapy versus GLP-1 receptor agonist monotherapy on arrhythmia outcomes in non-diabetic obese patients: A real-world time-dependent analysis",
+      "summary": "Blankson GA et al. · International journal of cardiology. Cardiovascular risk and prevention",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42500549/",
+      "publisher": "International journal of cardiology. Cardiova",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-14T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.14",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Injectable hydrogel scaffolds with sustained bioactive release and multilevel architecture for cartilage repair",
       "summary": "Zeng J et al. · International journal of biological macromolecules",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42437644/",
@@ -4315,6 +4365,24 @@
       "summary": "Gibble TH et al. · Obesity pillars",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42491427/",
       "publisher": "Obesity pillars",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide and the gut microbiota-obesity axis: metabolic mechanisms and therapeutic perspectives",
+      "summary": "Cadena-Ullauri S et al. · Frontiers in microbiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42499664/",
+      "publisher": "Frontiers in microbiology",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -9455,6 +9523,24 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Papular granuloma annulare associated with tirzepatide: A case report",
+      "summary": "Howard T et al. · JAAD case reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42499401/",
+      "publisher": "JAAD case reports",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-27T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.27",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
