@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T15:14:08.678448+09:00",
-  "total": 2904,
+  "updated_at": "2026-07-26T19:49:46.368823+09:00",
+  "total": 2908,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -8268,6 +8268,22 @@
       "companies": []
     },
     {
+      "title": "Backbone N-Methylation Improves PPCA-Binding of a Stylissatin A Analogue via Conformational Modulation",
+      "summary": "Luthfiana D et al. · Chemistry, an Asian journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42502249/",
+      "publisher": "Chemistry, an Asian journal",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Oat β-glucan reshapes gut microbiota to enhance glucose homeostasis via coordinated modulation of bile acid conjugation and succinate-dependent intestinal gluconeogenesis",
       "summary": "Meng Y et al. · Food chemistry",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41980362/",
@@ -10379,6 +10395,40 @@
         "PT403",
         "PT404"
       ],
+      "companies": []
+    },
+    {
+      "title": "Possible Attenuation of Early Weight Loss During Tirzepatide Therapy in a Patient Treated With Levosulpiride: A Case Report and Mechanistic Hypothesis",
+      "summary": "Carducci A et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42502530/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Metabolic-Hormonal Interplay and the Case for a Reproductive-Metabolic Framework in the Glucagon-Like Peptide-1 (GLP-1) Era",
+      "summary": "Lakhani A et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42502525/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -33520,6 +33570,22 @@
       "date": "2026.04.23",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-Like Peptide-Based Therapy and Limb Outcomes in Patients With Peripheral Artery Disease and Diabetes: A Large-Scale Real-World Study",
+      "summary": "Oletu H et al. · Journal of the Society for Cardiovascular Angiography & Interventions",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42502338/",
+      "publisher": "Journal of the Society for Cardiovascular Ang",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-04-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.04.23",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
