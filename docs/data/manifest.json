@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-27T21:34:32.928881+09:00",
+  "updated_at": "2026-07-28T14:57:05.119105+09:00",
   "dates": [
+    {
+      "date": "2026-07-28",
+      "total": 2354,
+      "counts": {
+        "core": 330,
+        "obesity": 656,
+        "npr": 314,
+        "platform": 497,
+        "reg": 330,
+        "mkt": 227
+      }
+    },
     {
       "date": "2026-07-27",
       "total": 2755,
@@ -767,29 +779,29 @@
     }
   ],
   "papers": {
-    "total": 2918,
+    "total": 2944,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1308,
+    "total": 1321,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 517,
+    "total": 525,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7111,
+  "news_recent_total": 7225,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1743,
-      "papers": 263,
-      "trials": 106,
-      "total": 2112,
+      "news": 1762,
+      "papers": 264,
+      "trials": 108,
+      "total": 2134,
       "recent": "2026-12-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -816,11 +828,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 992,
-      "papers": 181,
-      "trials": 99,
-      "total": 1272,
-      "recent": "2026-07-27T21:11:00+09:00",
+      "news": 1010,
+      "papers": 182,
+      "trials": 100,
+      "total": 1292,
+      "recent": "2026-07-28T14:50:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -848,10 +860,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 52,
+      "news": 50,
       "papers": 141,
       "trials": 40,
-      "total": 233,
+      "total": 231,
       "recent": "2026-07-27T10:16:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -911,11 +923,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 422,
+      "news": 431,
       "papers": 0,
       "trials": 0,
-      "total": 422,
-      "recent": "2026-07-27T18:08:00+09:00",
+      "total": 431,
+      "recent": "2026-07-28T14:22:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -925,37 +937,37 @@
       "papers": 0,
       "trials": 0,
       "total": 135,
-      "recent": "2026-07-27T18:32:00+09:00",
+      "recent": "2026-07-28T07:30:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 67,
+      "news": 68,
       "papers": 0,
       "trials": 0,
-      "total": 67,
-      "recent": "2026-07-27T14:02:00+09:00",
+      "total": 68,
+      "recent": "2026-07-28T14:22:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 463,
+      "news": 466,
       "papers": 0,
       "trials": 0,
-      "total": 463,
-      "recent": "2026-07-27T18:08:00+09:00",
+      "total": 466,
+      "recent": "2026-07-28T12:02:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 326,
+      "news": 333,
       "papers": 1,
       "trials": 0,
-      "total": 327,
-      "recent": "2026-07-27T15:36:00+09:00",
+      "total": 334,
+      "recent": "2026-07-28T12:02:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -971,30 +983,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 332,
-      "yesterday": 71
+      "today": 171,
+      "yesterday": 347
     },
     "paper": {
-      "today": 1,
-      "yesterday": 7
+      "today": 0,
+      "yesterday": 15
     },
     "trial": {
       "today": 0,
-      "yesterday": 0
+      "yesterday": 15
     },
     "regulatory": {
-      "today": 0,
+      "today": 8,
       "yesterday": 0
     }
   },
   "trend": [
-    {
-      "date": "2026-06-28",
-      "news": 90,
-      "paper": 12,
-      "trial": 0,
-      "regulatory": 0
-    },
     {
       "date": "2026-06-29",
       "news": 285,
@@ -1011,22 +1016,22 @@
     },
     {
       "date": "2026-07-01",
-      "news": 307,
-      "paper": 80,
+      "news": 308,
+      "paper": 81,
       "trial": 7,
       "regulatory": 12
     },
     {
       "date": "2026-07-02",
       "news": 389,
-      "paper": 19,
+      "paper": 20,
       "trial": 5,
       "regulatory": 5
     },
     {
       "date": "2026-07-03",
       "news": 241,
-      "paper": 30,
+      "paper": 31,
       "trial": 0,
       "regulatory": 6
     },
@@ -1074,8 +1079,8 @@
     },
     {
       "date": "2026-07-10",
-      "news": 295,
-      "paper": 21,
+      "news": 296,
+      "paper": 22,
       "trial": 4,
       "regulatory": 10
     },
@@ -1096,13 +1101,13 @@
     {
       "date": "2026-07-13",
       "news": 259,
-      "paper": 33,
+      "paper": 34,
       "trial": 5,
       "regulatory": 6
     },
     {
       "date": "2026-07-14",
-      "news": 317,
+      "news": 316,
       "paper": 30,
       "trial": 15,
       "regulatory": 14
@@ -1145,14 +1150,14 @@
     {
       "date": "2026-07-20",
       "news": 341,
-      "paper": 10,
+      "paper": 11,
       "trial": 7,
       "regulatory": 0
     },
     {
       "date": "2026-07-21",
       "news": 360,
-      "paper": 23,
+      "paper": 25,
       "trial": 7,
       "regulatory": 6
     },
@@ -1172,7 +1177,7 @@
     },
     {
       "date": "2026-07-24",
-      "news": 344,
+      "news": 345,
       "paper": 19,
       "trial": 9,
       "regulatory": 17
@@ -1180,23 +1185,30 @@
     {
       "date": "2026-07-25",
       "news": 109,
-      "paper": 2,
+      "paper": 3,
       "trial": 0,
       "regulatory": 8
     },
     {
       "date": "2026-07-26",
-      "news": 71,
+      "news": 73,
       "paper": 7,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-07-27",
-      "news": 332,
-      "paper": 1,
-      "trial": 0,
+      "news": 347,
+      "paper": 15,
+      "trial": 15,
       "regulatory": 0
+    },
+    {
+      "date": "2026-07-28",
+      "news": 171,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 8
     }
   ],
   "alerts": [
@@ -1216,6 +1228,24 @@
       "published": "2026-07-08T14:11:00+09:00",
       "date": "2026.07.08",
       "publisher": "newsis.com"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "노보, 릴리 GLP-1 비교광고 중단 추진…\"구형 임상으로 우월성 과장\"",
+      "layer": "news",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=539277",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-07-28T05:52:00+09:00",
+      "date": "2026.07.28",
+      "publisher": "kpanews.co.kr"
     },
     {
       "level": "High",
@@ -1321,22 +1351,6 @@
       "published": "2026-07-08T10:58:00+09:00",
       "date": "2026.07.08",
       "publisher": "newsis.com"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "비만약 복제약 심사 돌입…유럽선 암종 불문 항암제 승인",
-      "layer": "news",
-      "url": "https://www.pharmnews.com/news/articleView.html?idxno=304527",
-      "companies": [
-        "lilly"
-      ],
-      "pipelines": [
-        "PT404"
-      ],
-      "published": "2026-06-30T09:14:00+09:00",
-      "date": "2026.06.30",
-      "publisher": "팜뉴스"
     }
   ],
   "highlights": {
@@ -1352,6 +1366,15 @@
       },
       {
         "level": "High",
+        "title": "노보, 릴리 GLP-1 비교광고 중단 추진…\"구형 임상으로 우월성 과장\"",
+        "layer": "news",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=539277",
+        "date": "2026.07.28",
+        "published": "2026-07-28T05:52:00+09:00",
+        "publisher": "kpanews.co.kr"
+      },
+      {
+        "level": "High",
         "title": "릴리 비만약 ‘레타트루타이드’, 임상 3상 2건 성공…내년 1분기 FDA BL...",
         "layer": "news",
         "url": "https://www.kukinews.com/article/view/kuk202607240024",
@@ -1376,15 +1399,6 @@
         "date": "2026.07.22",
         "published": "2026-07-22T10:36:00+09:00",
         "publisher": "한국경제"
-      },
-      {
-        "level": "High",
-        "title": "'위고비-마운자로 혈투' 법정으로…노보 \"릴리, 기만적 비교광고\"",
-        "layer": "news",
-        "url": "https://www.news1.kr/world/usa-canada/6234875",
-        "date": "2026.07.22",
-        "published": "2026-07-22T09:36:00+09:00",
-        "publisher": "news1.kr"
       }
     ],
     "PT404": [
@@ -1399,6 +1413,15 @@
       },
       {
         "level": "High",
+        "title": "노보, 릴리 GLP-1 비교광고 중단 추진…\"구형 임상으로 우월성 과장\"",
+        "layer": "news",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=539277",
+        "date": "2026.07.28",
+        "published": "2026-07-28T05:52:00+09:00",
+        "publisher": "kpanews.co.kr"
+      },
+      {
+        "level": "High",
         "title": "릴리 비만약 ‘레타트루타이드’, 임상 3상 2건 성공…내년 1분기 FDA BL...",
         "layer": "news",
         "url": "https://www.kukinews.com/article/view/kuk202607240024",
@@ -1423,15 +1446,6 @@
         "date": "2026.07.22",
         "published": "2026-07-22T10:36:00+09:00",
         "publisher": "한국경제"
-      },
-      {
-        "level": "High",
-        "title": "'위고비-마운자로 혈투' 법정으로…노보 \"릴리, 기만적 비교광고\"",
-        "layer": "news",
-        "url": "https://www.news1.kr/world/usa-canada/6234875",
-        "date": "2026.07.22",
-        "published": "2026-07-22T09:36:00+09:00",
-        "publisher": "news1.kr"
       }
     ],
     "PND3174": [
