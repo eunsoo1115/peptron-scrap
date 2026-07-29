@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-29T20:42:40.992088+09:00",
+  "updated_at": "2026-07-30T08:05:14.795998+09:00",
   "dates": [
+    {
+      "date": "2026-07-30",
+      "total": 871,
+      "counts": {
+        "core": 185,
+        "obesity": 194,
+        "npr": 135,
+        "platform": 150,
+        "reg": 136,
+        "mkt": 71
+      }
+    },
     {
       "date": "2026-07-29",
       "total": 2719,
@@ -791,29 +803,29 @@
     }
   ],
   "papers": {
-    "total": 3020,
+    "total": 3029,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1328,
+    "total": 1334,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 530,
+    "total": 532,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7650,
+  "news_recent_total": 7409,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1828,
-      "papers": 274,
+      "news": 1798,
+      "papers": 275,
       "trials": 111,
-      "total": 2213,
+      "total": 2184,
       "recent": "2026-12-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -840,11 +852,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1104,
-      "papers": 191,
-      "trials": 101,
-      "total": 1396,
-      "recent": "2026-07-29T19:36:00+09:00",
+      "news": 1064,
+      "papers": 192,
+      "trials": 103,
+      "total": 1359,
+      "recent": "2026-07-30T07:27:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -872,10 +884,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 50,
+      "news": 43,
       "papers": 143,
       "trials": 40,
-      "total": 233,
+      "total": 226,
       "recent": "2026-07-28T00:00:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -935,51 +947,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 470,
+      "news": 448,
       "papers": 0,
       "trials": 0,
-      "total": 470,
-      "recent": "2026-07-29T18:00:00+09:00",
+      "total": 448,
+      "recent": "2026-07-30T06:02:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 139,
+      "news": 134,
       "papers": 0,
       "trials": 0,
-      "total": 139,
+      "total": 134,
       "recent": "2026-07-29T15:42:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 72,
+      "news": 62,
       "papers": 0,
       "trials": 0,
-      "total": 72,
+      "total": 62,
       "recent": "2026-07-29T19:10:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 486,
+      "news": 479,
       "papers": 0,
       "trials": 0,
-      "total": 486,
-      "recent": "2026-07-29T17:49:00+09:00",
+      "total": 479,
+      "recent": "2026-07-30T07:02:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 344,
+      "news": 340,
       "papers": 1,
       "trials": 0,
-      "total": 345,
-      "recent": "2026-07-29T17:34:00+09:00",
+      "total": 341,
+      "recent": "2026-07-30T07:01:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -995,30 +1007,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 378,
-      "yesterday": 303
+      "today": 35,
+      "yesterday": 386
     },
     "paper": {
-      "today": 2,
-      "yesterday": 15
+      "today": 1,
+      "yesterday": 4
     },
     "trial": {
       "today": 0,
-      "yesterday": 8
+      "yesterday": 6
     },
     "regulatory": {
-      "today": 5,
-      "yesterday": 8
+      "today": 2,
+      "yesterday": 5
     }
   },
   "trend": [
-    {
-      "date": "2026-06-30",
-      "news": 279,
-      "paper": 34,
-      "trial": 7,
-      "regulatory": 18
-    },
     {
       "date": "2026-07-01",
       "news": 308,
@@ -1113,7 +1118,7 @@
     {
       "date": "2026-07-14",
       "news": 316,
-      "paper": 33,
+      "paper": 35,
       "trial": 15,
       "regulatory": 14
     },
@@ -1204,7 +1209,7 @@
     {
       "date": "2026-07-27",
       "news": 348,
-      "paper": 18,
+      "paper": 19,
       "trial": 15,
       "regulatory": 0
     },
@@ -1217,10 +1222,17 @@
     },
     {
       "date": "2026-07-29",
-      "news": 378,
-      "paper": 2,
-      "trial": 0,
+      "news": 386,
+      "paper": 4,
+      "trial": 6,
       "regulatory": 5
+    },
+    {
+      "date": "2026-07-30",
+      "news": 35,
+      "paper": 1,
+      "trial": 0,
+      "regulatory": 2
     }
   ],
   "alerts": [
@@ -1474,15 +1486,6 @@
         "publisher": "newspim.com"
       },
       {
-        "level": "High",
-        "title": "브릿지바이오(BBIO), 희귀질환 임상 연쇄 성공…FDA 승인 기대 급부상",
-        "layer": "news",
-        "url": "https://www.tokenpost.kr/news/market/373623",
-        "date": "2026.06.29",
-        "published": "2026-06-29T17:04:00+09:00",
-        "publisher": "tokenpost.kr"
-      },
-      {
         "level": "Medium",
         "title": "Biotech Advances VOXZOGO Toward Landmark US FDA Approval",
         "layer": "news",
@@ -1507,6 +1510,15 @@
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR2dYY2tqSDB2TUVwTmEtQjMtVktxZHFCZ05OSEpSS0xyVXpNOGlycHJfcXF5RzN0eUd4NXgzZS1BZWhNc3VSV2YxSEpyZGRkbExlM0x3SC1nSGVsVXMwekQxNFo3WlBITWtackVCUmI4blBiWm5IdFFseVlPRV9fZnFYWEc1NXllMnRZa294eGpDRVB2LS1SQlhqVXFTcWQ0WGJGRy1GRDY4NTdPNlhUTUlYMW1Cak9zajFNV19qZm1HRFhaQlpaamxfdHQxQ0p3a1VoLXRNdjBUR2djRWVKVW1SUlF2MzlZSVlYbTZR0gHzAUFVX3lxTFA3MkQ3S3RxNzZId1gtRlJ3eF9URnY2MU5mOGdfWjk0c045b1VyV3NmZGd2VEVGamJxZGhDTGdNQUdRbkJOSl84ODRNaGRlNzJzMXZ6R2I1WXpwTk8wMm5OZnhEZFNDeFliTXRsUEU4NThaWkFsS1BXZm9LR2lEYzNRTzJ2Zk84Sm12enI0SGh0RGFNYzRCRW4wQnkxUjd6a3l6dTVJQURjZkhUX3hwZ3FHd2M2aFJSaGdTcXUwZV9BNjA1TkM2enNzaWtMbTBnLXcwNWxONWx0TExubWJTaFJBelhyRk9tUE81XzFZSFRlaF9sZw?oc=5",
         "date": "2026.07.18",
         "published": "2026-07-18T06:46:17+09:00",
+        "publisher": "simplywall.st"
+      },
+      {
+        "level": "Medium",
+        "title": "BioMarin (BMRN) Wins FDA Review For VOXZOGO Full Approval In Achondroplasia",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTk1jWWFSNFlQVTctVU1fRzUwOFdETGc5OGlRQ18xZ09DR2VLZm51Rjc0SWQwTEFFY1pDV3h2RmhqVDJBNElMZzlWbG5IZ19yZGI0R0UwNUx4V1liaElPcUlqdjlyZ3lndi1xVUJSSVlzLWgwb0gyRHIzMzk1blFRcWd0cGlXaHAyaWpzTjF1MmFORUJNNlg4YjV0SzhLenlCMm1jbjdFU0JEQ1lmaFFtN0pMZlJWS0tBczEzQ0JPODhJc1NTbHF6RmRhVm40YjIzMU5XaTdZa1FZTTk0MWJvcUJUZ3VpN1VOY2pBTUxB0gHzAUFVX3lxTE9XelRZelJuUXlCcGpkeU1uWlpNNFh6RFZFNjJWRnk1Zng2THR4anlkMHJ6cnRma25RVGRYSXowdDBHVXBjaTBzQTR2eW1tQjRwWWR3a09DYzdfNHN5MXpjcUNPdF9TUmJKVEpPTTEtM2FaVkFZRDY3aFV5d2N5T2ZoV0p6T0hBd1NxY3AxQ0x3TURQd05tQ1ZTRmdtSlp6cmdWRUdYazFzbHNzS2gwOEhScnlJbEZCYTRMV1BPTGd5RlpGUjBydGhCSjdGQlZucUxXaHFUMVYyTkdDZVB1NTBDSmNzUUlfcm9GVkxITjY4Mkt4QQ?oc=5",
+        "date": "2026.07.16",
+        "published": "2026-07-16T19:31:37+09:00",
         "publisher": "simplywall.st"
       }
     ],
