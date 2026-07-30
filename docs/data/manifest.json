@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-30T08:05:14.795998+09:00",
+  "updated_at": "2026-07-30T14:53:13.234056+09:00",
   "dates": [
     {
       "date": "2026-07-30",
-      "total": 871,
+      "total": 2443,
       "counts": {
-        "core": 185,
-        "obesity": 194,
-        "npr": 135,
-        "platform": 150,
-        "reg": 136,
-        "mkt": 71
+        "core": 348,
+        "obesity": 683,
+        "npr": 314,
+        "platform": 506,
+        "reg": 342,
+        "mkt": 250
       }
     },
     {
@@ -803,7 +803,7 @@
     }
   ],
   "papers": {
-    "total": 3029,
+    "total": 3047,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -817,15 +817,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7409,
+  "news_recent_total": 7570,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1798,
-      "papers": 275,
+      "news": 1831,
+      "papers": 276,
       "trials": 111,
-      "total": 2184,
+      "total": 2218,
       "recent": "2026-12-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -852,11 +852,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1064,
+      "news": 1079,
       "papers": 192,
       "trials": 103,
-      "total": 1359,
-      "recent": "2026-07-30T07:27:00+09:00",
+      "total": 1374,
+      "recent": "2026-07-30T14:00:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -914,11 +914,11 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 17,
+      "news": 18,
       "papers": 30,
       "trials": 4,
-      "total": 51,
-      "recent": "2026-07-20T15:02:00+09:00",
+      "total": 52,
+      "recent": "2026-07-30T13:14:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -947,51 +947,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 448,
+      "news": 454,
       "papers": 0,
       "trials": 0,
-      "total": 448,
-      "recent": "2026-07-30T06:02:00+09:00",
+      "total": 454,
+      "recent": "2026-07-30T13:33:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 134,
+      "news": 151,
       "papers": 0,
       "trials": 0,
-      "total": 134,
-      "recent": "2026-07-29T15:42:00+09:00",
+      "total": 151,
+      "recent": "2026-07-30T14:46:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 62,
+      "news": 63,
       "papers": 0,
       "trials": 0,
-      "total": 62,
-      "recent": "2026-07-29T19:10:00+09:00",
+      "total": 63,
+      "recent": "2026-07-29T21:41:40+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 479,
+      "news": 481,
       "papers": 0,
       "trials": 0,
-      "total": 479,
-      "recent": "2026-07-30T07:02:00+09:00",
+      "total": 481,
+      "recent": "2026-07-30T13:14:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 340,
+      "news": 344,
       "papers": 1,
       "trials": 0,
-      "total": 341,
-      "recent": "2026-07-30T07:01:00+09:00",
+      "total": 345,
+      "recent": "2026-07-30T07:58:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1007,12 +1007,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 35,
-      "yesterday": 386
+      "today": 174,
+      "yesterday": 405
     },
     "paper": {
-      "today": 1,
-      "yesterday": 4
+      "today": 2,
+      "yesterday": 10
     },
     "trial": {
       "today": 0,
@@ -1208,29 +1208,29 @@
     },
     {
       "date": "2026-07-27",
-      "news": 348,
+      "news": 349,
       "paper": 19,
       "trial": 15,
       "regulatory": 0
     },
     {
       "date": "2026-07-28",
-      "news": 303,
+      "news": 305,
       "paper": 15,
       "trial": 8,
       "regulatory": 8
     },
     {
       "date": "2026-07-29",
-      "news": 386,
-      "paper": 4,
+      "news": 405,
+      "paper": 10,
       "trial": 6,
       "regulatory": 5
     },
     {
       "date": "2026-07-30",
-      "news": 35,
-      "paper": 1,
+      "news": 174,
+      "paper": 2,
       "trial": 0,
       "regulatory": 2
     }
@@ -1543,6 +1543,15 @@
       },
       {
         "level": "Medium",
+        "title": "글라세움 HSG4112, GLP-1 감량 정체 돌파…비만쥐 9일 만에 정상체중",
+        "layer": "news",
+        "url": "http://www.press9.kr/news/articleView.html?idxno=80340",
+        "date": "2026.07.30",
+        "published": "2026-07-30T13:14:00+09:00",
+        "publisher": "press9.kr"
+      },
+      {
+        "level": "Medium",
         "title": "HLB바이오스텝, 옙바이오 파킨슨병 신약 IND 승인 지원",
         "layer": "news",
         "url": "https://www.ziksir.com/news/articleView.html?idxno=140297",
@@ -1558,15 +1567,6 @@
         "date": "2026.07.16",
         "published": "2026-07-16T09:57:04+09:00",
         "publisher": "hdnews.co.kr"
-      },
-      {
-        "level": "Medium",
-        "title": "HLB바이오스텝, 파킨슨병 신약 임상 진입 지원…식약처 IND 승인",
-        "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13X1N2UGhXUFdoRjhKdnhfWDJQWVJ1Y1FzdEQ0bThfWExUand1VUlQek9KT2xNcC00MHV0ZktpRlNlR1JRVWtoNTNsVVNHY3VRWU1hano2bElJeFVFb3F2WHU1U3FCWkVnZlI0?oc=5",
-        "date": "2026.07.16",
-        "published": "2026-07-16T09:56:23+09:00",
-        "publisher": "충청시사신문"
       }
     ]
   }
