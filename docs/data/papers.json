@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-30T20:16:41.348051+09:00",
-  "total": 3065,
+  "updated_at": "2026-07-31T07:55:01.213985+09:00",
+  "total": 3072,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -715,6 +715,72 @@
       "summary": "Remiro-Azócar A et al. · Research synthesis methods",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42527984/",
       "publisher": "Research synthesis methods",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Design of a metabolically-stable peptide therapeutic with triple-hormone-receptor agonist activity",
+      "summary": "Vishnoi S et al. · Journal of computer-aided molecular design",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42530676/",
+      "publisher": "Journal of computer-aided molecular design",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Abrupt Smoking Cessation Due to Sensory Aversion Following Tirzepatide Initiation",
+      "summary": "Ceesay OI et al. · The primary care companion for CNS disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42530904/",
+      "publisher": "The primary care companion for CNS disorders",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "SURPASS-CVOT and the Emerging Biology of Cardiometabolic Benefit",
+      "summary": "Corrao S et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42530340/",
+      "publisher": "Diabetes, obesity & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Effect of Medications for Type 2 Diabetes on Cardiovascular Events and Mortality: A Comprehensive Pairwise and Network Meta-Analysis",
+      "summary": "Silverii GA et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42530338/",
+      "publisher": "Diabetes, obesity & metabolism",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -1989,6 +2055,22 @@
       "companies": []
     },
     {
+      "title": "Response to letter to the editor for \"Infigratinib low dose therapy is an effective strategy to treat hypochondroplasia\"",
+      "summary": "Legeai-Mallet L et al. · Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41593746/",
+      "publisher": "Journal of bone and mineral research : the of",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-24T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.24",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Differential Effects of GLP-1 Receptor Agonist and SGLT2 Inhibitor Add-on Therapy on Outcomes Following Cardiac Surgery: A Propensity Score-Matched Analysis",
       "summary": "Biswas S et al. · Cardiology in review",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42487161/",
@@ -2217,6 +2299,22 @@
       "date": "2026.07.23",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Brain-Wide Connectivity of GLP1R Neurons in the Thalamic Reticular Nucleus",
+      "summary": "Zhang X et al. · Journal of integrative neuroscience",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42530047/",
+      "publisher": "Journal of integrative neuroscience",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.23",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -3306,6 +3404,24 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Letter to the Editor Regarding \"Long-Term Mechanical Complications After Lumbar Fusion in Patients Receiving Tirzepatide vs Other GLP-1 Receptor Agonists\"",
+      "summary": "Wang J · Spine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42531456/",
+      "publisher": "Spine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-20T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.20",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
