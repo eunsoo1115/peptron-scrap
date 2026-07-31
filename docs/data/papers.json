@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T20:34:37.855233+09:00",
-  "total": 3096,
+  "updated_at": "2026-08-01T07:48:18.774788+09:00",
+  "total": 3108,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -631,6 +631,22 @@
       "companies": []
     },
     {
+      "title": "The emerging role of glucagon-like peptide-1 receptor agonists in idiopathic intracranial hypertension: Therapeutic potential and challenges",
+      "summary": "Thandampallayam M et al. · Indian journal of ophthalmology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42535806/",
+      "publisher": "Indian journal of ophthalmology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Altered G(i) signaling in enteroendocrine K cells in vivo causes pronounced changes in glucose homeostasis",
       "summary": "Rivera-Gonzalez O et al. · Science advances",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525756/",
@@ -675,6 +691,90 @@
       "date": "2026.07.31",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Effectiveness & safety of semaglutide in weight reduction in obese nondiabetic patients: A systematic review and meta-analysis",
+      "summary": "Naz F et al. · Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42536519/",
+      "publisher": "Medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-31T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.31",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Hypertensive disorders of pregnancy and GLP-1 receptor agonist timing: a systematic review and meta-analysis",
+      "summary": "Pisani D et al. · Endocrine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42536323/",
+      "publisher": "Endocrine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-31T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.31",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Early changes in renal function do not appear to mediate cardiovascular risk with dapagliflozin plus semaglutide: a real-world observational hypothesis-generating cohort study",
+      "summary": "AlTaweel MO et al. · Expert review of cardiovascular therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42535667/",
+      "publisher": "Expert review of cardiovascular therapy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-31T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.31",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Cardiovascular Effects of Glucagon Receptor Signaling Alone and Combined With Glucagon-Like Peptide-1 Receptor Signaling in Multiagonists: A Narrative Review With a Translational Focus",
+      "summary": "Kushner PR et al. · Journal of the American Heart Association",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42535526/",
+      "publisher": "Journal of the American Heart Association",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-31T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.31",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-like peptide-1 receptor agonists in pediatrics: The pancreatology perspective",
+      "summary": "Bass R et al. · Journal of pediatric gastroenterology and nutrition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42535519/",
+      "publisher": "Journal of pediatric gastroenterology and nut",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-31T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.31",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -1080,6 +1180,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Outpatient Dispensing Patterns and Changes in Tirzepatide Strength Mix in Japan: A Study Using the National Open Claims Data",
+      "summary": "Omura T et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42535213/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -4473,6 +4591,38 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Nucleus accumbens GLP-1 signaling and its role in reward and metabolic regulation: a systematic review",
+      "summary": "Edwiges M et al. · Frontiers in neuroanatomy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42534938/",
+      "publisher": "Frontiers in neuroanatomy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Fragile self, mechanical world: mechanistic delusions and ego fragility in schizotypal-affective spectrum disorder-a CARE case report",
+      "summary": "Rodrigues GA et al. · Frontiers in psychiatry",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42534876/",
+      "publisher": "Frontiers in psychiatry",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.16",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -11560,6 +11710,22 @@
       "date": "2026.06.30",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Characteristics of Opioid-Dependent Patients in the Inpatient Setting: A Cross-Sectional Study in Riyadh, Saudi Arabia",
+      "summary": "Zuraie MM et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42535190/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.30",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
@@ -43143,6 +43309,38 @@
       "date": "2026.01.01",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[An historical overview of GLP-1/GIP incretins. From hormone to \"swiss-army knife\" medications]",
+      "summary": "Portha B · Biologie aujourd'hui",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42536830/",
+      "publisher": "Biologie aujourd'hui",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-01-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.01.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[Changes in obesity management: The clinician's perspective]",
+      "summary": "Montastier E · Biologie aujourd'hui",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42536829/",
+      "publisher": "Biologie aujourd'hui",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-01-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.01.01",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
