@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-07-31T07:56:07.323924+09:00",
+  "updated_at": "2026-07-31T15:31:44.788008+09:00",
   "dates": [
     {
       "date": "2026-07-31",
-      "total": 2356,
+      "total": 2537,
       "counts": {
-        "core": 343,
-        "obesity": 663,
-        "npr": 313,
-        "platform": 463,
-        "reg": 343,
-        "mkt": 231
+        "core": 349,
+        "obesity": 739,
+        "npr": 319,
+        "platform": 483,
+        "reg": 372,
+        "mkt": 275
       }
     },
     {
@@ -815,7 +815,7 @@
     }
   ],
   "papers": {
-    "total": 3072,
+    "total": 3087,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -829,15 +829,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7467,
+  "news_recent_total": 7582,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1791,
+      "news": 1811,
       "papers": 276,
       "trials": 112,
-      "total": 2179,
+      "total": 2199,
       "recent": "2026-12-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -864,11 +864,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1049,
-      "papers": 194,
+      "news": 1070,
+      "papers": 195,
       "trials": 103,
-      "total": 1346,
-      "recent": "2026-07-31T06:14:00+09:00",
+      "total": 1368,
+      "recent": "2026-07-31T15:08:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -959,31 +959,31 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 458,
+      "news": 460,
       "papers": 0,
       "trials": 0,
-      "total": 458,
-      "recent": "2026-07-31T07:32:00+09:00",
+      "total": 460,
+      "recent": "2026-07-31T11:42:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 155,
+      "news": 163,
       "papers": 0,
       "trials": 0,
-      "total": 155,
-      "recent": "2026-07-30T19:58:00+09:00",
+      "total": 163,
+      "recent": "2026-07-31T14:05:51+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 60,
+      "news": 61,
       "papers": 0,
       "trials": 0,
-      "total": 60,
-      "recent": "2026-07-31T06:02:00+09:00",
+      "total": 61,
+      "recent": "2026-07-31T09:02:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
@@ -999,11 +999,11 @@
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 348,
+      "news": 349,
       "papers": 1,
       "trials": 0,
-      "total": 349,
-      "recent": "2026-07-31T06:02:00+09:00",
+      "total": 350,
+      "recent": "2026-07-31T14:00:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1019,12 +1019,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 57,
-      "yesterday": 287
+      "today": 167,
+      "yesterday": 288
     },
     "paper": {
       "today": 1,
-      "yesterday": 9
+      "yesterday": 22
     },
     "trial": {
       "today": 0,
@@ -1115,7 +1115,7 @@
     },
     {
       "date": "2026-07-13",
-      "news": 260,
+      "news": 261,
       "paper": 39,
       "trial": 5,
       "regulatory": 6
@@ -1186,7 +1186,7 @@
     {
       "date": "2026-07-23",
       "news": 342,
-      "paper": 15,
+      "paper": 16,
       "trial": 10,
       "regulatory": 4
     },
@@ -1220,28 +1220,28 @@
     },
     {
       "date": "2026-07-28",
-      "news": 305,
-      "paper": 15,
+      "news": 306,
+      "paper": 16,
       "trial": 8,
       "regulatory": 8
     },
     {
       "date": "2026-07-29",
-      "news": 407,
+      "news": 409,
       "paper": 11,
       "trial": 6,
       "regulatory": 5
     },
     {
       "date": "2026-07-30",
-      "news": 287,
-      "paper": 9,
+      "news": 288,
+      "paper": 22,
       "trial": 11,
       "regulatory": 5
     },
     {
       "date": "2026-07-31",
-      "news": 57,
+      "news": 167,
       "paper": 1,
       "trial": 0,
       "regulatory": 5
@@ -1264,6 +1264,21 @@
       "published": "2026-07-08T14:11:00+09:00",
       "date": "2026.07.08",
       "publisher": "newsis.com"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "신약 1개 임상 진입에 1억800만 달러 … FDA 허가까지 10.5년",
+      "layer": "news",
+      "url": "http://www.medisobizanews.com/news/articleView.html?idxno=140778",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-07-31T12:18:00+09:00",
+      "date": "2026.07.31",
+      "publisher": "medisobizanews.com"
     },
     {
       "level": "High",
@@ -1372,24 +1387,6 @@
       "published": "2026-07-22T09:36:00+09:00",
       "date": "2026.07.22",
       "publisher": "news1.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "위고비 vs 마운자로 이번엔 광고 전쟁…노보, 릴리 상대 소송",
-      "layer": "news",
-      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6234814",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-07-22T08:37:00+09:00",
-      "date": "2026.07.22",
-      "publisher": "news1.kr"
     }
   ],
   "highlights": {
@@ -1405,6 +1402,15 @@
       },
       {
         "level": "High",
+        "title": "신약 1개 임상 진입에 1억800만 달러 … FDA 허가까지 10.5년",
+        "layer": "news",
+        "url": "http://www.medisobizanews.com/news/articleView.html?idxno=140778",
+        "date": "2026.07.31",
+        "published": "2026-07-31T12:18:00+09:00",
+        "publisher": "medisobizanews.com"
+      },
+      {
+        "level": "High",
         "title": "비만약 특허 만료 대비…FDA, 펩타이드 제네릭 개발기준 개편",
         "layer": "news",
         "url": "https://www.medipana.com/news/articleView.html?idxno=415147",
@@ -1429,15 +1435,6 @@
         "date": "2026.07.24",
         "published": "2026-07-24T09:50:00+09:00",
         "publisher": "kukinews.com"
-      },
-      {
-        "level": "High",
-        "title": "[미국 특징주] 릴리 차세대 비만약, 3상 2건 추가 성공…내년 1분기 FDA ...",
-        "layer": "news",
-        "url": "https://www.newspim.com/news/view/20260723001335",
-        "date": "2026.07.23",
-        "published": "2026-07-23T22:54:00+09:00",
-        "publisher": "newspim.com"
       }
     ],
     "PT404": [
@@ -1452,6 +1449,15 @@
       },
       {
         "level": "High",
+        "title": "신약 1개 임상 진입에 1억800만 달러 … FDA 허가까지 10.5년",
+        "layer": "news",
+        "url": "http://www.medisobizanews.com/news/articleView.html?idxno=140778",
+        "date": "2026.07.31",
+        "published": "2026-07-31T12:18:00+09:00",
+        "publisher": "medisobizanews.com"
+      },
+      {
+        "level": "High",
         "title": "비만약 특허 만료 대비…FDA, 펩타이드 제네릭 개발기준 개편",
         "layer": "news",
         "url": "https://www.medipana.com/news/articleView.html?idxno=415147",
@@ -1476,15 +1482,6 @@
         "date": "2026.07.24",
         "published": "2026-07-24T09:50:00+09:00",
         "publisher": "kukinews.com"
-      },
-      {
-        "level": "High",
-        "title": "[미국 특징주] 릴리 차세대 비만약, 3상 2건 추가 성공…내년 1분기 FDA ...",
-        "layer": "news",
-        "url": "https://www.newspim.com/news/view/20260723001335",
-        "date": "2026.07.23",
-        "published": "2026-07-23T22:54:00+09:00",
-        "publisher": "newspim.com"
       }
     ],
     "PND3174": [
