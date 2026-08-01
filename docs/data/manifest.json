@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-08-01T07:49:22.592331+09:00",
+  "updated_at": "2026-08-01T15:08:35.947036+09:00",
   "dates": [
     {
       "date": "2026-08-01",
-      "total": 2343,
+      "total": 2422,
       "counts": {
-        "core": 342,
-        "obesity": 655,
-        "npr": 316,
-        "platform": 456,
-        "reg": 343,
-        "mkt": 231
+        "core": 344,
+        "obesity": 689,
+        "npr": 322,
+        "platform": 473,
+        "reg": 353,
+        "mkt": 241
       }
     },
     {
@@ -827,7 +827,7 @@
     }
   ],
   "papers": {
-    "total": 3108,
+    "total": 3123,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -841,15 +841,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7389,
+  "news_recent_total": 7406,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1794,
-      "papers": 278,
+      "news": 1799,
+      "papers": 279,
       "trials": 112,
-      "total": 2184,
+      "total": 2190,
       "recent": "2026-12-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -876,11 +876,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1008,
-      "papers": 197,
+      "news": 1011,
+      "papers": 198,
       "trials": 105,
-      "total": 1310,
-      "recent": "2026-08-01T06:20:00+09:00",
+      "total": 1314,
+      "recent": "2026-08-01T09:13:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1001,21 +1001,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 456,
+      "news": 457,
       "papers": 0,
       "trials": 0,
-      "total": 456,
-      "recent": "2026-08-01T03:03:06+09:00",
+      "total": 457,
+      "recent": "2026-08-01T10:36:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 357,
+      "news": 359,
       "papers": 1,
       "trials": 0,
-      "total": 358,
-      "recent": "2026-08-01T06:02:00+09:00",
+      "total": 360,
+      "recent": "2026-08-01T10:36:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1031,12 +1031,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 33,
-      "yesterday": 243
+      "today": 46,
+      "yesterday": 245
     },
     "paper": {
-      "today": 11,
-      "yesterday": 8
+      "today": 24,
+      "yesterday": 10
     },
     "trial": {
       "today": 0,
@@ -1232,29 +1232,29 @@
     },
     {
       "date": "2026-07-29",
-      "news": 410,
+      "news": 411,
       "paper": 11,
       "trial": 6,
       "regulatory": 5
     },
     {
       "date": "2026-07-30",
-      "news": 291,
+      "news": 292,
       "paper": 26,
       "trial": 11,
       "regulatory": 5
     },
     {
       "date": "2026-07-31",
-      "news": 243,
-      "paper": 8,
+      "news": 245,
+      "paper": 10,
       "trial": 8,
       "regulatory": 7
     },
     {
       "date": "2026-08-01",
-      "news": 33,
-      "paper": 11,
+      "news": 46,
+      "paper": 24,
       "trial": 0,
       "regulatory": 9
     }
