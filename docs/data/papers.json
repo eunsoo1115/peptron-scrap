@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T19:46:57.233249+09:00",
-  "total": 3145,
+  "updated_at": "2026-08-03T07:43:57.287428+09:00",
+  "total": 3147,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -475,6 +475,22 @@
       "summary": "White RD et al. · Cardiovascular diabetology. Endocrinology reports",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42542549/",
       "publisher": "Cardiovascular diabetology. Endocrinology rep",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Sepsis risk in patients with COPD and type 2 diabetes mellitus: influence of emerging antihyperglycemic therapies",
+      "summary": "Kuo KC et al. · Expert review of respiratory medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42543031/",
+      "publisher": "Expert review of respiratory medicine",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -2120,6 +2136,22 @@
       "pipelines": [
         "PT404"
       ],
+      "companies": []
+    },
+    {
+      "title": "Lithium and GLP-1-based therapies in bipolar disorder: an emerging pharmacovigilance signal and monitoring considerations",
+      "summary": "Cotrik E et al. · International clinical psychopharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42542974/",
+      "publisher": "International clinical psychopharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
