@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-08-06T07:57:49.783512+09:00",
+  "updated_at": "2026-08-06T14:59:20.300945+09:00",
   "dates": [
     {
       "date": "2026-08-06",
-      "total": 2291,
+      "total": 2515,
       "counts": {
-        "core": 339,
-        "obesity": 626,
-        "npr": 322,
-        "platform": 447,
-        "reg": 340,
-        "mkt": 217
+        "core": 375,
+        "obesity": 715,
+        "npr": 331,
+        "platform": 470,
+        "reg": 363,
+        "mkt": 261
       }
     },
     {
@@ -897,19 +897,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 583,
+    "total": 584,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7717,
+  "news_recent_total": 7882,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1884,
+      "news": 1912,
       "papers": 293,
       "trials": 113,
-      "total": 2290,
+      "total": 2318,
       "recent": "2026-12-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -936,11 +936,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1120,
+      "news": 1150,
       "papers": 203,
       "trials": 105,
-      "total": 1428,
-      "recent": "2026-08-06T07:30:19+09:00",
+      "total": 1458,
+      "recent": "2026-08-06T14:29:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -968,11 +968,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 34,
+      "news": 35,
       "papers": 144,
       "trials": 40,
-      "total": 218,
-      "recent": "2026-08-04T19:58:01+09:00",
+      "total": 219,
+      "recent": "2026-08-06T12:06:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1031,68 +1031,68 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 584,
+      "news": 611,
       "papers": 0,
       "trials": 0,
-      "total": 584,
-      "recent": "2026-08-06T06:02:00+09:00",
+      "total": 611,
+      "recent": "2026-08-06T14:34:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 179,
+      "news": 182,
       "papers": 0,
       "trials": 0,
-      "total": 179,
-      "recent": "2026-08-05T19:44:02+09:00",
+      "total": 182,
+      "recent": "2026-08-06T14:34:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 72,
+      "news": 76,
       "papers": 0,
       "trials": 0,
-      "total": 72,
-      "recent": "2026-08-05T16:22:00+09:00",
+      "total": 76,
+      "recent": "2026-08-06T10:08:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 543,
+      "news": 567,
       "papers": 0,
       "trials": 0,
-      "total": 543,
-      "recent": "2026-08-06T07:30:00+09:00",
+      "total": 567,
+      "recent": "2026-08-06T14:29:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 415,
+      "news": 428,
       "papers": 1,
       "trials": 0,
-      "total": 416,
-      "recent": "2026-08-06T07:32:00+09:00",
+      "total": 429,
+      "recent": "2026-08-06T14:20:00+09:00",
       "logo": "logos/novo.png"
     },
     {
       "id": "amgen",
       "label": "암젠 (Amgen)",
-      "news": 5,
+      "news": 7,
       "papers": 0,
       "trials": 0,
-      "total": 5,
-      "recent": "2026-08-05T17:20:00+09:00",
+      "total": 7,
+      "recent": "2026-08-06T12:38:00+09:00",
       "logo": "logos/amgen.png"
     }
   ],
   "kpi": {
     "news": {
-      "today": 90,
-      "yesterday": 398
+      "today": 246,
+      "yesterday": 403
     },
     "paper": {
       "today": 0,
@@ -1103,14 +1103,14 @@
       "yesterday": 7
     },
     "regulatory": {
-      "today": 8,
+      "today": 9,
       "yesterday": 7
     }
   },
   "trend": [
     {
       "date": "2026-07-08",
-      "news": 333,
+      "news": 334,
       "paper": 25,
       "trial": 7,
       "regulatory": 12
@@ -1278,7 +1278,7 @@
     },
     {
       "date": "2026-08-01",
-      "news": 65,
+      "news": 67,
       "paper": 38,
       "trial": 0,
       "regulatory": 9
@@ -1292,7 +1292,7 @@
     },
     {
       "date": "2026-08-03",
-      "news": 393,
+      "news": 394,
       "paper": 17,
       "trial": 3,
       "regulatory": 2
@@ -1306,17 +1306,17 @@
     },
     {
       "date": "2026-08-05",
-      "news": 398,
+      "news": 403,
       "paper": 1,
       "trial": 7,
       "regulatory": 7
     },
     {
       "date": "2026-08-06",
-      "news": 90,
+      "news": 246,
       "paper": 0,
       "trial": 0,
-      "regulatory": 8
+      "regulatory": 9
     }
   ],
   "alerts": [
