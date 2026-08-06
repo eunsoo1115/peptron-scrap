@@ -1,33 +1,572 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T14:58:15.630662+09:00",
-  "total": 2515,
+  "generated_at": "2026-08-06T20:30:35.723707+09:00",
+  "total": 2648,
   "counts": {
-    "core": 375,
-    "obesity": 715,
-    "npr": 331,
-    "platform": 470,
-    "reg": 363,
-    "mkt": 261
+    "core": 401,
+    "obesity": 763,
+    "npr": 334,
+    "platform": 482,
+    "reg": 375,
+    "mkt": 293
   },
   "items": [
     {
-      "title": "독자적 플랫폼 기술 결합… 보로노이, 차세대 신약 파이프라인 가동",
-      "summary": "오스코텍, 엔젠바이오, 에이비엘바이오, 펩트론이 상방 압력을 받으며 강세를 나타내고 있다. 젬백스, 큐라클, 지투지바이오, 명인제약, 듀켐바이오, 유한양행도 견조한 오름세를 유지 중이다. 치매 조기 진단 플랫폼과...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474997",
-      "publisher": "pinpointnews.co.kr",
+      "title": "외국인 3조3000억 순매도에 코스피 6200선 후퇴…반도체주 급락",
+      "summary": "HLB(3.87%), 펩트론(3.79%), 이오테크닉스(2.91%)도 강세를 보였다. 반면 주성엔지니어링(-6.65%), 원익IPS(-5.22%)는 반도체 투자심리 악화의 영향을 받으며 하락했다. 삼천당제약(-0.90%), 피에스케이(-5.09%), 로보티즈(-3.51...",
+      "url": "https://www.goodkyung.com/news/articleView.html?idxno=290028",
+      "publisher": "goodkyung.com",
       "source": "naver",
       "layer": "news",
       "region": "kr",
-      "published": "2026-08-06T14:34:00+09:00",
-      "time": "14:34",
+      "published": "2026-08-06T18:16:00+09:00",
+      "time": "18:16",
       "date": "2026.08.06",
       "year": 2026,
       "category": "core",
       "pipelines": [],
       "companies": [
-        "peptron",
-        "g2gbio"
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피, 간밤 미 반도체주 약세에 4.58% 급락...하이닉스 10%대 폭락",
+      "summary": "알테오젠(5.96%), 에코프로(1.58%), 에코프로비엠(0.79%), 레인보우로보틱스(1.14%), HLB(0.86%), 에이비엘바이오(3.08%), 펩트론(3.79%)은 올랐다. 반면 주성엔지니어링(-6.65%), 원익IPS(-5.22%)은 내렸다. 딜라이트닷넷 이남석",
+      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=119920",
+      "publisher": "delighti.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:28:00+09:00",
+      "time": "17:28",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "[Closing Market] KOSPI Plunges 4.58% to Close at 6,296.38 Amid Slightly W...",
+      "summary": "In the KOSDAQ market, Alteogen (+5.96%), ABL Bio (+3.87%), and Peptron (+3.79%) showed strength, driving the rebound of the KOSDAQ index. Won-Dollar Exchange Rate Closes Slightly Lower Despite...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274298",
+      "publisher": "businesskorea.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:22:00+09:00",
+      "time": "17:22",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "[마감 시황] 코스피, 4.58% 급락한 6,296.38로 마감…원/달러 환율, 전일...",
+      "summary": "코스닥시장에서는 알테오젠(+5.96%), 에이비엘바이오(+3.87%), 펩트론(+3.79%) 등이 강세를 보이며 코스닥 지수의 반등을 견인했다. 원·달러 환율, 극심한 주식시장 변동성에도 불구하고 소폭 내림세로 마감 서울...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274297",
+      "publisher": "businesskorea.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:04:00+09:00",
+      "time": "17:04",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피, 반도체 휘청이자 4%대 급락···화장품·은행 등 순환매",
+      "summary": "시가총액 상위 종목 가운데서는 알테오젠(5.96%), 에코프로(1.58%), 에코프로비엠(0.79%), 레인보우로보틱스(1.14%), 에이비엘바이오(3.87%), 펩트론(3.79%), 이오테크닉스(2.91%) 등이 상승한 반면 주성엔지니어링(-6.65%)과...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=635132",
+      "publisher": "seoulfn.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:03:00+09:00",
+      "time": "17:03",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "[오늘증시]삼성·하이닉스 급락에 코스피 6300선 붕괴…코스닥은 800선 ...",
+      "summary": "알테오젠(5.96%), 에이비엘바이오(3.87%), 펩트론(3.79%), 에코프로(1.58%), 레인보우로보틱스(1.14%) 등이 상승했고, 주성엔지니어링(-6.65%), 원익IPS(-5.22%)는 하락했다. 한편 이날 오후 3시 30분 서울외환시장에서 달러...",
+      "url": "http://www.queen.co.kr/news/articleView.html?idxno=461381",
+      "publisher": "queen.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:00:00+09:00",
+      "time": "17:00",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피, 6200대 마감…코스닥 5 거래일 연속 상승하며 종가 800선 복귀",
+      "summary": "시총 상위주 가운데 알테오젠(5.96%), 에이비엘바이오(3.87%), 펩트론(3.79%), 에코프로(1.58%), 레인보우로보틱스(1.14%) 등이 올랐고, 주성엔지니어링(-6.65%), 원익IPS(-5.22%) 등은 내렸다. 이날 유가증권시장과...",
+      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=66386",
+      "publisher": "newswhoplus.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:52:00+09:00",
+      "time": "16:52",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피, 반도체주 급락에 4.5% '뚝'…6290선 후퇴 마감",
+      "summary": "이밖에 HLB(3.87%), 펩트론(3.79%), 이오테크닉스(2.91%) 등도 상승으로 마감했다. 반면 주성엔지니어링은 6.65%, 원익IPS는 5.22% 각각 하락했다. 이밖에 삼천당제약(-0.90%), 피에스케이(-5.09%), 로보티즈(-3.51%) 등도 하락...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=849616",
+      "publisher": "newsworks.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:40:00+09:00",
+      "time": "16:40",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "(마감시황) 코스피, 매도 사이드카 발동 속 6,300선 하회…반도체 투톱...",
+      "summary": "알테오젠(5.96%)과 에코프로(1.58%), 에코프로비엠(0.79%), 레인보우로보틱스(1.14%), HLB(0.86%), 에이비엘바이오(3.87%), 펩트론(3.79%)은 상승한 반면 주성엔지니어링(6.65%)과 원익IPS(5.22%)는 하락했다. 리노공업은...",
+      "url": "https://www.news2day.co.kr/article/20260806500212",
+      "publisher": "news2day.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:36:00+09:00",
+      "time": "16:36",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스닥 '찔끔 상승'...알테오젠·펩트론·디앤디파마텍 '급등'",
+      "summary": "한국거래소에 따르면 제약바이오주 가운데 코스닥 시총 1위 알테오젠은 5.96% 급등했고 HLB(0.86%), 에이비엘바이오(3.87%), 펩트론(3.79%), 리가켐바이오(1.28%), 케어젠(5.03%), 휴젤(7.31%), 보로노이(6.78%), 올릭스...",
+      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=169470",
+      "publisher": "choicenews.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:32:00+09:00",
+      "time": "16:32",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "개인은 사고 외국인 팔고…최근 상승세였던 코스피, 4%대 급락 마감",
+      "summary": "알테오젠(5.96%), 에코프로(1.58%), 에코프로비엠(0.79%), 레인보우로보틱스(1.14%), HLB(0.86%), 에이비엘바이오(3.08%), 펩트론(3.79%)은 올랐다. 반면 주성엔지니어링(-6.65%), 원익IPS(-5.22%)은 내렸다. 이경민 대신증권...",
+      "url": "https://www.mk.co.kr/article/12119314",
+      "publisher": "매일경제",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:32:00+09:00",
+      "time": "16:32",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "'반도체株 와르르' 코스피 4%대↓⋯코스닥 800선 탈환",
+      "summary": "알테오젠(5.96%), 에코프로(1.58%), 에코프로비엠(0.79%), HLB(0.86%), 에이비엘바이오(3.87%), 펩트론(3.79%) 등 종목이 상승했다. 리노공업은 보합권에서 거래를 마무리했다. 주성에니지니어링과 원익IPS는 각각 6.65%, 5.22...",
+      "url": "http://www.inews24.com/view/1992661",
+      "publisher": "inews24.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:26:00+09:00",
+      "time": "16:26",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "[마감시황] \"삼전닉스 급락, 방산·금융은 강세\"…코스피 6300선 하회",
+      "summary": "코스닥 시가총액 상위 10개 종목 중 알테오젠(5.96%), 에이비엘바이오(3.87%), 펩트론(3.79%), 에코프로(1.58%), 레인보우로보틱스(1.14%), HLB(0.86%), 에코프로비엠(0.79%) 등은 상승했다. 하락종목은 주성엔지니어링(-6.65...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=538311",
+      "publisher": "joongangenews.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:22:00+09:00",
+      "time": "16:22",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피, 반도체 차익실현에 4%대 급락…코스닥은 800선 지켜내[마감시황...",
+      "summary": "알테오젠(+5.96%), 에코프로(+1.58%), 에코프로비엠(+0.79%), 레인보우로보틱스(+1.14%), 에이비엘바이오(+3.87%), 파마리서치(+4.37%), 펩트론(+3.79%), 이오테크닉스(+2.91%) 등이 일제히 올랐다. 반면 주성엔지니어링(-6.65...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260806029150275",
+      "publisher": "ekn.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:22:00+09:00",
+      "time": "16:22",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "외인 폭풍매도에 코스피 6200선 '털썩'…코스닥은 3주만에 800선 복귀",
+      "summary": "코스닥 시총 1위인 알테오젠(5.96%)이 강세를 보인 가운데 파마리서치(4.37%), 에이비엘바이오(3.87%), 펩트론(3.79%) 등이 상승했다. 이오테크닉스(2.91%), 심텍(2.91%), 에코프로(1.58%), 리가켐바이오(1.28...",
+      "url": "https://www.newsis.com/view/NISX20260806_0003739366",
+      "publisher": "newsis.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:21:00+09:00",
+      "time": "16:21",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "이틀 상승 '말짱 도루묵'…3조 팔아치운 외인에 코스피 4%대 '뚝'",
+      "summary": "파마리서치가 4%대 올랐고 에이비엘바이오, 펩트론이 3%대 상승했다. 이오테크닉스, 심텍은 2%대 올랐고 에코프로, 레인보우로보틱스, 리가켐바이오가 1%대 상승했다. 원익IPS가 5%대, 주성엔지니어링이 6%대 하락해...",
+      "url": "https://www.mt.co.kr/stock/2026/08/06/2026080615440763621",
+      "publisher": "머니투데이",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:18:00+09:00",
+      "time": "16:18",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피, 4% 내려 6300선…SK하이닉스, 10%↓ [MTN 마감시황]",
+      "summary": "시가총액 상위 종목에서는 알테오젠(5.96%), 에이비엘바이오(3.87%), 펩트론(3.79%), 에코프로(1.58%), 레인보우로보틱스(1.14%) 등이 상승했다. 반면 주성엔지니어링(-6.65%)과 원익IPS(-5.22%) 등 반도체 장비주는 약세를...",
+      "url": "https://news.mtn.co.kr/news-detail/2026080616100717857",
+      "publisher": "mtn.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:16:00+09:00",
+      "time": "16:16",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "[시황] 외인 3.3조 '팔자'에…코스피, 6200선 하락 마감",
+      "summary": "아울러 △에코프로비엠(0.79%) △레인보우로보틱스(1.14%) △HLB(0.86%) △에이비엘바이오(3.87%) △펩트론(3.79%) 모두 상승했다. 이와 달리 주성엔지니어링과 원익IPS는 전날보다 각각 6.65%, 5.22% 하락했으며...",
+      "url": "http://www.newsdream.kr/news/articleView.html?idxno=115829",
+      "publisher": "newsdream.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:14:00+09:00",
+      "time": "16:14",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "삼전닉스 급락에 코스피 6300선 내줘…코스닥은 800선 회복",
+      "summary": "알테오젠(5.96%), 에이비엘바이오(3.87%), 펩트론(3.79%), 에코프로(1.58%) 등이 올랐고, 주성엔지니어링(-6.65%), 원익IPS(-5.22%) 등 반도체 장비주는 약세를 보였다. 서울 외환시장에서 원·달러 환율은 전 거래일보다 0....",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=716284",
+      "publisher": "hidomin.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:14:00+09:00",
+      "time": "16:14",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "외국인 3.3조원 ‘매물 폭탄’…반도체 급락에 코스피 4.6%↓",
+      "summary": "에이비엘바이오(3.87%), 펩트론(3.79%), 에코프로(1.58%), 레인보우로보틱스(1.14%), HLB(0.86%), 에코프로비엠(0.79%) 등도 올랐다. 반도체 장비주는 약세를 보였다. 주성엔지니어링은 6.65%, 원익IPS는 5.22% 내렸다....",
+      "url": "https://www.ddaily.co.kr/page/view/2026080616092783817",
+      "publisher": "ddaily.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:14:00+09:00",
+      "time": "16:14",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피, 외국인 3.3조 순매도에 4%대 급락…6300선 하회 마감",
+      "summary": "알테오젠(5.96%)이 가장 크게 올랐으며, 에이비엘바이오(3.87%), 펩트론(3.79%), 레인보우로보틱스(1.14%) 등도 상승세를 보였다. 2차전지주인 에코프로(1.58%)와 에코프로비엠(0.79%)도 동반 상승했다. 이외에 HLB(0.86...",
+      "url": "http://www.metroseoul.co.kr/article/20260806500419",
+      "publisher": "metroseoul.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:12:00+09:00",
+      "time": "16:12",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피 4.58%↓, 반도체주 급락에 또다시 사이드카 발동",
+      "summary": "알테오젠이 5%대 상승했고 파마리서치(4.1%), 펩트론(4.08%), 에이비엘바이오(3.74%)도 올랐다. 원·달러 환율은 오후 3시30분 기준 전일 대비 0.7원 내린 1423.8원에 거래됐다. 코스피가 4% 넘게 급락 마감한 6일 오후...",
+      "url": "http://www.newskr.kr/news/articleView.html?idxno=105413",
+      "publisher": "newskr.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:12:00+09:00",
+      "time": "16:12",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피, 반도체株 급락에 4.6% 하락 마감",
+      "summary": "이어 파마리서치(+4.37%), 에이비엘바이오(+3.87%), 펩트론(+3.79%), 이오테크닉스(+2.91%), 심텍(+2.91%), 에코프로(+1.58%), 리가켐바이오(+1.28%), 레인보우로보틱스(+1.14%), HLB(+0.86%), 에코프로비엠(+0.79%)도 상승했다....",
+      "url": "https://www.sentv.co.kr/article/view/sentv202608060154",
+      "publisher": "sentv.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:08:00+09:00",
+      "time": "16:08",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "삼전닉스 투매에 코스피 4.58% 급락…코스닥은 5거래일 연속 상승[마감...",
+      "summary": "알테오젠은 5.96% 올랐고 에이비엘바이오와 펩트론도 각각 3.87%, 3.79% 상승했다. 이차전지주인 에코프로와 에코프로비엠은 각각 1.58%, 0.79% 올랐다. 반면 반도체 장비주는 코스피 반도체 대형주와 함께 약세를...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026080615541385451",
+      "publisher": "newsway.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:08:00+09:00",
+      "time": "16:08",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "미국 기술주 약세에 코스피 6290선으로 아직 높은 변동성…SK하이닉스 1...",
+      "summary": "시총 상위 10위 종목 중에서는 알테오젠(5.96%), 에코프로(1.58%), 에코프로비엠(0.79%), 레인보우로보틱스(1.14%), HLB(0.86%), 에이비엘바이오(3.87%), 펩트론(3.79%)이 상승했으며 주성엔지니어링(-6.65%), 원익IPS(-5.22%)는...",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=361403",
+      "publisher": "이데일리",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:04:00+09:00",
+      "time": "16:04",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피, 4.58% 내린 6296 마감...반도체 내리니 '은행·건설·화장품·철...",
+      "summary": "제약·바이오는 알테오젠 5.96%, HLB 0.86%, 에이비엘바이오 3.87%, 펩트론 3.79%이며, 로봇주 레인보우로보틱스(1.14%), 이차전지 에코프로(1.58%), 에코프로비엠(0.79%)도 상승했다.",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=142723",
+      "publisher": "opinionnews.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:02:00+09:00",
+      "time": "16:02",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피, 반도체 쇼크에 4%대 급락…삼성전자 6%·SK하이닉스 10%↓",
+      "summary": "시가총액 상위 종목에서는 알테오젠(5.96%), 에이비엘바이오(3.87%), 펩트론(3.79%), 에코프로(1.58%), HLB(0.86%), 에코프로비엠(0.79%) 등이 상승했다. 반면 주성엔지니어링(-6.65%), 원익IPS(-5.22%) 등은 하락했고 리노공업은...",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725802",
+      "publisher": "the-biz.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:02:00+09:00",
+      "time": "16:02",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피, 반도체 투매에 4.58% 급락 마감",
+      "summary": "알테오젠은 5.96%, 에이비엘바이오는 3.87%, 펩트론은 3.79% 상승했다. 반도체 장비주인 주성엔지니어링과 원익IPS는 각각 6.65%, 5.22% 하락했다. 코스피와 코스닥 모두 반도체 관련 종목이 약세를 보였지만 제약...",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308470",
+      "publisher": "straightnews.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "'삼전닉스' 급락에 코스피 4% 내려…'바이오' 업고 800스닥 회복[시황종...",
+      "summary": "코스닥 시가총액 상위 10개 종목 중 알테오젠(196170)(5.96%), 에이비엘바이오(298380)(3.87%), 펩트론(087010)(3.79%), 에코프로(086520)(1.58%), 레인보우로보틱스(277810)(1.14%), HLB(028300)(0.86%), 에코프로비엠(247540)(0....",
+      "url": "https://www.news1.kr/finance/market-exr/6251421",
+      "publisher": "news1.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "외국인 3.3조 순매도…코스피 6290선 하락 마감 [시황]",
+      "summary": "알테오젠(5.96%), 에코프로(1.58%), 에코프로비엠(0.79%), 레인보우로보틱스(1.14%), HLB(0.86%), 에이비엘바이오(3.87%), 펩트론(3.79%) 등이 상승했다. 반면 주성엔지니어링(-6.65%), 원익IPS(-5.22%)는 하락했고...",
+      "url": "https://www.dailian.co.kr/news/view/1675501/?sc=Naver",
+      "publisher": "dailian.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:59:00+09:00",
+      "time": "15:59",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
+      ]
+    },
+    {
+      "title": "코스피, 다시 6300선 아래로…2거래일 상승분 반납",
+      "summary": "주요 종목 중에서는 알테오젠(5.96%), 에코프로(1.58%), 에코프로비엠(0.79%), 레인보우로보틱스(1.14%), HLB(0.86%), 에이비엘바이오(3.87%), 펩트론(3.79%) 등이 상승세를 보였다. 반면, 주성엔지니어링(-6.65%), 원익IPS...",
+      "url": "https://www.g-enews.com/view.php?ud=202608061546081504923c501012_1",
+      "publisher": "g-enews.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:56:00+09:00",
+      "time": "15:56",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron"
       ]
     },
     {
@@ -40,24 +579,6 @@
       "region": "kr",
       "published": "2026-08-06T14:32:00+09:00",
       "time": "14:32",
-      "date": "2026.08.06",
-      "year": 2026,
-      "category": "core",
-      "pipelines": [],
-      "companies": [
-        "peptron"
-      ]
-    },
-    {
-      "title": "K바이오 새로운 성장축 부상…비만치료제 개발 경쟁 뜨겁다",
-      "summary": "펩트론은 비만치료제 관련 기술 기대감에 이날 오후 1시9분 현재 17만 8800원에 거래중이다. 펩타이드 기반 약물 전달 기술과 장기 지속형 주사제 개발 경쟁력이 부각되면서 투자자 관심이 집중되고 있다. 큐라티스는 강한...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474954",
-      "publisher": "pinpointnews.co.kr",
-      "source": "naver",
-      "layer": "news",
-      "region": "kr",
-      "published": "2026-08-06T13:12:00+09:00",
-      "time": "13:12",
       "date": "2026.08.06",
       "year": 2026,
       "category": "core",
@@ -302,7 +823,7 @@
     },
     {
       "title": "[이 시각 시황] 외국인 매도에 코스피 약세…로봇·바이오 강세",
-      "summary": "펩트론이 3.9% 오르며 178,200원입니다. 디앤디파마텍이 3% 강세입니다. 한미약품이 1.7% 오르며 386,500원입니다. 미용기기 관련주가 상승합니다. 에이피알이 어제(5일) 호실적을 발표했는데, 증권가에서 목표주가 상향...",
+      "summary": "지투지바이오가 3.4% 강세로 38,100원입니다. 펩트론이 3.9% 오르며 178,200원입니다. 디앤디파마텍이 3% 강세입니다. 한미약품이 1.7% 오르며 386,500원입니다. 미용기기 관련주가 상승합니다. 에이피알이 어제(5일)...",
       "url": "https://biz.sbs.co.kr/article_hub/20000326959?division=NAVER",
       "publisher": "biz.sbs.co.kr",
       "source": "naver",
@@ -315,7 +836,8 @@
       "category": "core",
       "pipelines": [],
       "companies": [
-        "peptron"
+        "peptron",
+        "g2gbio"
       ]
     },
     {
@@ -427,24 +949,6 @@
       ]
     },
     {
-      "title": "큐라티스 ·디앤디파마텍 폭등랠리… 바이오 섹터 부활 신호탄인가",
-      "summary": "크로넥스, 인바이츠바이오코아, 펩트론이 상방 압력을 받고 있으며, 오가노이드사이언스, 큐로셀, 쿼드메디슨, 휴젤 역시 매수세가 이어지며 오름세를 지속하고 있다. 엑셀세라퓨틱스, 파로스아이바이오, 알지노믹스...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474865",
-      "publisher": "pinpointnews.co.kr",
-      "source": "naver",
-      "layer": "news",
-      "region": "kr",
-      "published": "2026-08-06T09:28:00+09:00",
-      "time": "09:28",
-      "date": "2026.08.06",
-      "year": 2026,
-      "category": "core",
-      "pipelines": [],
-      "companies": [
-        "peptron"
-      ]
-    },
-    {
       "title": "코스피, 장 초반 소폭 하락…반도체株 약세",
       "summary": "코스닥 시가총액 상위 종목 중에서는 심텍(+6.89%), 펩트론(+5.07%)이 급등했고, 레인보로보틱스(+3.72%), 에이비엘바이오(+3.12%), 로보티즈(+2.07%), 에코프로(+2.07%), 파마리서치(+1.98%) 등도 상승했다. 알테오젠은...",
       "url": "https://www.sentv.co.kr/article/view/sentv202608060024",
@@ -463,28 +967,6 @@
       ]
     },
     {
-      "title": "하나증권 \"일라이릴리 마운자로 판매 호조에 2분기 호실적, 비만치료제...",
-      "summary": "<일라이릴리> 관련종목으로는 펩트론, 디앤디파마텍, 인벤티지랩, 한미약품, 동아에스티, 올릭스, 대봉엘에스 등을 꼽았다. 일라이릴리는 현지시각 5일 실적발표에서 2026년 2분기 매출 229억7천만 달러를 거뒀다고...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444065",
-      "publisher": "businesspost.co.kr",
-      "source": "naver",
-      "layer": "news",
-      "region": "kr",
-      "published": "2026-08-06T09:02:00+09:00",
-      "time": "09:02",
-      "date": "2026.08.06",
-      "year": 2026,
-      "category": "core",
-      "pipelines": [
-        "PT404"
-      ],
-      "companies": [
-        "peptron",
-        "inventage",
-        "lilly"
-      ]
-    },
-    {
       "title": "美반도체 차익실현에 '삼전닉스' 프리마켓서 2~3%대 약세",
       "summary": "알테오젠(196170)(2.89%), 에이비엘바이오(298380)(2.74%), 펩트론(087010)(5.54%) 등이 오르고 있다. 이에 프리마켓에서 거래 중인 550개 종목이 기준가 대비 2.20% 내리고 있다. 이날 약세는 간밤 뉴욕 증시에서 AI...",
       "url": "https://www.news1.kr/finance/market-exr/6250594",
@@ -494,24 +976,6 @@
       "region": "kr",
       "published": "2026-08-06T08:26:00+09:00",
       "time": "08:26",
-      "date": "2026.08.06",
-      "year": 2026,
-      "category": "core",
-      "pipelines": [],
-      "companies": [
-        "peptron"
-      ]
-    },
-    {
-      "title": "GLP-1 경쟁, 체중 감량에서 '치료 지속성ㆍ투약 편의ㆍ맞춤치료'로 이동",
-      "summary": "일동제약과 디앤디파마텍은 경구제를, 대원제약은 마이크로니들 패치를, 펩트론은 1개월 이상 약효가 지속되는 제제를 개발 중이다. 보고서는 향후 기초연구 분야로 다중 타깃 작용제와 약물전달 기술, 치료 반응 예측...",
-      "url": "http://www.newsmp.com/news/articleView.html?idxno=257221",
-      "publisher": "newsmp.com",
-      "source": "naver",
-      "layer": "news",
-      "region": "kr",
-      "published": "2026-08-06T06:02:00+09:00",
-      "time": "06:02",
       "date": "2026.08.06",
       "year": 2026,
       "category": "core",
@@ -7043,6 +7507,551 @@
       ]
     },
     {
+      "title": "웃지 못한 노보, 선방한 릴리…왜 주가 엇갈렸나?",
+      "summary": "노보노디스크가 비만 치료제 수요 확대에 힘입어 연간 실적 전망치를 상향했다. 다만 주가 향방은 엇갈렸다. 5일(현지 시간) 파이낸셜타임스(FT)에 따르면 노보노디스크는 GLP-1 계열 치료제 판매 기대치가 높아짐에...",
+      "url": "https://www.mk.co.kr/article/12119701",
+      "publisher": "매일경제",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T20:19:00+09:00",
+      "time": "20:19",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": [
+        "lilly",
+        "novo"
+      ]
+    },
+    {
+      "title": "“마운자로 용량 늘린 뒤 배가 너무 아파”…장에 구멍 뚫려 73세女 사망...",
+      "summary": "마운자로의 주성분은 '티르제파타이드'로, 혈당과 식욕 조절에 관여하는 GIP와 GLP-1 수용체를 함께 자극하는... 당뇨병이 없는 비만 및 과체중 성인 2539명을 대상으로 한 SURMOUNT-1 임상시험에서는 72주 뒤 평균 체중이...",
+      "url": "https://kormedi.com/?p=2842809",
+      "publisher": "kormedi.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T20:03:00+09:00",
+      "time": "20:03",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "“마운자로 용량 늘린 뒤 배가 너무 아파”…장에 구멍 뚫려 73세女 사망, 무슨 일?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yVW1UbXJtUnFnVFAyS1FUa3d4SnBiTU90ak5iUFZubm03aTVaQ0M2SXp0dTQ2ZGJER2FHc2FBQTdDQQ?oc=5",
+      "publisher": "코메디닷컴",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T20:02:00+09:00",
+      "time": "20:02",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Dutch pharmacy exemption defence fails in Novo Nordisk semaglutide case",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNnF1cnFhZjdOSm1XZ3U2SDZtNl9BMFVMeFVzQW80VXZKVFY1V3NreEdvNlRNbUxOWVBmRzNXazliSnRlU25NQWFHV2RHYkdFRUxOUmF0Y1MzYnQ5S2g5QXdtYnoyejdDV3F4T00zSkpSR3hCNHJuUDl1SzhycWJaOWVTZlV3UXFNN3pSUFJRRE5lenZEVm5QWkNfQ21MUlBRZWRpTUVTcGU5Zw?oc=5",
+      "publisher": "JUVE Patent",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T19:33:10+09:00",
+      "time": "19:33",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": [
+        "novo"
+      ]
+    },
+    {
+      "title": "마운자로 시대에도 상담 받는 이유…체중관리도 맞춤형 웰니스 시대",
+      "summary": "[사진=황래환 기자] 마운자로와 위고비 등 GLP-1 계열 비만치료제가 확산되면서 체중 관리의 관심도 '얼마나 빼느냐'에서 '어떻게 유지하느냐'로 옮겨가고 있다. 체중계 숫자보다 체지방과 근육량, 생활습관까지 함께...",
+      "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=79526",
+      "publisher": "mkhealth.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T19:20:00+09:00",
+      "time": "19:20",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Amazon Pharmacy now delivers GLP-1 medications to eligible Medicare patients for $50 a month",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oZ3huT3Ezc0RTbFJjeGNySWFZRTJkcGZLRHRqXzVaT2xNakVzQVNJXzg3TnBxekRJWHVEV2U1UzZWN21ReElROS1fSlNtUGNIRFpSQUVXbm84S19nN0VfMnYxamUtT1JFck1hMzJOQWQ4YWEzckRUbi1n?oc=5",
+      "publisher": "About Amazon",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T19:07:15+09:00",
+      "time": "19:07",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Research chief sees no need to launch high-dose Wegovy pill",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUTDExOG5pS1JOUjhTeG1ocWFmN21WemJvYlVDZGRDa1liZEM2LXM1bDZJcFVabDRlU19OM2FiSzdkVlF4SmZ2RjRMeG9DdmtKZW5lcHVZX29ZWldYWGxDd2Y2NnZ4eGVyT280?oc=5",
+      "publisher": "medwatch.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T18:15:52+09:00",
+      "time": "18:15",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "[더벨][현장+] [영상] AI가 뒤덮은 바이오USA, 한 계단 올라선 K바이오 위...",
+      "summary": "◇GLP-1 앞세운 일동제약, 기술이전 넘어 기술도입까지 글루카곤유사펩타이드-1(GLP-1) 계열 비만치료제와 칼륨... 특히 저희는 중국 쪽에서 임상 2상, 3상에 있는 것들을 한국 시장으로 갖고 들어온다는 게 솔직히 예외적인...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608061615088040105660",
+      "publisher": "thebell.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:58:00+09:00",
+      "time": "17:58",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Diabetes drug Mounjaro found to cut heart attack risk by a third for first time",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWm5iNjVZOWNPNl9ocVpuRE5ReEpFVE1XVGlmMGZQMXJuRFVvU1hBUVM0bnk2Q0J0cEg1T2l1aDVIbFB1cFJGZEdGTG9PQ1hncnN0U1ZENzlrN0o5REgzdVdPMGlsS0NZdERNUVQ0MzJYdy1Ic0JxdUk4RWlYSnQxRA?oc=5",
+      "publisher": "Yahoo News New Zealand",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T17:48:51+09:00",
+      "time": "17:48",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "위고비 맞는 당뇨병 환자, 골절 위험 21% 낮아",
+      "summary": "위고비 등 GLP-1 계열 약물을 사용한 2형당뇨병 환자는 다른 당뇨병 치료제를 사용한 환자보다 골절 위험이 낮았다는 연구 결과가 나왔다. 미국 UCLA 연구진은 50~90세 당뇨병 환자 13만3600여 명의 의료 기록을 분석해 GLP-1...",
+      "url": "https://health.chosun.com/site/data/html_dir/2026/08/06/2026080602766.html",
+      "publisher": "health.chosun.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:42:00+09:00",
+      "time": "17:42",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "커지는 비만약 시장…K-바이오, 핵심 원료 '펩타이드' 생산 경쟁",
+      "summary": "이런 측면들이 이렇게 시장이 커지기 때문에 기업들이 관심을 갖는 것 같습니다. ]펩타이드는 아미노산이 사슬처럼 연결된 물질로, GLP-1 비만약 생산에 활용되는 핵심 원료입니다. 생산 과정이 까다롭고, 대량 생산을...",
+      "url": "https://news.mtn.co.kr/news-detail/2026080616331389408",
+      "publisher": "mtn.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:36:00+09:00",
+      "time": "17:36",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Incretin-based Drugs Market Size, Share and Forecast [2034]",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PZTFtaXluaWRSbHRrTFRSRm0yRm1KSFB6dTFKS19NZ1dIUlBmTFE4WlhZVHpCYUJ3cFoyVU52UkZYTFNTVEtJRXpseEFFa2ZuSVc0SFBlSW1mWVJsSXFGV1Zma011Ymx0NDVQYUV6Z1haNkFDVFUxdWdyR2JNNkk?oc=5",
+      "publisher": "Fortune Business Insights",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T17:26:30+09:00",
+      "time": "17:26",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "소통 늘린 삼천당제약, 설명 정확성은 숙제…'64명' 표기 정정",
+      "summary": "경구용 세마글루타이드 SCD0509에 대한 설명도 기존 입장을 되풀이하는 수준이다. 삼천당제약은 미국 FDA로부터 프리안다(Pre-ANDA) 제품개발 미팅 답변서를 받았고 답변서에 미팅 추적번호와 오리지널 대조약인 리벨서스가...",
+      "url": "https://kormedi.com/?p=2843213",
+      "publisher": "kormedi.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:16:00+09:00",
+      "time": "17:16",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "\"건강수명 연장에 기여하는 치료제 개발에 총력 기울이겠다\"",
+      "summary": "이어 \"GLP-1 계열 비만 치료제가 유발하는 근육 감소를 보완하는 병용요법은 물론 루게릭병과 듀센형 근이영양증 같은 희귀질환 치료제로도 개발을 진행하고 있다\"고 밝혔다. 신약 개발과 함께 사업 영역도 확대하고...",
+      "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=180352",
+      "publisher": "newsmaker.or.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:16:00+09:00",
+      "time": "17:16",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "빅파마 발표에 K-바이오 '흔들'…로열티 기대에서 개발 중단까지",
+      "summary": "반면 디앤디파마텍의 경구용 비만치료제 후보물질은 개발 중단 목록에 올랐고, GC녹십자 관계사였던... 그러나 멧세라가 과거 디앤디파마텍에서 도입한 경구용 GLP-1 후보물질 'MET-224o'는 어닝콜 본문에 등장하지 않았다....",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026080612000303214",
+      "publisher": "newsway.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:04:00+09:00",
+      "time": "17:04",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "깊이가 다른 글로벌 투자 정보 GAM - 맛보기편 (8/6)",
+      "summary": "젭바운드 매출 '잭팟' 비만약 겨냥한 OZEM 모멘텀 일라이 릴리의 젭바운드와 노보 노디스크의 위고비 [사진=로이터 뉴스핌] [ETF 특징주] 다우존스 연이은 최고치 행진에 DIA·DDL 반색 캐터필러의 중장비 [사진=블룸버그]",
+      "url": "https://www.newspim.com/news/view/20260806000834",
+      "publisher": "newspim.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:59:00+09:00",
+      "time": "16:59",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": [
+        "lilly",
+        "novo"
+      ]
+    },
+    {
+      "title": "비만 치료제, 알약이 주사 대체할까…같은 날 갈린 두 회사 답 [마켓프...",
+      "summary": "올해 초부터 본격화한 먹는 GLP-1 계열 비만 치료제 경쟁이다. 두 회사는 같은 시장을 두고 정반대의 설명을 내놨다. 분기 성장률 48%(릴리) 대 7%(노보) 릴리의 2분기 매출은 전년 동기보다 48% 늘었다. 비만 치료제...",
+      "url": "http://www.joseilbo.com/news/news_read.php?uid=573383&class=17&grp=",
+      "publisher": "joseilbo.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:55:00+09:00",
+      "time": "16:55",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": [
+        "lilly",
+        "novo"
+      ]
+    },
+    {
+      "title": "'몸무게 125kg' 여자가 55kg 감량하고 올린 전후 사진... 네티즌 \"인간승...",
+      "summary": "A씨 다이어트를 도운 약은 비만 치료제 마운자로다. 마운자로는 미국 제약사 일라이 릴리가 개발한 GLP-1·GIP 수용체 이중작용제다. 성분명은 티르제파타이드. 인크레틴 호르몬인 GLP-1과 GIP 수용체를 동시에 활성화해...",
+      "url": "https://www.wikitree.co.kr/articles/1150874",
+      "publisher": "wikitree.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:52:00+09:00",
+      "time": "16:52",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": [
+        "lilly"
+      ]
+    },
+    {
+      "title": "[ETF 특징주] 젭바운드 매출 '잭팟' 비만약 겨냥한 OZEM 모멘텀",
+      "summary": "XLV(Health Care Select Sector SPDR Fund)와 PPH(VanEck Pharmaceutical ETF) 등 헬스케어 ETF에도 GLP-1 관련 종목들이 편입됐지만 비만약 테마를 보다 집중적으로 겨냥한 상품으로는 OZEM이 대표적이다. 펀드는 최근 1년 사이 약 36...",
+      "url": "https://www.newspim.com/news/view/20260806001102",
+      "publisher": "newspim.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:27:00+09:00",
+      "time": "16:27",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "FIRST AID: Germany gets first Wegovy pill",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DUy1jZm12OEpWc2cwcjB0WkFXNEdwSUZQMm5lWWpJX0N6N3h4X3hHOHpGOGY2SERxR3Bta0c0eXc5R3NIcEhzT011SF9sNU5EcFJTZkhKNXBValNGTkdIQzBmNkFSZWRfTXpVSXY4S1U3Ym5EQ1JSeWFIMA?oc=5",
+      "publisher": "euractiv.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T16:26:05+09:00",
+      "time": "16:26",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "마운자로 이후 다이어트 시장은 어떻게 변했을까요? - 마케팅 - 정보공유",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uSjRibmVnaVF3TFVtWERPLUtWWHlMdThXbnNkczF1blktLUhHS1ZsOHFFTlhvWUgzcVl1S2hwaThDWG1SYmJZQ0N6ZnhFNVk?oc=5",
+      "publisher": "아이보스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:13:57+09:00",
+      "time": "16:13",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "5대 제약사 2Q 수익성 희비…\"기술료·수출이 갈랐다\"",
+      "summary": "노보 노디스크의 비만치료제 '위고비'를 비롯해 간장질환용제 '고덱스', 위식도역류질환 치료제 '펙수클루' 등 도입 품목이 견조한 성장세를 보이며 매출 확대에 기여했다. 다만 원가율 상승으로 수익성은 후퇴했다....",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=203313",
+      "publisher": "sisaon.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:04:00+09:00",
+      "time": "16:04",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": [
+        "novo"
+      ]
+    },
+    {
+      "title": "Novo executive sees Wegovy price dynamics in the US as expected",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBraEZLcVd0eWN4QWowVGY4VG1OTmFKVjZOYXJLQlItTXp0U25OelF1Z3RMRlFrM2RfM1RUOVEzN2ZxV3BuanMzLXVEWThidEFZRW5pdlQ4b0RhY0RqZkt6SzUtMVBiRS00RDh3bXRZYw?oc=5",
+      "publisher": "medwatch.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": [
+        "novo"
+      ]
+    },
+    {
+      "title": "릴리 2/4분기 실적 “이보다 더 좋을 수 없다”",
+      "summary": "일라이 릴리社가 비만 치료제 ‘젭바운드’(티어제파타이드)와 2형 당뇨병 치료제 ‘마운자로’... 개별제품별로 2/4분기 실적을 살펴보면 2형 당뇨병 치료제 ‘마운자로’(티어제파타이드)가 99억4,300만 달러의...",
+      "url": "https://www.yakup.com/news/index.html?mode=view&cat=16&nid=330772",
+      "publisher": "약업신문",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:52:00+09:00",
+      "time": "15:52",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": [
+        "lilly"
+      ]
+    },
+    {
+      "title": "\"알고 보니 한국 회사였어?\"…위고비·마운자로 열풍에 대박 난 '인바디...",
+      "summary": "최근 GLP-1 비만치료제 열풍 속에서 코스닥 상장주 '인바디'가 다시금 증시에서 수혜주로 떠올랐다. 6일 한국거래소에 따르면, 이날 코스닥 시장에서 인바디는 전일 대비 23.46% 오른 7만원에 거래를 마쳤다. 장중 개인과...",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=271246",
+      "publisher": "newsquest.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:42:00+09:00",
+      "time": "15:42",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "“알약이 더 편하다” 통념 흔든 비만약 시장…신규 환자 4명 중 3명 주사 선택",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NMG95Q2tFWkE2M0xKVUdKSWtVcUVneDNrMndNQVRHWlZacEpPa1JaWERJWjBQam92U3dIWU1lWGZXTkJiaEw0VElGN3NxNjBjUHpYMHEwQmc1LVNwcWZac3EzZDF2NEU?oc=5",
+      "publisher": "hkn24.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:41:33+09:00",
+      "time": "15:41",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "오젬픽: 아름다움을 숭배했던 시대의 상징.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40VTNrVTIyaEJZeDhIYm9jb0dXSlpMdEg1bFJMYWhSTm41VWV6M0YtRVJsS09oSUZOelVDR2JDbU9fRmpEREM5LTU1cHlVeDRhYURtRVBZZ1dBYXhmYl9XQ2llUkZjUHJjSDU2cWRkMzlsdkV2ckdpWFB0ODh3NzA?oc=5",
+      "publisher": "Vietnam.vn",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:21:19+09:00",
+      "time": "15:21",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "일라이 릴리, 2분기 매출 32조원…비만약 호조에 연간 전망 상향",
+      "summary": "핵심 제품인 '마운자로(Mounjaro)'와 '젭바운드(Zepbound)'의 성장세를 바탕으로 연간 매출 전망도 상향... 실적 성장을 이끈 것은 GLP-1·GIP 이중작용 기전의 티르제파타이드 기반 치료제인 마운자로와 젭바운드였다. 두...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719438",
+      "publisher": "ebn.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:18:00+09:00",
+      "time": "15:18",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": [
+        "lilly"
+      ]
+    },
+    {
+      "title": "비만약 호황에도 엇갈린 릴리·노보…노보, 과한 의존에 주가 4%↓",
+      "summary": "GLP-1 계열 비만·당뇨병 치료제 판매 기대치가 높아진 영향이었다. 노보의 2분기 순매출도 785억 덴마크크로네(17조 1780여억원)로, 환율 영향을 제외하면 전년 동기 대비 3% 증가했다. 조정 영업이익도 334억 크로네(약...",
+      "url": "https://www.newsis.com/view/NISX20260806_0003738971",
+      "publisher": "newsis.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:15:00+09:00",
+      "time": "15:15",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": [
+        "lilly",
+        "novo"
+      ]
+    },
+    {
+      "title": "기술수출 넘어 상업화로…K-바이오 플랫폼의 ‘다음 관문’",
+      "summary": "6일 제약바이오업계에 따르면 화이자는 최근 경구용 GLP-1 비만치료제 후보물질 ‘MET-224o’ 개발을 중단했다. MET-224o는 화이자가 지난해 인수한 미국 바이오기업 멧세라의 파이프라인으로, 디앤디파마텍의 경구용...",
+      "url": "https://www.mydaily.co.kr/page/view/2026080600401413639",
+      "publisher": "mydaily.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T14:56:00+09:00",
+      "time": "14:56",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "일라이 릴리, 젭바운드·마운자로 효과에 2분기 깜짝 실적",
       "summary": "지난 4월 미국 식품의약국(FDA)의 승인을 받아 판매가 시작된 경구용 비만 치료제 파운다요의 매출도 이번 2분기 실적부터 반영됐다. 파운다요의 2분기 매출은 9800만달러였다. 일라이 릴리는 올해 연간 매출...",
       "url": "https://www.hankyung.com/article/202608068517i",
@@ -7101,7 +8110,45 @@
       "companies": []
     },
     {
+      "title": "South Korean firm develops human fat skin booster to treat ‘Ozempic face’",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDQxN3p4aFdIMEJFZnhQZHB3Z05wY2x0NFRTVFk5QnRsWHk3LVNRdWZuUXlVWTBodGxTQ1pIbjVIS2l0MlZlY3lwSmNXa3NLOTlaMkU3ZXlHeE9NZDFUTFpLb3I0V18yWGZhUEk5ODZBU3JPeUJfZTFYYlNtaHBlajRaUVk1TGZUUTd1QVpHTnplcW93aXZHMmhtVFlkY2lKdHlldHlfQWVkQUsxZmtyOHNZUmM0MFMwY2N4VzJEQXk5emvSAcMBQVVfeXFMTm1kY2MtbS1ucGxIV09NLS1EWXBheDRXRGRLbVM0YnV0cUtWVnQ1NDJ0LTVOdWVpdm5YSFhDb0wzSG83YTRyOGJyQmtkQ09aS29nZHlLSllGd1p4MFZRNzMyNk5JMFVsWXcxdzZxQ3VTLTNfWkVFbVYtVnlQR3dic0FwR2JxVnFvdFdKb2hBc05yVE5SbmFjUEJsQWhESEkyVERvcnlHUXNNSWJZbmI2empySl9ZU2J4M2FpNExmZGszUi00?oc=5",
+      "publisher": "South China Morning Post",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T13:25:26+09:00",
+      "time": "13:25",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "노보노, ‘위고비 알약’ 성장세 불구 “시장 기대 못미쳐”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBRFRYdDJySXhhdElwWVN5Q1BBaVJjeEc4bGJFa2ZCT0t3VjBHZk5Wd05wTnBONjdjTXFKemRKZ1UxRXZjaXIxQldrZjBwNUVpeXlGRTZTWQ?oc=5",
+      "publisher": "바이오스펙테이터",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T13:00:00+09:00",
+      "time": "13:00",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": [
+        "novo"
+      ]
+    },
+    {
+      "title": "노보노, ‘위고비 알약’ 매출증가 “시장 기대 못미쳐”",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBRFRYdDJySXhhdElwWVN5Q1BBaVJjeEc4bGJFa2ZCT0t3VjBHZk5Wd05wTnBONjdjTXFKemRKZ1UxRXZjaXIxQldrZjBwNUVpeXlGRTZTWQ?oc=5",
       "publisher": "바이오스펙테이터",
@@ -7244,6 +8291,24 @@
       "region": "kr",
       "published": "2026-08-06T11:46:00+09:00",
       "time": "11:46",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "다이어트한 스타들|이승철, 위고비로 감량 성공 근황…올해 할아버지 된다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HYUQzdFlqaEFiUkZXR2tja3NYc1V5b1RwTjlWVE8zRkllN3UwNkl5bVE0SEY2eHhhQVhVMFJmdVVlM0NvYmRGYU5CMHgwd0ljVDhiZ1JldlM?oc=5",
+      "publisher": "news.zum.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T11:45:13+09:00",
+      "time": "11:45",
       "date": "2026.08.06",
       "year": 2026,
       "category": "obesity",
@@ -7486,6 +8551,22 @@
       "companies": [
         "lilly"
       ]
+    },
+    {
+      "title": "식약처, GLP-1 비만치료제 불법 유통 6개소 적발…“처방전 없이 판매 엄단”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTNEVHJiLXBFaVNMTXAzY211MFd4bjJEX3NFcW9ZYlJvQk5iTnByNWZuOGFOWEpaWlpaeWtXU0MzMkFVdlNzbHJOajUyUjF5bXRKeWVwbXc5ODJ2b3VlbWtTS1lzWE1PZFR0WmFPMm50THRrMXk1N0c0ZThvV3NSaFNUU05ocFlmUTJ6Zmw0djlEX21vZ3lGWEFqUl8yRDZOV05TRTF3?oc=5",
+      "publisher": "약업신문",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T10:46:57+09:00",
+      "time": "10:46",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
     },
     {
       "title": "\"약만으론 한계\"…당뇨병 '시작' 막는 의사과학자의 도전 [내일의 닥터...",
@@ -7905,6 +8986,26 @@
       ]
     },
     {
+      "title": "하나증권 \"일라이릴리 마운자로 판매 호조에 2분기 호실적, 비만치료제...",
+      "summary": "글로벌 GLP-1(글루카곤 유사 펩타이드) 계열의 비만치료제 마운자로와 젭바운드 매출이 전체의 약 65%를 차지하며 글로벌 수요의 높은 성장세를 입증했다. 일라이릴리는 2026년 연간 매출 전망은 기존 820억~850억...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444065",
+      "publisher": "businesspost.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T09:02:00+09:00",
+      "time": "09:02",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": [
+        "lilly"
+      ]
+    },
+    {
       "title": "다이어트 주사 처방 급증… 무분별한 사용 부작용 우려 높아",
       "summary": "최근 비만치료제에 eogs 관심이 높아지면서 GLP-1 계졀 비만치료제인 '마운자로'와 '위고비' 처방이 빠르게 증가하고 있다. 특히 마운자로는 국내 출시 약 10개월만에 누적 처방 150만 건을 넘어선 것으로 알려졌다. 처방의...",
       "url": "http://www.medisobizanews.com/news/articleView.html?idxno=140948",
@@ -7962,6 +9063,22 @@
       "companies": [
         "lilly"
       ]
+    },
+    {
+      "title": "[임상·비만] 'GLP-1 + 대사 AI' 융합… 비만 치료제 요요방지 AI 솔루션 글로벌 임상 2상 결실",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tWlN0eWJFS2REMjVkTW1CM00zWkRnQ0NZSkNBLUlRWlk3Nm8xYmdxd21pTWNPcDd0ak92cE9qUTUxbWpzWEpXS1gzQWlIQ2dnemxtNVdIY2VQVUEySkt3RVhpSGVkaFNl?oc=5",
+      "publisher": "dhtimes.co.kr",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T08:49:43+09:00",
+      "time": "08:49",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
     },
     {
       "title": "이승철 맞아? 위고비로 살 쏙 뺀 근황…\"올해 할아버지 된다\" (유퀴즈)",
@@ -8072,6 +9189,24 @@
       "companies": [
         "lilly"
       ]
+    },
+    {
+      "title": "먹는 위고비 500만건 처방에도 주가 하락…GLP-1 경쟁은 이제 ‘가격·근육·지속성’",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1maFBtdE95QWhzZmd1akZ3aHhoVzNaYlhlMWhDb1BicjYwVldSaFpKSzdnVzFEeFRWYTZlbG1ObDRvZW1aOGRtckF0WmxjaWR4NVBNX1MySTFJV1JRWVEzM1piY2RlQlRR?oc=5",
+      "publisher": "dhtimes.co.kr",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T08:11:18+09:00",
+      "time": "08:11",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
     },
     {
       "title": "[뉴욕마켓워치] 호르무즈 정말 열리나 지켜보자…주식 혼조·채권↑달러...",
@@ -8349,6 +9484,26 @@
       ]
     },
     {
+      "title": "Lilly Beats Quarterly Estimates and Lifts Guidance on Mounjaro, Zepbound Sales",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTlEyZUpZbXNFUnBjaHNQS1JJdHpuVUpka0k5aWxPUVpKRktnWllVTng4cFZzc29vN3JwVmNTSGhfc1F3ZmlCR2dseC15aklqMGpZbkhIaW9VSmtmREQ2dVpqRDY4VVpnZjFsNUJaR3BnQU1kQ2YxM0FjWDRmNnczeFNNVnpUWTFMZ1BFT1lpaFR3QQ?oc=5",
+      "publisher": "Briefs Finance",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T06:51:07+09:00",
+      "time": "06:51",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": [
+        "lilly"
+      ]
+    },
+    {
       "title": "성인 10명 중 5명 \"주사보다 먹는 비만치료제 선호\"…위고비·마운자로 인지도 90% 육박",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56aDZsUjY4eE9LdlRNQ3Jfa1ptUEpKd0Z6M2dSbWZWNU5XV0F1dnFicS1Ga0R6OHpYaVh0VUx6aVVzaEZDYjRnOWpfWnBzVlluQUdKdHhEbGtKOU01YVVMY3IyWVJzUFVqNUh4Zg?oc=5",
@@ -8461,6 +9616,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 경쟁, 체중 감량에서 '치료 지속성ㆍ투약 편의ㆍ맞춤치료'로 이동",
+      "summary": "GLP-1ㆍGIP 이중 작용제인 터제파타이드는 '마운자로'로 상용화됐으며, GLP-1ㆍGIPㆍ글루카곤 삼중 작용제 레타트루타이드 등 후속 후보물질 개발도 진행되고 있다. 이와 함께 투약 편의성을 높이기 위한 경구제와 장기...",
+      "url": "http://www.newsmp.com/news/articleView.html?idxno=257221",
+      "publisher": "newsmp.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T06:02:00+09:00",
+      "time": "06:02",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -8640,6 +9813,26 @@
         "PT403"
       ],
       "companies": []
+    },
+    {
+      "title": "Eli Lilly widens obesity drug lead as Zepbound, Mounjaro sales soar",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEhWU3A5cml2V1AxLW1ISWNiMDAtZ0NPYVB3NVNxd19pbTJsYkpkMl82RFg4QnBXTEZ2MmUxbjFwMU5uQVBUSkJnQ0VkbjdhZW5XeHlxUGwweThmdzVNeU5aMlg5b0NFak1XcWpnTEFpLWtmbDNXRnFGdnRUV1M0LVBoaFRVVm9jcUxxUWw2SHNIdHlYaGRyZVh6T24?oc=5",
+      "publisher": "USA Today",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T05:03:00+09:00",
+      "time": "05:03",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": [
+        "lilly"
+      ]
     },
     {
       "title": "마운자로가 췌장염 유발?…\"1단계 한 방 맞고 염증 10배, 입원\" 글 논란",
@@ -9525,6 +10718,26 @@
       "category": "obesity",
       "pipelines": [],
       "companies": []
+    },
+    {
+      "title": "Novo Nordisk wins Dutch court order against Ceban over semaglutide",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVdRa3JQeHIwbWlPVTRVNy1uSlRCNHRWYUM2YUxZOWFVVlpndTFKVDBaWlA0cUlfakJucXlNZ1kzSEpJSDd3WWl1WDNDLTFmWXNhQWNJVHhQMGE3NTR4QTVNanB5UDZieGVQT1hCa09JY3V0ejEyanc1NTJtcjUxdEZTalZkRUhORHQwT296ejNidExscFY5d3REZmxXblJfZHpqdENudHZqYm92a0U1Y3UzVWFrc0FPd1pRbkw5YkoxNElMU0Rr?oc=5",
+      "publisher": "Investing.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-05T23:42:52+09:00",
+      "time": "23:42",
+      "date": "2026.08.05",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": [
+        "novo"
+      ]
     },
     {
       "title": "Novo Nordisk wins Dutch court order against Ceban over semaglutide By Investing.com",
@@ -10563,26 +11776,6 @@
       "category": "obesity",
       "pipelines": [],
       "companies": []
-    },
-    {
-      "title": "깊이가 다른 글로벌 투자 정보 GAM - 맛보기편 (8/5)",
-      "summary": "노보의 위고비 알약 매출, 월가 기대치 미달…주가 한때 7% 급락 노보노디스크의 로고가 새겨진 유리벽 [사진=블룸버그통신] [유럽 특징주] \"유럽 기업 실적, 겉보기보다 훨씬 탄탄\" 유럽 스톡스600 구성 기업의 12개월...",
-      "url": "https://www.newspim.com/news/view/20260805001150",
-      "publisher": "newspim.com",
-      "source": "naver",
-      "layer": "news",
-      "region": "kr",
-      "published": "2026-08-05T16:53:00+09:00",
-      "time": "16:53",
-      "date": "2026.08.05",
-      "year": 2026,
-      "category": "obesity",
-      "pipelines": [
-        "PT403"
-      ],
-      "companies": [
-        "novo"
-      ]
     },
     {
       "title": "‘장밋빛 바이오 공시’ 손보는 금감원…바이오텍 “비용·협상 부담 커...",
@@ -11777,6 +12970,24 @@
       "companies": []
     },
     {
+      "title": "Gracie McGraw Says Using Ozempic ‘Brought Back’ Her Eating Disorder After Years of Being Body-Shamed",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVJuVGdkTEVPM2d6TTRHZXBjYWtVcTB2Ymk2NnJjdW43MF9KWU9kU1RCemJjeHdjY2MzUF9obmQ1LXZUQl92M19oeEhISEZyUVptZi13VXpYM25JdjhtSW9DbllNZGdJVzFyWE9HdTU5MFBoUUxxT3c3THU3UnZQRVhoQkg1Mno0OGlGblRhZEpXUGVaR1plSmVn?oc=5",
+      "publisher": "People.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-05T04:11:32+09:00",
+      "time": "04:11",
+      "date": "2026.08.05",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "Orforglipron vs. Tirzepatide: What Are the Major Differences?",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16WkxTVHBiVkVLU1FzSEFlV1JwY0lFOFNKNXNwZjlfSVdwZnJsa1BxRVdsdi1Qemo3eUFGNDFMbDMzbXB0TWc2ZmpGQy1GdHJ2V2hGdTBYbHZ4U0U0dDdkMG5nSHRFcmhrYmVEdW40OFBXTE1QOFBvQVFMX3Bvdw?oc=5",
@@ -11830,6 +13041,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 drugs are changing how teens and young adults treat obesity",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaHl4a20zem5XdnduYlpJcFpYR0VfMFFlbm1mNnhTYVVkLUF0S3B5dmZUVkI4N2xxVEo4TXNFdFc5Ty1yU1B5clppR190SmtQT3R2UTk4QVBhTExVMnBSMC1yeEE3SFNZR21KdF81WWNTS282d2hqaVRnd1pBem9FQ19UWHhZYUpuVHZwdC03ekZma1p6dkdRZXlKbEE0d1NUQ1U3MkVnNXItcllnUWgwMHRQYUE?oc=5",
+      "publisher": "ConsumerAffairs",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-05T02:02:33+09:00",
+      "time": "02:02",
+      "date": "2026.08.05",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -12975,6 +14202,24 @@
       "category": "obesity",
       "pipelines": [
         "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "How To Get Mounjaro: Eligibility Criteria And Where To Buy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wam4xcFZmZXRfM0hrQXNMWjNNN0xCaDV0UEtTNUJIMnlkcUgxcEFMUGxFTVV5OHNpNWVhSEhQN2VBekRlU0x4WE5jeXZ1Y0NrcXVHV3R5MklVT29OY0NqQUE0blc1VmZoRHJjWERsYw?oc=5",
+      "publisher": "Forbes",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-04T03:24:00+09:00",
+      "time": "03:24",
+      "date": "2026.08.04",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
       ],
       "companies": []
     },
@@ -15884,6 +17129,24 @@
       "companies": []
     },
     {
+      "title": "비만치료제 ‘세마글루타이드’, 성인발병 발작 위험 절반 낮췄다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jOEc2SlRGUlR1aHhYaGpwalFIQXRnTjhLNEhHeGluS1hPVlV0N09Hb004bFI1dWttZzNubk9KbkJ2SW05b0FpbExSdGNURWM?oc=5",
+      "publisher": "v.daum.net",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-07-23T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.07.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "당뇨·비만 치료제 '세마글루타이드' 성인 발작 위험 낮췄다",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tVXZzTDI4OFBWOFJuelZIeENwS1F0LUxXWURsczNUNUVtaVR6NDQxZzg4U3dLS1l0S3pnZ2FhbXlWZmFFODNzX0dXWXU4eXM3Ul9qTVVRY1RUOGplMnpfbXBIQko1eXZNdWt3X2U3Y9IBc0FVX3lxTE4zR3ZvM0NlLUJRbHJpR0FOeVNVUllYMkE3aGZDS0VYZDk4Z1Fia0JZOGsyM0ZTV3FuMURNeHVCN21GeTRxNmZQRkFyZ3pSRXhLbGQ0MFEyNkd4V1J1dVpSWjZfWS1zdm80QWZRUmFEX3hUWXM?oc=5",
@@ -16348,6 +17611,25 @@
         "PT404"
       ],
       "companies": []
+    },
+    {
+      "title": "GLP-1 ad war spills into court as Novo Nordisk alleges Eli Lilly ignores science",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFYxVnI5S0swdURqQ3E0SlZySnJRZjN3NXJPTFE4d1ZvNVM3TlpDaW0tSjgwQ01uNmZyRTBCRmhOUGtaZ3ZUMjg1ZmFpMWVLVGs3dVE0dE5WR1FEcnl6UjZFR1J3X3VmTGtVb3Eya1BFeUhZTE1mWTJSdkRJRm5SSEI0M1dtS0RkVzV2bTE3dmZRWXFXTTVIeDhpRGVxdEFWTW1ZSGRvWnlvNzhiTkdqMzliSUxJOGlaTVdNNQ?oc=5",
+      "publisher": "The Washington Post",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-07-21T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.07.21",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": [
+        "lilly",
+        "novo"
+      ]
     },
     {
       "title": "Semaglutide and tirzepatide extend GLP-1 benefits to liver health, mobility & longevity",
@@ -18079,6 +19361,22 @@
       ]
     },
     {
+      "title": "Elecoglipron, an oral small molecule GLP-1 receptor agonist in adults with obesity or overweight (VISTA): a multicentre, phase 2, randomised, placebo-controlled clinical trial",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ0xacllnQUlpVUs1czJmaUNpUlpCRERReXlybDJjdzkwcWxMWlpIZ3NfT2VsZ1N5b2Q2OTRzcjNTVTFITEJMUkRkS05HN2dJS2lBb000Q3BSZGdoeGVLZ3plZ3BoWG1sTWtmREFoME5JREtiZ1Y2R2ZUd0d4eU1qeGFYZ0hiTDZLUXM4?oc=5",
+      "publisher": "The Lancet",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-06-08T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.06.08",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWRk5yYmlrNGRPUTVMeTNFU3FoVFdQLUlERzN2N1M1WVV3dXduRldjOUhvRy1QNHA4WXU5SVNfSDFzcjJsMEptTTlIWGhvMldrSlhweGlYLS1GZ3dEdHU0?oc=5",
@@ -18325,6 +19623,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide drives weight loss through cAMP-dependent mechanisms in GLP1R-expressing hindbrain neurons",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ieHU2Q19vMTN4ZmRLTE5IN1pyT1JnNkRBUDRBUWVuNzdjX0NLS3ZUVk5iQU9oV1lfcTc4X2JSQmNuUEhGMGdqOUVidjRwWlhlUmJLS25rc29fb01uWldR?oc=5",
+      "publisher": "Nature",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-05-22T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.22",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -18598,6 +19914,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Prescribing GLP-1 Agonists for Weight Loss: Wrestling With Our Philosophical Angst",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkdHNZdGhmMjNWcU50bXQwdzJjYkpac0swV0VKNTFKWVpjZmF1Q3RFWW1HazlPd0R1bnQwVlp0dldoVGZVZG54OW1hSzAwOVI5anljYktLakhlc29EU3JKZUhsMGtvZHZacE5oWDMzcmNuaHdwblpEdzJ3SQ?oc=5",
+      "publisher": "American Academy Of Family Physicians | AAFP",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-05-17T10:55:25+09:00",
+      "time": "10:55",
+      "date": "2026.05.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -19889,6 +21221,22 @@
       "date": "2025.11.26",
       "year": 2025,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 약세에 선물시장 출렁…...",
+      "summary": "메모리 업황에 대한 경계감이 이어지면서 IT 대표주가 약세를 보이는 반면 건설과 바이오, 일부 금융주는... HD마린솔루션, 유한양행, LG, TIGER 나스닥100, TIGER 반도체TOP10도 업종별 수급에 따라 등락이 엇갈렸다....",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475079",
+      "publisher": "pinpointnews.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:40:00+09:00",
+      "time": "16:40",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "npr",
       "pipelines": [],
       "companies": []
     },
@@ -21919,6 +23267,22 @@
       "published": "2026-05-19T16:00:00+09:00",
       "time": "16:00",
       "date": "2026.05.19",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "바이오마린 신약 임상, 두 개의 1차 평가변수 중 하나 충족",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FRzdRd090WDlOZGx6M0d1UnUyLW5MLVlGeFFPUmRSWHF0MDN6Tm80dUtwMlNDdV95VVNuaDc3MmxpelNPbVZQOWpJMGlvNE1sZkEzMWRRanhTVEljc3hLaUxBOEtVSWdjZC1qY2VNSUs?oc=5",
+      "publisher": "Investing.com 한국어",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-05-18T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.05.18",
       "year": 2026,
       "category": "npr",
       "pipelines": [],
@@ -25522,6 +26886,22 @@
       "companies": []
     },
     {
+      "title": "Mutations in C-natriuretic peptide ( NPPC ): a novel cause of autosomal dominant short stature",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBld2pFcWFUNWNWQVNSS1hVX3Zoam9jaGt4N0dENTNYTU5RaUMxcUpOQUg3UGN3Rm1LS3hmc2l5Zmx2REctd3BGR0s4NE9QMGM5RWdJ?oc=5",
+      "publisher": "Nature",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2017-06-28T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2017.06.28",
+      "year": 2017,
+      "category": "npr",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Natriuretic Peptide Receptor B modulates the proliferation of the cardiac cells expressing the Stem Cell Antigen-1",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZkZNZW9ubTJNZWplUXFFRVNiWXJGWWI0azZSbG94LUhmeFZJOEVNZXJObnhZdGRHZUVaRHRTVXJIVnBqT3Z1eDBQejU5R0NVRmQw?oc=5",
@@ -25584,6 +26964,108 @@
       "category": "npr",
       "pipelines": [],
       "companies": []
+    },
+    {
+      "title": "[주식마감] '범LG가' 구미현 전 아워홈 회장 인수 소식에 본느 상한가.....",
+      "summary": "셀바스헬스케어, 디앤디파마텍, 피앤에스로보틱스, 로보로보, 우리기술이다. 이날 코스피는 전장보다 301.88포인트(4.58%) 하락한 6,296.38에 장을 마쳤다. 전날 코스피는 3.76% 올라 이틀째 상승세를 이어갔는데, 이날...",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1173981",
+      "publisher": "ggilbo.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T19:40:00+09:00",
+      "time": "19:40",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "﻿Inventage Lab selected for ‘Global TIPS,’ advancing global late-stage trials for addiction therapy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zSlUxOVcyWHNOQVFBNzFsZlRSbWtZS2RxWmU5R0VDUUdFRjdtRjRwcnQwTzFZYzBVYlc1VnhVcUxyMGRfNzVyTkJmSF9mdWZzdm11WklKOUF4eEg2RE94MjRjY0dMaVYxb1RSRGlvN1PSAXBBVV95cUxPM0pVMTlXMlhzTkFRQTcxbGZUUm1rWUtkcVplOUdFQ1FHRUY3bUY0cHJ0ME8xWWMwVWJXNVZ4VXFMcjBkXzc1ck5CZkhfZnVmc3ZtdVpJSjlBeHhINkRPeDI0Y2NHTGlWMW9UUkRpbzdT?oc=5",
+      "publisher": "더바이오",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T17:50:28+09:00",
+      "time": "17:50",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": [
+        "inventage"
+      ]
+    },
+    {
+      "title": "LG AI연구원, 방산으로 영역 확장… 국방 전문가 뽑는다",
+      "summary": "지난 4월에는 런던증권거래소그룹, 키움증권과 개인 투자자를 대상으로 한 금융 AI 에이전트 서비스를 추진하기로 한 바 있으며, 6월에는 디앤디파마텍과 차세대 펩타이드 신약 공동 개발 사업의 본계약을 체결하는 등...",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260806010001951",
+      "publisher": "asiatoday.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:36:00+09:00",
+      "time": "17:36",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "글로벌 비만藥 이슈는 '다중 작용제'···한미약품·대원제약 임상 주목",
+      "summary": "디앤디파마텍이 2023년과 2024년 총 8억 350만 달러(1조 1200억원) 규모로 미국 바이오텍 '멧세라'에 기술이전한 먹는 비만 치료제 후보물질 6종 중 MET-224o는 리드품목으로 꼽혔다. 멧세라가 지난해 4분기 화이자에 인수된...",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422915",
+      "publisher": "sisajournal-e.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:30:00+09:00",
+      "time": "16:30",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "독자적 플랫폼 기술 결합… 보로노이, 차세대 신약 파이프라인 가동",
+      "summary": "젬백스, 큐라클, 지투지바이오, 명인제약, 듀켐바이오, 유한양행도 견조한 오름세를 유지 중이다. 치매 조기 진단 플랫폼과 혈뇌장벽(BBB) 투과 기술 등 독보적인 R&D 경쟁력을 갖춘 기업에 주목할 필요가 있다. 치매 치료제...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474997",
+      "publisher": "pinpointnews.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T14:34:00+09:00",
+      "time": "14:34",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": [
+        "g2gbio"
+      ]
+    },
+    {
+      "title": "K바이오 새로운 성장축 부상…비만치료제 개발 경쟁 뜨겁다",
+      "summary": "DXVX, 나이벡, 지투지바이오, 대화제약 등은 약물 전달 기술과 신약 개발 가능성을 바탕으로 테마 흐름에 동참하고 있다. 또한 대웅제약, HLB펩, 시너지이노베이션, 케어젠도 비만 및 대사질환 관련 사업 기대감으로 시장에서...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474954",
+      "publisher": "pinpointnews.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T13:12:00+09:00",
+      "time": "13:12",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": [
+        "g2gbio"
+      ]
     },
     {
       "title": "외국인 돌아왔지만 …'삼전·하이닉스'는 사고 급등주는 팔았다",
@@ -25702,6 +27184,22 @@
       "companies": [
         "inventage"
       ]
+    },
+    {
+      "title": "큐라티스 ·디앤디파마텍 폭등랠리… 바이오 섹터 부활 신호탄인가",
+      "summary": "디앤디파마텍 역시 3.95% 오른 5만 5200원에 거래되며 급등세를 타고 있다. 글로벌 시장에서 가장 뜨거운 비만치료제 관련 파이프라인의 기술수출 가능성이 가시화되면서 주가를 견인하는 모습이다. 신약 연구개발(R&D)...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474865",
+      "publisher": "pinpointnews.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T09:28:00+09:00",
+      "time": "09:28",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
     },
     {
       "title": "US Microspheres Market Size, Share,Trends, Growth Analysis Report, 2031",
@@ -25848,6 +27346,24 @@
       "category": "platform",
       "pipelines": [],
       "companies": []
+    },
+    {
+      "title": "지투지바이오 투자분석 2026. 08. 05",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyWmJRcURhQkt0U0MtVXZmcnlLNzA4VEtZZFdBb2lROWFyVFFQYjQ1azJ4bm1PVF9JckpBZHY4MldJNHBWcWZaNnVQbGhxMjNYajJMUUhVb01vc3hQOG44b2Q3Z0hPTFRlZ3R4WEhzVklKcUE?oc=5",
+      "publisher": "주달",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-05T17:24:27+09:00",
+      "time": "17:24",
+      "date": "2026.08.05",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": [
+        "g2gbio"
+      ]
     },
     {
       "title": "디앤디파마텍 주가, 18%대 급락... 이유는?",
@@ -29904,6 +31420,24 @@
       ]
     },
     {
+      "title": "Samsung Bioepis, G2GBio partner on long-acting obesity drug development",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84SU1sLTJtSUtBNEtaVXpwVTdyV053QTAteGxsaGcwaEEya3lMYTJPZlpCa0t6dTREekY2dzd2QkpGMGU5Rzluc3JtamxMMXpnekRBRDFJOA?oc=5",
+      "publisher": "The Korea Herald",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-03-16T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2026.03.16",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": [
+        "g2gbio"
+      ]
+    },
+    {
       "title": "Samsung Bioepis and Epis NexLab Sign Research Collaboration and License Agreement with G2GBIO to Develop Novel Assets Including Long-acting Semaglutide",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPMDNMd1ctRXE3TjVGZ2VDMjRwX2JGdHFydUFRUDlVQm1hUlVXakZFVXhOQ2VaQTV4bTRSZlZlb2xOenI0bTRrOVlWRDFrWERQajFDRjZ1YlJvNzQ2ZUdYbU9pelQzbC1IZzlKdS12SnZPOEVhLUxFZlJGZWRzcGpRbjF3U2Mxc2NYVm1PQUVzekgyaWpPQUNTdGhVNk5lM2l2Z2VpS25SSThnb0JtQ1pkR0RYTUh6ZzlmSTJxRVFIaFdfUDFuUnNGanlOQTJjS2xrTVBjelhWMF9ZS0FLZTRUaVp5WlBMRXNsNXFoQUhCbFM2UWh5SFg5RWxjTDRiOFZQLXlZeHZfallCNDltcGZLNWRrRUVfbXQwQTJXQ21iZFpiVVlYMnVHMDV1QUtreWZYSUE?oc=5",
@@ -30148,6 +31682,22 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWE1XUnRLZjdwZkd5bHA1Rkl3cElsQ21MREpTeE1NdDJ4OVZhRkhoa3FsQ3JKYnR3Qm1MTXRXWEE4V2RiX0tzN3hWMU1IVWVwUEp4OTJ4RC0xYUZiZ2lvSG9fLW42dkZkSGhiYmVuc054ZENkTmhJU3FhdjRqSENqN1RMb1RpYnNyZERGOHVuY3hmeVduZ1RxeFREZDFCUUJFemlQejZibXVyZ3BSNXk4aF9uMjg3TE9J?oc=5",
       "publisher": "Multiple Sclerosis News Today",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-02-05T17:00:00+09:00",
+      "time": "17:00",
+      "date": "2026.02.05",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "‘People are turning themselves into lab rats’: the injectable peptides craze sweeping the US",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44WDNlTHBMc2I5ZVdUNW1HTHVJZUQwOHhCVE00NDk4c1k4Skx2eW5WMndYMUZYZDh6Rmh1dHc2Y0tpblV6YjVKVC10RzEwVUsyTjFaVFV6YXpiNVRBVUk5Z2FpODhQN3dyMEJIelBXRWJGWmdtY1ZyNWNNZWN6cDA?oc=5",
+      "publisher": "The Guardian",
       "source": "gnews",
       "layer": "news",
       "region": "os",
@@ -32033,6 +33583,22 @@
       "companies": []
     },
     {
+      "title": "GA Depot for multiple sclerosis",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KX0d0UjJiR0ZUZmp1cGRFLTh4d3FEWDlPSENGaVkwSWx1WVppZXBEdlR4TlZQenR5V3hLLXVranY1UF8wX3NuaEVyX0gtemFOQjNnQ0x4VTE1b3FH?oc=5",
+      "publisher": "Multiple Sclerosis News Today",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2025-02-21T17:00:00+09:00",
+      "time": "17:00",
+      "date": "2025.02.21",
+      "year": 2025,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "지투지바이오, 베링거와 '장기지속 제형개발' 연구계약",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwc1h3TndiV2lhRlNNMlg5Q0trM2ZUVUtCY2ZGLTJhcURSb1ptUEhNSWRSVGo1RFFLMTRVWlBPQXR4OXJyMkJXUlhKTVVxY2xzZlF6NnctMA?oc=5",
@@ -33243,6 +34809,24 @@
       "companies": []
     },
     {
+      "title": "Daewoong partners with Inventage Lab for long-acting drug",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95eDBJRWRBUE9NWm1jYVZKMkNvWFY3VjRGNFBUZER0LUVQQ0dIRVlUOXRqTnpndTFnbHIxUXVOS0NYZ2ZHb29LNHdDaEJydW56elhtMWR0YWRhZ2Y0ak11enA4VnE2eUxGelpMX9IBcEFVX3lxTE1hZG44cWhrTnFUcUdvZ3Vndlc4OG9JZUdCQzl2cDRkclJpeHFQUkxsNkt4MEt6RGhBSm9FU2ZzbnhYSjdTSEZXaFV6ZGQ4SFZobFBZQWdVMTJZQ2t5TU1mOWJSUVpLczM3OGt2TkRHZFE?oc=5",
+      "publisher": "koreabiomed.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2020-05-25T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2020.05.25",
+      "year": 2020,
+      "category": "platform",
+      "pipelines": [],
+      "companies": [
+        "inventage"
+      ]
+    },
+    {
       "title": "Facile control of porous structures of polymer microspheres using an osmotic agent for pulmonary delivery",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NQlByUk9GNlpDQk1WMDFqcUR4dGJXNURrSXd2U0tXUmcwcjRqd3RhR2pOUzVGd2U2LWZrR29oQXZ2dWRaR2d6Y0lUTV9xVzhmMGZqOE5aR1VDNWtFYjlWWENTNFV6UVFzaWk1dzFVTFpkOHUxVUZTMFRTMA?oc=5",
@@ -33529,6 +35113,166 @@
       "date": "2011.12.05",
       "year": 2011,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "피알지에스앤텍, 정부과제 선정…NF2 신약 개발",
+      "summary": "이를 기반으로 트리뉴민의 임상 2상 진입에 필요한 데이터를 확보하고, 글로벌 허가 및 사업화 전략... (FDA)으로부터 IND 승인을 확보했다. 또 미국 FDA 희귀의약품 지정 및 패스트트랙, 유럽의약품청(EMA) 희귀의약품...",
+      "url": "https://www.newsis.com/view/NISX20260806_0003739387",
+      "publisher": "newsis.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:29:00+09:00",
+      "time": "16:29",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "\"정제·액상 한번에\"…식약처, 비타민 이중제형 허용",
+      "summary": "식약처는 일반의약품 개발을 활성화하고 소비자 수요에 맞게 선택할 수 있도록 표준제조기준을 확대하고자... 개정고시에는 ▲비타민 이중제형 허용 ▲감기약 표준제조기준 등 각 효능 범위별 신규 유효성분 추가...",
+      "url": "https://www.newsis.com/view/NISX20260806_0003739287",
+      "publisher": "newsis.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:06:00+09:00",
+      "time": "16:06",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "식약처, 비타민 액상·정제 이중제형 표준제조기준 허용...일반약 개발 ...",
+      "summary": "식약처는 이 같은 내용을 담은 '의약품 표준제조기준' 고시를 6일 개정했다고 밝혔다. 표준제조기준은 안전성과 유효성이 확보된 일반의약품의 성분, 함량, 효능·효과, 용법·용량 등을 표준화한 기준으로, 이를 충족하는...",
+      "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=105048",
+      "publisher": "womentimes.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:04:00+09:00",
+      "time": "16:04",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "식약처, 비타민 액상·정제 이중제형 표준제조기준 허용...일반약 개발 범위 확대",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ELWdUc25yR0hhRGVPekwzaWNya3JWWjM2OWNsNGtSZTJRR3Q4TVlMUGF1WVoyTG9nOXZIUXJkWnFPQklxUVJkZ3c4WTVlZW5PQnBnMm5ZYUlHbjhfcDVqUmphTHBvTktVNU82aTJHY3dxX1pS0gF0QVVfeXFMTUQtZ1RzbnJHSGFEZU96TDNpY3JrclZaMzY5Y2w0a1JlMlFHdDhNWUxQYXVZWjJMb2c5dkhRcmRacU9CSXFRUmRndzhZNWVlbk9CcGcybllhSUduOF9wNWpSamFMcG9OS1U1TzZpMkdjd3FfWlI?oc=5",
+      "publisher": "우먼타임스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:03:26+09:00",
+      "time": "16:03",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "듀켐바이오, '매출 3%' 전립선암 진단제 증설…공급확대에 거는 기대",
+      "summary": "행위급여 고시, 플루빅토의 국내 적응증 확대, 기존 주력품목과의 생산배분이 필요하다. 프로스타시크 수요 대비 캐파 확대 6일 업계에 따르면 듀켐바이오는 현재 상업생산에 사용하는 우수의약품 제조 및...",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=670181",
+      "publisher": "bloter.net",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:52:00+09:00",
+      "time": "15:52",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "강스템바이오텍 \"가장 바라던 파트너사서 연락…美 임상 준비도 가속\"",
+      "summary": "(pre-IND) 미팅 준비에도 박차를 가하고 있다. 향후 글로벌 파트너사가 국내 임상 결과를 바탕으로 미국... 이어 \"운영 중인 의약품 제조 및 품질관리기준(GMP) 시설이 연구를 뒷받침하고 있지만 아직 허가된 약이 없어...",
+      "url": "https://www.mt.co.kr/thebio/2026/08/06/2026080615143970926",
+      "publisher": "머니투데이",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:50:00+09:00",
+      "time": "15:50",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "비타민 액제·정제 함께 포장한 '일반약' 식약처 신고 허용",
+      "summary": "하는 '의약품 표준제조기준'(식약처고시)을 6일 개정했다고 밝혔다. 의약품 표준제조기준은 안전성과 유효성이 확보된 일반의약품에 대해 성분, 함량, 효능·효과, 용법·용량 등을 표준화해, 동 기준에 적합한 품목은...",
+      "url": "https://new.dailypharm.com/user/news/341187?REFERER=NP",
+      "publisher": "데일리팜",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:46:00+09:00",
+      "time": "15:46",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "식약처, 비타민 이중제형 허용…액상·정제 함께 포장 가능",
+      "summary": "의약품 표준제조기준 개정 정장생균 배합 기준도 명확화 식품의약품안전처는 비타민 액상·정제가 함께 포장된 이중제형 제품 허용 등을 담은 '의약품 표준제조기준(식약처 고시)'을 6일 개정했다고 밝혔다. 이중제형은...",
+      "url": "https://news.tf.co.kr/read/life/2351413.htm",
+      "publisher": "tf.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:37:00+09:00",
+      "time": "15:37",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "식약처, 비타민 이중제형 허용 등 의약품 표준제조기준 개정",
+      "summary": "하는 '의약품 표준제조기준'(식약처고시)을 8월 6일 개정했다고 밝혔다.식약처는 그간 표준제조기준과 관련한 업계의 개선 요청사항에 대한 의견을 수렴하고 국내 사용현황과 해외 사용례 등을 검토해 개정안을...",
+      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170044&ref=naverpc",
+      "publisher": "medicaltimes.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:26:00+09:00",
+      "time": "15:26",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "연말부터 당류·식용유지류도 GMO 완전표시?",
+      "summary": "식약처는 당류와 식용유지류의 GMO 완전표시제 시행 시기를 계획보다 1년 앞당겨 올해 12월 31일부터 시행하는 내용을 담은 '유전자변형식품등의 표시기준' 일부개정고시안을 5일 행정예고했다. 사진=제미나이 당초...",
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119662",
+      "publisher": "foodnews.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T14:58:00+09:00",
+      "time": "14:58",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "reg",
       "pipelines": [],
       "companies": []
     },
@@ -38314,6 +40058,22 @@
       "companies": []
     },
     {
+      "title": "Closing the Gap in Schizophrenia Care: Insights From the INTEGRATE Guidelines",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQME1FTEZCMEU5bVVJNlh6NmdzaGNpbU9yMy01ekVTUTBmUWV6VXVVRVlQX2tVd01nMi1mYlFmaGQ0MUNublB6LXhYQ1JnT0NFWDNTdjd3YkdMdExWNFJHSlh1aERiYUhMU3JLVEp0Y2ppTU5fbWFKMHBqRVNQMmxFSmxLRkFKYkUzVGhKRDlJTXNxTF9TdWhhVVZnbzlLUG1hMU5keHBLaHc0SkpXUXlaaGpiZlg?oc=5",
+      "publisher": "psychiatrictimes.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2025-10-06T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2025.10.06",
+      "year": 2025,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "CDC Backs Twice-Yearly Injectable for HIV Prevention",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aRDVjZE5EQzE2OFVyWGRNM3hJRlI4Qmk2aTM3bmlZelhCRVdNdm91ZldDZUVGYjB4SzlIMWxRX21PeU90cXFXS2t5WTRNZWxIclBNZFlBM3ZjcjYtZm41SmJmZTd3YVZ0MzdEUEhn?oc=5",
@@ -38462,6 +40222,22 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Yc1dhd3UxdERCLWYzaVo5UTVXcnBubU1qSlgzVkFqMkNzV3NFdTFiZlRYQ3l2X1ZKMFRTY2o2Q3RUSGlCOTkwWkJyZWFMeEJLVW56aThEdDBGdXpvbFJhWkJGdmRGdUF2V003dQ?oc=5",
       "publisher": "바이오타임즈",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2025-08-01T16:00:00+09:00",
+      "time": "16:00",
+      "date": "2025.08.01",
+      "year": 2025,
+      "category": "reg",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "식약처, 어린이 의약정보 영상 콘텐츠 공모",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93Ti1aam5TeG9xZTh5dDNHb0IyenYybzNVNERhS013UmZ5Z1NMYW1hVElmcUVfQXVwUF9UeXVKTEZkYTdoMGdwVWh2cFNISGluOGxWU21JT3hFVnNtY09uNHg2bkN0Z1U5Z29CUlYzWkR5N3pTLVozOW93WlA4Q2M?oc=5",
+      "publisher": "데일리팜",
       "source": "gnews",
       "layer": "news",
       "region": "kr",
@@ -39420,15 +41196,495 @@
       "companies": []
     },
     {
-      "title": "기술수출 넘어 상업화로…K-바이오 플랫폼의 ‘다음 관문’",
-      "summary": "반면 국내 대표 플랫폼 기업들은 글로벌 제약사와 잇달아 기술수출 계약을 체결하며 성과를 이어가고 있다. 알테오젠은 지난 5일 비공개 글로벌 제약사와 재조합 인간 히알루로니다제 ‘ALT-B4’ 기반 바이오의약품...",
-      "url": "https://www.mydaily.co.kr/page/view/2026080600401413639",
-      "publisher": "mydaily.co.kr",
+      "title": "[올댓차이나] 홍콩 증시, 미중 관계 악화 우려에 반락 마감…H주 1.22%↓",
+      "summary": "홍콩 증시는 6일 미국이 대중 수출규제를 강화하고 중국은 대항 조치를 취하면서 양국 관계가 더욱... 기술주로 이뤄진 항셍과기 지수는 전일에 비해 112.29 포인트, 2.28% 하락한 4820.78로 장을 마쳤다. 전날 뉴욕...",
+      "url": "https://www.newsis.com/view/NISX20260806_0003739638",
+      "publisher": "newsis.com",
       "source": "naver",
       "layer": "news",
       "region": "kr",
-      "published": "2026-08-06T14:56:00+09:00",
-      "time": "14:56",
+      "published": "2026-08-06T19:50:00+09:00",
+      "time": "19:50",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[외신클럽: CES 2027 혁신상 특집] 워프솔루션, 배터리·전선 없이 전파...",
+      "summary": "워프솔루션(WARP Solution, 대표 이경학)이 전원선과 배터리의 제약 없이 전파로 전자기기에 에너지를... 현재는 대규모 양산 수출보다 기술검토, 샘플 제공, 공동 실증과 현지 파트너 발굴을 중심으로 해외 사업을...",
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1812911",
+      "publisher": "kr.aving.net",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T19:50:00+09:00",
+      "time": "19:50",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Amazon Pharmacy Launches $50/Month GLP-1 Delivery for Medicare",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaW82MkxpZy1BWHJ6dnJYeHJfakEyZXZqSlA4LUUzWE9ibC04VjR2WG5YbnRhOVhXM0VHSlhsc3hLX0dnN3BUaEJQX2xJNy1ZcDBMRnhfdm56MFFPNWM0SDk2dFh6WENQb3BqMC14VlV0WFJuMWJzSGlFT0syTng4ajlleDlSdTlxdENtRC1ZZ2RSOGtCa3U5UWt3?oc=5",
+      "publisher": "The Tech Buzz",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T19:43:00+09:00",
+      "time": "19:43",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[특징주] 온코닉테라퓨틱스, '자큐보' 첫 해외 품목허가 소식에 강세",
+      "summary": "첫 해외 허가를 계기로 기존 기술수출 중심이던 해외 사업이 본격적인 상업화 및 매출 발생 단계로 전환될... 온코닉테라퓨틱스는 지난 2024년 인도 현지 제약사와 독점 라이선스 계약을 체결한 바 있으며, 현지...",
+      "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=33649",
+      "publisher": "biotimes.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T19:02:00+09:00",
+      "time": "19:02",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "올 상반기 취업자 증가, 전망치 절반 수준…\"반도체 파급효과 한계\"",
+      "summary": "역대급 반도체 호황과 수출 증가 덕분에 경제성장률 지표는 개선됐지만 이익이 투자와 소비로 이어지지... 정보통신업·전문과학기술·제조업과 상용직에서 고용 감소가 집중돼 청년층의 괜찮은 일자리 진입이...",
+      "url": "https://www.mt.co.kr/economy/2026/08/06/2026080616165696748",
+      "publisher": "머니투데이",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T19:00:00+09:00",
+      "time": "19:00",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "온코닉테라퓨틱스 '자큐보', 인도 품목허가 획득…\"글로벌 시장 진출 본...",
+      "summary": "온코닉테라퓨틱스는 지난해 인도 현지 제약사와 자큐보 독점 라이선스 계약을 체결했으며, 현지... 국산 신약의 해외 시장 진출은 기술수출을 넘어 실제 판매와 수익 창출 단계로 이어지는지가 중요한 평가 기준이다....",
+      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=205566",
+      "publisher": "thefirstmedia.net",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T18:50:00+09:00",
+      "time": "18:50",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "지역을 살리는 과학기술, 연결하는 과학 저널리즘",
+      "summary": "기능의 정책적 함의: RFCM 분석 중심으로'는 이 변화를 '대덕이 축적해 온 기술력'만으로 설명하지 않는다.... 도룡벤처포럼, 바이오헬스케어협회, IPO Scale-Up 프로그램 등을 통해 서로 연결되며 경험이 지역 내부에...",
+      "url": "http://www.hellodd.com/news/articleView.html?idxno=112732",
+      "publisher": "hellodd.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T18:46:00+09:00",
+      "time": "18:46",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[초점]'전기국가(Electro-State)'로 산업지형 다시 짠다…에너지·물·자...",
+      "summary": "이는 기후위기로 인한 물 부족을 산업 성장의 제약요인이 아니라 국가 인프라 혁신의 기회로 전환하려는 전략으로 평가된다. 녹색산업, '제2의 반도체'로 육성 정부는 녹색산업을 국가 핵심 수출산업으로 육성하겠다는...",
+      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=202054",
+      "publisher": "energydaily.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T18:28:00+09:00",
+      "time": "18:28",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "SK바이오팜, 뇌전증 신약 해외 흥행 발판…차세대 신약 개발 속도",
+      "summary": "세노바메이트가 국내 제약업계의 대표적인 자체 개발 신약으로 자리 잡은 만큼, 후속 신약 개발 성과를... 국내 신약이 기술수출에 머무르는 게 아니라 미국 등에서 최종 승인까지 스스로 받는 일은 흔치 않은...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1309518&inflow=N",
+      "publisher": "newstomato.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T18:10:00+09:00",
+      "time": "18:10",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "푸틴이 공들였는데…인도, ‘러시아판 랩터’ Su-57 스텔스 전투기 구매...",
+      "summary": "그러나 10년이 넘는 협상 끝에 인도는 비용, 기술 이전, 성능 관련 문제를 이유로 2018년 이 프로젝트에서 철수했다. 가장 큰 고객으로 꼽혀온 인도가 사실상 거부함에 따라 러시아가 강력히 추진해 온 Su-57의 수출...",
+      "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260806601013&wlog_tag3=naver",
+      "publisher": "nownews.seoul.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:41:00+09:00",
+      "time": "17:41",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "'코스닥 노크' 니어스랩 \"풍력서 검증한 AI 자율비행으로 방산 공략\"",
+      "summary": "자율비행 기술을 상용화했다. 에어리얼 인텔리전스는 소형 드론의 SWaP(Size·Weight·Power) 제약과 인지·항법... 자율비행 기술을 방산 사업에 적용해 비교적 짧은 기간 내 수출 성과를 낼 수 있었다\"고 말했다. 매출은...",
+      "url": "https://www.hankyung.com/article/2026080689866",
+      "publisher": "한국경제",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:24:00+09:00",
+      "time": "17:24",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[니어스랩 IPO] 최재혁 대표 \"피지컬AI 드론 앞세워 글로벌 시장 공략\"",
+      "summary": "싱가포르·UAE 수출 및 국내 군 실증 레퍼런스 확보 올해 2분기 영업익 흑자···2028년 연간 흑자 목표 대표... AI 기술을 상용화했다. 에어리얼 인텔리전스는 소형 드론의 크기·무게·전력(SWaP) 제약을 극복하고 인지...",
+      "url": "https://www.topdaily.kr/articles/111341",
+      "publisher": "topdaily.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:05:00+09:00",
+      "time": "17:05",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "지역·필수·공공의료에 'AI' 활용···정부, 'AI 기본의료 전략' 확정",
+      "summary": "연구개발(R&D) 투자를 확대해 지역병원의 연구 역량과 데이터 활용 기반을 강화한다. 의료 AI 혁신을 이끌 사람에도 투자한다. AI·바이오헬스 분야의 해외 유수 연구자를 유치하고 국내 우수 AI 의료 융합 인재를 양성할...",
+      "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239429",
+      "publisher": "doctorstimes.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:02:00+09:00",
+      "time": "17:02",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "코스닥 반등, 닷새간 24%↑…1000선 회복은 언제",
+      "summary": "특히 코스닥 시총 1위 알테오젠(196170)은 글로벌 제약사와 5200억원 규모의 기술이전 계약 체결 소식에 5%대... 4%까지 확대됐다\"며 \"단순 대형주 선호가 아닌 수출과 이익이 있는 시장으로 자금이 이동한 결과였다\"고...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1309497&inflow=N",
+      "publisher": "newstomato.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T17:00:00+09:00",
+      "time": "17:00",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[Biz-inside,China] 1일 평균 사용량 140조 개 이상...中 토큰 경제, 新 성...",
+      "summary": "IC와 전자부품의 수출액(위안화 기준)도 지난해 같은 기간보다 각각 88.7%, 62.6% 늘었다. 이와 함께 AI 산업사슬은 이미 중국 대외무역의 새로운 명함으로 자리 잡았다는 분석이다. 인허쥔(陰和俊) 중국 과학기술부 부장...",
+      "url": "https://www.joongang.co.kr/article/25451401",
+      "publisher": "joongang.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:55:00+09:00",
+      "time": "16:55",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "동네 보건소에서도 대학병원급 AI 진료, 전국에 AI 진료지원 도구 보급",
+      "summary": "국가정책조정회의에서 범정부 'AI 기본의료 전략'을 확정했다. 이번 전략은 '생명을 지키는 AI, 모두가... 【지역과 함께 크는 AI·바이오헬스】 지역 국립대병원의 연구개발(R&D) 투자를 확대해 지역병원의 연구 역량과...",
+      "url": "http://www.ggmedinews.com/news/articleView.html?idxno=6722",
+      "publisher": "ggmedinews.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:48:00+09:00",
+      "time": "16:48",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "보령, 상반기 매출 5350억원…글로벌 사업 확대에 최대 실적 달성",
+      "summary": "국내 제약업계는 최근 기술수출 중심의 해외 진출에서 벗어나 글로벌 제품 인수와 직접 판매, CDMO 사업 확대를 통해 해외 매출 기반을 강화하는 전략을 추진하고 있다. 보령도 글로벌 브랜드 확보와 생산 역량을 결합해...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=80739",
+      "publisher": "press9.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:46:00+09:00",
+      "time": "16:46",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[특징주] 온코닉테라퓨틱스, \"위식도역류 신약 첫 해외 품목허가\" 글로...",
+      "summary": "온코닉테라퓨틱스는 앞서 지난 2024년 인도 현지 제약사와 자큐보에 대한 독점 기술수출 계약을 체결했다. 아울러 지난 6월 인도 임상 3상을 완료하고 신약 허가 신청을 마친데 이어 약 2개월 만에 품목허가까지 획득하며...",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=298976",
+      "publisher": "widedaily.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:26:00+09:00",
+      "time": "16:26",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "\"반지 하나로 24시간 혈압 관리\"… 진화하는 K웨어러블, 코스닥·미국 문...",
+      "summary": "국내 의료기기 기업들이 차별화된 기술력과 강화된 글로벌 인허가 역량을 바탕으로 미국과 유럽 등 선진... 6일 제약·바이오 업계에 따르면, 스카이랩스는 반지형 혈압계 '카트 비피 프로'의 미국 식품의약국(FDA)...",
+      "url": "http://www.metroseoul.co.kr/article/20260806500421",
+      "publisher": "metroseoul.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:18:00+09:00",
+      "time": "16:18",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[IPO] 니어스랩, 이달 상장...\"AI 자율비행으로 글로벌 방산 공략\"",
+      "summary": "이어 \"특히 소형 드론은 크기와 무게, 배터리 용량 등 SWaP(Size·Weight·Power) 제약이 존재하지만, 니어스랩은 자체 알고리즘과 시스템 최적화를 통해 이러한 한계를 극복했다\"고 강조했다. 니어스랩은 자율비행 기술을...",
+      "url": "https://www.asiatime.co.kr/article/20260806500328",
+      "publisher": "asiatime.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:18:00+09:00",
+      "time": "16:18",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "제약·바이오업계, AI활용해 신약개발 효율성 높인다",
+      "summary": "JW중외제약·GC녹십자·셀트리온, AI 활용 범위 확대 디앤디파마텍-LG AI연구원 협업 등 AI 기업과 공동개발... 글로벌 기술수출과 상용화 경쟁력을 높인다는 데 목표를 두고 있다. GC녹십자도 AI 기반 신약개발 역량...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=209291",
+      "publisher": "srtimes.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:08:00+09:00",
+      "time": "16:08",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "14억 인도 시장 확보…자큐보, 첫 해외 허가 쾌거",
+      "summary": "온코닉테라퓨틱스는 지난해 인도 현지 제약사와 자큐보 독점 라이선스 계약을 체결했다. 현지 파트너사가... 기술수출 계약에 따라 허가 단계 마일스톤 수익이 발생할 것으로 예상되며, 판매가 시작되면 매출 규모에...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596428878653",
+      "publisher": "megaeconomy.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T16:04:00+09:00",
+      "time": "16:04",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "과테말라 농업생산량 K-농업기술로 20% 향상",
+      "summary": "향상에 제약이 따르는 상황이다. 코피아 사무소는 18개 프리홀 실증마을에 꽃총채벌레 방제 기술을... 타국으로의 수출길을 열어 각 가정의 경제적 자립과 소득 증대까지 실현될 수 있기를 기대한다\"고 밝혔다. 최광호...",
+      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=325978",
+      "publisher": "aflnews.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:58:00+09:00",
+      "time": "15:58",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "코스닥 상장하는 니어스랩 \"AI 자율비행으로 글로벌 방산 공략\"[IPO출사...",
+      "summary": "기술을 상용화했다. 핵심 기술인 에이리얼 인텔리전스는 소형 드론의 ’SWaP‘(크기·무게·전력) 제약과... 지역으로 수출을 완료하며 기술력을 입증했다”고 부연했다. 이러한 사업 성과는 실적 성장으로 이어졌다....",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=06445206645544696",
+      "publisher": "이데일리",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:57:00+09:00",
+      "time": "15:57",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "<기획> 익산시 5대 대전환 비전 집중조명 ③농생명도시",
+      "summary": "최 시장이 발표한 농생명도시의 3대 핵심 사업은 ▲동물헬스케어 클러스터 조성 ▲그린바이오 산업 육성... 예비후보와 정책연대를 통해 발표한 제1호 공약인 '익산형 햇빛배당'을 확장한 정책이다. 이 정책은 주민참여형...",
+      "url": "http://www.domin.co.kr/news/articleView.html?idxno=1564369",
+      "publisher": "domin.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:42:00+09:00",
+      "time": "15:42",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[IPO] 코스닥 '출사표' 니어스랩 \"풍력 AI 드론으로 방산 공략\"",
+      "summary": "해당 기술은 소형 드론의 크기·무게·전력 제약 속에서도 인지·항법·유도·제어 기능과 소프트웨어... 방산용 드론의 수출 성과도 가시화되고 있다. 자이든은 지난해 아랍에미리트(UAE)에서 약 1000만달러 규모의...",
+      "url": "https://theviewers.co.kr/View.aspx?No=4176992",
+      "publisher": "theviewers.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:42:00+09:00",
+      "time": "15:42",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "칼럼-메이드인 코리아, 패션산업과 천연염색의 리쇼어링",
+      "summary": "저렴한 노동력뿐 아니라 생산 인프라와 공급망, 수출환경도 이러한 이동을 뒷받침했다. 그 결과 국내 봉제와... 현실적인 제약이 있다. 그러나 브랜드 경쟁력을 높이고 글로벌 시장을 확대하며 디지털 기술을 활용해야...",
+      "url": "http://okfashion.co.kr/detail.php?number=63936&thread=81r47r01",
+      "publisher": "okfashion.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:38:00+09:00",
+      "time": "15:38",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[IPO 현장터치] 니어스랩 “피지컬 AI 드론으로 글로벌 방산시장 공략”",
+      "summary": "40개국 10만개 블레이드 점검…‘카이든·자이든’ 수출 2분기 영업흑자 전환…해외 방산 수주 기회 22건... 소형 드론이 가진 크기·무게·전력의 제약과 기존 자율비행 기술의 파편화 문제를 소프트웨어와 하드웨어...",
+      "url": "https://www.news2day.co.kr/article/20260806500191",
+      "publisher": "news2day.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:32:00+09:00",
+      "time": "15:32",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[더벨][혁신형 제약기업 인증 전략 점검] 유한양행, 렉라자로 중장기 계...",
+      "summary": "일부 핵심 연구인력 이탈과 기술반환은 정성평가에서 살펴볼 변수로 꼽힌다. ◇2012년 첫 인증 이후 4년... 투자와 수출 등 외형적 정량지표도 우수하다. 이번 개정으로 매출 1000억원 이상 대형 제약사의 R&D 비중...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608041435304440102016",
+      "publisher": "thebell.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:18:00+09:00",
+      "time": "15:18",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "8월 2주차 해외 ESG 핫클립",
+      "summary": "관리하는 수출업체 베카모는 EUDR 대응비용을 커피 원두 100kg당 1달러 수준으로 추산했다. 다만 농가가... AI 원칙은 공개했지만 감원 위험은 숨겼다…기술기업 공시 사각지대 세계벤치마킹연합(World Benchmarking Alliance...",
+      "url": "http://www.impacton.net/news/articleView.html?idxno=19864",
+      "publisher": "impacton.net",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T15:10:00+09:00",
+      "time": "15:10",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "AI기본의료 추진…\"지·필·공의료 공백 메우고 국민 생명 지킨다\"",
+      "summary": "6일 한성숙 국무총리 주재로 열린 제12차 국가정책조정회의에서 ‘생명을 지키는 AI, 모두가 누리는... 연구개발(R&D) 투자를 확대해 지역병원의 연구 역량과 데이터 활용 기반을 강화하고, 바이오헬스케어·로봇 등 지역...",
+      "url": "https://zdnet.co.kr/view/?no=20260806142754",
+      "publisher": "zdnet.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-06T14:59:00+09:00",
+      "time": "14:59",
       "date": "2026.08.06",
       "year": 2026,
       "category": "mkt",
@@ -40275,6 +42531,24 @@
       "category": "mkt",
       "pipelines": [],
       "companies": []
+    },
+    {
+      "title": "Eli Lilly Revenue Rose 46% in Q2, and the Company Is Closing In on a $1 Trillion Market Cap",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONlYwMXNnR3VvS3BoYm02RU81WW11WnhaZkNOaE9qVlVkdG9vaVoxbnByZEZVbFJPWGpub1hUZmRhdy1tUVFScFhjRU1EOXdRVFBNR2lwWWw2a0w5MlFUM0xIV2ZVeDdmM29Xd1NxQXdvN05RelZiSnBBTTZrenRTbmY3cVQxeFBUajJ5NGU5cFp4dkt4d0ZwTWlRRGVFMHVKVEtVQ2w5UXJMdDJMVEllT1MwYS0?oc=5",
+      "publisher": "TIKR.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-06T03:38:56+09:00",
+      "time": "03:38",
+      "date": "2026.08.06",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": [
+        "lilly"
+      ]
     },
     {
       "title": "All eyes on ResMed earnings amid GLP-1 concerns, margin expansion",
@@ -43085,6 +45359,22 @@
       "source": "gnews",
       "layer": "news",
       "region": "kr",
+      "published": "2026-03-05T17:00:00+09:00",
+      "time": "17:00",
+      "date": "2026.03.05",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Hydreight Technologies Inc. Announces Strategic Investment in Insu Therapeutics to Advance Needle-Free Peptide Delivery Technology",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxONjJHMnhBNW50emxjVW5qMWItTFdjMUdHRkdjcnRybnVhZERXd1VYZlhuNGhHczdJV3N5cEQyajV5SXJTUXpIb2dIbXF2VkJvVzZwZXFRbDJqc0FjVFlMYlM2ck9hM3VUeWE5VkplV2J3eHJxaUJIZ29DUEU4bWwtUUoxUHpnMk9oUzc3eVk5WkZKY29mOVFjajBLdjBDMGs1X0g5aHVFeGtGUF9QUFBlRXpjY0prNjdJc0R2Z2dlSDRWUndJZi1DcXFpMmc5N3o0YVFsM0Q1LWRNbmtNS01BNlpyT25zQUdXeFB3NndwSVQ5a29hVS01WXhuUEN6MG83TGxuczAwR1EwM1B1SGdr?oc=5",
+      "publisher": "Newswire Canada",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
       "published": "2026-03-05T17:00:00+09:00",
       "time": "17:00",
       "date": "2026.03.05",
