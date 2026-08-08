@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-08-07T19:08:21.713491+09:00",
+  "updated_at": "2026-08-08T18:47:48.492715+09:00",
   "dates": [
+    {
+      "date": "2026-08-08",
+      "total": 2331,
+      "counts": {
+        "core": 341,
+        "obesity": 647,
+        "npr": 328,
+        "platform": 461,
+        "reg": 347,
+        "mkt": 207
+      }
+    },
     {
       "date": "2026-08-07",
       "total": 2571,
@@ -899,29 +911,29 @@
     }
   ],
   "papers": {
-    "total": 3255,
+    "total": 3283,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1372,
+    "total": 1373,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 596,
+    "total": 601,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8069,
+  "news_recent_total": 7814,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1917,
-      "papers": 298,
+      "news": 1862,
+      "papers": 299,
       "trials": 113,
-      "total": 2328,
+      "total": 2274,
       "recent": "2026-12-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -948,11 +960,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1141,
+      "news": 1115,
       "papers": 207,
       "trials": 105,
-      "total": 1453,
-      "recent": "2026-08-07T18:45:00+09:00",
+      "total": 1427,
+      "recent": "2026-08-08T12:30:41+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -980,11 +992,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 39,
+      "news": 40,
       "papers": 146,
       "trials": 41,
-      "total": 226,
-      "recent": "2026-08-07T05:08:12+09:00",
+      "total": 227,
+      "recent": "2026-08-08T00:44:27+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1010,10 +1022,10 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 17,
+      "news": 13,
       "papers": 31,
       "trials": 4,
-      "total": 52,
+      "total": 48,
       "recent": "2026-08-04T16:52:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
@@ -1043,51 +1055,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 683,
+      "news": 668,
       "papers": 0,
       "trials": 0,
-      "total": 683,
-      "recent": "2026-08-07T17:50:00+09:00",
+      "total": 668,
+      "recent": "2026-08-07T21:30:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 187,
+      "news": 186,
       "papers": 0,
       "trials": 0,
-      "total": 187,
+      "total": 186,
       "recent": "2026-08-07T17:04:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 74,
+      "news": 70,
       "papers": 0,
       "trials": 0,
-      "total": 74,
+      "total": 70,
       "recent": "2026-08-07T15:22:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 591,
+      "news": 581,
       "papers": 0,
       "trials": 0,
-      "total": 591,
-      "recent": "2026-08-07T16:40:00+09:00",
+      "total": 581,
+      "recent": "2026-08-08T11:49:57+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 439,
+      "news": 425,
       "papers": 1,
       "trials": 0,
-      "total": 440,
-      "recent": "2026-08-07T15:10:00+09:00",
+      "total": 426,
+      "recent": "2026-08-08T05:28:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1103,33 +1115,26 @@
   ],
   "kpi": {
     "news": {
-      "today": 285,
-      "yesterday": 407
+      "today": 49,
+      "yesterday": 311
     },
     "paper": {
-      "today": 3,
-      "yesterday": 20
+      "today": 0,
+      "yesterday": 19
     },
     "trial": {
       "today": 0,
-      "yesterday": 4
+      "yesterday": 1
     },
     "regulatory": {
-      "today": 12,
-      "yesterday": 9
+      "today": 5,
+      "yesterday": 12
     }
   },
   "trend": [
     {
-      "date": "2026-07-09",
-      "news": 302,
-      "paper": 26,
-      "trial": 9,
-      "regulatory": 3
-    },
-    {
       "date": "2026-07-10",
-      "news": 297,
+      "news": 298,
       "paper": 24,
       "trial": 4,
       "regulatory": 10
@@ -1199,7 +1204,7 @@
     },
     {
       "date": "2026-07-20",
-      "news": 341,
+      "news": 342,
       "paper": 18,
       "trial": 7,
       "regulatory": 0
@@ -1221,7 +1226,7 @@
     {
       "date": "2026-07-23",
       "news": 345,
-      "paper": 19,
+      "paper": 22,
       "trial": 10,
       "regulatory": 4
     },
@@ -1235,7 +1240,7 @@
     {
       "date": "2026-07-25",
       "news": 109,
-      "paper": 3,
+      "paper": 4,
       "trial": 0,
       "regulatory": 8
     },
@@ -1249,7 +1254,7 @@
     {
       "date": "2026-07-27",
       "news": 350,
-      "paper": 20,
+      "paper": 21,
       "trial": 15,
       "regulatory": 0
     },
@@ -1312,43 +1317,33 @@
     {
       "date": "2026-08-05",
       "news": 412,
-      "paper": 11,
+      "paper": 12,
       "trial": 7,
       "regulatory": 7
     },
     {
       "date": "2026-08-06",
-      "news": 407,
-      "paper": 20,
+      "news": 409,
+      "paper": 24,
       "trial": 4,
       "regulatory": 9
     },
     {
       "date": "2026-08-07",
-      "news": 285,
-      "paper": 3,
-      "trial": 0,
+      "news": 311,
+      "paper": 19,
+      "trial": 1,
       "regulatory": 12
+    },
+    {
+      "date": "2026-08-08",
+      "news": 49,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 5
     }
   ],
   "alerts": [
-    {
-      "level": "High",
-      "score": 15,
-      "title": "200조 시장 '위고비·마운자로'…제네릭 벌써 분주",
-      "layer": "news",
-      "url": "https://www.newsis.com/view/NISX20260708_0003700912",
-      "companies": [
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-07-08T14:11:00+09:00",
-      "date": "2026.07.08",
-      "publisher": "newsis.com"
-    },
     {
       "level": "High",
       "score": 12,
@@ -1471,21 +1466,30 @@
       "published": "2026-07-22T09:36:00+09:00",
       "date": "2026.07.22",
       "publisher": "news1.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "위고비 vs 마운자로 이번엔 광고 전쟁…노보, 릴리 상대 소송",
+      "layer": "news",
+      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6234814",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-07-22T08:37:00+09:00",
+      "date": "2026.07.22",
+      "publisher": "news1.kr"
     }
   ],
   "highlights": {
     "PT403": [
       {
         "level": "High",
-        "title": "200조 시장 '위고비·마운자로'…제네릭 벌써 분주",
-        "layer": "news",
-        "url": "https://www.newsis.com/view/NISX20260708_0003700912",
-        "date": "2026.07.08",
-        "published": "2026-07-08T14:11:00+09:00",
-        "publisher": "newsis.com"
-      },
-      {
-        "level": "High",
         "title": "신약 1개 임상 진입에 1억800만 달러 … FDA 허가까지 10.5년",
         "layer": "news",
         "url": "http://www.medisobizanews.com/news/articleView.html?idxno=140778",
@@ -1519,20 +1523,20 @@
         "date": "2026.07.24",
         "published": "2026-07-24T09:50:00+09:00",
         "publisher": "kukinews.com"
+      },
+      {
+        "level": "High",
+        "title": "[미국 특징주] 릴리 차세대 비만약, 3상 2건 추가 성공…내년 1분기 FDA ...",
+        "layer": "news",
+        "url": "https://www.newspim.com/news/view/20260723001335",
+        "date": "2026.07.23",
+        "published": "2026-07-23T22:54:00+09:00",
+        "publisher": "newspim.com"
       }
     ],
     "PT404": [
       {
         "level": "High",
-        "title": "200조 시장 '위고비·마운자로'…제네릭 벌써 분주",
-        "layer": "news",
-        "url": "https://www.newsis.com/view/NISX20260708_0003700912",
-        "date": "2026.07.08",
-        "published": "2026-07-08T14:11:00+09:00",
-        "publisher": "newsis.com"
-      },
-      {
-        "level": "High",
         "title": "신약 1개 임상 진입에 1억800만 달러 … FDA 허가까지 10.5년",
         "layer": "news",
         "url": "http://www.medisobizanews.com/news/articleView.html?idxno=140778",
@@ -1566,6 +1570,15 @@
         "date": "2026.07.24",
         "published": "2026-07-24T09:50:00+09:00",
         "publisher": "kukinews.com"
+      },
+      {
+        "level": "High",
+        "title": "[미국 특징주] 릴리 차세대 비만약, 3상 2건 추가 성공…내년 1분기 FDA ...",
+        "layer": "news",
+        "url": "https://www.newspim.com/news/view/20260723001335",
+        "date": "2026.07.23",
+        "published": "2026-07-23T22:54:00+09:00",
+        "publisher": "newspim.com"
       }
     ],
     "PND3174": [
