@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-08-10T19:26:29.448861+09:00",
+  "updated_at": "2026-08-11T07:35:01.628315+09:00",
   "dates": [
+    {
+      "date": "2026-08-11",
+      "total": 2340,
+      "counts": {
+        "core": 336,
+        "obesity": 637,
+        "npr": 325,
+        "platform": 475,
+        "reg": 345,
+        "mkt": 222
+      }
+    },
     {
       "date": "2026-08-10",
       "total": 2579,
@@ -935,29 +947,29 @@
     }
   ],
   "papers": {
-    "total": 3316,
+    "total": 3328,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1372,
+    "total": 1382,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 601,
+    "total": 602,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7567,
+  "news_recent_total": 7561,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1811,
-      "papers": 303,
-      "trials": 113,
-      "total": 2227,
+      "news": 1805,
+      "papers": 304,
+      "trials": 114,
+      "total": 2223,
       "recent": "2026-12-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -984,11 +996,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1120,
-      "papers": 210,
-      "trials": 105,
-      "total": 1435,
-      "recent": "2026-08-10T19:00:00+09:00",
+      "news": 1115,
+      "papers": 212,
+      "trials": 106,
+      "total": 1433,
+      "recent": "2026-08-11T07:02:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1016,10 +1028,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 40,
+      "news": 39,
       "papers": 146,
       "trials": 41,
-      "total": 227,
+      "total": 226,
       "recent": "2026-08-08T14:42:25+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -1079,21 +1091,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 591,
+      "news": 578,
       "papers": 0,
       "trials": 0,
-      "total": 591,
-      "recent": "2026-08-10T16:14:00+09:00",
+      "total": 578,
+      "recent": "2026-08-10T21:08:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 171,
+      "news": 168,
       "papers": 0,
       "trials": 0,
-      "total": 171,
-      "recent": "2026-08-10T16:18:00+09:00",
+      "total": 168,
+      "recent": "2026-08-11T05:00:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -1109,21 +1121,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 544,
+      "news": 541,
       "papers": 0,
       "trials": 0,
-      "total": 544,
-      "recent": "2026-08-10T13:37:02+09:00",
+      "total": 541,
+      "recent": "2026-08-11T07:02:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 428,
+      "news": 429,
       "papers": 1,
       "trials": 0,
-      "total": 429,
-      "recent": "2026-08-10T15:18:00+09:00",
+      "total": 430,
+      "recent": "2026-08-11T07:02:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1139,30 +1151,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 228,
-      "yesterday": 105
+      "today": 55,
+      "yesterday": 256
     },
     "paper": {
       "today": 3,
-      "yesterday": 5
+      "yesterday": 9
     },
     "trial": {
       "today": 0,
-      "yesterday": 0
+      "yesterday": 12
     },
     "regulatory": {
-      "today": 0,
+      "today": 1,
       "yesterday": 0
     }
   },
   "trend": [
-    {
-      "date": "2026-07-12",
-      "news": 62,
-      "paper": 7,
-      "trial": 0,
-      "regulatory": 0
-    },
     {
       "date": "2026-07-13",
       "news": 261,
@@ -1270,7 +1275,7 @@
     },
     {
       "date": "2026-07-28",
-      "news": 308,
+      "news": 309,
       "paper": 19,
       "trial": 8,
       "regulatory": 8
@@ -1291,7 +1296,7 @@
     },
     {
       "date": "2026-07-31",
-      "news": 252,
+      "news": 253,
       "paper": 12,
       "trial": 8,
       "regulatory": 7
@@ -1299,7 +1304,7 @@
     {
       "date": "2026-08-01",
       "news": 67,
-      "paper": 39,
+      "paper": 41,
       "trial": 0,
       "regulatory": 9
     },
@@ -1327,7 +1332,7 @@
     {
       "date": "2026-08-05",
       "news": 411,
-      "paper": 13,
+      "paper": 14,
       "trial": 7,
       "regulatory": 7
     },
@@ -1340,14 +1345,14 @@
     },
     {
       "date": "2026-08-07",
-      "news": 316,
-      "paper": 21,
+      "news": 318,
+      "paper": 22,
       "trial": 1,
       "regulatory": 12
     },
     {
       "date": "2026-08-08",
-      "news": 61,
+      "news": 62,
       "paper": 10,
       "trial": 0,
       "regulatory": 5
@@ -1355,16 +1360,23 @@
     {
       "date": "2026-08-09",
       "news": 105,
-      "paper": 5,
+      "paper": 6,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-08-10",
-      "news": 228,
+      "news": 256,
+      "paper": 9,
+      "trial": 12,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-08-11",
+      "news": 55,
       "paper": 3,
       "trial": 0,
-      "regulatory": 0
+      "regulatory": 1
     }
   ],
   "alerts": [
@@ -1607,15 +1619,6 @@
     ],
     "PND3174": [
       {
-        "level": "High",
-        "title": "[GAM] 브릿지바이오 사상 최고가 ② ATTR-CM 시장 주도권 굳히다",
-        "layer": "news",
-        "url": "https://www.newspim.com/news/view/20260711000014",
-        "date": "2026.07.11",
-        "published": "2026-07-11T02:00:00+09:00",
-        "publisher": "newspim.com"
-      },
-      {
         "level": "Medium",
         "title": "Biotech Advances VOXZOGO Toward Landmark US FDA Approval",
         "layer": "news",
@@ -1650,6 +1653,15 @@
         "date": "2026.07.16",
         "published": "2026-07-16T19:31:37+09:00",
         "publisher": "simplywall.st"
+      },
+      {
+        "level": "Medium",
+        "title": "FDA Accepts BMRN's sNDA Seeking Full Approval for Voxzogo",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3NUODhIS3E5NU42czVUdEFhSkVTSTFlZWtmZUtOMkJkblVYcnlGbUk3ME9KYVNJVTJKR3JDMkZlRUpROV9sbXl6Q1p0VTI2TEJEYUMzeE40SERlcUpOdXllcWtWd3dXc2d4QWYxV0h1VG51TUptT3h4bDRRc05NQlFiRVdjQ0ZKSUdRQnhyZWF4RmdVNkE?oc=5",
+        "date": "2026.07.14",
+        "published": "2026-07-14T23:42:00+09:00",
+        "publisher": "Yahoo Finance"
       }
     ],
     "PT320": [
