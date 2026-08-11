@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T19:06:26.101085+09:00",
-  "total": 3345,
+  "updated_at": "2026-08-12T07:30:08.252278+09:00",
+  "total": 3358,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -153,6 +153,24 @@
       "summary": "Wei Y et al. · Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42495930/",
       "publisher": "Journal of obstetrics and gynaecology : the j",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-12-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.12.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Design, synthesis, and stability evaluation of semaglutide-derived lactam-stapled peptide scaffolds for GLP-1R targeting",
+      "summary": "Liu T et al. · Journal of enzyme inhibition and medicinal chemistry",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42578506/",
+      "publisher": "Journal of enzyme inhibition and medicinal ch",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -583,6 +601,106 @@
       "companies": []
     },
     {
+      "title": "Skin Impacts and Tradeoffs of GLP-1 Therapy: Improved Patient-Reported Outcomes of Inflammatory Skin Disease in the Era of \"Ozempic Face\"",
+      "summary": "Rao S et al. · Dermatology and therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42579223/",
+      "publisher": "Dermatology and therapy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Response to \"Prepregnancy GLP-1 Receptor Agonist Use: Unaccounted Pretreatment BMI May Distort Obstetric Outcome Signals in Real-World Studies\"",
+      "summary": "Lemas DJ et al. · Obesity (Silver Spring, Md.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42578724/",
+      "publisher": "Obesity (Silver Spring, Md.)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-Like Peptide-1 Receptor Agonists Use Among Reproductive-Aged Women with Type 2 Diabetes",
+      "summary": "Bailey SC et al. · Journal of women's health (2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576647/",
+      "publisher": "Journal of women's health (2002)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Simplified definition and imaging-based stratification of at-risk MASH using magnetic resonance elastography",
+      "summary": "Li J et al. · Hepatology communications",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42579768/",
+      "publisher": "Hepatology communications",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Correction: Cost-Effectiveness of Endoscopic Bariatric Therapies Compared with Laparoscopic Sleeve Gastrectomy and Semaglutide",
+      "summary": "Afentou N et al. · Obesity surgery",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42579270/",
+      "publisher": "Obesity surgery",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "MAFLD/MASLD: Past, Present, and Future",
+      "summary": "Wong VW · Journal of gastroenterology and hepatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42578314/",
+      "publisher": "Journal of gastroenterology and hepatology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Platelet-rich plasma-loaded hydrogels: diffusivity and release of individual proteins in multicomponent complex environments",
       "summary": "Stealey S et al. · International journal of pharmaceutics",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42276262/",
@@ -963,6 +1081,24 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Real-world effectiveness of tirzepatide among youth with type 2 diabetes and/or obesity: a multicenter analysis",
+      "summary": "Valdez Y et al. · Journal of pediatric endocrinology & metabolism : JPEM",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576608/",
+      "publisher": "Journal of pediatric endocrinology & metaboli",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -2402,6 +2538,38 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Inter- and intraindividual variability of long-acting injectable cabotegravir/rilpivirine trough concentrations after 1 year of continuous use",
+      "summary": "Sunagawa SW et al. · The Journal of antimicrobial chemotherapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576791/",
+      "publisher": "The Journal of antimicrobial chemotherapy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-04T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.04",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Differential pharmacokinetic decay of long-acting cabotegravir and rilpivirine after missed injections: a case series",
+      "summary": "Cossu MV et al. · The Journal of antimicrobial chemotherapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576789/",
+      "publisher": "The Journal of antimicrobial chemotherapy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-04T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.04",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -4088,6 +4256,22 @@
       "companies": []
     },
     {
+      "title": "Clinical Practice Guidelines for Adult MASLD in Bosnia and Herzegovina: National Recommendations for Diagnosis, Risk Stratification, and Treatment",
+      "summary": "Zerem E et al. · Acta medica academica",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42578551/",
+      "publisher": "Acta medica academica",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Oral Semaglutide for Alcohol Use Disorder: A Randomized Clinical Trial",
       "summary": "Schacht JP et al. · The American journal of psychiatry",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42522065/",
@@ -4994,6 +5178,22 @@
       "summary": "Ma B et al. · Endocrine, metabolic & immune disorders drug targets",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42565425/",
       "publisher": "Endocrine, metabolic & immune disorders drug ",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-27T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.27",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Effectiveness, safety, and treatment patterns of GLP-1 receptor agonists in adolescents with obesity: a multicenter retrospective study from Saudi Arabia",
+      "summary": "Kalagi F et al. · Frontiers in nutrition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42577813/",
+      "publisher": "Frontiers in nutrition",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -9076,6 +9276,22 @@
       "date": "2026.07.14",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Orforglipron for obesity treatment in older patients ≥65 years with or without type 2 diabetes: A post hoc subgroup analysis of the ATTAIN-1 and ATTAIN-2 trials",
+      "summary": "Horn DB et al. · Obesity pillars",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42577069/",
+      "publisher": "Obesity pillars",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-14T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.14",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
