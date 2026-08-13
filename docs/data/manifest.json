@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-08-13T07:38:39.250880+09:00",
+  "updated_at": "2026-08-13T14:10:59.556139+09:00",
   "dates": [
     {
       "date": "2026-08-13",
-      "total": 2356,
+      "total": 2543,
       "counts": {
-        "core": 329,
-        "obesity": 641,
-        "npr": 329,
-        "platform": 488,
-        "reg": 338,
-        "mkt": 231
+        "core": 339,
+        "obesity": 734,
+        "npr": 336,
+        "platform": 511,
+        "reg": 357,
+        "mkt": 266
       }
     },
     {
@@ -971,7 +971,7 @@
     }
   ],
   "papers": {
-    "total": 3389,
+    "total": 3397,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -985,15 +985,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7815,
+  "news_recent_total": 7939,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1831,
+      "news": 1844,
       "papers": 315,
       "trials": 115,
-      "total": 2261,
+      "total": 2274,
       "recent": "2026-12-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1020,11 +1020,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1149,
+      "news": 1164,
       "papers": 216,
       "trials": 106,
-      "total": 1471,
-      "recent": "2026-08-13T06:32:00+09:00",
+      "total": 1486,
+      "recent": "2026-08-13T13:51:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1115,11 +1115,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 572,
+      "news": 578,
       "papers": 0,
       "trials": 0,
-      "total": 572,
-      "recent": "2026-08-12T20:42:00+09:00",
+      "total": 578,
+      "recent": "2026-08-13T13:14:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1135,31 +1135,31 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 73,
+      "news": 74,
       "papers": 0,
       "trials": 0,
-      "total": 73,
-      "recent": "2026-08-13T06:02:00+09:00",
+      "total": 74,
+      "recent": "2026-08-13T11:42:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 561,
+      "news": 571,
       "papers": 0,
       "trials": 0,
-      "total": 561,
-      "recent": "2026-08-13T05:54:48+09:00",
+      "total": 571,
+      "recent": "2026-08-13T12:30:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 445,
+      "news": 448,
       "papers": 1,
       "trials": 0,
-      "total": 446,
-      "recent": "2026-08-13T01:31:49+09:00",
+      "total": 449,
+      "recent": "2026-08-13T12:18:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1175,12 +1175,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 54,
-      "yesterday": 268
+      "today": 176,
+      "yesterday": 269
     },
     "paper": {
       "today": 0,
-      "yesterday": 6
+      "yesterday": 10
     },
     "trial": {
       "today": 0,
@@ -1363,7 +1363,7 @@
     {
       "date": "2026-08-08",
       "news": 62,
-      "paper": 10,
+      "paper": 11,
       "trial": 0,
       "regulatory": 5
     },
@@ -1376,7 +1376,7 @@
     },
     {
       "date": "2026-08-10",
-      "news": 266,
+      "news": 267,
       "paper": 24,
       "trial": 12,
       "regulatory": 0
@@ -1384,26 +1384,60 @@
     {
       "date": "2026-08-11",
       "news": 289,
-      "paper": 21,
+      "paper": 22,
       "trial": 6,
       "regulatory": 1
     },
     {
       "date": "2026-08-12",
-      "news": 268,
-      "paper": 6,
+      "news": 269,
+      "paper": 10,
       "trial": 10,
       "regulatory": 5
     },
     {
       "date": "2026-08-13",
-      "news": 54,
+      "news": 176,
       "paper": 0,
       "trial": 0,
       "regulatory": 12
     }
   ],
   "alerts": [
+    {
+      "level": "High",
+      "score": 15,
+      "title": "릴리, 미승인 비만약 '레타트루타이드' 불법 판매 6개사 제소",
+      "layer": "news",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=540462",
+      "companies": [
+        "lilly"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-08-13T12:30:00+09:00",
+      "date": "2026.08.13",
+      "publisher": "kpanews.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 13,
+      "title": "'200조원' 비만약 시장 잡아라…국내 제약·바이오사 승부수",
+      "layer": "news",
+      "url": "https://www.nocutnews.co.kr/news/6559959?utm_source=naver&utm_medium=article&utm_campaign=20260810060036",
+      "companies": [
+        "lilly"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-08-10T06:01:00+09:00",
+      "date": "2026.08.10",
+      "publisher": "nocutnews.co.kr"
+    },
     {
       "level": "High",
       "score": 12,
@@ -1508,48 +1542,30 @@
       "published": "2026-07-22T10:36:00+09:00",
       "date": "2026.07.22",
       "publisher": "한국경제"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "'위고비-마운자로 혈투' 법정으로…노보 \"릴리, 기만적 비교광고\"",
-      "layer": "news",
-      "url": "https://www.news1.kr/world/usa-canada/6234875",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-07-22T09:36:00+09:00",
-      "date": "2026.07.22",
-      "publisher": "news1.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "위고비 vs 마운자로 이번엔 광고 전쟁…노보, 릴리 상대 소송",
-      "layer": "news",
-      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6234814",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-07-22T08:37:00+09:00",
-      "date": "2026.07.22",
-      "publisher": "news1.kr"
     }
   ],
   "highlights": {
     "PT403": [
       {
         "level": "High",
+        "title": "릴리, 미승인 비만약 '레타트루타이드' 불법 판매 6개사 제소",
+        "layer": "news",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=540462",
+        "date": "2026.08.13",
+        "published": "2026-08-13T12:30:00+09:00",
+        "publisher": "kpanews.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "'200조원' 비만약 시장 잡아라…국내 제약·바이오사 승부수",
+        "layer": "news",
+        "url": "https://www.nocutnews.co.kr/news/6559959?utm_source=naver&utm_medium=article&utm_campaign=20260810060036",
+        "date": "2026.08.10",
+        "published": "2026-08-10T06:01:00+09:00",
+        "publisher": "nocutnews.co.kr"
+      },
+      {
+        "level": "High",
         "title": "신약 1개 임상 진입에 1억800만 달러 … FDA 허가까지 10.5년",
         "layer": "news",
         "url": "http://www.medisobizanews.com/news/articleView.html?idxno=140778",
@@ -1574,29 +1590,29 @@
         "date": "2026.07.28",
         "published": "2026-07-28T05:52:00+09:00",
         "publisher": "kpanews.co.kr"
-      },
-      {
-        "level": "High",
-        "title": "릴리 비만약 ‘레타트루타이드’, 임상 3상 2건 성공…내년 1분기 FDA BL...",
-        "layer": "news",
-        "url": "https://www.kukinews.com/article/view/kuk202607240024",
-        "date": "2026.07.24",
-        "published": "2026-07-24T09:50:00+09:00",
-        "publisher": "kukinews.com"
-      },
-      {
-        "level": "High",
-        "title": "[미국 특징주] 릴리 차세대 비만약, 3상 2건 추가 성공…내년 1분기 FDA ...",
-        "layer": "news",
-        "url": "https://www.newspim.com/news/view/20260723001335",
-        "date": "2026.07.23",
-        "published": "2026-07-23T22:54:00+09:00",
-        "publisher": "newspim.com"
       }
     ],
     "PT404": [
       {
         "level": "High",
+        "title": "릴리, 미승인 비만약 '레타트루타이드' 불법 판매 6개사 제소",
+        "layer": "news",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=540462",
+        "date": "2026.08.13",
+        "published": "2026-08-13T12:30:00+09:00",
+        "publisher": "kpanews.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "'200조원' 비만약 시장 잡아라…국내 제약·바이오사 승부수",
+        "layer": "news",
+        "url": "https://www.nocutnews.co.kr/news/6559959?utm_source=naver&utm_medium=article&utm_campaign=20260810060036",
+        "date": "2026.08.10",
+        "published": "2026-08-10T06:01:00+09:00",
+        "publisher": "nocutnews.co.kr"
+      },
+      {
+        "level": "High",
         "title": "신약 1개 임상 진입에 1억800만 달러 … FDA 허가까지 10.5년",
         "layer": "news",
         "url": "http://www.medisobizanews.com/news/articleView.html?idxno=140778",
@@ -1621,24 +1637,6 @@
         "date": "2026.07.28",
         "published": "2026-07-28T05:52:00+09:00",
         "publisher": "kpanews.co.kr"
-      },
-      {
-        "level": "High",
-        "title": "릴리 비만약 ‘레타트루타이드’, 임상 3상 2건 성공…내년 1분기 FDA BL...",
-        "layer": "news",
-        "url": "https://www.kukinews.com/article/view/kuk202607240024",
-        "date": "2026.07.24",
-        "published": "2026-07-24T09:50:00+09:00",
-        "publisher": "kukinews.com"
-      },
-      {
-        "level": "High",
-        "title": "[미국 특징주] 릴리 차세대 비만약, 3상 2건 추가 성공…내년 1분기 FDA ...",
-        "layer": "news",
-        "url": "https://www.newspim.com/news/view/20260723001335",
-        "date": "2026.07.23",
-        "published": "2026-07-23T22:54:00+09:00",
-        "publisher": "newspim.com"
       }
     ],
     "PND3174": [
