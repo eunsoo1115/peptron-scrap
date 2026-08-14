@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-08-14T19:12:47.495616+09:00",
-  "total": 1409,
+  "updated_at": "2026-08-15T07:11:14.137247+09:00",
+  "total": 1410,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
+    {
+      "title": "Acalabrutinib Monotherapy vs Investigator's Choice of Treatment in Patients With CL Leukaemia and Heart Failure",
+      "summary": "모집중 · 4상 · Chronic Lymphocytic Leukaemia, Moderate to Severe Cardiac Impairment",
+      "url": "https://clinicaltrials.gov/study/NCT06651970",
+      "publisher": "AstraZeneca",
+      "source": "ctgov",
+      "layer": "trial",
+      "region": "",
+      "published": "2026-08-14T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.14",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [],
+      "companies": [],
+      "ct_status": "모집중",
+      "ct_phase": "4상"
+    },
+    {
+      "title": "A Study to Evaluate a Postbiotic in Supporting Weight Loss and Metabolic Health",
+      "summary": "완료 · 해당없음 · Obesity and Overweight",
+      "url": "https://clinicaltrials.gov/study/NCT06911073",
+      "publisher": "ResBiotic Nutrition, Inc.",
+      "source": "ctgov",
+      "layer": "trial",
+      "region": "",
+      "published": "2026-08-14T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.14",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": [],
+      "ct_status": "완료",
+      "ct_phase": "해당없음"
+    },
+    {
+      "title": "Research Study to Investigate How Well Semaglutide Tablets Taken Once Daily Work in East Asian People Who Are Overweight or Living With Obesity",
+      "summary": "완료 · 3상 · Overweight and Obesity",
+      "url": "https://clinicaltrials.gov/study/NCT05132088",
+      "publisher": "Novo Nordisk A/S",
+      "source": "ctgov",
+      "layer": "trial",
+      "region": "",
+      "published": "2026-08-14T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.14",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": [],
+      "ct_status": "완료",
+      "ct_phase": "3상"
+    },
     {
       "title": "SIRT With Tremelimumab and Durvalumab for Resectable HCC",
       "summary": "진행중(모집종료) · 1상 · Resectable Hepatocellular Carcinoma, Hepatocellular Carcinoma",
@@ -10496,24 +10552,6 @@
       "companies": [],
       "ct_status": "완료",
       "ct_phase": "3상"
-    },
-    {
-      "title": "Acalabrutinib Monotherapy vs Investigator's Choice of Treatment in Patients With CL Leukaemia and Heart Failure",
-      "summary": "모집중 · 4상 · Chronic Lymphocytic Leukaemia, Heart Failure",
-      "url": "https://clinicaltrials.gov/study/NCT06651970",
-      "publisher": "AstraZeneca",
-      "source": "ctgov",
-      "layer": "trial",
-      "region": "",
-      "published": "2026-05-18T00:00:00+09:00",
-      "time": "00:00",
-      "date": "2026.05.18",
-      "year": 2026,
-      "category": "npr",
-      "pipelines": [],
-      "companies": [],
-      "ct_status": "모집중",
-      "ct_phase": "4상"
     },
     {
       "title": "A Study of Nemtabrutinib Plus Venetoclax vs Venetoclax + Rituximab (VR) in Second-line (2L) + Relapsed/Refractory (R/R) Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL) (MK-1026-010/BELLWAVE-010).",
@@ -25875,24 +25913,6 @@
       "companies": [],
       "ct_status": "완료",
       "ct_phase": "단계미정"
-    },
-    {
-      "title": "A Study of LY3437943 in Chinese Participants With Obesity Or Overweight",
-      "summary": "완료 · 1상 · Overweight, Obesity",
-      "url": "https://clinicaltrials.gov/study/NCT05548231",
-      "publisher": "Eli Lilly and Company",
-      "source": "ctgov",
-      "layer": "trial",
-      "region": "",
-      "published": "2023-08-14T00:00:00+09:00",
-      "time": "00:00",
-      "date": "2023.08.14",
-      "year": 2023,
-      "category": "obesity",
-      "pipelines": [],
-      "companies": [],
-      "ct_status": "완료",
-      "ct_phase": "1상"
     }
   ]
 }

@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-08-14T19:13:46.534566+09:00",
+  "updated_at": "2026-08-15T07:21:40.823981+09:00",
   "dates": [
+    {
+      "date": "2026-08-15",
+      "total": 2357,
+      "counts": {
+        "core": 333,
+        "obesity": 623,
+        "npr": 324,
+        "platform": 500,
+        "reg": 347,
+        "mkt": 230
+      }
+    },
     {
       "date": "2026-08-14",
       "total": 2617,
@@ -983,29 +995,29 @@
     }
   ],
   "papers": {
-    "total": 3452,
+    "total": 3471,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1409,
+    "total": 1410,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 625,
+    "total": 629,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7991,
+  "news_recent_total": 7811,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1841,
-      "papers": 319,
-      "trials": 118,
-      "total": 2278,
+      "news": 1808,
+      "papers": 320,
+      "trials": 119,
+      "total": 2247,
       "recent": "2026-12-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1032,11 +1044,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1182,
-      "papers": 218,
+      "news": 1162,
+      "papers": 221,
       "trials": 106,
-      "total": 1506,
-      "recent": "2026-08-14T16:57:00+09:00",
+      "total": 1489,
+      "recent": "2026-08-15T07:02:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1127,51 +1139,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 567,
+      "news": 557,
       "papers": 0,
       "trials": 0,
-      "total": 567,
-      "recent": "2026-08-14T16:32:00+09:00",
+      "total": 557,
+      "recent": "2026-08-15T06:26:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 161,
+      "news": 156,
       "papers": 0,
       "trials": 0,
-      "total": 161,
+      "total": 156,
       "recent": "2026-08-14T16:00:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 74,
+      "news": 70,
       "papers": 0,
       "trials": 0,
-      "total": 74,
+      "total": 70,
       "recent": "2026-08-13T11:42:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 583,
+      "news": 579,
       "papers": 0,
       "trials": 0,
-      "total": 583,
-      "recent": "2026-08-14T14:02:36+09:00",
+      "total": 579,
+      "recent": "2026-08-15T05:52:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 458,
+      "news": 451,
       "papers": 1,
       "trials": 0,
-      "total": 459,
-      "recent": "2026-08-14T12:02:00+09:00",
+      "total": 452,
+      "recent": "2026-08-15T05:52:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1187,30 +1199,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 226,
-      "yesterday": 311
+      "today": 36,
+      "yesterday": 248
     },
     "paper": {
-      "today": 3,
-      "yesterday": 19
-    },
-    "trial": {
       "today": 0,
       "yesterday": 12
     },
+    "trial": {
+      "today": 0,
+      "yesterday": 3
+    },
     "regulatory": {
-      "today": 6,
-      "yesterday": 12
+      "today": 4,
+      "yesterday": 6
     }
   },
   "trend": [
-    {
-      "date": "2026-07-16",
-      "news": 342,
-      "paper": 18,
-      "trial": 8,
-      "regulatory": 14
-    },
     {
       "date": "2026-07-17",
       "news": 114,
@@ -1305,7 +1310,7 @@
     {
       "date": "2026-07-30",
       "news": 299,
-      "paper": 29,
+      "paper": 33,
       "trial": 11,
       "regulatory": 5
     },
@@ -1347,7 +1352,7 @@
     {
       "date": "2026-08-05",
       "news": 411,
-      "paper": 14,
+      "paper": 15,
       "trial": 7,
       "regulatory": 7
     },
@@ -1381,14 +1386,14 @@
     },
     {
       "date": "2026-08-10",
-      "news": 267,
+      "news": 268,
       "paper": 25,
       "trial": 12,
       "regulatory": 0
     },
     {
       "date": "2026-08-11",
-      "news": 290,
+      "news": 294,
       "paper": 22,
       "trial": 6,
       "regulatory": 1
@@ -1396,23 +1401,30 @@
     {
       "date": "2026-08-12",
       "news": 272,
-      "paper": 10,
+      "paper": 11,
       "trial": 10,
       "regulatory": 5
     },
     {
       "date": "2026-08-13",
-      "news": 311,
+      "news": 312,
       "paper": 19,
       "trial": 12,
       "regulatory": 12
     },
     {
       "date": "2026-08-14",
-      "news": 226,
-      "paper": 3,
-      "trial": 0,
+      "news": 248,
+      "paper": 12,
+      "trial": 3,
       "regulatory": 6
+    },
+    {
+      "date": "2026-08-15",
+      "news": 36,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 4
     }
   ],
   "alerts": [
@@ -1449,6 +1461,21 @@
       "published": "2026-08-10T06:01:00+09:00",
       "date": "2026.08.10",
       "publisher": "nocutnews.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "JW중외제약, 보팡글루타이드 국내 3상 신청…비만치료제 시장 본격 공략",
+      "layer": "news",
+      "url": "https://www.g-enews.com/view.php?ud=202608141820024032b065b72042_1",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-08-14T20:38:00+09:00",
+      "date": "2026.08.14",
+      "publisher": "g-enews.com"
     },
     {
       "level": "High",
@@ -1530,24 +1557,6 @@
       "published": "2026-07-24T09:50:00+09:00",
       "date": "2026.07.24",
       "publisher": "kukinews.com"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "[미국 특징주] 릴리 차세대 비만약, 3상 2건 추가 성공…내년 1분기 FDA ...",
-      "layer": "news",
-      "url": "https://www.newspim.com/news/view/20260723001335",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-07-23T22:54:00+09:00",
-      "date": "2026.07.23",
-      "publisher": "newspim.com"
     }
   ],
   "highlights": {
@@ -1572,6 +1581,15 @@
       },
       {
         "level": "High",
+        "title": "JW중외제약, 보팡글루타이드 국내 3상 신청…비만치료제 시장 본격 공략",
+        "layer": "news",
+        "url": "https://www.g-enews.com/view.php?ud=202608141820024032b065b72042_1",
+        "date": "2026.08.14",
+        "published": "2026-08-14T20:38:00+09:00",
+        "publisher": "g-enews.com"
+      },
+      {
+        "level": "High",
         "title": "신약 1개 임상 진입에 1억800만 달러 … FDA 허가까지 10.5년",
         "layer": "news",
         "url": "http://www.medisobizanews.com/news/articleView.html?idxno=140778",
@@ -1587,15 +1605,6 @@
         "date": "2026.07.29",
         "published": "2026-07-29T08:24:00+09:00",
         "publisher": "메디파나뉴스"
-      },
-      {
-        "level": "High",
-        "title": "노보, 릴리 GLP-1 비교광고 중단 추진…\"구형 임상으로 우월성 과장\"",
-        "layer": "news",
-        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=539277",
-        "date": "2026.07.28",
-        "published": "2026-07-28T05:52:00+09:00",
-        "publisher": "kpanews.co.kr"
       }
     ],
     "PT404": [
@@ -1619,6 +1628,15 @@
       },
       {
         "level": "High",
+        "title": "JW중외제약, 보팡글루타이드 국내 3상 신청…비만치료제 시장 본격 공략",
+        "layer": "news",
+        "url": "https://www.g-enews.com/view.php?ud=202608141820024032b065b72042_1",
+        "date": "2026.08.14",
+        "published": "2026-08-14T20:38:00+09:00",
+        "publisher": "g-enews.com"
+      },
+      {
+        "level": "High",
         "title": "신약 1개 임상 진입에 1억800만 달러 … FDA 허가까지 10.5년",
         "layer": "news",
         "url": "http://www.medisobizanews.com/news/articleView.html?idxno=140778",
@@ -1634,15 +1652,6 @@
         "date": "2026.07.29",
         "published": "2026-07-29T08:24:00+09:00",
         "publisher": "메디파나뉴스"
-      },
-      {
-        "level": "High",
-        "title": "노보, 릴리 GLP-1 비교광고 중단 추진…\"구형 임상으로 우월성 과장\"",
-        "layer": "news",
-        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=539277",
-        "date": "2026.07.28",
-        "published": "2026-07-28T05:52:00+09:00",
-        "publisher": "kpanews.co.kr"
       }
     ],
     "PND3174": [
