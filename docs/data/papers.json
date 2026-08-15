@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T12:48:45.909854+09:00",
-  "total": 3475,
+  "updated_at": "2026-08-15T18:33:51.200797+09:00",
+  "total": 3476,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -598,6 +598,24 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide treatment fails but might prevent Alzheimer's disease",
+      "summary": "Koychev I et al. · Lancet (London, England)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42594906/",
+      "publisher": "Lancet (London, England)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.15",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
