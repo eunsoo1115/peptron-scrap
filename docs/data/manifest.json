@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-08-15T18:44:17.411034+09:00",
+  "updated_at": "2026-08-16T07:18:09.967864+09:00",
   "dates": [
+    {
+      "date": "2026-08-16",
+      "total": 2366,
+      "counts": {
+        "core": 337,
+        "obesity": 640,
+        "npr": 323,
+        "platform": 495,
+        "reg": 343,
+        "mkt": 228
+      }
+    },
     {
       "date": "2026-08-15",
       "total": 2496,
@@ -995,7 +1007,7 @@
     }
   ],
   "papers": {
-    "total": 3476,
+    "total": 3492,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -1009,15 +1021,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7852,
+  "news_recent_total": 7542,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1815,
-      "papers": 321,
+      "news": 1749,
+      "papers": 324,
       "trials": 119,
-      "total": 2255,
+      "total": 2192,
       "recent": "2026-12-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1044,11 +1056,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1164,
-      "papers": 222,
+      "news": 1149,
+      "papers": 223,
       "trials": 106,
-      "total": 1492,
-      "recent": "2026-08-15T16:18:58+09:00",
+      "total": 1478,
+      "recent": "2026-08-16T06:21:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1076,10 +1088,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 30,
+      "news": 29,
       "papers": 147,
       "trials": 41,
-      "total": 218,
+      "total": 217,
       "recent": "2026-08-14T14:28:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -1106,10 +1118,10 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 10,
+      "news": 4,
       "papers": 33,
       "trials": 4,
-      "total": 47,
+      "total": 41,
       "recent": "2026-08-13T06:01:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
@@ -1139,51 +1151,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 557,
+      "news": 549,
       "papers": 0,
       "trials": 0,
-      "total": 557,
+      "total": 549,
       "recent": "2026-08-15T06:26:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 157,
+      "news": 132,
       "papers": 0,
       "trials": 0,
-      "total": 157,
+      "total": 132,
       "recent": "2026-08-14T16:00:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 70,
+      "news": 69,
       "papers": 0,
       "trials": 0,
-      "total": 70,
+      "total": 69,
       "recent": "2026-08-13T11:42:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 581,
+      "news": 570,
       "papers": 0,
       "trials": 0,
-      "total": 581,
-      "recent": "2026-08-15T08:10:59+09:00",
+      "total": 570,
+      "recent": "2026-08-16T03:12:53+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 454,
+      "news": 432,
       "papers": 1,
       "trials": 0,
-      "total": 455,
-      "recent": "2026-08-15T10:20:00+09:00",
+      "total": 433,
+      "recent": "2026-08-15T17:06:42+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1199,30 +1211,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 66,
-      "yesterday": 251
+      "today": 9,
+      "yesterday": 88
     },
     "paper": {
-      "today": 1,
-      "yesterday": 15
+      "today": 0,
+      "yesterday": 4
     },
     "trial": {
       "today": 0,
-      "yesterday": 3
+      "yesterday": 0
     },
     "regulatory": {
-      "today": 4,
-      "yesterday": 6
+      "today": 0,
+      "yesterday": 4
     }
   },
   "trend": [
-    {
-      "date": "2026-07-17",
-      "news": 114,
-      "paper": 18,
-      "trial": 5,
-      "regulatory": 14
-    },
     {
       "date": "2026-07-18",
       "news": 56,
@@ -1247,7 +1252,7 @@
     {
       "date": "2026-07-21",
       "news": 360,
-      "paper": 33,
+      "paper": 34,
       "trial": 7,
       "regulatory": 6
     },
@@ -1317,7 +1322,7 @@
     {
       "date": "2026-07-31",
       "news": 253,
-      "paper": 14,
+      "paper": 18,
       "trial": 8,
       "regulatory": 7
     },
@@ -1338,7 +1343,7 @@
     {
       "date": "2026-08-03",
       "news": 396,
-      "paper": 24,
+      "paper": 26,
       "trial": 3,
       "regulatory": 2
     },
@@ -1386,7 +1391,7 @@
     },
     {
       "date": "2026-08-10",
-      "news": 268,
+      "news": 269,
       "paper": 25,
       "trial": 12,
       "regulatory": 0
@@ -1408,23 +1413,30 @@
     {
       "date": "2026-08-13",
       "news": 313,
-      "paper": 19,
+      "paper": 20,
       "trial": 12,
       "regulatory": 12
     },
     {
       "date": "2026-08-14",
       "news": 251,
-      "paper": 15,
+      "paper": 17,
       "trial": 3,
       "regulatory": 6
     },
     {
       "date": "2026-08-15",
-      "news": 66,
-      "paper": 1,
+      "news": 88,
+      "paper": 4,
       "trial": 0,
       "regulatory": 4
+    },
+    {
+      "date": "2026-08-16",
+      "news": 9,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 0
     }
   ],
   "alerts": [
@@ -1684,21 +1696,21 @@
       },
       {
         "level": "Medium",
-        "title": "BioMarin (BMRN) Wins FDA Review For VOXZOGO Full Approval In Achondroplasia",
-        "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTk1jWWFSNFlQVTctVU1fRzUwOFdETGc5OGlRQ18xZ09DR2VLZm51Rjc0SWQwTEFFY1pDV3h2RmhqVDJBNElMZzlWbG5IZ19yZGI0R0UwNUx4V1liaElPcUlqdjlyZ3lndi1xVUJSSVlzLWgwb0gyRHIzMzk1blFRcWd0cGlXaHAyaWpzTjF1MmFORUJNNlg4YjV0SzhLenlCMm1jbjdFU0JEQ1lmaFFtN0pMZlJWS0tBczEzQ0JPODhJc1NTbHF6RmRhVm40YjIzMU5XaTdZa1FZTTk0MWJvcUJUZ3VpN1VOY2pBTUxB0gHzAUFVX3lxTE9XelRZelJuUXlCcGpkeU1uWlpNNFh6RFZFNjJWRnk1Zng2THR4anlkMHJ6cnRma25RVGRYSXowdDBHVXBjaTBzQTR2eW1tQjRwWWR3a09DYzdfNHN5MXpjcUNPdF9TUmJKVEpPTTEtM2FaVkFZRDY3aFV5d2N5T2ZoV0p6T0hBd1NxY3AxQ0x3TURQd05tQ1ZTRmdtSlp6cmdWRUdYazFzbHNzS2gwOEhScnlJbEZCYTRMV1BPTGd5RlpGUjBydGhCSjdGQlZucUxXaHFUMVYyTkdDZVB1NTBDSmNzUUlfcm9GVkxITjY4Mkt4QQ?oc=5",
-        "date": "2026.07.16",
-        "published": "2026-07-16T19:31:37+09:00",
-        "publisher": "simplywall.st"
-      },
-      {
-        "level": "Medium",
         "title": "Study to Evaluate the Efficacy and Safety of BMN 333 Versus Vosoritide in Children With Achondroplasia",
         "layer": "trial",
         "url": "https://clinicaltrials.gov/study/NCT07441876",
         "date": "2026.05.07",
         "published": "2026-05-07T00:00:00+09:00",
         "publisher": "BioMarin Pharmaceutical"
+      },
+      {
+        "level": "Medium",
+        "title": "A Study to Evaluate the Efficacy and Safety of Infigratinib in Children and Adolescents With Achondroplasia",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT06164951",
+        "date": "2026.03.17",
+        "published": "2026-03-17T00:00:00+09:00",
+        "publisher": "QED Therapeutics, a BridgeBio company"
       }
     ],
     "PT320": [
@@ -1731,21 +1743,21 @@
       },
       {
         "level": "Medium",
-        "title": "HLB바이오스텝, 옙바이오 파킨슨병 신약 IND 승인 지원",
-        "layer": "news",
-        "url": "https://www.ziksir.com/news/articleView.html?idxno=140297",
-        "date": "2026.07.16",
-        "published": "2026-07-16T14:12:00+09:00",
-        "publisher": "ziksir.com"
+        "title": "Efficacy and Safety of Exenatide in the Treatment of Hypothalamic Obesity After Craniopharyngioma Therapy",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT02860923",
+        "date": "2026.05.22",
+        "published": "2026-05-22T00:00:00+09:00",
+        "publisher": "University Hospital, Bordeaux"
       },
       {
         "level": "Medium",
-        "title": "HLB바이오스텝 지원 파킨슨병 치료제, 식약처 임상 1상 승인",
-        "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JUUdhSXlVNl85S05jNmNjOU95bVJGWnd2NTdJMDEzN3BrcGlLQ3pDcnNobUQtOTRhTkpZWm4teDI3UW9UX19mWW1oRDFZZklscHhncG9mMDNCZC10WHhqZXJvSHptMVo1NG04?oc=5",
-        "date": "2026.07.16",
-        "published": "2026-07-16T09:57:04+09:00",
-        "publisher": "hdnews.co.kr"
+        "title": "The novel GLP-1/GIP dual receptor agonist DA5-CH is superior to tirzepatide and exendin-4 in the 6-OHDA Parkinson rat model",
+        "layer": "paper",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42165019/",
+        "date": "2026.05.05",
+        "published": "2026-05-05T00:00:00+09:00",
+        "publisher": "Frontiers in endocrinology"
       }
     ]
   }
