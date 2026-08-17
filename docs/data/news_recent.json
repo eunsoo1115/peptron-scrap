@@ -1,9 +1,779 @@
 {
-  "updated_at": "2026-08-17T07:05:55.070562+09:00",
-  "total": 7493,
+  "updated_at": "2026-08-17T12:57:56.384364+09:00",
+  "total": 7539,
   "year_min": 2026,
   "year_max": 2026,
   "items": [
+    {
+      "title": "'정상 체중' 여성 5명 중 1명 \"나는 비만\"…남성의 4배",
+      "summary": "국회 보건복지위원회 소속 국민의힘 한지아 의원이 건강보험심사평가원에서 받은 의약품안전서비스(DUR) 자료에 따르면 '마운자로'는 국내에 출시된 지난해 8월부터 올해 5월까지 150만1161건 처방됐다. 이 가운데...",
+      "url": "https://www.newsis.com/view/NISX20260817_0003751370",
+      "publisher": "newsis.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T12:33:00+09:00",
+      "time": "12:33",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "K바이오로 향한 글로벌 자금…'현금창출'에 베팅",
+      "summary": "글로벌 대형 자산운용사의 국내 제약·바이오 지분 확대가 이어지면서 K바이오를 바라보는 해외 자금의... GSK와 바이오젠에 대한 기술수출 성과가 실적에 반영됐다. 유한양행 역시 비소세포폐암 치료제 렉라자의...",
+      "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=102342",
+      "publisher": "mstoday.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T12:32:00+09:00",
+      "time": "12:32",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "정상체중 女 10명 중 2명 “나는 비만”…비만치료제 부작용 주의",
+      "summary": "출시된 마운자로는 올해 5월까지 10개월간 150만1161건 처방됐다. 이 수치는 의약품 중복 처방을 방지하기 위해 의료기관에서 DUR로 점검 완료한 내역이다. 마운자로, 위고비는 비급여 의약품이라 정확한 처방량을...",
+      "url": "https://www.dt.co.kr/article/12078508?ref=naver",
+      "publisher": "dt.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T12:27:00+09:00",
+      "time": "12:27",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "정상체중 여성 5명 중 1명 '비만' 인식…치료제 오남용 우려",
+      "summary": "따르면 마운자로는 지난해 8월 국내 출시 이후 올해 5월까지 10개월간 150만1161건이 처방됐다. 이 가운데 20∼30대가 79만4781건으로 전체의 52.9%를 차지했다. 마운자로와 위고비는 비급여 의약품으로 정확한 처방량을...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051919",
+      "publisher": "shinailbo.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T12:26:00+09:00",
+      "time": "12:26",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "[정재준 아리바이오 대표 단독 인터뷰 ②] \"기술수출만으로 신약개발 고...",
+      "summary": "아리바이오가 경구용 알츠하이머 치료제 후보물질 'AR1001'의 글로벌 임상 3상 투약을 마무리하고 데이터... 예를 들어 당뇨나 비만 치료제를 먹었는데 뇌부종이 30%, 뇌출혈이 20% 발생한다고 하면 FDA가 허가해 주겠나. 살을...",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=423529",
+      "publisher": "economytalk.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T12:00:00+09:00",
+      "time": "12:00",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[정재준 아리바이오 대표 단독 인터뷰 ②] “기술수출만으로 신약개발 고도화 못해”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pb2Z2SjRoSHgtb3pvbVZ5V1hrb3Q3WjNvSkV2RVh6bm1SS2c4NEZ2SVQ2cnZhVXRna280eF9Zd2xjRi1HWWR0ZHpDZnZJMkUyazF1Zk5PeEhCWHp4V2JnVXFWcm9BWGxtOFVPbw?oc=5",
+      "publisher": "이코노미톡뉴스",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T12:00:00+09:00",
+      "time": "12:00",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "위고비·마운자로 ‘DUR 경고’ 떴는데…대부분 처방 그대로",
+      "summary": "한지아 의원 \"위고비 DUR 정보 155만건 중 처방 변경 2.8%\" 마운자로도 12만건 중 5.8%만 변경…“DUR 실효성 점검해야” 비만치료제 위고비와 마운자로에 대한 의약품안전사용서비스(DUR) 정보가 제공되고 있지만, 실제...",
+      "url": "https://www.segye.com/newsView/20260817507368?OutUrl=naver",
+      "publisher": "segye.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T11:53:00+09:00",
+      "time": "11:53",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "비만약 '마운자로·위고비' DUR 경고에도 94% 이상 그대로 처방",
+      "summary": "최근 큰 인기를 끌고 있는 비만치료제 '위고비'와 '마운자로'의 처방 현장에서 의약품 안전사용서비스... 8%, 마운자로 5.8%에 불과하다. 이는 DUR 알림이 발령된 건들 가운데 위고비의 97.2%와 마운자로의 94.2%가 아무런...",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3425679",
+      "publisher": "newscj.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T11:40:00+09:00",
+      "time": "11:40",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "중복·용량주의 경고에도 비만치료제 '마운자로' 처방 94% 그대로",
+      "summary": "주사 형태의 비만치료제 위고비와 마운자로 처방 과정에서 중복 처방·용량 주의 등 안전 정보가... 위고비·마운자로의 국내 출시 후 올해 6월까지 의약품안전서비스(DUR) 정보제공에 따른 처방 변경률은 각각 2.8...",
+      "url": "https://www.news1.kr/bio/welfare-medical/6260835",
+      "publisher": "news1.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T11:36:00+09:00",
+      "time": "11:36",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "[뉴공 아카이브]백세위원회: 잘 고른 지방이 건강을 좌우한다… 4050이 ...",
+      "summary": "▶김어준 : 그리고 제가 지금 상태, 마운자로 3주차 아닙니까.정재훈 : 이제 약 없습니다.▶김어준 : 저는... 그러니까 뭐 아직 정식으로 막 연구된 거는 아닌데 관찰을 해 보니까 이 마운자로나 위고비나 이런 거를 사용한...",
+      "url": "http://www.ddanzi.com/891927900",
+      "publisher": "ddanzi.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T11:32:00+09:00",
+      "time": "11:32",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "“마른 여친이 굳이 마운자로 맞겠다네요”…정상체중 여성 19% “나는 ...",
+      "summary": "마운자로, 위고비는 비급여 의약품이라 정확한 처방량을 집계할 수 없기에 DUR 점검 여부로 처방 동향과 경향을 파악할 수밖에 없다. 연령별로는 출시 후 10개월간 전체 처방의 절반 이상인 52.9%(79만4781건)를 20∼30대가...",
+      "url": "https://www.mk.co.kr/article/12129270",
+      "publisher": "매일경제",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T11:25:00+09:00",
+      "time": "11:25",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "“보통체형인데 마운자로 맞겠다네요”…정상체중 여성 10명중 2명 “나는 비만”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MZWhSQkl6WVVpZU9BeGc3aHdEbHhtT3dhQzc2c1Y4TzFSX29NeFpzMXlZdm5tY2puc3pfRDFoM2lzd0F2T0Y4TlV6SXRwbmNudnB4NQ?oc=5",
+      "publisher": "매일경제",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T11:24:20+09:00",
+      "time": "11:24",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "정상체중 2030女 \"살 찐 거 같아요\"...'비만약' 찾는다",
+      "summary": "비만치료제 위고비. (사진=연합뉴스) 17일 대한비만학회에 따르면 2022∼2024년 질병관리청... 마운자로와 위고비는 건강보험이 적용되지 않는 의약품이어서 정확한 전체 처방량을 집계하기 어렵다. DUR 자료는...",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01397286645548304",
+      "publisher": "이데일리",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T11:07:00+09:00",
+      "time": "11:07",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "정상체중인데 \"나는 비만\"… 2030 '살 빼는 주사' 남용 경고등",
+      "summary": "따르면, 마운자로는 국내 출시 후 10개월간 150만1161건 처방됐다. 이 가운데 절반을 넘어서는 52.9%(79만4781건)... 8%, 마운자로 5.8%에 그쳤다. 의료계에서는 정상 체중군이 주사제를 오남용할 경우 심각한 부작용을 불러올...",
+      "url": "https://www.hankyung.com/article/2026081748667",
+      "publisher": "한국경제",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T11:06:00+09:00",
+      "time": "11:06",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "광통신망 세계 2위의 역설…AI 핵심 '프리폼'은 해외 의존",
+      "summary": "이런 제약이 적다. 이 때문에 광섬유는 데이터센터 내부는 물론 데이터센터 간 연결(DCI)의 핵심 인프라로... 광통신망은 세계 최상위인데…핵심 소재 경쟁력은 뒤처져 기술 격차는 수출 실적에서도 드러난다. 한국의...",
+      "url": "https://www.nocutnews.co.kr/news/6563480?utm_source=naver&utm_medium=article&utm_campaign=20260817110105",
+      "publisher": "nocutnews.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T11:02:00+09:00",
+      "time": "11:02",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "“용량 주의하세요” 경고 떠도···위고비·마운자로 95%는 처방 그대...",
+      "summary": "비만치료제 위고비(성분명 세마글루타이드)와 마운자로(성분명 터제파타이드)의 국내 출시 이후 올해... DUR 정보가 제공된 사례 가운데 위고비는 97.2%, 마운자로는 94.2%가 처방 변경으로 이어지지 않았다. 2024년 10월...",
+      "url": "https://www.khan.co.kr/article/202608171101001",
+      "publisher": "khan.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T11:01:00+09:00",
+      "time": "11:01",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "“용량 주의하세요” 경고 떠도···위고비·마운자로 95%는 처방 그대로",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IcHVxTjk2NXdEN0ZKZHpibHY0SWNPcHJ6cU9Tdk9WZWo3Q21rVUNsNHlhWGZIbGwyNE5Taktfd2hBRU02MENLWHNOVGdHVFRyOUo2TWNvclhEQdIBX0FVX3lxTFBkY09pM2JzM0RQdk01a2liekFGSFdOSHFzcFlENF9SQU5uRjZ4WURzTFVtLTc0LWNmb3JwdmJsQjg2bFhtS0pkaUwtME5vMkE3LVBaVG01d3Uyb1c5UV9z?oc=5",
+      "publisher": "경향신문",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T11:01:00+09:00",
+      "time": "11:01",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "정상 체중인데도 \"난 비만\"… 마운자로·위고비 열풍에 오남용 우려",
+      "summary": "한편 식품의약품안전처가 위고비, 마운자로 등 비만 치료제를 '오남용 우려 의약품'으로 지정하는 개정안을 고시할 예정이다. 식약처는 최근 GLP-1 비만 치료제에 대한 오남용 우려가 높아짐에 따라 '오남용 우려...",
+      "url": "https://www.ajunews.com/view/20260817105122210",
+      "publisher": "ajunews.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T11:00:00+09:00",
+      "time": "11:00",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "정상 체중 여성 5명 중 1명 “나는 비만”...비만 치료제 오남용 주의해...",
+      "summary": "건강보험심사평가원에 따르면 지난해 8월 국내 출시된 마운자로는 올해 5월까지 10개월만 150만 1161건 처방됐습니다. 연령별로 보면 전체 처방의 52.9%를 20대와 30대가 차지했습니다. 식약처는 체질량지수, BMI 30 이상인...",
+      "url": "https://news.jtbc.co.kr/article/NB12313656?influxDiv=NAVER",
+      "publisher": "jtbc.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T10:58:00+09:00",
+      "time": "10:58",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "정상 체중 여성 19% “나 비만 같아”… 비만주사로 몰려",
+      "summary": "따르면 마운자로는 국내 출시 이후 올해 5월까지 10개월간 150만1천161건의 처방 점검이 이뤄졌다. DUR은... 마운자로 처방 점검 건수 가운데 20~30대가 79만4천781건으로 전체의 52.9%를 차지했다. 위고비 역시 2024년 10월...",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000003628&cp=nv",
+      "publisher": "kmib.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T10:10:00+09:00",
+      "time": "10:10",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "정상 체중 여성 5명 중 1명 \"나는 비만이다\"",
+      "summary": "동안 마운자로의 DUR 점검 처방 건수는 150만1161건으로 집계됐다. 연령별로는 20~30대가 전체의 52.9%인 79만4781건을 차지했다. 마운자로와 위고비 등은 비급여 의약품이라 정확한 처방량을 확인하기 어렵지만, DUR 점검...",
+      "url": "https://view.asiae.co.kr/article/2026081709453979486",
+      "publisher": "view.asiae.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T10:08:00+09:00",
+      "time": "10:08",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "정상체중 여성 5명 중 1명 “나는 비만”…치료제 오남용 우려",
+      "summary": "한편 비만 치료제 마운자로는 지난해 8월 출시 이후 올해 5월까지 150만 건 넘게 처방된 것으로... 영양 불균형이나 근감소 등 부작용이 나타날 수 있다며 주의를 당부했습니다. #체중 #다이어트 #대한비만학회 #마운자로",
+      "url": "http://www.yonhapnewstv.co.kr/news/AKR2026081710061040D",
+      "publisher": "yonhapnewstv.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T10:07:00+09:00",
+      "time": "10:07",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "단기간 다이어트 후 복통, '담석증' 의심…20~50대 환자 여름철 증가세",
+      "summary": "강남베드로병원 간담췌·혈관센터 외과 전문의 박관태 원장은 \"담석증은 비만, 식습관, 급격한 체중 감량 등... 최근 활용이 늘고 있는 GLP-1 계열 약물을 통한 급격한 체중 감량도 담석증 등 담낭 질환 위험 증가와 연관이...",
+      "url": "https://www.sportschosun.com/life/2026-08-17/202608170100095930006118",
+      "publisher": "sportschosun.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T10:04:00+09:00",
+      "time": "10:04",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[8월 제약사이모저모①]한국다이이찌산쿄, 셀트리온, 동아제약, 엔클로...",
+      "summary": "2026년 ‘500만불 수출의 탑’ 수상 기준을 이미 충족하는 등 수출 성장세도 이어가고 있으며, 독일과 일본... 이경호 대표이사는 “이번 계약 및 납품은 엔클로니의 밀폐형 검사 기술이 글로벌 선진 제약시장에서...",
+      "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976640",
+      "publisher": "medicalworldnews.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T09:40:00+09:00",
+      "time": "09:40",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[주末머니]韓 바이오, 하반기 반전 노린다",
+      "summary": "펩트론은 일라이 릴리와 체결한 스마트데포 플랫폼 물질이전계약이 본계약으로 이어질지가 핵심이다. 2026년 10월 전후로 예상되는 평가 결과 발표가 중요한 분기점이 될 전망이다. 서 연구원은 \"본계약 성사 여부에 따라...",
+      "url": "https://view.asiae.co.kr/article/2026081408202722087",
+      "publisher": "view.asiae.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T09:02:00+09:00",
+      "time": "09:02",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "core",
+      "pipelines": [],
+      "companies": [
+        "peptron",
+        "lilly"
+      ]
+    },
+    {
+      "title": "중국 바이오텍, 빅파마의 '외부 R&D 공급처'로 부상",
+      "summary": "이는 국내 제약·바이오 업계에도 중요한 시사점을 던진다. 과거 국내 바이오텍이 글로벌 빅파마에 기술수출을 추진할 때 미국과 유럽 시장을 중심으로 경쟁력을 입증해야 했다면, 이제는 중국 바이오텍과도 글로벌 혁신...",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=416076",
+      "publisher": "메디파나뉴스",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T09:02:00+09:00",
+      "time": "09:02",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "정상 체중 여성 19%가 \"나는 비만\"…남성의 4배 넘어",
+      "summary": "▲ 서울 시내 한 약국에 붙은 '마운자로' 품절 안내 정상 범주의 체중인 국내 여성 10명 중 2명이 자신을... 따르면 마운자로는 국내에 출시된 지난해 8월부터 올해 5월까지 10개월 간 150만 1천161건 처방됐습니다. 해당...",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708134&plink=ORI&cooper=NAVER",
+      "publisher": "sbs.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T09:01:00+09:00",
+      "time": "09:01",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "글라세움, 파킨슨병 신약 ‘뷰티글라브리딘’ 2b상 승인…126명 대상 유효성 검증",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZeWlsaFJNU1JnV2NjRXo0cF95QXhyZ19tQnh3Y293eTVUSkRMb1hIZkp0OGhKQjNVU1BnS2tITWY3RlZJdnUwT29QUHNMZlhlQkZUT0RCUlRKWDR0cTV2eDlkbTlMbTlvQ0NtNNIBcEFVX3lxTE1ya1NobHdkYzVDTnZxWUVZcVRDT0pjd0h2VzRpcXZMcllRSEJOS0ZiemhWd2hiZUZpNTlmRkRMQmdqV2M4aFdEdEkzTW9LVEJYR1E3bWdhLUtieHNaMlF2bzdaYS01a0lweGNsQXp0bVU?oc=5",
+      "publisher": "더바이오",
+      "source": "gnews",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T09:00:00+09:00",
+      "time": "09:00",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [
+        "PT320"
+      ],
+      "companies": []
+    },
+    {
+      "title": "펌프 명가 한일전기, 중남미서 수출길 개척 나선다",
+      "summary": "푸에르토리코·美 뉴욕 찾은 강재성 사장 인터뷰 내수기업 벗고 남미에 소형가전 수출 본격화 이달초... 앞서 한일전기는 작년 11월 경동제약과 협약을 맺고 뷰티·웰니스 신제품 개발에 뛰어들었다. 정밀 모터 기술을 뷰티...",
+      "url": "https://www.mk.co.kr/article/12129211",
+      "publisher": "매일경제",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T08:52:00+09:00",
+      "time": "08:52",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "4나노 막히자 14나노 묶었다…中 '슈퍼노드' 승부수와 명암",
+      "summary": "중국 인공지능(AI) 업계가 미국의 첨단 반도체 수출 규제에 맞서 국산 가속기 수천 개를 단일 시스템으로... 미세공정 제약 속에서 추진되는 시스템 아키텍처 재편은 한국 고대역폭 메모리(HBM) 및 레거시 D램 공급망의...",
+      "url": "https://www.g-enews.com/view.php?ud=202608170832574732fbbec65dfb_1",
+      "publisher": "g-enews.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T08:38:00+09:00",
+      "time": "08:38",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[인터뷰] 위더스제약 성대영, 위기를 기회로 바꾼 혁신가",
+      "summary": "현재 대웅제약·인벤티지랩과 함께 탈모·전립선비대증 치료용 장기지속형 주사제를 개발하고 있다. 핵심은... 대웅제약은 임상 3상과 허가·판매, 인벤티지랩은 전임상과 임상 1상, 위더스제약은 생산을 담당하는 구조다....",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=151258",
+      "publisher": "smartbizn.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T08:30:00+09:00",
+      "time": "08:30",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": [
+        "inventage"
+      ]
+    },
+    {
+      "title": "[총수家] 빌 게이츠 게이츠 재단 이사장 ㅣ 한국서 SMR·AI·바이오 '광폭...",
+      "summary": "● 2026-08-14 황기연 수은 행장, 빌 게이츠와 SMR 글로벌 진출·금융 협력 논의 황기연 한국수출입은행장이... (AI) 기술을 전 세계 보건, 생명과학, 교육, 경제적 이동성 분야에 적용하기 위한 협력에 나선다. 양 기관은 14일...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=598635",
+      "publisher": "cbci.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T08:26:00+09:00",
+      "time": "08:26",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "'독일의 실패'에서 찾은 한은 처방은…\"구조개혁 선제 추진해야\"",
+      "summary": "유입되는 기술 인재 수도 줄었다. 보고서는 독일 제조업 부진이 '유럽의 공장' 역할 약화로 이어져 유로지역 전체의 성장을 제약할 소지가 있다고 지적했다. 이와 함께 AI 선도국에서 서비스 등 비교역재 부문...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430359",
+      "publisher": "einfomax.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T08:12:00+09:00",
+      "time": "08:12",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "당-청 갈등은 끝났나, 정청래의 패배가 의미하는 것: 슬로우레터 8월17일...",
+      "summary": "65만 원?이진숙 제명 요구도 나왔다.영끌과 빚투에 강력한 경고 신호.위고비는 다이어트 비법이 아니다.... 새로 빚을 내야 한다면 과거보다 더 많은 이자를 낼 각오가 필요하다.” 위고비는 다이어트 비법이 아니다....",
+      "url": "https://slownews.kr/165009",
+      "publisher": "slownews.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T08:02:00+09:00",
+      "time": "08:02",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "‘제약 이익률 2%로 뚝’…SK케미칼, R&D 승부수 통할까",
+      "summary": "이밖에도 유한양행(000100), 디앤디파마텍(347850), 동아ST 등도 MASH 치료제 개발에 나선 주요 업체들이다. SK케미칼이 개발하는 MASH 치료제는 경쟁사가 개발 중인 제품과 작용기전이 다르다는 특징을 갖고 있다. 위고비와...",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01111926645548304",
+      "publisher": "이데일리",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T08:02:00+09:00",
+      "time": "08:02",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "“피임약 믿었는데…” 마운자로 맞고 임신 5주, 왜 이런 일이",
+      "summary": "마운자로와 위고비 등 글루카곤 유사 펩티드-1(GLP-1) 기반 비만치료제가 여성의 임신 가능성에 영향을 줄 수... 이른바 ‘마운자로 베이비’, ‘위고비 베이비’, ‘삭센다 베이비’ 등은 그같은 임신 사례들이 많아지자...",
+      "url": "https://biz.heraldcorp.com/article/10841798?ref=naver",
+      "publisher": "biz.heraldcorp.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T08:01:00+09:00",
+      "time": "08:01",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "김형준 에이블테라퓨틱스 대표 “목소리로 치매 조기 선별…AI가 잡아낸...",
+      "summary": "“마당에 장미꽃이 피었다.” 김형준 에이블테라퓨틱스 대표는 서울 여의도 본사에서 최근 이데일리 제약... 그는 25년 이상 정보기술(IT)과 신규 사업을 담당해 온 사업가다. 대기업 신규사업 부서에서 경력을 시작해...",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01102086645548304",
+      "publisher": "이데일리",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T07:42:00+09:00",
+      "time": "07:42",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "정상 체중인데 \"나 비만인가...\" 마운자로 오남용 주의보",
+      "summary": "마운자로, 위고비는 비급여 의약품이라 정확한 처방량을 집계할 수 없기 때문에 DUR 점검 여부로 처방 동향과 경향을 파악할 수밖에 없다. 연령별로 보면 출시 후 10개월간 전체 처방의 절반 이상인 52.9%(79만4781건)를 20...",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057212",
+      "publisher": "jnilbo.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T07:35:00+09:00",
+      "time": "07:35",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "정상 체중 여성 18.9% “나는 비만”…2030세대 비만치료제 처방 급증",
+      "summary": "앞서 출시된 위고비 역시 젊은 연령층의 이용 비중이 높았다. 2024년 10월 출시 이후 올해 5월까지 누적... 비율은 위고비가 2.8%, 마운자로가 5.8%였다. 반대로 각각 97.2%, 94.2%는 안전정보가 제공된 이후에도 기존...",
+      "url": "https://www.kyeonggi.com/article/20260817580020",
+      "publisher": "kyeonggi.com",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T07:33:00+09:00",
+      "time": "07:33",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "[제테마 미래먹거리]⑤2030년 5000억 청사진…성장 뒷받침할 재원마련은",
+      "summary": "기존 필러·톡신에 GLP-1 비만치료제와 노안 개선 제품, 더마 코스메틱을 더한다. 제테마가 준비하는 미래... 제테마는 506명이 참여한 임상 3상에서 보톡스 대비 미간주름 개선 효과의 비열등성을 확인했다. 투여 4주...",
+      "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=69147",
+      "publisher": "medicopharma.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T07:20:00+09:00",
+      "time": "07:20",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "정상체중女 5명중 1명 \"난 비만\"...비만치료제 썼다간",
+      "summary": "마운자로, 위고비는 비급여 의약품이라 정확한 처방량을 집계할 수 없어 DUR 점검 여부로 처방 동향과 경향을 파악할 수밖에 없다. 전체 처방의 절반 이상인 52.9%(79만4천781건)를 20∼30대가 차지했다. 전문가들은 비만...",
+      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608170052&t=NN",
+      "publisher": "wowtv.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T07:17:00+09:00",
+      "time": "07:17",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "'먹는 약 다음은 적응증'...노보 vs 릴리, 차세대 파이프라인 살펴보니",
+      "summary": "반면 노보노디스크는 연간 가이던스를 상향 조정했음에도 불구하고, 차세대 경구용 위고비의 매출이... 이 물질은 기존 GLP-1(글루카곤 유사 펩타이드-1)과 GIP(위 억제 폴리펩타이드)에 글루카곤 수용체 작용까지...",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01098806645548304",
+      "publisher": "이데일리",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T07:08:00+09:00",
+      "time": "07:08",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "reg",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": [
+        "lilly",
+        "novo"
+      ]
+    },
+    {
+      "title": "Obesity Drug Runners-Up Head for Phase 3 Showdown Behind Lilly, Novo",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1zSnpuNGNvLTk2RjdOQnF3ZGFBZ2xKRGFzSl9mWFlOZFFWNmZVWlNEbVF6bkstR1pPd3h5X29QejgwdlNzTTZoajFkZlBlUTdnV09Sb0dkemg1OTlZNUZaZm1BQ2cwaHNOU0ZoTlBUSDhTcUZKaVhEcndOakpxN2UzRjNvcjFzVFNYcC1OX3RTUVhMcV9fTG00STY3M1E?oc=5",
+      "publisher": "Seoul Economic Daily",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-17T07:00:05+09:00",
+      "time": "07:00",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": [
+        "lilly",
+        "novo"
+      ]
+    },
     {
       "title": "릴리·노보 다음은 누구…비만약 후발주자 ‘임상 3상’서 옥석 가린다",
       "summary": "마리타이드는 GLP-1 수용체를 활성화하는 동시에 GIP 수용체를 억제하도록 설계된 비만치료제 후보물질이다. 주 1회 투여하는 기존 GLP-1 계열 치료제보다 투약 간격을 늘린 장기지속형 치료제를 목표로 개발되고 있다는...",
@@ -179,6 +949,22 @@
       "companies": []
     },
     {
+      "title": "[르포] 중국 광물에 무릎 꿇은 미국, 한국 기술 발판삼아 변신 중",
+      "summary": "과거 이 회사는 제련 부산물에서 유가금속을 경제성 있게 분리·회수할 기술과 설비가 부족했다.... 광물의 수출통제를 지렛대로 활용했다. 반도체와 인공지능(AI), 첨단 무기 생산에 필요한 광물 상당량을 중국에...",
+      "url": "https://www.hani.co.kr/arti/international/america/1273173.html",
+      "publisher": "hani.co.kr",
+      "source": "naver",
+      "layer": "news",
+      "region": "kr",
+      "published": "2026-08-17T05:02:00+09:00",
+      "time": "05:02",
+      "date": "2026.08.17",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "GLP-1 weight loss drugs may boost results but raise oral health risks, dentist warns",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDhyZHJvazRPRGlDRUIyU0ctaVM2cWFpNUlQX2JGcUhoVEFta2s1T1YzQ0RLVE8xMm8wZ1RCWmNaQ0pkeE1VTlRycXFpUE5RR2pFSkJ0RHZJNWVMSWh1WUhEOVVMcUNNMlh0eU9oeTZ1aEhrQnB6Vjh2MDdsTG5QN09vdHZ1bFNuQjBQMTV3WkJNQ1k2cGt6bW9aNnZiY1J4ajloSDB5MjVGTmUxdGdnQlZjT1NwMW8tVkE?oc=5",
@@ -263,6 +1049,24 @@
       "category": "obesity",
       "pipelines": [],
       "companies": []
+    },
+    {
+      "title": "Novo Nordisk (NYSE: NVO) Stock Price Trades At Steep Discount As Interim Dividend Confirms 65% Undervaluation Case",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcDE3bVB1c0xuTndyeVRGTlZDT0xDWUdDZ2x1S0V1dFhTZlV5TGNoQjF2MWxTbDE2XzZzdkhUV1poOHpaXzVuSzZoRlkzZUpQUjM2YThmM2xpT0hPUTgwcXdHRXl2SWMwcWtBT1JQZmRtb19kSE9xWnhJbzFkNDJZNmlscjBjdEEzQW4zbVh0WHltVkh1LVRsc2I5M3hhajRDbGhuTFpWUzgtOXJSUU5OYlM1cFVuWDc1SVBHYXM0VWpzelVOTjNOS3I1UmhoQVZhSEM2UFlzRHp5TUFLWW9sVkRXUFV2elVuVUhGVzktR0w?oc=5",
+      "publisher": "foreignpolicyjournal.com",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-16T22:56:00+09:00",
+      "time": "22:56",
+      "date": "2026.08.16",
+      "year": 2026,
+      "category": "mkt",
+      "pipelines": [],
+      "companies": [
+        "novo"
+      ]
     },
     {
       "title": "[이슈+] 중일 갈등에 반년째 조여든 희토류… \"사고 싶어도 못 산다\" 일...",
@@ -63541,6 +64345,22 @@
       "companies": [
         "lilly"
       ]
+    },
+    {
+      "title": "FormBlends Publishes 2026 State of Peptides Report as RFK-Era HHS Signals Major Shifts for GLP-1 and Peptide Therapy Access in the United States",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQMDF5Y0RoX2xQdzlvZzJkd3BqY0NuMGY0ZElPZ09VUkMtTUxrZGZ5U3pEa2VJV05TeEU4NTR6S19hV0tqVmFCMUlIMTJTMUFfbjVoRFJ3S2VCd0V1Nlhsd1hfa1dNcWN3QVdKM2Zzc2N2LTcxZzJiUzRidjU0cFBqN3Jfd2hQa2lWeEVqN1Z6VWVyeDZoeEVZQ0QwUGd5eUdQeVNfRXZfbkJ3ZTB0ZjZMZG5TQ0NtM1lBLS04MUdJeldXNWhiMWpXZEE4VEd0OThxQkx2VFRYOGFDcTdZNW4ta29KcDRKWUJLaVBWVGxRZHFwSEVPWEs0YUVTTnN1M2pLRUdQcEdxMG1tSVc5LTVMYUxZVlBkZHdpekFjTm96bzcxZw?oc=5",
+      "publisher": "USA Today",
+      "source": "gnews",
+      "layer": "news",
+      "region": "os",
+      "published": "2026-08-02T05:21:50+09:00",
+      "time": "05:21",
+      "date": "2026.08.02",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
     },
     {
       "title": "VA testing GLP-1 treatment for alcohol use disorder",
