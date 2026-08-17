@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-08-17T13:08:23.426346+09:00",
+  "updated_at": "2026-08-17T18:53:09.443614+09:00",
   "dates": [
     {
       "date": "2026-08-17",
-      "total": 2452,
+      "total": 2526,
       "counts": {
-        "core": 340,
-        "obesity": 688,
-        "npr": 323,
-        "platform": 501,
-        "reg": 351,
-        "mkt": 249
+        "core": 344,
+        "obesity": 721,
+        "npr": 324,
+        "platform": 515,
+        "reg": 357,
+        "mkt": 265
       }
     },
     {
@@ -1019,7 +1019,7 @@
     }
   ],
   "papers": {
-    "total": 3496,
+    "total": 3502,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -1033,15 +1033,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7539,
+  "news_recent_total": 7572,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1755,
-      "papers": 324,
+      "news": 1767,
+      "papers": 326,
       "trials": 119,
-      "total": 2198,
+      "total": 2212,
       "recent": "2026-12-01T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1068,11 +1068,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1167,
+      "news": 1180,
       "papers": 223,
       "trials": 106,
-      "total": 1496,
-      "recent": "2026-08-17T12:33:00+09:00",
+      "total": 1509,
+      "recent": "2026-08-17T18:06:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1163,11 +1163,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 544,
+      "news": 545,
       "papers": 0,
       "trials": 0,
-      "total": 544,
-      "recent": "2026-08-17T09:02:00+09:00",
+      "total": 545,
+      "recent": "2026-08-17T16:28:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1193,11 +1193,11 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 566,
+      "news": 567,
       "papers": 0,
       "trials": 0,
-      "total": 566,
-      "recent": "2026-08-17T09:02:00+09:00",
+      "total": 567,
+      "recent": "2026-08-17T16:28:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -1223,12 +1223,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 56,
+      "today": 87,
       "yesterday": 58
     },
     "paper": {
-      "today": 0,
-      "yesterday": 1
+      "today": 1,
+      "yesterday": 3
     },
     "trial": {
       "today": 0,
@@ -1298,7 +1298,7 @@
     },
     {
       "date": "2026-07-27",
-      "news": 349,
+      "news": 350,
       "paper": 26,
       "trial": 15,
       "regulatory": 0
@@ -1312,7 +1312,7 @@
     },
     {
       "date": "2026-07-29",
-      "news": 416,
+      "news": 417,
       "paper": 20,
       "trial": 6,
       "regulatory": 5
@@ -1425,7 +1425,7 @@
     {
       "date": "2026-08-14",
       "news": 252,
-      "paper": 17,
+      "paper": 18,
       "trial": 3,
       "regulatory": 6
     },
@@ -1439,14 +1439,14 @@
     {
       "date": "2026-08-16",
       "news": 58,
-      "paper": 1,
+      "paper": 3,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-08-17",
-      "news": 56,
-      "paper": 0,
+      "news": 87,
+      "paper": 1,
       "trial": 0,
       "regulatory": 0
     }
