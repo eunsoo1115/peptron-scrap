@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-08-18T18:50:47.567647+09:00",
+  "updated_at": "2026-08-19T12:55:08.394260+09:00",
   "dates": [
+    {
+      "date": "2026-08-19",
+      "total": 2275,
+      "counts": {
+        "core": 327,
+        "obesity": 579,
+        "npr": 311,
+        "platform": 486,
+        "reg": 343,
+        "mkt": 229
+      }
+    },
     {
       "date": "2026-08-18",
       "total": 2636,
@@ -1031,30 +1043,30 @@
     }
   ],
   "papers": {
-    "total": 3517,
+    "total": 3543,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1419,
+    "total": 1428,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 630,
+    "total": 640,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7834,
+  "news_recent_total": 7939,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1808,
-      "papers": 327,
-      "trials": 120,
-      "total": 2255,
-      "recent": "2026-12-01T00:00:00+09:00",
+      "news": 1830,
+      "papers": 333,
+      "trials": 124,
+      "total": 2287,
+      "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "IND Preparation",
@@ -1080,11 +1092,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1212,
-      "papers": 224,
+      "news": 1237,
+      "papers": 226,
       "trials": 106,
-      "total": 1542,
-      "recent": "2026-08-18T17:22:00+09:00",
+      "total": 1569,
+      "recent": "2026-08-19T12:36:49+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1112,11 +1124,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 30,
+      "news": 32,
       "papers": 147,
       "trials": 41,
-      "total": 218,
-      "recent": "2026-08-18T10:30:43+09:00",
+      "total": 220,
+      "recent": "2026-08-19T00:06:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1175,51 +1187,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 561,
+      "news": 572,
       "papers": 0,
       "trials": 0,
-      "total": 561,
-      "recent": "2026-08-18T18:00:00+09:00",
+      "total": 572,
+      "recent": "2026-08-19T12:10:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 134,
+      "news": 135,
       "papers": 0,
       "trials": 0,
-      "total": 134,
-      "recent": "2026-08-18T15:38:00+09:00",
+      "total": 135,
+      "recent": "2026-08-19T10:12:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 73,
+      "news": 76,
       "papers": 0,
       "trials": 0,
-      "total": 73,
-      "recent": "2026-08-18T07:02:00+09:00",
+      "total": 76,
+      "recent": "2026-08-19T10:12:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 566,
+      "news": 569,
       "papers": 0,
       "trials": 0,
-      "total": 566,
-      "recent": "2026-08-18T17:59:00+09:00",
+      "total": 569,
+      "recent": "2026-08-19T12:10:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 427,
+      "news": 432,
       "papers": 1,
       "trials": 0,
-      "total": 428,
-      "recent": "2026-08-18T14:48:00+09:00",
+      "total": 433,
+      "recent": "2026-08-19T10:36:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1235,30 +1247,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 279,
-      "yesterday": 120
+      "today": 135,
+      "yesterday": 317
     },
     "paper": {
       "today": 0,
-      "yesterday": 12
+      "yesterday": 11
     },
     "trial": {
       "today": 0,
-      "yesterday": 10
+      "yesterday": 9
     },
     "regulatory": {
-      "today": 1,
-      "yesterday": 0
+      "today": 10,
+      "yesterday": 1
     }
   },
   "trend": [
-    {
-      "date": "2026-07-20",
-      "news": 343,
-      "paper": 18,
-      "trial": 7,
-      "regulatory": 0
-    },
     {
       "date": "2026-07-21",
       "news": 360,
@@ -1290,7 +1295,7 @@
     {
       "date": "2026-07-25",
       "news": 109,
-      "paper": 4,
+      "paper": 5,
       "trial": 0,
       "regulatory": 8
     },
@@ -1317,7 +1322,7 @@
     },
     {
       "date": "2026-07-29",
-      "news": 417,
+      "news": 418,
       "paper": 20,
       "trial": 6,
       "regulatory": 5
@@ -1339,7 +1344,7 @@
     {
       "date": "2026-08-01",
       "news": 67,
-      "paper": 50,
+      "paper": 53,
       "trial": 0,
       "regulatory": 9
     },
@@ -1353,7 +1358,7 @@
     {
       "date": "2026-08-03",
       "news": 396,
-      "paper": 26,
+      "paper": 27,
       "trial": 3,
       "regulatory": 2
     },
@@ -1373,7 +1378,7 @@
     },
     {
       "date": "2026-08-06",
-      "news": 415,
+      "news": 416,
       "paper": 30,
       "trial": 4,
       "regulatory": 9
@@ -1422,45 +1427,52 @@
     },
     {
       "date": "2026-08-13",
-      "news": 314,
-      "paper": 20,
+      "news": 315,
+      "paper": 22,
       "trial": 12,
       "regulatory": 12
     },
     {
       "date": "2026-08-14",
-      "news": 253,
+      "news": 254,
       "paper": 19,
       "trial": 3,
       "regulatory": 6
     },
     {
       "date": "2026-08-15",
-      "news": 90,
+      "news": 91,
       "paper": 6,
       "trial": 0,
       "regulatory": 4
     },
     {
       "date": "2026-08-16",
-      "news": 59,
-      "paper": 3,
+      "news": 61,
+      "paper": 4,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-08-17",
-      "news": 120,
-      "paper": 12,
+      "news": 122,
+      "paper": 19,
       "trial": 10,
       "regulatory": 0
     },
     {
       "date": "2026-08-18",
-      "news": 279,
+      "news": 317,
+      "paper": 11,
+      "trial": 9,
+      "regulatory": 1
+    },
+    {
+      "date": "2026-08-19",
+      "news": 135,
       "paper": 0,
       "trial": 0,
-      "regulatory": 1
+      "regulatory": 10
     }
   ],
   "alerts": [
@@ -1480,6 +1492,20 @@
       "published": "2026-08-13T12:30:00+09:00",
       "date": "2026.08.13",
       "publisher": "kpanews.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 13,
+      "title": "삼천당제약, 기술 수출 대신 ‘직접 판매’ 길 택했다",
+      "layer": "news",
+      "url": "https://www.joongang.co.kr/article/25454381",
+      "companies": [],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-08-19T10:17:00+09:00",
+      "date": "2026.08.19",
+      "publisher": "joongang.co.kr"
     },
     {
       "level": "High",
@@ -1563,24 +1589,6 @@
       "published": "2026-07-31T12:18:00+09:00",
       "date": "2026.07.31",
       "publisher": "medisobizanews.com"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "비만약 특허 만료 대비…FDA, 펩타이드 제네릭 개발기준 개편",
-      "layer": "news",
-      "url": "https://www.medipana.com/news/articleView.html?idxno=415147",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-07-29T08:24:00+09:00",
-      "date": "2026.07.29",
-      "publisher": "메디파나뉴스"
     }
   ],
   "highlights": {
@@ -1593,6 +1601,15 @@
         "date": "2026.08.13",
         "published": "2026-08-13T12:30:00+09:00",
         "publisher": "kpanews.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "삼천당제약, 기술 수출 대신 ‘직접 판매’ 길 택했다",
+        "layer": "news",
+        "url": "https://www.joongang.co.kr/article/25454381",
+        "date": "2026.08.19",
+        "published": "2026-08-19T10:17:00+09:00",
+        "publisher": "joongang.co.kr"
       },
       {
         "level": "High",
@@ -1620,15 +1637,6 @@
         "date": "2026.07.31",
         "published": "2026-07-31T12:18:00+09:00",
         "publisher": "medisobizanews.com"
-      },
-      {
-        "level": "High",
-        "title": "비만약 특허 만료 대비…FDA, 펩타이드 제네릭 개발기준 개편",
-        "layer": "news",
-        "url": "https://www.medipana.com/news/articleView.html?idxno=415147",
-        "date": "2026.07.29",
-        "published": "2026-07-29T08:24:00+09:00",
-        "publisher": "메디파나뉴스"
       }
     ],
     "PT404": [
