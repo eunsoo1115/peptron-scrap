@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-08-19T18:42:54.821722+09:00",
+  "updated_at": "2026-08-20T07:23:29.110262+09:00",
   "dates": [
+    {
+      "date": "2026-08-20",
+      "total": 2263,
+      "counts": {
+        "core": 331,
+        "obesity": 553,
+        "npr": 314,
+        "platform": 486,
+        "reg": 342,
+        "mkt": 237
+      }
+    },
     {
       "date": "2026-08-19",
       "total": 2459,
@@ -1043,29 +1055,29 @@
     }
   ],
   "papers": {
-    "total": 3543,
+    "total": 3558,
     "year_min": 2023,
     "year_max": 2026
   },
   "trials": {
-    "total": 1428,
+    "total": 1440,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 641,
+    "total": 646,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8070,
+  "news_recent_total": 7807,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1853,
+      "news": 1741,
       "papers": 333,
-      "trials": 124,
-      "total": 2310,
+      "trials": 125,
+      "total": 2199,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1092,11 +1104,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1275,
+      "news": 1237,
       "papers": 226,
       "trials": 106,
-      "total": 1607,
-      "recent": "2026-08-19T18:38:00+09:00",
+      "total": 1569,
+      "recent": "2026-08-20T06:03:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1124,11 +1136,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 32,
+      "news": 30,
       "papers": 147,
       "trials": 41,
-      "total": 220,
-      "recent": "2026-08-19T00:06:00+09:00",
+      "total": 218,
+      "recent": "2026-08-20T04:21:01+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1154,10 +1166,10 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 6,
+      "news": 5,
       "papers": 33,
       "trials": 4,
-      "total": 43,
+      "total": 42,
       "recent": "2026-08-18T17:47:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
@@ -1187,51 +1199,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 591,
+      "news": 582,
       "papers": 0,
       "trials": 0,
-      "total": 591,
+      "total": 582,
       "recent": "2026-08-19T17:54:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 136,
+      "news": 133,
       "papers": 0,
       "trials": 0,
-      "total": 136,
-      "recent": "2026-08-19T10:12:00+09:00",
+      "total": 133,
+      "recent": "2026-08-20T07:00:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 79,
+      "news": 80,
       "papers": 0,
       "trials": 0,
-      "total": 79,
-      "recent": "2026-08-19T14:58:00+09:00",
+      "total": 80,
+      "recent": "2026-08-19T17:43:29+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 571,
+      "news": 564,
       "papers": 0,
       "trials": 0,
-      "total": 571,
-      "recent": "2026-08-19T14:52:00+09:00",
+      "total": 564,
+      "recent": "2026-08-20T06:06:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 440,
+      "news": 431,
       "papers": 1,
       "trials": 0,
-      "total": 441,
-      "recent": "2026-08-19T18:29:16+09:00",
+      "total": 432,
+      "recent": "2026-08-20T00:26:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1247,30 +1259,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 258,
-      "yesterday": 319
+      "today": 43,
+      "yesterday": 294
     },
     "paper": {
       "today": 0,
-      "yesterday": 11
+      "yesterday": 4
     },
     "trial": {
       "today": 0,
-      "yesterday": 9
+      "yesterday": 13
     },
     "regulatory": {
-      "today": 11,
-      "yesterday": 1
+      "today": 5,
+      "yesterday": 11
     }
   },
   "trend": [
-    {
-      "date": "2026-07-21",
-      "news": 360,
-      "paper": 35,
-      "trial": 7,
-      "regulatory": 6
-    },
     {
       "date": "2026-07-22",
       "news": 365,
@@ -1295,7 +1300,7 @@
     {
       "date": "2026-07-25",
       "news": 109,
-      "paper": 5,
+      "paper": 6,
       "trial": 0,
       "regulatory": 8
     },
@@ -1365,7 +1370,7 @@
     {
       "date": "2026-08-04",
       "news": 367,
-      "paper": 13,
+      "paper": 14,
       "trial": 10,
       "regulatory": 15
     },
@@ -1435,7 +1440,7 @@
     {
       "date": "2026-08-14",
       "news": 256,
-      "paper": 19,
+      "paper": 21,
       "trial": 3,
       "regulatory": 6
     },
@@ -1455,24 +1460,31 @@
     },
     {
       "date": "2026-08-17",
-      "news": 123,
+      "news": 125,
       "paper": 19,
       "trial": 10,
       "regulatory": 0
     },
     {
       "date": "2026-08-18",
-      "news": 319,
-      "paper": 11,
+      "news": 318,
+      "paper": 15,
       "trial": 9,
       "regulatory": 1
     },
     {
       "date": "2026-08-19",
-      "news": 258,
+      "news": 294,
+      "paper": 4,
+      "trial": 13,
+      "regulatory": 11
+    },
+    {
+      "date": "2026-08-20",
+      "news": 43,
       "paper": 0,
       "trial": 0,
-      "regulatory": 11
+      "regulatory": 5
     }
   ],
   "alerts": [
@@ -1736,15 +1748,6 @@
     "PT320": [
       {
         "level": "High",
-        "title": "참을 수 없는 \"폭식\", 비만 치료제로 줄인다",
-        "layer": "news",
-        "url": "http://www.whosaeng.com/172249",
-        "date": "2026.07.20",
-        "published": "2026-07-20T15:02:00+09:00",
-        "publisher": "whosaeng.com"
-      },
-      {
-        "level": "High",
         "title": "Improvement of Refractory Restless Legs Syndrome in a Parkinson's Disease Patient After Semaglutide Treatment: A Novel Clinical Observation",
         "layer": "paper",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42276762/",
@@ -1778,6 +1781,15 @@
         "date": "2026.05.05",
         "published": "2026-05-05T00:00:00+09:00",
         "publisher": "Frontiers in endocrinology"
+      },
+      {
+        "level": "Medium",
+        "title": "Extended Release Exenatide Versus Placebo In Diabetic Patients With Type 4 Cardiorenal Syndrome",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT02251431",
+        "date": "2026.02.19",
+        "published": "2026-02-19T00:00:00+09:00",
+        "publisher": "Baylor Research Institute"
       }
     ]
   }
