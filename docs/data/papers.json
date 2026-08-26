@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T07:14:46.290903+09:00",
-  "total": 3698,
+  "updated_at": "2026-08-26T12:59:59.075922+09:00",
+  "total": 3706,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -319,6 +319,22 @@
       "summary": "Takei K et al. · Journal of adolescent and young adult oncology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41213643/",
       "publisher": "Journal of adolescent and young adult oncolog",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Mechanistic evaluation of liposome-amyloid composite nanocarriers for doxorubicin delivery: Linking release kinetics with pharmacokinetic behavior",
+      "summary": "Trusova V et al. · Biochimica et biophysica acta. Biomembranes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42435790/",
+      "publisher": "Biochimica et biophysica acta. Biomembranes",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -778,6 +794,70 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Metabolic effects of GLP-1 receptor agonists in rheumatology patients and inflammatory outcomes: a single-centre retrospective cohort",
+      "summary": "Retuerto-Guerrero M et al. · RMD open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42642078/",
+      "publisher": "RMD open",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "The Effects of Glucagon-Like Peptide-1 Receptor Agonists on Chemosensory Function and Ingestive Behavior",
+      "summary": "Rutigliani G et al. · Physiology & behavior",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42641845/",
+      "publisher": "Physiology & behavior",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Efficacy and safety of glucagon-like peptide-1 receptor agonists for diabetic cardiomyopathy: a protocol for systematic review and meta-analysis",
+      "summary": "Tang B et al. · BMJ open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42642087/",
+      "publisher": "BMJ open",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Adverse events reported to FDA adverse event reporting system for long-acting injectable buprenorphine during the first 18 months postlaunch",
+      "summary": "Dawson BJ et al. · Journal of substance use and addiction treatment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42641796/",
+      "publisher": "Journal of substance use and addiction treatm",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.25",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -1248,6 +1328,24 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "GLP-1-mediated delay in gastric emptying and impact on levodopa absorption in Parkinson's disease: Clinical implications",
+      "summary": "Savica R et al. · Parkinsonism & related disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42641565/",
+      "publisher": "Parkinsonism & related disorders",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-24T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.24",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT320"
+      ],
       "companies": []
     },
     {
@@ -2311,6 +2409,22 @@
       "pipelines": [
         "PT404"
       ],
+      "companies": []
+    },
+    {
+      "title": "Factors associated with antipsychotic adherence in adults with schizophrenia - A real-world evaluation",
+      "summary": "Anderson JC et al. · Psychiatry research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42641307/",
+      "publisher": "Psychiatry research",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-19T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.19",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -52994,6 +53108,22 @@
       "date": "2026.01.01",
       "year": 2026,
       "category": "npr",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Lenacapavir for HIV Prevention in Africa: Opportunities, Barriers, and Policy Priorities",
+      "summary": "Eneh SC et al. · Journal of the International Association of Providers of AIDS Care",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42642031/",
+      "publisher": "Journal of the International Association of P",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-01-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.01.01",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
