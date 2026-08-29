@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-08-29T23:33:29.674358+09:00",
+  "updated_at": "2026-08-30T08:42:51.468715+09:00",
   "dates": [
+    {
+      "date": "2026-08-30",
+      "total": 2317,
+      "counts": {
+        "core": 301,
+        "obesity": 661,
+        "npr": 303,
+        "platform": 490,
+        "reg": 344,
+        "mkt": 218
+      }
+    },
     {
       "date": "2026-08-29",
       "total": 2595,
@@ -1163,7 +1175,7 @@
     }
   ],
   "papers": {
-    "total": 3855,
+    "total": 3868,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1177,15 +1189,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7582,
+  "news_recent_total": 7315,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1573,
-      "papers": 366,
+      "news": 1527,
+      "papers": 367,
       "trials": 127,
-      "total": 2066,
+      "total": 2021,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1212,11 +1224,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1293,
+      "news": 1265,
       "papers": 239,
       "trials": 107,
-      "total": 1639,
-      "recent": "2026-08-29T21:50:50+09:00",
+      "total": 1611,
+      "recent": "2026-08-30T07:05:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1274,8 +1286,8 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 6,
-      "papers": 37,
+      "news": 5,
+      "papers": 38,
       "trials": 5,
       "total": 48,
       "recent": "2026-08-27T06:02:00+09:00",
@@ -1307,20 +1319,20 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 613,
+      "news": 592,
       "papers": 0,
       "trials": 0,
-      "total": 613,
-      "recent": "2026-08-29T06:12:00+09:00",
+      "total": 592,
+      "recent": "2026-08-30T07:02:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 144,
+      "news": 117,
       "papers": 0,
       "trials": 0,
-      "total": 144,
+      "total": 117,
       "recent": "2026-08-28T16:28:00+09:00",
       "logo": "logos/g2gbio.png"
     },
@@ -1337,21 +1349,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 449,
+      "news": 443,
       "papers": 0,
       "trials": 0,
-      "total": 449,
+      "total": 443,
       "recent": "2026-08-29T09:05:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 318,
+      "news": 311,
       "papers": 1,
       "trials": 0,
-      "total": 319,
-      "recent": "2026-08-29T08:00:00+09:00",
+      "total": 312,
+      "recent": "2026-08-30T02:00:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1367,30 +1379,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 105,
-      "yesterday": 293
+      "today": 25,
+      "yesterday": 108
     },
     "paper": {
-      "today": 1,
-      "yesterday": 12
+      "today": 0,
+      "yesterday": 6
     },
     "trial": {
       "today": 0,
-      "yesterday": 5
+      "yesterday": 0
     },
     "regulatory": {
-      "today": 18,
-      "yesterday": 5
+      "today": 0,
+      "yesterday": 18
     }
   },
   "trend": [
-    {
-      "date": "2026-07-31",
-      "news": 253,
-      "paper": 18,
-      "trial": 8,
-      "regulatory": 7
-    },
     {
       "date": "2026-08-01",
       "news": 67,
@@ -1485,7 +1490,7 @@
     {
       "date": "2026-08-14",
       "news": 259,
-      "paper": 32,
+      "paper": 34,
       "trial": 3,
       "regulatory": 6
     },
@@ -1554,15 +1559,15 @@
     },
     {
       "date": "2026-08-24",
-      "news": 430,
-      "paper": 32,
+      "news": 431,
+      "paper": 33,
       "trial": 5,
       "regulatory": 0
     },
     {
       "date": "2026-08-25",
       "news": 369,
-      "paper": 16,
+      "paper": 17,
       "trial": 7,
       "regulatory": 10
     },
@@ -1575,24 +1580,31 @@
     },
     {
       "date": "2026-08-27",
-      "news": 291,
+      "news": 292,
       "paper": 18,
       "trial": 4,
       "regulatory": 4
     },
     {
       "date": "2026-08-28",
-      "news": 293,
+      "news": 295,
       "paper": 12,
       "trial": 5,
       "regulatory": 5
     },
     {
       "date": "2026-08-29",
-      "news": 105,
-      "paper": 1,
+      "news": 108,
+      "paper": 6,
       "trial": 0,
       "regulatory": 18
+    },
+    {
+      "date": "2026-08-30",
+      "news": 25,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 0
     }
   ],
   "alerts": [
@@ -1870,15 +1882,6 @@
       },
       {
         "level": "Medium",
-        "title": "글라세움 HSG4112, GLP-1 감량 정체 돌파…비만쥐 9일 만에 정상체중",
-        "layer": "news",
-        "url": "http://www.press9.kr/news/articleView.html?idxno=80340",
-        "date": "2026.07.30",
-        "published": "2026-07-30T13:14:00+09:00",
-        "publisher": "press9.kr"
-      },
-      {
-        "level": "Medium",
         "title": "Efficacy and Safety of Exenatide in the Treatment of Hypothalamic Obesity After Craniopharyngioma Therapy",
         "layer": "trial",
         "url": "https://clinicaltrials.gov/study/NCT02860923",
@@ -1903,6 +1906,15 @@
         "date": "2026.02.19",
         "published": "2026-02-19T00:00:00+09:00",
         "publisher": "Baylor Research Institute"
+      },
+      {
+        "level": "Medium",
+        "title": "Glucagon-like peptide-1 receptor agonists and the risk of Parkinson's disease in patients with type 2 diabetes: a systematic review and meta-analysis of large-scale real-world data",
+        "layer": "paper",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42661791/",
+        "date": "2026.08.13",
+        "published": "2026-08-13T00:00:00+09:00",
+        "publisher": "Frontiers in endocrinology"
       }
     ]
   }
