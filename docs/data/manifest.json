@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-08-29T05:51:36.797939+09:00",
+  "updated_at": "2026-08-29T12:36:31.577595+09:00",
   "dates": [
     {
       "date": "2026-08-29",
-      "total": 2382,
+      "total": 2491,
       "counts": {
-        "core": 302,
-        "obesity": 703,
-        "npr": 309,
-        "platform": 494,
-        "reg": 339,
-        "mkt": 235
+        "core": 307,
+        "obesity": 753,
+        "npr": 315,
+        "platform": 513,
+        "reg": 349,
+        "mkt": 254
       }
     },
     {
@@ -1163,7 +1163,7 @@
     }
   ],
   "papers": {
-    "total": 3839,
+    "total": 3843,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1173,19 +1173,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 702,
+    "total": 703,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7489,
+  "news_recent_total": 7551,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1558,
-      "papers": 361,
+      "news": 1568,
+      "papers": 364,
       "trials": 127,
-      "total": 2046,
+      "total": 2059,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1212,11 +1212,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1266,
+      "news": 1283,
       "papers": 238,
       "trials": 107,
-      "total": 1611,
-      "recent": "2026-08-29T04:30:03+09:00",
+      "total": 1628,
+      "recent": "2026-08-29T12:10:29+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1307,11 +1307,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 612,
+      "news": 613,
       "papers": 0,
       "trials": 0,
-      "total": 612,
-      "recent": "2026-08-28T17:52:00+09:00",
+      "total": 613,
+      "recent": "2026-08-29T06:12:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1327,31 +1327,31 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 94,
+      "news": 95,
       "papers": 0,
       "trials": 0,
-      "total": 94,
+      "total": 95,
       "recent": "2026-08-28T15:06:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 443,
+      "news": 449,
       "papers": 0,
       "trials": 0,
-      "total": 443,
-      "recent": "2026-08-29T04:56:00+09:00",
+      "total": 449,
+      "recent": "2026-08-29T09:05:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 317,
+      "news": 318,
       "papers": 1,
       "trials": 0,
-      "total": 318,
-      "recent": "2026-08-29T02:01:48+09:00",
+      "total": 319,
+      "recent": "2026-08-29T08:00:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1367,19 +1367,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 22,
-      "yesterday": 289
+      "today": 77,
+      "yesterday": 292
     },
     "paper": {
       "today": 0,
-      "yesterday": 6
+      "yesterday": 8
     },
     "trial": {
       "today": 0,
       "yesterday": 5
     },
     "regulatory": {
-      "today": 17,
+      "today": 18,
       "yesterday": 5
     }
   },
@@ -1408,7 +1408,7 @@
     {
       "date": "2026-08-03",
       "news": 404,
-      "paper": 28,
+      "paper": 29,
       "trial": 3,
       "regulatory": 2
     },
@@ -1436,7 +1436,7 @@
     {
       "date": "2026-08-07",
       "news": 321,
-      "paper": 24,
+      "paper": 25,
       "trial": 1,
       "regulatory": 12
     },
@@ -1561,38 +1561,38 @@
     },
     {
       "date": "2026-08-25",
-      "news": 368,
+      "news": 369,
       "paper": 15,
       "trial": 7,
       "regulatory": 10
     },
     {
       "date": "2026-08-26",
-      "news": 286,
+      "news": 288,
       "paper": 17,
       "trial": 11,
       "regulatory": 8
     },
     {
       "date": "2026-08-27",
-      "news": 290,
+      "news": 291,
       "paper": 18,
       "trial": 4,
       "regulatory": 4
     },
     {
       "date": "2026-08-28",
-      "news": 289,
-      "paper": 6,
+      "news": 292,
+      "paper": 8,
       "trial": 5,
       "regulatory": 5
     },
     {
       "date": "2026-08-29",
-      "news": 22,
+      "news": 77,
       "paper": 0,
       "trial": 0,
-      "regulatory": 17
+      "regulatory": 18
     }
   ],
   "alerts": [
@@ -1612,6 +1612,23 @@
       "published": "2026-08-13T12:30:00+09:00",
       "date": "2026.08.13",
       "publisher": "kpanews.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 13,
+      "title": "마운자로, 비만·당뇨에서 심혈관 위험까지…FDA 적응증 확대 승인",
+      "layer": "news",
+      "url": "https://www.abcn.kr/news/articleView.html?idxno=91064",
+      "companies": [
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-08-29T08:00:00+09:00",
+      "date": "2026.08.29",
+      "publisher": "abcn.kr"
     },
     {
       "level": "High",
@@ -1697,21 +1714,6 @@
       "published": "2026-08-18T08:02:00+09:00",
       "date": "2026.08.18",
       "publisher": "youthdaily.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "JW중외제약, 보팡글루타이드 국내 3상 신청…비만치료제 시장 본격 공략",
-      "layer": "news",
-      "url": "https://www.g-enews.com/view.php?ud=202608141820024032b065b72042_1",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-08-14T20:38:00+09:00",
-      "date": "2026.08.14",
-      "publisher": "g-enews.com"
     }
   ],
   "highlights": {
@@ -1724,6 +1726,15 @@
         "date": "2026.08.13",
         "published": "2026-08-13T12:30:00+09:00",
         "publisher": "kpanews.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "마운자로, 비만·당뇨에서 심혈관 위험까지…FDA 적응증 확대 승인",
+        "layer": "news",
+        "url": "https://www.abcn.kr/news/articleView.html?idxno=91064",
+        "date": "2026.08.29",
+        "published": "2026-08-29T08:00:00+09:00",
+        "publisher": "abcn.kr"
       },
       {
         "level": "High",
@@ -1751,15 +1762,6 @@
         "date": "2026.08.19",
         "published": "2026-08-19T17:41:00+09:00",
         "publisher": "한국경제"
-      },
-      {
-        "level": "High",
-        "title": "JW중외제약, 식약처에 ‘격주로 맞는 비만 치료제’ 임상3상 신청",
-        "layer": "news",
-        "url": "https://www.khan.co.kr/article/202608181443001",
-        "date": "2026.08.18",
-        "published": "2026-08-18T14:43:00+09:00",
-        "publisher": "khan.co.kr"
       }
     ],
     "PT404": [
@@ -1771,6 +1773,15 @@
         "date": "2026.08.13",
         "published": "2026-08-13T12:30:00+09:00",
         "publisher": "kpanews.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "마운자로, 비만·당뇨에서 심혈관 위험까지…FDA 적응증 확대 승인",
+        "layer": "news",
+        "url": "https://www.abcn.kr/news/articleView.html?idxno=91064",
+        "date": "2026.08.29",
+        "published": "2026-08-29T08:00:00+09:00",
+        "publisher": "abcn.kr"
       },
       {
         "level": "High",
@@ -1798,15 +1809,6 @@
         "date": "2026.08.18",
         "published": "2026-08-18T14:43:00+09:00",
         "publisher": "khan.co.kr"
-      },
-      {
-        "level": "High",
-        "title": "JW중외제약, 보팡글루타이드 국내 3상 신청…비만치료제 시장 본격 공략",
-        "layer": "news",
-        "url": "https://www.g-enews.com/view.php?ud=202608141820024032b065b72042_1",
-        "date": "2026.08.14",
-        "published": "2026-08-14T20:38:00+09:00",
-        "publisher": "g-enews.com"
       }
     ],
     "PND3174": [

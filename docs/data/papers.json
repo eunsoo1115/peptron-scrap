@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T05:50:38.681787+09:00",
-  "total": 3839,
+  "updated_at": "2026-08-29T12:26:04.949410+09:00",
+  "total": 3843,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -831,6 +831,40 @@
       "summary": "Venkatasubramanian P et al. · Clinical pharmacology and therapeutics",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42663383/",
       "publisher": "Clinical pharmacology and therapeutics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.28",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide in Japanese participants with metabolic dysfunction-associated steatohepatitis: a subgroup analysis of the ESSENCE trial",
+      "summary": "Nakajima A et al. · Journal of gastroenterology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663669/",
+      "publisher": "Journal of gastroenterology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "\"One less thing to worry about\": Barriers and facilitators of PrEP uptake among MSM in Karachi, Pakistan: A qualitative study",
+      "summary": "Fatima B et al. · PLOS global public health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664211/",
+      "publisher": "PLOS global public health",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -7235,6 +7269,24 @@
       "companies": []
     },
     {
+      "title": "Out-of-Pocket Costs and Adherence to Semaglutide for Obesity Among Commercially Insured Adults",
+      "summary": "Shin E et al. · JAMA health forum",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663997/",
+      "publisher": "JAMA health forum",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-07T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.07",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "Analysis of the efficacy and safety of liraglutide, semaglutide, and tirzepatide for the treatment of overweight and obesity: a systematic review and network meta-analysis",
       "summary": "Pałka W et al. · Journal of endocrinological investigation",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42560457/",
@@ -8887,6 +8939,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Discontinuation of Semaglutide Therapy for Obesity Management",
+      "summary": "Mailhac A et al. · JAMA network open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664011/",
+      "publisher": "JAMA network open",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-03T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.03",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
