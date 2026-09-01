@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-01T02:02:25.888311+09:00",
+  "updated_at": "2026-09-01T09:52:56.772351+09:00",
   "dates": [
     {
       "date": "2026-09-01",
-      "total": 2282,
+      "total": 2431,
       "counts": {
-        "core": 307,
-        "obesity": 615,
-        "npr": 314,
-        "platform": 487,
-        "reg": 337,
-        "mkt": 222
+        "core": 312,
+        "obesity": 685,
+        "npr": 322,
+        "platform": 511,
+        "reg": 345,
+        "mkt": 256
       }
     },
     {
@@ -1199,7 +1199,7 @@
     }
   ],
   "papers": {
-    "total": 3883,
+    "total": 3895,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1209,19 +1209,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 710,
+    "total": 711,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7409,
+  "news_recent_total": 7498,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1516,
-      "papers": 371,
+      "news": 1530,
+      "papers": 372,
       "trials": 130,
-      "total": 2017,
+      "total": 2032,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1248,11 +1248,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1314,
-      "papers": 239,
+      "news": 1336,
+      "papers": 240,
       "trials": 107,
-      "total": 1660,
-      "recent": "2026-09-01T01:45:00+09:00",
+      "total": 1683,
+      "recent": "2026-09-01T09:18:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1343,11 +1343,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 617,
+      "news": 620,
       "papers": 0,
       "trials": 0,
-      "total": 617,
-      "recent": "2026-08-31T18:16:00+09:00",
+      "total": 620,
+      "recent": "2026-09-01T09:31:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1363,31 +1363,31 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 99,
+      "news": 100,
       "papers": 0,
       "trials": 0,
-      "total": 99,
-      "recent": "2026-08-31T13:22:00+09:00",
+      "total": 100,
+      "recent": "2026-09-01T09:32:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 458,
+      "news": 463,
       "papers": 0,
       "trials": 0,
-      "total": 458,
-      "recent": "2026-08-31T22:33:49+09:00",
+      "total": 463,
+      "recent": "2026-09-01T09:30:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 307,
+      "news": 309,
       "papers": 1,
       "trials": 0,
-      "total": 308,
-      "recent": "2026-08-31T17:46:00+09:00",
+      "total": 310,
+      "recent": "2026-09-01T06:02:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1403,19 +1403,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 8,
-      "yesterday": 320
+      "today": 94,
+      "yesterday": 322
     },
     "paper": {
       "today": 19,
-      "yesterday": 3
+      "yesterday": 9
     },
     "trial": {
       "today": 0,
       "yesterday": 10
     },
     "regulatory": {
-      "today": 7,
+      "today": 8,
       "yesterday": 0
     }
   },
@@ -1472,7 +1472,7 @@
     {
       "date": "2026-08-10",
       "news": 271,
-      "paper": 30,
+      "paper": 31,
       "trial": 12,
       "regulatory": 0
     },
@@ -1604,7 +1604,7 @@
     },
     {
       "date": "2026-08-29",
-      "news": 110,
+      "news": 111,
       "paper": 10,
       "trial": 0,
       "regulatory": 18
@@ -1612,23 +1612,23 @@
     {
       "date": "2026-08-30",
       "news": 99,
-      "paper": 6,
+      "paper": 7,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-08-31",
-      "news": 320,
-      "paper": 3,
+      "news": 322,
+      "paper": 9,
       "trial": 10,
       "regulatory": 0
     },
     {
       "date": "2026-09-01",
-      "news": 8,
+      "news": 94,
       "paper": 19,
       "trial": 0,
-      "regulatory": 7
+      "regulatory": 8
     }
   ],
   "alerts": [
@@ -1647,6 +1647,24 @@
       ],
       "published": "2026-08-13T12:30:00+09:00",
       "date": "2026.08.13",
+      "publisher": "kpanews.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 14,
+      "title": "FDA, 마운자로 심혈관 적응증 확대 승인…오젬픽과 어깨 나란히",
+      "layer": "news",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=542088",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-09-01T05:52:00+09:00",
+      "date": "2026.09.01",
       "publisher": "kpanews.co.kr"
     },
     {
@@ -1744,21 +1762,6 @@
       "published": "2026-08-31T06:02:00+09:00",
       "date": "2026.08.31",
       "publisher": "약업신문"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "위고비·마운자로 잡는다…국산 비만약 출격",
-      "layer": "news",
-      "url": "https://www.hankyung.com/article/2026081903231",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-08-19T17:41:00+09:00",
-      "date": "2026.08.19",
-      "publisher": "한국경제"
     }
   ],
   "highlights": {
@@ -1770,6 +1773,15 @@
         "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=540462",
         "date": "2026.08.13",
         "published": "2026-08-13T12:30:00+09:00",
+        "publisher": "kpanews.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "FDA, 마운자로 심혈관 적응증 확대 승인…오젬픽과 어깨 나란히",
+        "layer": "news",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=542088",
+        "date": "2026.09.01",
+        "published": "2026-09-01T05:52:00+09:00",
         "publisher": "kpanews.co.kr"
       },
       {
@@ -1798,15 +1810,6 @@
         "date": "2026.08.19",
         "published": "2026-08-19T10:17:00+09:00",
         "publisher": "joongang.co.kr"
-      },
-      {
-        "level": "High",
-        "title": "'200조원' 비만약 시장 잡아라…국내 제약·바이오사 승부수",
-        "layer": "news",
-        "url": "https://www.nocutnews.co.kr/news/6559959?utm_source=naver&utm_medium=article&utm_campaign=20260810060036",
-        "date": "2026.08.10",
-        "published": "2026-08-10T06:01:00+09:00",
-        "publisher": "nocutnews.co.kr"
       }
     ],
     "PT404": [
@@ -1817,6 +1820,15 @@
         "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=540462",
         "date": "2026.08.13",
         "published": "2026-08-13T12:30:00+09:00",
+        "publisher": "kpanews.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "FDA, 마운자로 심혈관 적응증 확대 승인…오젬픽과 어깨 나란히",
+        "layer": "news",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=542088",
+        "date": "2026.09.01",
+        "published": "2026-09-01T05:52:00+09:00",
         "publisher": "kpanews.co.kr"
       },
       {
@@ -1845,15 +1857,6 @@
         "date": "2026.08.10",
         "published": "2026-08-10T06:01:00+09:00",
         "publisher": "nocutnews.co.kr"
-      },
-      {
-        "level": "High",
-        "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
-        "layer": "news",
-        "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
-        "date": "2026.08.31",
-        "published": "2026-08-31T06:02:00+09:00",
-        "publisher": "약업신문"
       }
     ],
     "PND3174": [
