@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-03T17:01:00.063516+09:00",
+  "updated_at": "2026-09-03T22:31:41.064118+09:00",
   "dates": [
     {
       "date": "2026-09-03",
-      "total": 2805,
+      "total": 2930,
       "counts": {
-        "core": 368,
-        "obesity": 792,
-        "npr": 326,
-        "platform": 564,
-        "reg": 445,
-        "mkt": 310
+        "core": 370,
+        "obesity": 844,
+        "npr": 332,
+        "platform": 581,
+        "reg": 469,
+        "mkt": 334
       }
     },
     {
@@ -1223,29 +1223,29 @@
     }
   ],
   "papers": {
-    "total": 3989,
+    "total": 4003,
     "year_min": 2023,
     "year_max": 2027
   },
   "trials": {
-    "total": 1506,
+    "total": 1510,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 735,
+    "total": 741,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7790,
+  "news_recent_total": 7857,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1529,
-      "papers": 384,
+      "news": 1543,
+      "papers": 386,
       "trials": 133,
-      "total": 2046,
+      "total": 2062,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1272,11 +1272,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1330,
+      "news": 1338,
       "papers": 248,
       "trials": 107,
-      "total": 1685,
-      "recent": "2026-09-03T16:12:00+09:00",
+      "total": 1693,
+      "recent": "2026-09-03T22:13:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1367,11 +1367,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 626,
+      "news": 627,
       "papers": 0,
       "trials": 0,
-      "total": 626,
-      "recent": "2026-09-03T16:32:00+09:00",
+      "total": 627,
+      "recent": "2026-09-03T18:34:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1427,19 +1427,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 292,
+      "today": 358,
       "yesterday": 265
     },
     "paper": {
-      "today": 2,
-      "yesterday": 14
+      "today": 9,
+      "yesterday": 20
     },
     "trial": {
-      "today": 0,
+      "today": 4,
       "yesterday": 6
     },
     "regulatory": {
-      "today": 7,
+      "today": 13,
       "yesterday": 1
     }
   },
@@ -1537,7 +1537,7 @@
     },
     {
       "date": "2026-08-18",
-      "news": 328,
+      "news": 329,
       "paper": 22,
       "trial": 9,
       "regulatory": 1
@@ -1636,23 +1636,23 @@
     {
       "date": "2026-09-01",
       "news": 275,
-      "paper": 69,
+      "paper": 70,
       "trial": 7,
       "regulatory": 24
     },
     {
       "date": "2026-09-02",
       "news": 265,
-      "paper": 14,
+      "paper": 20,
       "trial": 6,
       "regulatory": 1
     },
     {
       "date": "2026-09-03",
-      "news": 292,
-      "paper": 2,
-      "trial": 0,
-      "regulatory": 7
+      "news": 358,
+      "paper": 9,
+      "trial": 4,
+      "regulatory": 13
     }
   ],
   "alerts": [
