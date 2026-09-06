@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T16:51:38.136805+09:00",
-  "total": 4081,
+  "updated_at": "2026-09-06T21:49:41.988467+09:00",
+  "total": 4084,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -942,6 +942,22 @@
       "pipelines": [
         "PT404"
       ],
+      "companies": []
+    },
+    {
+      "title": "The Evolution of Medications for Obesity Management",
+      "summary": "Gill J et al. · JGH open : an open access journal of gastroenterology and hepatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701351/",
+      "publisher": "JGH open : an open access journal of gastroen",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-04T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.04",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -3643,6 +3659,38 @@
       "date": "2026.08.29",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Preoperative Weight Loss Before Total Joint Arthroplasty Using Novel Glucagon-Like Peptide-1 Agonists",
+      "summary": "Seward MW et al. · Arthroplasty today",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701460/",
+      "publisher": "Arthroplasty today",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-29T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.29",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Comparative effectiveness of GLP-1 receptor agonists versus mineralocorticoid receptor antagonists as fourth-line pharmacological therapy in patients with resistant hypertension and overweight or obesity: a retrospective multicenter cohort study in the USA",
+      "summary": "Tian Z et al. · EClinicalMedicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701458/",
+      "publisher": "EClinicalMedicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-29T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.29",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
