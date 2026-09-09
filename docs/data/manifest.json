@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-09T22:41:34.295767+09:00",
+  "updated_at": "2026-09-10T08:46:54.811369+09:00",
   "dates": [
+    {
+      "date": "2026-09-10",
+      "total": 2286,
+      "counts": {
+        "core": 305,
+        "obesity": 613,
+        "npr": 314,
+        "platform": 474,
+        "reg": 345,
+        "mkt": 235
+      }
+    },
     {
       "date": "2026-09-09",
       "total": 2659,
@@ -1295,7 +1307,7 @@
     }
   ],
   "papers": {
-    "total": 4131,
+    "total": 4159,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1305,19 +1317,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 758,
+    "total": 762,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7977,
+  "news_recent_total": 7794,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1614,
-      "papers": 390,
+      "news": 1569,
+      "papers": 391,
       "trials": 133,
-      "total": 2137,
+      "total": 2093,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1344,11 +1356,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1289,
-      "papers": 258,
+      "news": 1279,
+      "papers": 261,
       "trials": 110,
-      "total": 1657,
-      "recent": "2026-09-09T20:06:00+09:00",
+      "total": 1650,
+      "recent": "2026-09-10T07:32:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1376,11 +1388,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 24,
-      "papers": 155,
+      "news": 29,
+      "papers": 158,
       "trials": 41,
-      "total": 220,
-      "recent": "2026-09-09T17:39:49+09:00",
+      "total": 228,
+      "recent": "2026-09-10T05:01:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1439,51 +1451,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 507,
+      "news": 488,
       "papers": 0,
       "trials": 0,
-      "total": 507,
-      "recent": "2026-09-09T18:00:00+09:00",
+      "total": 488,
+      "recent": "2026-09-10T07:30:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 101,
+      "news": 96,
       "papers": 0,
       "trials": 0,
-      "total": 101,
+      "total": 96,
       "recent": "2026-09-09T17:46:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 86,
+      "news": 82,
       "papers": 0,
       "trials": 0,
-      "total": 86,
+      "total": 82,
       "recent": "2026-09-09T08:27:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 350,
+      "news": 345,
       "papers": 0,
       "trials": 0,
-      "total": 350,
-      "recent": "2026-09-09T17:12:58+09:00",
+      "total": 345,
+      "recent": "2026-09-10T08:08:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 268,
+      "news": 262,
       "papers": 1,
       "trials": 0,
-      "total": 269,
-      "recent": "2026-09-09T17:46:00+09:00",
+      "total": 263,
+      "recent": "2026-09-10T07:59:11+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1499,30 +1511,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 321,
-      "yesterday": 462
+      "today": 73,
+      "yesterday": 337
     },
     "paper": {
-      "today": 2,
-      "yesterday": 18
+      "today": 0,
+      "yesterday": 13
     },
     "trial": {
-      "today": 7,
-      "yesterday": 9
+      "today": 0,
+      "yesterday": 7
     },
     "regulatory": {
       "today": 4,
-      "yesterday": 3
+      "yesterday": 4
     }
   },
   "trend": [
-    {
-      "date": "2026-08-11",
-      "news": 297,
-      "paper": 23,
-      "trial": 6,
-      "regulatory": 1
-    },
     {
       "date": "2026-08-12",
       "news": 278,
@@ -1617,7 +1622,7 @@
     {
       "date": "2026-08-25",
       "news": 371,
-      "paper": 20,
+      "paper": 25,
       "trial": 7,
       "regulatory": 10
     },
@@ -1666,7 +1671,7 @@
     {
       "date": "2026-09-01",
       "news": 280,
-      "paper": 76,
+      "paper": 78,
       "trial": 7,
       "regulatory": 24
     },
@@ -1680,7 +1685,7 @@
     {
       "date": "2026-09-03",
       "news": 423,
-      "paper": 26,
+      "paper": 27,
       "trial": 4,
       "regulatory": 13
     },
@@ -1708,22 +1713,29 @@
     {
       "date": "2026-09-07",
       "news": 313,
-      "paper": 10,
+      "paper": 11,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-09-08",
-      "news": 462,
-      "paper": 18,
+      "news": 463,
+      "paper": 24,
       "trial": 9,
       "regulatory": 3
     },
     {
       "date": "2026-09-09",
-      "news": 321,
-      "paper": 2,
+      "news": 337,
+      "paper": 13,
       "trial": 7,
+      "regulatory": 4
+    },
+    {
+      "date": "2026-09-10",
+      "news": 73,
+      "paper": 0,
+      "trial": 0,
       "regulatory": 4
     }
   ],
@@ -1814,23 +1826,6 @@
     },
     {
       "level": "High",
-      "score": 13,
-      "title": "'200조원' 비만약 시장 잡아라…국내 제약·바이오사 승부수",
-      "layer": "news",
-      "url": "https://www.nocutnews.co.kr/news/6559959?utm_source=naver&utm_medium=article&utm_campaign=20260810060036",
-      "companies": [
-        "lilly"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-08-10T06:01:00+09:00",
-      "date": "2026.08.10",
-      "publisher": "nocutnews.co.kr"
-    },
-    {
-      "level": "High",
       "score": 12,
       "title": "셀트리온, '키트루다' 이어 '다잘렉스'까지…항암 바이오시밀러 2종 3상...",
       "layer": "news",
@@ -1852,6 +1847,24 @@
       "published": "2026-08-31T08:35:00+09:00",
       "date": "2026.08.31",
       "publisher": "catchnews.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
+      "layer": "news",
+      "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-08-31T06:02:00+09:00",
+      "date": "2026.08.31",
+      "publisher": "약업신문"
     }
   ],
   "highlights": {
@@ -1941,12 +1954,12 @@
       },
       {
         "level": "High",
-        "title": "'200조원' 비만약 시장 잡아라…국내 제약·바이오사 승부수",
+        "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
         "layer": "news",
-        "url": "https://www.nocutnews.co.kr/news/6559959?utm_source=naver&utm_medium=article&utm_campaign=20260810060036",
-        "date": "2026.08.10",
-        "published": "2026-08-10T06:01:00+09:00",
-        "publisher": "nocutnews.co.kr"
+        "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
+        "date": "2026.08.31",
+        "published": "2026-08-31T06:02:00+09:00",
+        "publisher": "약업신문"
       }
     ],
     "PND3174": [
