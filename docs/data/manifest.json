@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-10T17:05:29.504297+09:00",
+  "updated_at": "2026-09-10T22:32:43.664453+09:00",
   "dates": [
     {
       "date": "2026-09-10",
-      "total": 2526,
+      "total": 2635,
       "counts": {
-        "core": 320,
-        "obesity": 714,
-        "npr": 326,
-        "platform": 502,
-        "reg": 383,
-        "mkt": 281
+        "core": 323,
+        "obesity": 757,
+        "npr": 330,
+        "platform": 513,
+        "reg": 400,
+        "mkt": 312
       }
     },
     {
@@ -1307,29 +1307,29 @@
     }
   ],
   "papers": {
-    "total": 4163,
+    "total": 4169,
     "year_min": 2023,
     "year_max": 2027
   },
   "trials": {
-    "total": 1526,
+    "total": 1536,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 770,
+    "total": 771,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7957,
+  "news_recent_total": 8032,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1606,
+      "news": 1623,
       "papers": 392,
-      "trials": 133,
-      "total": 2131,
+      "trials": 135,
+      "total": 2150,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1356,11 +1356,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1323,
+      "news": 1334,
       "papers": 262,
-      "trials": 110,
-      "total": 1695,
-      "recent": "2026-09-10T16:50:00+09:00",
+      "trials": 112,
+      "total": 1708,
+      "recent": "2026-09-10T20:21:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1451,11 +1451,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 498,
+      "news": 500,
       "papers": 0,
       "trials": 0,
-      "total": 498,
-      "recent": "2026-09-10T16:28:00+09:00",
+      "total": 500,
+      "recent": "2026-09-10T19:26:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1491,11 +1491,11 @@
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 265,
+      "news": 268,
       "papers": 1,
       "trials": 0,
-      "total": 266,
-      "recent": "2026-09-10T15:37:31+09:00",
+      "total": 269,
+      "recent": "2026-09-10T18:40:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1511,19 +1511,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 232,
+      "today": 307,
       "yesterday": 340
     },
     "paper": {
       "today": 1,
-      "yesterday": 15
+      "yesterday": 19
     },
     "trial": {
-      "today": 0,
+      "today": 12,
       "yesterday": 7
     },
     "regulatory": {
-      "today": 12,
+      "today": 13,
       "yesterday": 4
     }
   },
@@ -1531,7 +1531,7 @@
     {
       "date": "2026-08-12",
       "news": 278,
-      "paper": 16,
+      "paper": 17,
       "trial": 10,
       "regulatory": 5
     },
@@ -1601,7 +1601,7 @@
     {
       "date": "2026-08-22",
       "news": 89,
-      "paper": 6,
+      "paper": 7,
       "trial": 0,
       "regulatory": 9
     },
@@ -1727,16 +1727,16 @@
     {
       "date": "2026-09-09",
       "news": 340,
-      "paper": 15,
+      "paper": 19,
       "trial": 7,
       "regulatory": 4
     },
     {
       "date": "2026-09-10",
-      "news": 232,
+      "news": 307,
       "paper": 1,
-      "trial": 0,
-      "regulatory": 12
+      "trial": 12,
+      "regulatory": 13
     }
   ],
   "alerts": [
