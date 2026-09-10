@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T08:36:27.794232+09:00",
-  "total": 4159,
+  "updated_at": "2026-09-10T17:04:21.346683+09:00",
+  "total": 4163,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -539,6 +539,25 @@
       "companies": []
     },
     {
+      "title": "Reduced Risk in Melanoma and Nonmelanoma Skin Cancers in Obese Patients on Semaglutide and Tirzepatide",
+      "summary": "Alameddine R et al. · Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42714323/",
+      "publisher": "Dermatologic surgery : official publication f",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "Current and forthcoming pharmacotherapies for adolescent obesity: Evidence-based review",
       "summary": "Fuentes-Mendoza JM et al. · World journal of clinical pediatrics",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42625929/",
@@ -744,6 +763,38 @@
       "summary": "Asgharian Rezae F et al. · Pharmaceutical development and technology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42713735/",
       "publisher": "Pharmaceutical development and technology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-09T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.09",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Cell death-induced chronic inflammation as a therapeutic target for metabolic dysfunction-associated steatohepatitis",
+      "summary": "Suganami T et al. · Pharmacology & therapeutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716188/",
+      "publisher": "Pharmacology & therapeutics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-09T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.09",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Projected mortality impact of increasing second-generation long-acting injectable antipsychotic exposure in Italy: A scenario-based population model",
+      "summary": "Martiadis V et al. · Schizophrenia research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42715709/",
+      "publisher": "Schizophrenia research",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -1142,6 +1193,22 @@
       "date": "2026.09.08",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Persistent Injection-Site Nodules After the Administration of Long-Acting Cabotegravir/Rilpivirine",
+      "summary": "Adachi E et al. · Internal medicine (Tokyo, Japan)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716753/",
+      "publisher": "Internal medicine (Tokyo, Japan)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-08T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.08",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
