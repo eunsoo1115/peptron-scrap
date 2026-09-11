@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T16:59:48.230583+09:00",
-  "total": 4194,
+  "updated_at": "2026-09-11T22:29:37.730240+09:00",
+  "total": 4197,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -803,6 +803,56 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Fasting gut hormone levels following long-term recovery from Anorexia Nervosa: A cross-sectional study",
+      "summary": "Kolb T et al. · Journal of eating disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42723061/",
+      "publisher": "Journal of eating disorders",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Efficacy and Safety of Glucagon-Like Peptide-1 Receptor Agonists as Adjuncts to Insulin Therapy in Type 1 Diabetes Mellitus: An Overlap-Informed Umbrella Review",
+      "summary": "Lee O et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42723273/",
+      "publisher": "Diabetes, obesity & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Carbon Emission Impact of Semaglutide in People with Obesity in the UK Using a Disease Modelling Approach",
+      "summary": "Lund N et al. · PharmacoEconomics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722807/",
+      "publisher": "PharmacoEconomics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
