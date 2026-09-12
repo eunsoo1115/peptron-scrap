@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-12T21:50:43.955839+09:00",
+  "updated_at": "2026-09-13T08:40:54.412056+09:00",
   "dates": [
+    {
+      "date": "2026-09-13",
+      "total": 2289,
+      "counts": {
+        "core": 303,
+        "obesity": 621,
+        "npr": 318,
+        "platform": 470,
+        "reg": 343,
+        "mkt": 234
+      }
+    },
     {
       "date": "2026-09-12",
       "total": 2423,
@@ -1345,15 +1357,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7849,
+  "news_recent_total": 7566,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1599,
+      "news": 1557,
       "papers": 400,
       "trials": 135,
-      "total": 2134,
+      "total": 2092,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1380,11 +1392,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1317,
+      "news": 1280,
       "papers": 267,
       "trials": 112,
-      "total": 1696,
-      "recent": "2026-09-12T21:42:00+09:00",
+      "total": 1659,
+      "recent": "2026-09-13T06:02:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1412,11 +1424,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 42,
+      "news": 43,
       "papers": 158,
       "trials": 41,
-      "total": 241,
-      "recent": "2026-09-11T16:40:24+09:00",
+      "total": 242,
+      "recent": "2026-09-13T07:04:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1442,10 +1454,10 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 6,
+      "news": 5,
       "papers": 39,
       "trials": 5,
-      "total": 50,
+      "total": 49,
       "recent": "2026-09-08T00:00:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
@@ -1475,51 +1487,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 478,
+      "news": 453,
       "papers": 0,
       "trials": 0,
-      "total": 478,
+      "total": 453,
       "recent": "2026-09-11T16:34:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 105,
+      "news": 103,
       "papers": 0,
       "trials": 0,
-      "total": 105,
+      "total": 103,
       "recent": "2026-09-11T17:04:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 82,
+      "news": 78,
       "papers": 0,
       "trials": 0,
-      "total": 82,
+      "total": 78,
       "recent": "2026-09-12T09:40:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 311,
+      "news": 287,
       "papers": 0,
       "trials": 0,
-      "total": 311,
-      "recent": "2026-09-12T08:28:00+09:00",
+      "total": 287,
+      "recent": "2026-09-13T03:46:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 264,
+      "news": 253,
       "papers": 1,
       "trials": 0,
-      "total": 265,
-      "recent": "2026-09-12T10:55:12+09:00",
+      "total": 254,
+      "recent": "2026-09-13T02:19:17+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1535,30 +1547,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 80,
-      "yesterday": 276
+      "today": 24,
+      "yesterday": 90
     },
     "paper": {
       "today": 0,
-      "yesterday": 16
+      "yesterday": 0
     },
     "trial": {
       "today": 0,
-      "yesterday": 4
+      "yesterday": 0
     },
     "regulatory": {
-      "today": 3,
-      "yesterday": 7
+      "today": 0,
+      "yesterday": 3
     }
   },
   "trend": [
-    {
-      "date": "2026-08-14",
-      "news": 261,
-      "paper": 34,
-      "trial": 3,
-      "regulatory": 6
-    },
     {
       "date": "2026-08-15",
       "news": 92,
@@ -1736,14 +1741,14 @@
     },
     {
       "date": "2026-09-09",
-      "news": 348,
+      "news": 349,
       "paper": 21,
       "trial": 7,
       "regulatory": 4
     },
     {
       "date": "2026-09-10",
-      "news": 331,
+      "news": 332,
       "paper": 20,
       "trial": 12,
       "regulatory": 13
@@ -1757,30 +1762,20 @@
     },
     {
       "date": "2026-09-12",
-      "news": 80,
+      "news": 90,
       "paper": 0,
       "trial": 0,
       "regulatory": 3
+    },
+    {
+      "date": "2026-09-13",
+      "news": 24,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 0
     }
   ],
   "alerts": [
-    {
-      "level": "High",
-      "score": 15,
-      "title": "릴리, 미승인 비만약 '레타트루타이드' 불법 판매 6개사 제소",
-      "layer": "news",
-      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=540462",
-      "companies": [
-        "lilly"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-08-13T12:30:00+09:00",
-      "date": "2026.08.13",
-      "publisher": "kpanews.co.kr"
-    },
     {
       "level": "High",
       "score": 14,
@@ -1889,19 +1884,25 @@
       "published": "2026-08-31T06:02:00+09:00",
       "date": "2026.08.31",
       "publisher": "약업신문"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "위고비·마운자로 잡는다…국산 비만약 출격",
+      "layer": "news",
+      "url": "https://www.hankyung.com/article/2026081903231",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-08-19T17:41:00+09:00",
+      "date": "2026.08.19",
+      "publisher": "한국경제"
     }
   ],
   "highlights": {
     "PT403": [
-      {
-        "level": "High",
-        "title": "릴리, 미승인 비만약 '레타트루타이드' 불법 판매 6개사 제소",
-        "layer": "news",
-        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=540462",
-        "date": "2026.08.13",
-        "published": "2026-08-13T12:30:00+09:00",
-        "publisher": "kpanews.co.kr"
-      },
       {
         "level": "High",
         "title": "FDA, 마운자로 심혈관 적응증 확대 승인…오젬픽과 어깨 나란히",
@@ -1937,18 +1938,18 @@
         "date": "2026.08.19",
         "published": "2026-08-19T10:17:00+09:00",
         "publisher": "joongang.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
+        "layer": "news",
+        "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
+        "date": "2026.08.31",
+        "published": "2026-08-31T06:02:00+09:00",
+        "publisher": "약업신문"
       }
     ],
     "PT404": [
-      {
-        "level": "High",
-        "title": "릴리, 미승인 비만약 '레타트루타이드' 불법 판매 6개사 제소",
-        "layer": "news",
-        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=540462",
-        "date": "2026.08.13",
-        "published": "2026-08-13T12:30:00+09:00",
-        "publisher": "kpanews.co.kr"
-      },
       {
         "level": "High",
         "title": "FDA, 마운자로 심혈관 적응증 확대 승인…오젬픽과 어깨 나란히",
@@ -1984,6 +1985,15 @@
         "date": "2026.08.31",
         "published": "2026-08-31T06:02:00+09:00",
         "publisher": "약업신문"
+      },
+      {
+        "level": "High",
+        "title": "위고비·마운자로 잡는다…국산 비만약 출격",
+        "layer": "news",
+        "url": "https://www.hankyung.com/article/2026081903231",
+        "date": "2026.08.19",
+        "published": "2026-08-19T17:41:00+09:00",
+        "publisher": "한국경제"
       }
     ],
     "PND3174": [
