@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T16:53:10.313946+09:00",
-  "total": 4229,
+  "updated_at": "2026-09-12T21:49:40.062625+09:00",
+  "total": 4230,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -782,6 +782,22 @@
       "date": "2026.09.11",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Paediatric proteomic signatures of cardiometabolic disease-associated traits predict adult disease outcomes",
+      "summary": "Landman JM et al. · Nature metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728365/",
+      "publisher": "Nature metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.11",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
