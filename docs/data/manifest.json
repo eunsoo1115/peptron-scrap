@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-12T08:38:03.976985+09:00",
+  "updated_at": "2026-09-12T17:03:36.200528+09:00",
   "dates": [
     {
       "date": "2026-09-12",
-      "total": 2277,
+      "total": 2377,
       "counts": {
-        "core": 307,
-        "obesity": 604,
-        "npr": 319,
-        "platform": 475,
-        "reg": 343,
-        "mkt": 229
+        "core": 311,
+        "obesity": 642,
+        "npr": 324,
+        "platform": 484,
+        "reg": 370,
+        "mkt": 246
       }
     },
     {
@@ -1331,7 +1331,7 @@
     }
   ],
   "papers": {
-    "total": 4219,
+    "total": 4229,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1345,15 +1345,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7793,
+  "news_recent_total": 7828,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1582,
-      "papers": 398,
+      "news": 1587,
+      "papers": 400,
       "trials": 135,
-      "total": 2115,
+      "total": 2122,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1380,11 +1380,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1309,
-      "papers": 266,
+      "news": 1315,
+      "papers": 267,
       "trials": 112,
-      "total": 1687,
-      "recent": "2026-09-12T08:28:00+09:00",
+      "total": 1694,
+      "recent": "2026-09-12T14:21:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1495,11 +1495,11 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 81,
+      "news": 82,
       "papers": 0,
       "trials": 0,
-      "total": 81,
-      "recent": "2026-09-11T14:02:00+09:00",
+      "total": 82,
+      "recent": "2026-09-12T09:40:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
@@ -1515,11 +1515,11 @@
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 263,
+      "news": 264,
       "papers": 1,
       "trials": 0,
-      "total": 264,
-      "recent": "2026-09-12T03:07:32+09:00",
+      "total": 265,
+      "recent": "2026-09-12T10:55:12+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1535,12 +1535,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 27,
+      "today": 60,
       "yesterday": 276
     },
     "paper": {
       "today": 0,
-      "yesterday": 7
+      "yesterday": 15
     },
     "trial": {
       "today": 0,
@@ -1681,7 +1681,7 @@
     {
       "date": "2026-09-01",
       "news": 280,
-      "paper": 79,
+      "paper": 80,
       "trial": 7,
       "regulatory": 24
     },
@@ -1736,7 +1736,7 @@
     },
     {
       "date": "2026-09-09",
-      "news": 346,
+      "news": 348,
       "paper": 21,
       "trial": 7,
       "regulatory": 4
@@ -1751,13 +1751,13 @@
     {
       "date": "2026-09-11",
       "news": 276,
-      "paper": 7,
+      "paper": 15,
       "trial": 4,
       "regulatory": 7
     },
     {
       "date": "2026-09-12",
-      "news": 27,
+      "news": 60,
       "paper": 0,
       "trial": 0,
       "regulatory": 3
