@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T17:15:16.119235+09:00",
-  "total": 4258,
+  "updated_at": "2026-09-13T22:47:27.476331+09:00",
+  "total": 4259,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -11545,6 +11545,25 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Comparative Efficacy and Safety of Tirzepatide Versus Semaglutide for Obesity: A Systematic Review",
+      "summary": "Mohamed Abdalla SA et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732434/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-13T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.13",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
       "companies": []
     },
     {
