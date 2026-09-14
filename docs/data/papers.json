@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T08:43:22.174973+09:00",
-  "total": 4259,
+  "updated_at": "2026-09-14T17:49:51.504780+09:00",
+  "total": 4261,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -555,6 +555,22 @@
       "companies": []
     },
     {
+      "title": "GLP-1 receptor agonist use and mental health outcomes in adolescents with obesity: a retrospective review",
+      "summary": "Said J et al. · Journal of pediatric endocrinology & metabolism : JPEM",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732089/",
+      "publisher": "Journal of pediatric endocrinology & metaboli",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-14T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.14",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Interpreting reduced biologic initiation after GLP-1 receptor agonist exposure in hidradenitis suppurativa: Efficacy versus access bias",
       "summary": "Islam RK et al. · Journal of the American Academy of Dermatology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42731700/",
@@ -712,6 +728,24 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide for pasireotide-induced hyperglycemia in a GH/TSH-producing pituitary adenoma/PitNET: a case report and literature review",
+      "summary": "Iwamoto Y et al. · Endocrine journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732962/",
+      "publisher": "Endocrine journal",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-12T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.12",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
