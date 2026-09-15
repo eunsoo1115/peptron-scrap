@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-15T23:20:16.479661+09:00",
+  "updated_at": "2026-09-16T08:59:11.619855+09:00",
   "dates": [
+    {
+      "date": "2026-09-16",
+      "total": 2283,
+      "counts": {
+        "core": 289,
+        "obesity": 606,
+        "npr": 311,
+        "platform": 493,
+        "reg": 351,
+        "mkt": 233
+      }
+    },
     {
       "date": "2026-09-15",
       "total": 2856,
@@ -1367,7 +1379,7 @@
     }
   ],
   "papers": {
-    "total": 4308,
+    "total": 4323,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1377,19 +1389,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 793,
+    "total": 801,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8007,
+  "news_recent_total": 8043,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1623,
-      "papers": 403,
+      "news": 1616,
+      "papers": 404,
       "trials": 139,
-      "total": 2165,
+      "total": 2159,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1417,10 +1429,10 @@
       "id": "PT404",
       "label": "PT404",
       "news": 1332,
-      "papers": 273,
+      "papers": 274,
       "trials": 113,
-      "total": 1718,
-      "recent": "2026-09-15T21:06:07+09:00",
+      "total": 1719,
+      "recent": "2026-09-16T08:46:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1448,11 +1460,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 48,
+      "news": 51,
       "papers": 159,
       "trials": 41,
-      "total": 248,
-      "recent": "2026-09-15T22:44:06+09:00",
+      "total": 251,
+      "recent": "2026-09-16T05:56:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1511,51 +1523,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 457,
+      "news": 461,
       "papers": 0,
       "trials": 0,
-      "total": 457,
-      "recent": "2026-09-15T21:30:00+09:00",
+      "total": 461,
+      "recent": "2026-09-16T08:33:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 118,
+      "news": 117,
       "papers": 0,
       "trials": 0,
-      "total": 118,
+      "total": 117,
       "recent": "2026-09-15T17:50:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 91,
+      "news": 92,
       "papers": 0,
       "trials": 0,
-      "total": 91,
-      "recent": "2026-09-15T18:08:00+09:00",
+      "total": 92,
+      "recent": "2026-09-16T07:25:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 304,
+      "news": 312,
       "papers": 0,
       "trials": 0,
-      "total": 304,
-      "recent": "2026-09-15T21:21:45+09:00",
+      "total": 312,
+      "recent": "2026-09-16T08:33:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 279,
+      "news": 284,
       "papers": 1,
       "trials": 0,
-      "total": 280,
-      "recent": "2026-09-15T19:51:00+09:00",
+      "total": 285,
+      "recent": "2026-09-16T06:27:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1571,30 +1583,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 362,
-      "yesterday": 345
+      "today": 84,
+      "yesterday": 373
     },
     "paper": {
-      "today": 2,
-      "yesterday": 19
+      "today": 0,
+      "yesterday": 7
     },
     "trial": {
-      "today": 11,
-      "yesterday": 9
+      "today": 0,
+      "yesterday": 11
     },
     "regulatory": {
-      "today": 11,
-      "yesterday": 1
+      "today": 8,
+      "yesterday": 11
     }
   },
   "trend": [
-    {
-      "date": "2026-08-17",
-      "news": 132,
-      "paper": 25,
-      "trial": 10,
-      "regulatory": 0
-    },
     {
       "date": "2026-08-18",
       "news": 330,
@@ -1646,7 +1651,7 @@
     },
     {
       "date": "2026-08-25",
-      "news": 372,
+      "news": 373,
       "paper": 27,
       "trial": 7,
       "regulatory": 10
@@ -1689,7 +1694,7 @@
     {
       "date": "2026-08-31",
       "news": 338,
-      "paper": 25,
+      "paper": 29,
       "trial": 10,
       "regulatory": 0
     },
@@ -1745,21 +1750,21 @@
     {
       "date": "2026-09-08",
       "news": 465,
-      "paper": 29,
+      "paper": 30,
       "trial": 9,
       "regulatory": 3
     },
     {
       "date": "2026-09-09",
       "news": 351,
-      "paper": 21,
+      "paper": 22,
       "trial": 7,
       "regulatory": 4
     },
     {
       "date": "2026-09-10",
       "news": 332,
-      "paper": 20,
+      "paper": 21,
       "trial": 12,
       "regulatory": 13
     },
@@ -1786,17 +1791,24 @@
     },
     {
       "date": "2026-09-14",
-      "news": 345,
+      "news": 347,
       "paper": 19,
       "trial": 9,
       "regulatory": 1
     },
     {
       "date": "2026-09-15",
-      "news": 362,
-      "paper": 2,
+      "news": 373,
+      "paper": 7,
       "trial": 11,
       "regulatory": 11
+    },
+    {
+      "date": "2026-09-16",
+      "news": 84,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 8
     }
   ],
   "alerts": [
@@ -2022,6 +2034,15 @@
     ],
     "PND3174": [
       {
+        "level": "High",
+        "title": "저연골무형성증 소아 대상 '보소리티드' 임상 3상 결과 발표",
+        "layer": "news",
+        "url": "https://www.pharmnews.com/news/articleView.html?idxno=306315",
+        "date": "2026.09.16",
+        "published": "2026-09-16T05:56:00+09:00",
+        "publisher": "팜뉴스"
+      },
+      {
         "level": "Medium",
         "title": "美 바이오마린, ‘복스조고’ 연골저형성증 임상3상 성공…FDA에 sNDA 제출",
         "layer": "news",
@@ -2056,15 +2077,6 @@
         "date": "2026.01.20",
         "published": "2026-01-20T00:00:00+09:00",
         "publisher": "BioMarin Pharmaceutical"
-      },
-      {
-        "level": "Medium",
-        "title": "A Clinical Trial to Evaluate Efficacy and Safety of TransCon CNP Compared With Placebo in Children With Achondroplasia",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT05598320",
-        "date": "2026.01.15",
-        "published": "2026-01-15T00:00:00+09:00",
-        "publisher": "Ascendis Pharma Growth Disorders A/S"
       }
     ],
     "PT320": [
