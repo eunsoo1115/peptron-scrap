@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-15T17:47:19.477613+09:00",
+  "updated_at": "2026-09-15T23:20:16.479661+09:00",
   "dates": [
     {
       "date": "2026-09-15",
-      "total": 2716,
+      "total": 2856,
       "counts": {
-        "core": 315,
-        "obesity": 753,
-        "npr": 332,
-        "platform": 550,
-        "reg": 445,
-        "mkt": 321
+        "core": 323,
+        "obesity": 789,
+        "npr": 342,
+        "platform": 562,
+        "reg": 498,
+        "mkt": 342
       }
     },
     {
@@ -1367,29 +1367,29 @@
     }
   ],
   "papers": {
-    "total": 4277,
+    "total": 4308,
     "year_min": 2023,
     "year_max": 2027
   },
   "trials": {
-    "total": 1548,
+    "total": 1558,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 787,
+    "total": 793,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7923,
+  "news_recent_total": 8007,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1613,
+      "news": 1623,
       "papers": 403,
-      "trials": 137,
-      "total": 2153,
+      "trials": 139,
+      "total": 2165,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1416,11 +1416,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1324,
-      "papers": 271,
+      "news": 1332,
+      "papers": 273,
       "trials": 113,
-      "total": 1708,
-      "recent": "2026-09-15T17:30:00+09:00",
+      "total": 1718,
+      "recent": "2026-09-15T21:06:07+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1448,11 +1448,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 46,
+      "news": 48,
       "papers": 159,
       "trials": 41,
-      "total": 246,
-      "recent": "2026-09-15T00:18:14+09:00",
+      "total": 248,
+      "recent": "2026-09-15T22:44:06+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1511,51 +1511,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 456,
+      "news": 457,
       "papers": 0,
       "trials": 0,
-      "total": 456,
-      "recent": "2026-09-15T16:34:00+09:00",
+      "total": 457,
+      "recent": "2026-09-15T21:30:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 117,
+      "news": 118,
       "papers": 0,
       "trials": 0,
-      "total": 117,
-      "recent": "2026-09-15T15:58:00+09:00",
+      "total": 118,
+      "recent": "2026-09-15T17:50:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 90,
+      "news": 91,
       "papers": 0,
       "trials": 0,
-      "total": 90,
-      "recent": "2026-09-15T16:00:00+09:00",
+      "total": 91,
+      "recent": "2026-09-15T18:08:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 301,
+      "news": 304,
       "papers": 0,
       "trials": 0,
-      "total": 301,
-      "recent": "2026-09-15T16:26:00+09:00",
+      "total": 304,
+      "recent": "2026-09-15T21:21:45+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 275,
+      "news": 279,
       "papers": 1,
       "trials": 0,
-      "total": 276,
-      "recent": "2026-09-15T17:01:00+09:00",
+      "total": 280,
+      "recent": "2026-09-15T19:51:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1571,19 +1571,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 281,
-      "yesterday": 344
+      "today": 362,
+      "yesterday": 345
     },
     "paper": {
-      "today": 0,
-      "yesterday": 7
+      "today": 2,
+      "yesterday": 19
     },
     "trial": {
-      "today": 0,
+      "today": 11,
       "yesterday": 9
     },
     "regulatory": {
-      "today": 5,
+      "today": 11,
       "yesterday": 1
     }
   },
@@ -1626,28 +1626,28 @@
     {
       "date": "2026-08-22",
       "news": 89,
-      "paper": 7,
+      "paper": 8,
       "trial": 0,
       "regulatory": 9
     },
     {
       "date": "2026-08-23",
       "news": 72,
-      "paper": 4,
+      "paper": 5,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-08-24",
       "news": 434,
-      "paper": 37,
+      "paper": 38,
       "trial": 5,
       "regulatory": 0
     },
     {
       "date": "2026-08-25",
       "news": 372,
-      "paper": 26,
+      "paper": 27,
       "trial": 7,
       "regulatory": 10
     },
@@ -1661,14 +1661,14 @@
     {
       "date": "2026-08-27",
       "news": 297,
-      "paper": 28,
+      "paper": 29,
       "trial": 4,
       "regulatory": 4
     },
     {
       "date": "2026-08-28",
       "news": 294,
-      "paper": 16,
+      "paper": 18,
       "trial": 5,
       "regulatory": 5
     },
@@ -1682,35 +1682,35 @@
     {
       "date": "2026-08-30",
       "news": 102,
-      "paper": 8,
+      "paper": 9,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-08-31",
       "news": 338,
-      "paper": 24,
+      "paper": 25,
       "trial": 10,
       "regulatory": 0
     },
     {
       "date": "2026-09-01",
       "news": 280,
-      "paper": 84,
+      "paper": 86,
       "trial": 7,
       "regulatory": 24
     },
     {
       "date": "2026-09-02",
       "news": 272,
-      "paper": 25,
+      "paper": 26,
       "trial": 6,
       "regulatory": 1
     },
     {
       "date": "2026-09-03",
       "news": 423,
-      "paper": 29,
+      "paper": 31,
       "trial": 4,
       "regulatory": 13
     },
@@ -1745,7 +1745,7 @@
     {
       "date": "2026-09-08",
       "news": 465,
-      "paper": 28,
+      "paper": 29,
       "trial": 9,
       "regulatory": 3
     },
@@ -1765,14 +1765,14 @@
     },
     {
       "date": "2026-09-11",
-      "news": 276,
-      "paper": 20,
+      "news": 277,
+      "paper": 21,
       "trial": 4,
       "regulatory": 7
     },
     {
       "date": "2026-09-12",
-      "news": 94,
+      "news": 95,
       "paper": 11,
       "trial": 0,
       "regulatory": 3
@@ -1786,17 +1786,17 @@
     },
     {
       "date": "2026-09-14",
-      "news": 344,
-      "paper": 7,
+      "news": 345,
+      "paper": 19,
       "trial": 9,
       "regulatory": 1
     },
     {
       "date": "2026-09-15",
-      "news": 281,
-      "paper": 0,
-      "trial": 0,
-      "regulatory": 5
+      "news": 362,
+      "paper": 2,
+      "trial": 11,
+      "regulatory": 11
     }
   ],
   "alerts": [
@@ -1870,6 +1870,21 @@
     {
       "level": "High",
       "score": 12,
+      "title": "'위고비·마운자로' 독주 체제 끝낸다…한미약품 등 토종 제약사 비만약...",
+      "layer": "news",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=750860",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-09-15T18:06:00+09:00",
+      "date": "2026.09.15",
+      "publisher": "econovill.com"
+    },
+    {
+      "level": "High",
+      "score": 12,
       "title": "셀트리온, '키트루다' 이어 '다잘렉스'까지…항암 바이오시밀러 2종 3상...",
       "layer": "news",
       "url": "https://news.ifm.kr/news/articleView.html?idxno=478782",
@@ -1908,21 +1923,6 @@
       "published": "2026-08-31T06:02:00+09:00",
       "date": "2026.08.31",
       "publisher": "약업신문"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "위고비·마운자로 잡는다…국산 비만약 출격",
-      "layer": "news",
-      "url": "https://www.hankyung.com/article/2026081903231",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-08-19T17:41:00+09:00",
-      "date": "2026.08.19",
-      "publisher": "한국경제"
     }
   ],
   "highlights": {
@@ -1965,12 +1965,12 @@
       },
       {
         "level": "High",
-        "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
+        "title": "'위고비·마운자로' 독주 체제 끝낸다…한미약품 등 토종 제약사 비만약...",
         "layer": "news",
-        "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
-        "date": "2026.08.31",
-        "published": "2026-08-31T06:02:00+09:00",
-        "publisher": "약업신문"
+        "url": "https://www.econovill.com/news/articleView.html?idxno=750860",
+        "date": "2026.09.15",
+        "published": "2026-09-15T18:06:00+09:00",
+        "publisher": "econovill.com"
       }
     ],
     "PT404": [
@@ -2003,21 +2003,21 @@
       },
       {
         "level": "High",
+        "title": "'위고비·마운자로' 독주 체제 끝낸다…한미약품 등 토종 제약사 비만약...",
+        "layer": "news",
+        "url": "https://www.econovill.com/news/articleView.html?idxno=750860",
+        "date": "2026.09.15",
+        "published": "2026-09-15T18:06:00+09:00",
+        "publisher": "econovill.com"
+      },
+      {
+        "level": "High",
         "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
         "layer": "news",
         "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
         "date": "2026.08.31",
         "published": "2026-08-31T06:02:00+09:00",
         "publisher": "약업신문"
-      },
-      {
-        "level": "High",
-        "title": "위고비·마운자로 잡는다…국산 비만약 출격",
-        "layer": "news",
-        "url": "https://www.hankyung.com/article/2026081903231",
-        "date": "2026.08.19",
-        "published": "2026-08-19T17:41:00+09:00",
-        "publisher": "한국경제"
       }
     ],
     "PND3174": [
