@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-17T08:58:29.639498+09:00",
+  "updated_at": "2026-09-17T17:47:18.243815+09:00",
   "dates": [
     {
       "date": "2026-09-17",
-      "total": 2282,
+      "total": 2601,
       "counts": {
-        "core": 284,
-        "obesity": 608,
-        "npr": 315,
-        "platform": 491,
-        "reg": 356,
-        "mkt": 228
+        "core": 302,
+        "obesity": 742,
+        "npr": 331,
+        "platform": 516,
+        "reg": 422,
+        "mkt": 288
       }
     },
     {
@@ -1391,7 +1391,7 @@
     }
   ],
   "papers": {
-    "total": 4348,
+    "total": 4354,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1405,15 +1405,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8195,
+  "news_recent_total": 8449,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1609,
+      "news": 1649,
       "papers": 407,
       "trials": 140,
-      "total": 2156,
+      "total": 2196,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1440,11 +1440,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1322,
+      "news": 1395,
       "papers": 275,
       "trials": 113,
-      "total": 1710,
-      "recent": "2026-09-17T08:18:00+09:00",
+      "total": 1783,
+      "recent": "2026-09-17T17:13:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1535,11 +1535,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 474,
+      "news": 488,
       "papers": 0,
       "trials": 0,
-      "total": 474,
-      "recent": "2026-09-17T07:32:00+09:00",
+      "total": 488,
+      "recent": "2026-09-17T17:16:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1555,52 +1555,52 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 98,
+      "news": 105,
       "papers": 0,
       "trials": 0,
-      "total": 98,
-      "recent": "2026-09-17T07:32:00+09:00",
+      "total": 105,
+      "recent": "2026-09-17T17:12:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 317,
+      "news": 321,
       "papers": 0,
       "trials": 0,
-      "total": 317,
-      "recent": "2026-09-17T08:24:00+09:00",
+      "total": 321,
+      "recent": "2026-09-17T17:07:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 305,
+      "news": 313,
       "papers": 1,
       "trials": 0,
-      "total": 306,
-      "recent": "2026-09-17T07:32:00+09:00",
+      "total": 314,
+      "recent": "2026-09-17T17:07:00+09:00",
       "logo": "logos/novo.png"
     },
     {
       "id": "amgen",
       "label": "암젠 (Amgen)",
-      "news": 3,
+      "news": 5,
       "papers": 0,
       "trials": 0,
-      "total": 3,
-      "recent": "2026-09-08T07:02:00+09:00",
+      "total": 5,
+      "recent": "2026-09-17T11:28:00+09:00",
       "logo": "logos/amgen.png"
     }
   ],
   "kpi": {
     "news": {
-      "today": 86,
-      "yesterday": 278
+      "today": 336,
+      "yesterday": 279
     },
     "paper": {
       "today": 0,
-      "yesterday": 13
+      "yesterday": 18
     },
     "trial": {
       "today": 0,
@@ -1649,7 +1649,7 @@
     },
     {
       "date": "2026-08-24",
-      "news": 434,
+      "news": 435,
       "paper": 38,
       "trial": 5,
       "regulatory": 0
@@ -1705,7 +1705,7 @@
     },
     {
       "date": "2026-09-01",
-      "news": 280,
+      "news": 281,
       "paper": 91,
       "trial": 7,
       "regulatory": 24
@@ -1803,21 +1803,21 @@
     },
     {
       "date": "2026-09-15",
-      "news": 374,
+      "news": 375,
       "paper": 12,
       "trial": 11,
       "regulatory": 11
     },
     {
       "date": "2026-09-16",
-      "news": 278,
-      "paper": 13,
+      "news": 279,
+      "paper": 18,
       "trial": 4,
       "regulatory": 8
     },
     {
       "date": "2026-09-17",
-      "news": 86,
+      "news": 336,
       "paper": 0,
       "trial": 0,
       "regulatory": 4
@@ -1894,6 +1894,18 @@
     {
       "level": "High",
       "score": 12,
+      "title": "앱튼, 혈액암 신약 'GPC-100' 글로벌 3상 착수...인허가 절차 돌입",
+      "layer": "news",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=881069",
+      "companies": [],
+      "pipelines": [],
+      "published": "2026-09-17T11:54:00+09:00",
+      "date": "2026.09.17",
+      "publisher": "getnews.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
       "title": "'위고비·마운자로' 독주 체제 끝낸다…한미약품 등 토종 제약사 비만약...",
       "layer": "news",
       "url": "https://www.econovill.com/news/articleView.html?idxno=750860",
@@ -1929,24 +1941,6 @@
       "published": "2026-08-31T08:35:00+09:00",
       "date": "2026.08.31",
       "publisher": "catchnews.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
-      "layer": "news",
-      "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-08-31T06:02:00+09:00",
-      "date": "2026.08.31",
-      "publisher": "약업신문"
     }
   ],
   "highlights": {
