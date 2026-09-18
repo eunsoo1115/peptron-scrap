@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-18T22:35:25.369188+09:00",
+  "updated_at": "2026-09-19T08:43:32.031797+09:00",
   "dates": [
+    {
+      "date": "2026-09-19",
+      "total": 2351,
+      "counts": {
+        "core": 299,
+        "obesity": 663,
+        "npr": 312,
+        "platform": 494,
+        "reg": 351,
+        "mkt": 232
+      }
+    },
     {
       "date": "2026-09-18",
       "total": 2424,
@@ -1403,7 +1415,7 @@
     }
   ],
   "papers": {
-    "total": 4400,
+    "total": 4418,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1413,19 +1425,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 810,
+    "total": 814,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8426,
+  "news_recent_total": 8170,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1671,
-      "papers": 414,
+      "news": 1614,
+      "papers": 417,
       "trials": 142,
-      "total": 2227,
+      "total": 2173,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1452,11 +1464,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1424,
-      "papers": 276,
+      "news": 1358,
+      "papers": 277,
       "trials": 115,
-      "total": 1815,
-      "recent": "2026-09-18T22:00:00+09:00",
+      "total": 1750,
+      "recent": "2026-09-19T07:50:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1485,10 +1497,10 @@
       "id": "PND3174",
       "label": "PND3174",
       "news": 55,
-      "papers": 159,
+      "papers": 160,
       "trials": 41,
-      "total": 255,
-      "recent": "2026-09-18T14:01:00+09:00",
+      "total": 256,
+      "recent": "2026-09-19T02:02:13+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1547,51 +1559,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 481,
+      "news": 458,
       "papers": 0,
       "trials": 0,
-      "total": 481,
-      "recent": "2026-09-18T18:24:00+09:00",
+      "total": 458,
+      "recent": "2026-09-19T07:24:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 130,
+      "news": 127,
       "papers": 0,
       "trials": 0,
-      "total": 130,
+      "total": 127,
       "recent": "2026-09-17T17:34:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 108,
+      "news": 102,
       "papers": 0,
       "trials": 0,
-      "total": 108,
+      "total": 102,
       "recent": "2026-09-18T15:54:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 329,
+      "news": 319,
       "papers": 0,
       "trials": 0,
-      "total": 329,
-      "recent": "2026-09-18T11:28:00+09:00",
+      "total": 319,
+      "recent": "2026-09-19T06:15:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 333,
+      "news": 318,
       "papers": 1,
       "trials": 0,
-      "total": 334,
-      "recent": "2026-09-18T16:30:00+09:00",
+      "total": 319,
+      "recent": "2026-09-19T05:16:44+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1607,30 +1619,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 220,
-      "yesterday": 414
+      "today": 36,
+      "yesterday": 225
     },
     "paper": {
-      "today": 1,
-      "yesterday": 27
+      "today": 0,
+      "yesterday": 5
     },
     "trial": {
-      "today": 5,
-      "yesterday": 4
+      "today": 0,
+      "yesterday": 5
     },
     "regulatory": {
-      "today": 3,
-      "yesterday": 6
+      "today": 5,
+      "yesterday": 3
     }
   },
   "trend": [
-    {
-      "date": "2026-08-20",
-      "news": 273,
-      "paper": 28,
-      "trial": 9,
-      "regulatory": 7
-    },
     {
       "date": "2026-08-21",
       "news": 263,
@@ -1725,7 +1730,7 @@
     {
       "date": "2026-09-03",
       "news": 423,
-      "paper": 31,
+      "paper": 36,
       "trial": 4,
       "regulatory": 13
     },
@@ -1753,21 +1758,21 @@
     {
       "date": "2026-09-07",
       "news": 313,
-      "paper": 15,
+      "paper": 16,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-09-08",
       "news": 465,
-      "paper": 30,
+      "paper": 31,
       "trial": 9,
       "regulatory": 3
     },
     {
       "date": "2026-09-09",
       "news": 351,
-      "paper": 22,
+      "paper": 23,
       "trial": 7,
       "regulatory": 4
     },
@@ -1781,7 +1786,7 @@
     {
       "date": "2026-09-11",
       "news": 277,
-      "paper": 22,
+      "paper": 23,
       "trial": 4,
       "regulatory": 7
     },
@@ -1809,30 +1814,37 @@
     {
       "date": "2026-09-15",
       "news": 377,
-      "paper": 14,
+      "paper": 16,
       "trial": 11,
       "regulatory": 11
     },
     {
       "date": "2026-09-16",
-      "news": 281,
+      "news": 283,
       "paper": 23,
       "trial": 4,
       "regulatory": 8
     },
     {
       "date": "2026-09-17",
-      "news": 414,
-      "paper": 27,
+      "news": 415,
+      "paper": 28,
       "trial": 4,
       "regulatory": 6
     },
     {
       "date": "2026-09-18",
-      "news": 220,
-      "paper": 1,
+      "news": 225,
+      "paper": 5,
       "trial": 5,
       "regulatory": 3
+    },
+    {
+      "date": "2026-09-19",
+      "news": 36,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 5
     }
   ],
   "alerts": [
@@ -1891,20 +1903,6 @@
     },
     {
       "level": "High",
-      "score": 13,
-      "title": "삼천당제약, 기술 수출 대신 ‘직접 판매’ 길 택했다",
-      "layer": "news",
-      "url": "https://www.joongang.co.kr/article/25454381",
-      "companies": [],
-      "pipelines": [
-        "PT403"
-      ],
-      "published": "2026-08-19T10:17:00+09:00",
-      "date": "2026.08.19",
-      "publisher": "joongang.co.kr"
-    },
-    {
-      "level": "High",
       "score": 12,
       "title": "앱튼, 혈액암 신약 'GPC-100' 글로벌 3상 착수...인허가 절차 돌입",
       "layer": "news",
@@ -1956,6 +1954,23 @@
       "published": "2026-08-31T06:02:00+09:00",
       "date": "2026.08.31",
       "publisher": "약업신문"
+    },
+    {
+      "level": "High",
+      "score": 11,
+      "title": "비만약 맞고 췌장염?…식약처 \"인과관계 확립 안 돼\"",
+      "layer": "news",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=609604",
+      "companies": [
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-08-26T10:10:00+09:00",
+      "date": "2026.08.26",
+      "publisher": "mdtoday.co.kr"
     }
   ],
   "highlights": {
@@ -1989,21 +2004,21 @@
       },
       {
         "level": "High",
-        "title": "삼천당제약, 기술 수출 대신 ‘직접 판매’ 길 택했다",
-        "layer": "news",
-        "url": "https://www.joongang.co.kr/article/25454381",
-        "date": "2026.08.19",
-        "published": "2026-08-19T10:17:00+09:00",
-        "publisher": "joongang.co.kr"
-      },
-      {
-        "level": "High",
         "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
         "layer": "news",
         "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
         "date": "2026.08.31",
         "published": "2026-08-31T06:02:00+09:00",
         "publisher": "약업신문"
+      },
+      {
+        "level": "High",
+        "title": "비만약 맞고 췌장염?…식약처 \"인과관계 확립 안 돼\"",
+        "layer": "news",
+        "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=609604",
+        "date": "2026.08.26",
+        "published": "2026-08-26T10:10:00+09:00",
+        "publisher": "mdtoday.co.kr"
       }
     ],
     "PT404": [
@@ -2045,12 +2060,12 @@
       },
       {
         "level": "High",
-        "title": "위고비·마운자로 잡는다…국산 비만약 출격",
+        "title": "비만약 맞고 췌장염?…식약처 \"인과관계 확립 안 돼\"",
         "layer": "news",
-        "url": "https://www.hankyung.com/article/2026081903231",
-        "date": "2026.08.19",
-        "published": "2026-08-19T17:41:00+09:00",
-        "publisher": "한국경제"
+        "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=609604",
+        "date": "2026.08.26",
+        "published": "2026-08-26T10:10:00+09:00",
+        "publisher": "mdtoday.co.kr"
       }
     ],
     "PND3174": [
