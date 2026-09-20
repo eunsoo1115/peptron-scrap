@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-20T22:35:24.113894+09:00",
+  "updated_at": "2026-09-21T08:50:47.833404+09:00",
   "dates": [
+    {
+      "date": "2026-09-21",
+      "total": 2246,
+      "counts": {
+        "core": 293,
+        "obesity": 594,
+        "npr": 319,
+        "platform": 479,
+        "reg": 353,
+        "mkt": 208
+      }
+    },
     {
       "date": "2026-09-20",
       "total": 2597,
@@ -1441,15 +1453,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8052,
+  "news_recent_total": 7880,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1594,
+      "news": 1580,
       "papers": 418,
       "trials": 142,
-      "total": 2154,
+      "total": 2140,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1476,11 +1488,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1332,
+      "news": 1318,
       "papers": 278,
       "trials": 115,
-      "total": 1725,
-      "recent": "2026-09-20T22:23:00+09:00",
+      "total": 1711,
+      "recent": "2026-09-21T08:10:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1571,51 +1583,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 445,
+      "news": 423,
       "papers": 0,
       "trials": 0,
-      "total": 445,
+      "total": 423,
       "recent": "2026-09-20T06:04:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 128,
+      "news": 125,
       "papers": 0,
       "trials": 0,
-      "total": 128,
+      "total": 125,
       "recent": "2026-09-20T08:00:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 98,
+      "news": 102,
       "papers": 0,
       "trials": 0,
-      "total": 98,
-      "recent": "2026-09-19T13:05:57+09:00",
+      "total": 102,
+      "recent": "2026-09-21T08:34:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 316,
+      "news": 314,
       "papers": 0,
       "trials": 0,
-      "total": 316,
-      "recent": "2026-09-20T19:00:00+09:00",
+      "total": 314,
+      "recent": "2026-09-21T08:10:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 322,
+      "news": 324,
       "papers": 1,
       "trials": 0,
-      "total": 323,
-      "recent": "2026-09-20T18:58:00+09:00",
+      "total": 325,
+      "recent": "2026-09-21T08:35:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1631,12 +1643,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 91,
-      "yesterday": 83
+      "today": 79,
+      "yesterday": 100
     },
     "paper": {
-      "today": 1,
-      "yesterday": 9
+      "today": 0,
+      "yesterday": 1
     },
     "trial": {
       "today": 0,
@@ -1644,17 +1656,10 @@
     },
     "regulatory": {
       "today": 0,
-      "yesterday": 5
+      "yesterday": 0
     }
   },
   "trend": [
-    {
-      "date": "2026-08-22",
-      "news": 89,
-      "paper": 8,
-      "trial": 0,
-      "regulatory": 9
-    },
     {
       "date": "2026-08-23",
       "news": 75,
@@ -1671,7 +1676,7 @@
     },
     {
       "date": "2026-08-25",
-      "news": 373,
+      "news": 374,
       "paper": 27,
       "trial": 7,
       "regulatory": 10
@@ -1832,7 +1837,7 @@
     },
     {
       "date": "2026-09-17",
-      "news": 417,
+      "news": 418,
       "paper": 29,
       "trial": 4,
       "regulatory": 6
@@ -1846,15 +1851,22 @@
     },
     {
       "date": "2026-09-19",
-      "news": 83,
+      "news": 84,
       "paper": 9,
       "trial": 0,
       "regulatory": 5
     },
     {
       "date": "2026-09-20",
-      "news": 91,
+      "news": 100,
       "paper": 1,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-09-21",
+      "news": 79,
+      "paper": 0,
       "trial": 0,
       "regulatory": 0
     }
@@ -1970,19 +1982,19 @@
     {
       "level": "High",
       "score": 11,
-      "title": "비만약 맞고 췌장염?…식약처 \"인과관계 확립 안 돼\"",
+      "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
       "layer": "news",
-      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=609604",
+      "url": "https://www.sedaily.com/article/20093153?ref=naver",
       "companies": [
-        "novo"
+        "lilly"
       ],
       "pipelines": [
         "PT403",
         "PT404"
       ],
-      "published": "2026-08-26T10:10:00+09:00",
-      "date": "2026.08.26",
-      "publisher": "mdtoday.co.kr"
+      "published": "2026-09-21T05:50:00+09:00",
+      "date": "2026.09.21",
+      "publisher": "sedaily.com"
     }
   ],
   "highlights": {
@@ -2025,12 +2037,12 @@
       },
       {
         "level": "High",
-        "title": "비만약 맞고 췌장염?…식약처 \"인과관계 확립 안 돼\"",
+        "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
         "layer": "news",
-        "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=609604",
-        "date": "2026.08.26",
-        "published": "2026-08-26T10:10:00+09:00",
-        "publisher": "mdtoday.co.kr"
+        "url": "https://www.sedaily.com/article/20093153?ref=naver",
+        "date": "2026.09.21",
+        "published": "2026-09-21T05:50:00+09:00",
+        "publisher": "sedaily.com"
       }
     ],
     "PT404": [
@@ -2072,12 +2084,12 @@
       },
       {
         "level": "High",
-        "title": "비만약 맞고 췌장염?…식약처 \"인과관계 확립 안 돼\"",
+        "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
         "layer": "news",
-        "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=609604",
-        "date": "2026.08.26",
-        "published": "2026-08-26T10:10:00+09:00",
-        "publisher": "mdtoday.co.kr"
+        "url": "https://www.sedaily.com/article/20093153?ref=naver",
+        "date": "2026.09.21",
+        "published": "2026-09-21T05:50:00+09:00",
+        "publisher": "sedaily.com"
       }
     ],
     "PND3174": [
