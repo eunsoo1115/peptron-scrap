@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T08:40:22.303494+09:00",
-  "total": 4449,
+  "updated_at": "2026-09-21T17:51:31.004000+09:00",
+  "total": 4452,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -571,6 +571,25 @@
       "companies": []
     },
     {
+      "title": "Quantitative Insights into Tirzepatide and Semaglutide Using Longitudinal Systems Modeling",
+      "summary": "Yang B et al. · The Journal of clinical endocrinology and metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764204/",
+      "publisher": "The Journal of clinical endocrinology and met",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-21T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.21",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "Pancreatic-liver crosstalk, novel molecular mediators, and 2025 therapeutic breakthroughs",
       "summary": "Pan HY et al. · World journal of methodology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42626202/",
@@ -584,6 +603,40 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Cargo-aware design of dissolving microneedles: an FEA-guided rational framework reveals distinct delivery mechanisms for small and large molecules",
+      "summary": "Beibei Y et al. · International journal of pharmaceutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764083/",
+      "publisher": "International journal of pharmaceutics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-20T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.20",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Association of tirzepatide versus Glucagon-Like Peptide-1 receptor agonists with oral and periodontal outcomes in patients with type 2 Diabetes: A Global propensity Score-Matched cohort study",
+      "summary": "Tu CY et al. · Diabetes research and clinical practice",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764072/",
+      "publisher": "Diabetes research and clinical practice",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-20T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.20",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
