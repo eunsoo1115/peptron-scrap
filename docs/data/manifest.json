@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-22T09:31:49.638353+09:00",
+  "updated_at": "2026-09-22T17:39:23.321069+09:00",
   "dates": [
     {
       "date": "2026-09-22",
-      "total": 2375,
+      "total": 2566,
       "counts": {
-        "core": 296,
-        "obesity": 650,
-        "npr": 331,
-        "platform": 472,
-        "reg": 368,
-        "mkt": 258
+        "core": 311,
+        "obesity": 715,
+        "npr": 336,
+        "platform": 520,
+        "reg": 393,
+        "mkt": 291
       }
     },
     {
@@ -1451,7 +1451,7 @@
     }
   ],
   "papers": {
-    "total": 4474,
+    "total": 4484,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1465,15 +1465,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8151,
+  "news_recent_total": 8312,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1644,
+      "news": 1669,
       "papers": 422,
       "trials": 144,
-      "total": 2210,
+      "total": 2235,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1500,11 +1500,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1341,
+      "news": 1360,
       "papers": 280,
       "trials": 115,
-      "total": 1736,
-      "recent": "2026-09-22T09:18:00+09:00",
+      "total": 1755,
+      "recent": "2026-09-22T17:24:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1563,9 +1563,9 @@
       "id": "PT320",
       "label": "PT320",
       "news": 6,
-      "papers": 40,
+      "papers": 41,
       "trials": 5,
-      "total": 51,
+      "total": 52,
       "recent": "2026-09-19T10:00:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
@@ -1595,11 +1595,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 437,
+      "news": 446,
       "papers": 0,
       "trials": 0,
-      "total": 437,
-      "recent": "2026-09-22T07:58:00+09:00",
+      "total": 446,
+      "recent": "2026-09-22T17:12:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1615,31 +1615,31 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 133,
+      "news": 134,
       "papers": 0,
       "trials": 0,
-      "total": 133,
-      "recent": "2026-09-21T21:24:00+09:00",
+      "total": 134,
+      "recent": "2026-09-22T17:01:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 329,
+      "news": 334,
       "papers": 0,
       "trials": 0,
-      "total": 329,
-      "recent": "2026-09-22T06:53:00+09:00",
+      "total": 334,
+      "recent": "2026-09-22T15:50:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 383,
+      "news": 392,
       "papers": 1,
       "trials": 0,
-      "total": 384,
-      "recent": "2026-09-22T08:52:00+09:00",
+      "total": 393,
+      "recent": "2026-09-22T16:36:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1655,12 +1655,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 81,
-      "yesterday": 350
+      "today": 240,
+      "yesterday": 351
     },
     "paper": {
       "today": 0,
-      "yesterday": 10
+      "yesterday": 18
     },
     "trial": {
       "today": 0,
@@ -1800,7 +1800,7 @@
     },
     {
       "date": "2026-09-11",
-      "news": 277,
+      "news": 278,
       "paper": 24,
       "trial": 4,
       "regulatory": 7
@@ -1870,14 +1870,14 @@
     },
     {
       "date": "2026-09-21",
-      "news": 350,
-      "paper": 10,
+      "news": 351,
+      "paper": 18,
       "trial": 12,
       "regulatory": 1
     },
     {
       "date": "2026-09-22",
-      "news": 81,
+      "news": 240,
       "paper": 0,
       "trial": 0,
       "regulatory": 6
