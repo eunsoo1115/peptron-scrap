@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T17:28:56.397165+09:00",
-  "total": 4484,
+  "updated_at": "2026-09-22T23:01:50.593115+09:00",
+  "total": 4492,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -587,6 +587,38 @@
       "companies": []
     },
     {
+      "title": "Trends in GLP-1 Receptor Agonist Prescribing Without an Apparent FDA-Approved Indication",
+      "summary": "Orandi BJ et al. · Obesity (Silver Spring, Md.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768905/",
+      "publisher": "Obesity (Silver Spring, Md.)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-22T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.22",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Future GLP-1 receptor co-agonists and their cardiac effects",
+      "summary": "Neumann J et al. · Naunyn-Schmiedeberg's archives of pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768195/",
+      "publisher": "Naunyn-Schmiedeberg's archives of pharmacolog",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-22T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.22",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Quantitative Insights into Tirzepatide and Semaglutide Using Longitudinal Systems Modeling",
       "summary": "Yang B et al. · The Journal of clinical endocrinology and metabolism",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42764204/",
@@ -877,6 +909,75 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Comparative Risk of Nonarteritic Anterior Ischemic Optic Neuropathy Among Glucagon-Like Peptide-1 Receptor Agonists: An Integrated Safety and Mechanistic Analysis",
+      "summary": "Sun H et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768849/",
+      "publisher": "Diabetes, obesity & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-21T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.21",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Real-World Adverse Event Reporting Patterns of Tirzepatide Versus Semaglutide: A Stratified Study of General and Healthcare Professional Cohorts in FAERS",
+      "summary": "Liu X et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768828/",
+      "publisher": "Diabetes, obesity & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-21T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.21",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Hidradenitis Suppurativa from Preconception to Lactation: Clinical Treatment Decision-Making Review",
+      "summary": "Lewandowski M et al. · Dermatology and therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768237/",
+      "publisher": "Dermatology and therapy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-21T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.21",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Oral Semaglutide in Routine Clinical Practice: 24-Month Real-World Effectiveness, Persistence and Safety in Adults With Type 2 Diabetes",
+      "summary": "Baldassarre MPA et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768825/",
+      "publisher": "Diabetes, obesity & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-21T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.21",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -4957,6 +5058,24 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide and pioglitazone restore airway mucosal homeostasis by resolving Pseudomonas aeruginosa pyocyanin-induced mucus hypersecretion, ciliostasis, and type 2 airway inflammation",
+      "summary": "Wu C et al. · Frontiers in immunology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42769032/",
+      "publisher": "Frontiers in immunology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-07T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.07",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -11518,6 +11637,22 @@
       "summary": "Mallardo M et al. · Nutrients",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42738922/",
       "publisher": "Nutrients",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-22T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.22",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-like Peptide-1 Receptor Agonists and Risk of Tuberculosis in Type 2 Diabetes",
+      "summary": "Liao KM et al. · Nature communications",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768061/",
+      "publisher": "Nature communications",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
