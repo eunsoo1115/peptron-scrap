@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T17:30:46.064144+09:00",
-  "total": 4512,
+  "updated_at": "2026-09-23T23:13:02.722089+09:00",
+  "total": 4516,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -771,6 +771,22 @@
       "summary": "Caballero R et al. · AIDS care",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42771485/",
       "publisher": "AIDS care",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-22T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.22",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Development of Sustained Release Chitosan/β-Glycerol Phosphate-Based Injectable Thermo-Gels Containing Naproxen Sodium: In-Vitro and In-Vivo Evaluation",
+      "summary": "Ahmad H et al. · Pharmaceutical research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42773384/",
+      "publisher": "Pharmaceutical research",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -2472,6 +2488,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Response to Letter to the Editor regarding \"Long-Term Mechanical Complications After Lumbar Fusion in Patients Receiving Tirzepatide vs Other GLP-1 Receptor Agonists\"",
+      "summary": "Wang R et al. · Spine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42773902/",
+      "publisher": "Spine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -8617,6 +8651,24 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Nonarteritic anterior ischemic optic neuropathy after rapid weight loss during semaglutide therapy: a case report",
+      "summary": "Cho CH et al. · Korean journal of family medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42773534/",
+      "publisher": "Korean journal of family medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -14831,6 +14883,22 @@
       "pipelines": [
         "PT320"
       ],
+      "companies": []
+    },
+    {
+      "title": "Eradication of MRSA biofilm-associated implant infections by low-immunogenic sustained-release lysostaphin fused to thermosensitive polypeptides",
+      "summary": "Fan G et al. · Nature communications",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42773108/",
+      "publisher": "Nature communications",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-14T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.14",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {

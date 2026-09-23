@@ -1,9 +1,87 @@
 {
-  "updated_at": "2026-09-23T17:30:46.146771+09:00",
-  "total": 1585,
+  "updated_at": "2026-09-23T23:13:02.870222+09:00",
+  "total": 1588,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
+    {
+      "title": "A Study of Vosoritide in Children With Noonan Syndrome With Inadequate Growth During or After Human Growth Hormone Treatment",
+      "summary": "진행중(모집종료) · 2상 · Noonan Syndrome",
+      "url": "https://clinicaltrials.gov/study/NCT06668805",
+      "publisher": "BioMarin Pharmaceutical",
+      "source": "ctgov",
+      "layer": "trial",
+      "region": "",
+      "published": "2026-09-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.23",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [
+        "PND3174"
+      ],
+      "companies": [],
+      "ct_status": "진행중(모집종료)",
+      "ct_phase": "2상"
+    },
+    {
+      "title": "A Study Comparing the Effects of BGM0504 Injection and Semaglutide Injection on Obese Subjects.",
+      "summary": "완료 · 2상 · Obesity / Overweight",
+      "url": "https://clinicaltrials.gov/study/NCT07836140",
+      "publisher": "Second Affiliated Hospital of Soochow Univers",
+      "source": "ctgov",
+      "layer": "trial",
+      "region": "",
+      "published": "2026-09-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": [],
+      "ct_status": "완료",
+      "ct_phase": "2상"
+    },
+    {
+      "title": "Prospective Longitudinal Multicentric Study to Measure Limb Movement in Patients With FGFR3-related Skeletal Dysplasia",
+      "summary": "모집중 · 단계미정 · Achondroplasia, Hypochondroplasia",
+      "url": "https://clinicaltrials.gov/study/NCT07388966",
+      "publisher": "SYSNAV",
+      "source": "ctgov",
+      "layer": "trial",
+      "region": "",
+      "published": "2026-09-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.23",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [
+        "PND3174"
+      ],
+      "companies": [],
+      "ct_status": "모집중",
+      "ct_phase": "단계미정"
+    },
+    {
+      "title": "Comparison of the Effectiveness of Greater Occipital Nerve and Supratrochlear Nerve Pulsed Radiofrequency Versus Botulinum Toxin Type A Injection in Chronic Migraine",
+      "summary": "모집예정 · 4상 · Chronic Migraine",
+      "url": "https://clinicaltrials.gov/study/NCT07837570",
+      "publisher": "Assiut University",
+      "source": "ctgov",
+      "layer": "trial",
+      "region": "",
+      "published": "2026-09-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.23",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": [],
+      "ct_status": "모집예정",
+      "ct_phase": "4상"
+    },
     {
       "title": "Estradiol Levels According to Body Mass Index in Premenopausal Patients With Breast Cancer",
       "summary": "모집예정 · 단계미정 · Hormone Receptor-Positive Breast Cancer",
@@ -15842,26 +15920,6 @@
       "companies": [],
       "ct_status": "진행중(모집종료)",
       "ct_phase": "3상"
-    },
-    {
-      "title": "A Study of Vosoritide in Children With Noonan Syndrome With Inadequate Growth During or After Human Growth Hormone Treatment",
-      "summary": "모집중 · 2상 · Noonan Syndrome",
-      "url": "https://clinicaltrials.gov/study/NCT06668805",
-      "publisher": "BioMarin Pharmaceutical",
-      "source": "ctgov",
-      "layer": "trial",
-      "region": "",
-      "published": "2026-05-11T00:00:00+09:00",
-      "time": "00:00",
-      "date": "2026.05.11",
-      "year": 2026,
-      "category": "npr",
-      "pipelines": [
-        "PND3174"
-      ],
-      "companies": [],
-      "ct_status": "모집중",
-      "ct_phase": "2상"
     },
     {
       "title": "The Immunology and Safety of Maternal RSV Vaccination (ABRYSVO), Infant Nirsevimab (BEYFORTUS) Immunization, or Both Products",
