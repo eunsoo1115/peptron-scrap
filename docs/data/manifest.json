@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-24T17:33:34.444329+09:00",
+  "updated_at": "2026-09-24T23:12:32.472455+09:00",
   "dates": [
     {
       "date": "2026-09-24",
-      "total": 2408,
+      "total": 2475,
       "counts": {
-        "core": 300,
-        "obesity": 666,
-        "npr": 337,
-        "platform": 496,
-        "reg": 357,
-        "mkt": 252
+        "core": 303,
+        "obesity": 705,
+        "npr": 344,
+        "platform": 503,
+        "reg": 363,
+        "mkt": 257
       }
     },
     {
@@ -1475,29 +1475,29 @@
     }
   ],
   "papers": {
-    "total": 4546,
+    "total": 4551,
     "year_min": 2023,
     "year_max": 2027
   },
   "trials": {
-    "total": 1588,
+    "total": 1595,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 834,
+    "total": 835,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8304,
+  "news_recent_total": 8332,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1651,
-      "papers": 433,
-      "trials": 145,
-      "total": 2229,
+      "news": 1661,
+      "papers": 434,
+      "trials": 146,
+      "total": 2241,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1524,11 +1524,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1338,
-      "papers": 286,
+      "news": 1350,
+      "papers": 287,
       "trials": 116,
-      "total": 1740,
-      "recent": "2026-09-24T16:18:39+09:00",
+      "total": 1753,
+      "recent": "2026-09-24T22:30:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1556,11 +1556,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 62,
+      "news": 64,
       "papers": 160,
       "trials": 42,
-      "total": 264,
-      "recent": "2026-09-23T06:10:00+09:00",
+      "total": 266,
+      "recent": "2026-09-24T21:11:04+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1659,10 +1659,10 @@
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 439,
+      "news": 440,
       "papers": 1,
       "trials": 0,
-      "total": 440,
+      "total": 441,
       "recent": "2026-09-24T13:28:36+09:00",
       "logo": "logos/novo.png"
     },
@@ -1679,19 +1679,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 102,
-      "yesterday": 293
+      "today": 128,
+      "yesterday": 294
     },
     "paper": {
-      "today": 0,
-      "yesterday": 13
+      "today": 1,
+      "yesterday": 15
     },
     "trial": {
-      "today": 0,
+      "today": 7,
       "yesterday": 4
     },
     "regulatory": {
-      "today": 5,
+      "today": 6,
       "yesterday": 2
     }
   },
@@ -1887,24 +1887,24 @@
     },
     {
       "date": "2026-09-22",
-      "news": 339,
+      "news": 340,
       "paper": 17,
       "trial": 7,
       "regulatory": 12
     },
     {
       "date": "2026-09-23",
-      "news": 293,
-      "paper": 13,
+      "news": 294,
+      "paper": 15,
       "trial": 4,
       "regulatory": 2
     },
     {
       "date": "2026-09-24",
-      "news": 102,
-      "paper": 0,
-      "trial": 0,
-      "regulatory": 5
+      "news": 128,
+      "paper": 1,
+      "trial": 7,
+      "regulatory": 6
     }
   ],
   "alerts": [
