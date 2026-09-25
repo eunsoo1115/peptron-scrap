@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-25T09:09:13.942052+09:00",
+  "updated_at": "2026-09-25T17:55:50.238528+09:00",
   "dates": [
     {
       "date": "2026-09-25",
-      "total": 2279,
+      "total": 2396,
       "counts": {
-        "core": 297,
-        "obesity": 608,
-        "npr": 324,
-        "platform": 476,
-        "reg": 345,
-        "mkt": 229
+        "core": 300,
+        "obesity": 667,
+        "npr": 328,
+        "platform": 494,
+        "reg": 359,
+        "mkt": 248
       }
     },
     {
@@ -1487,7 +1487,7 @@
     }
   ],
   "papers": {
-    "total": 4554,
+    "total": 4582,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1501,15 +1501,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8010,
+  "news_recent_total": 8046,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1588,
-      "papers": 434,
+      "news": 1600,
+      "papers": 438,
       "trials": 146,
-      "total": 2168,
+      "total": 2184,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1536,11 +1536,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1290,
+      "news": 1304,
       "papers": 287,
       "trials": 116,
-      "total": 1693,
-      "recent": "2026-09-25T09:03:00+09:00",
+      "total": 1707,
+      "recent": "2026-09-25T16:30:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1569,9 +1569,9 @@
       "id": "PND3174",
       "label": "PND3174",
       "news": 63,
-      "papers": 160,
+      "papers": 161,
       "trials": 42,
-      "total": 265,
+      "total": 266,
       "recent": "2026-09-24T21:11:04+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -1671,11 +1671,11 @@
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 430,
+      "news": 432,
       "papers": 1,
       "trials": 0,
-      "total": 431,
-      "recent": "2026-09-25T06:16:42+09:00",
+      "total": 433,
+      "recent": "2026-09-25T15:00:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1691,12 +1691,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 45,
+      "today": 79,
       "yesterday": 132
     },
     "paper": {
       "today": 0,
-      "yesterday": 1
+      "yesterday": 21
     },
     "trial": {
       "today": 0,
@@ -1718,7 +1718,7 @@
     {
       "date": "2026-08-28",
       "news": 294,
-      "paper": 19,
+      "paper": 20,
       "trial": 5,
       "regulatory": 5
     },
@@ -1851,28 +1851,28 @@
     {
       "date": "2026-09-16",
       "news": 284,
-      "paper": 25,
+      "paper": 27,
       "trial": 4,
       "regulatory": 8
     },
     {
       "date": "2026-09-17",
       "news": 419,
-      "paper": 30,
+      "paper": 31,
       "trial": 4,
       "regulatory": 6
     },
     {
       "date": "2026-09-18",
       "news": 234,
-      "paper": 13,
+      "paper": 14,
       "trial": 5,
       "regulatory": 3
     },
     {
       "date": "2026-09-19",
       "news": 86,
-      "paper": 10,
+      "paper": 11,
       "trial": 0,
       "regulatory": 5
     },
@@ -1885,7 +1885,7 @@
     },
     {
       "date": "2026-09-21",
-      "news": 353,
+      "news": 354,
       "paper": 22,
       "trial": 12,
       "regulatory": 1
@@ -1899,21 +1899,21 @@
     },
     {
       "date": "2026-09-23",
-      "news": 295,
-      "paper": 16,
+      "news": 296,
+      "paper": 17,
       "trial": 4,
       "regulatory": 2
     },
     {
       "date": "2026-09-24",
       "news": 132,
-      "paper": 1,
+      "paper": 21,
       "trial": 7,
       "regulatory": 6
     },
     {
       "date": "2026-09-25",
-      "news": 45,
+      "news": 79,
       "paper": 0,
       "trial": 0,
       "regulatory": 3
