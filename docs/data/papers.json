@@ -1,9 +1,25 @@
 {
-  "updated_at": "2026-09-26T09:14:49.185064+09:00",
-  "total": 4600,
+  "updated_at": "2026-09-26T17:31:58.645218+09:00",
+  "total": 4606,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
+    {
+      "title": "An immune-adaptive 3D-printed scaffold promotes endogenous osteogenesis by engineered macrophage capture traps",
+      "summary": "Zhu Z et al. · Biomaterials",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42607641/",
+      "publisher": "Biomaterials",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2027-02-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2027.02.01",
+      "year": 2027,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
     {
       "title": "Engineered senescence-targeting apoptotic extracellular vesicles-laden injectable hydrogel microspheres mitigating nucleus pulposus cell ferroptosis against intervertebral disc degeneration",
       "summary": "Shi P et al. · Biomaterials",
@@ -603,6 +619,24 @@
       "companies": []
     },
     {
+      "title": "Renal AA amyloidosis associated with severe obesity: improvement in kidney function and proteinuria following semaglutide-associated weight loss",
+      "summary": "Atay I et al. · Journal of nephrology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791222/",
+      "publisher": "Journal of nephrology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-26T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.26",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "Considerations and challenges in microdosing of GLP-1-based receptor agonists",
       "summary": "Beck H et al. · Expert opinion on pharmacotherapy",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42788826/",
@@ -639,6 +673,56 @@
       "summary": "Adedeji A et al. · Journal of patient-reported outcomes",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42789043/",
       "publisher": "Journal of patient-reported outcomes",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.25",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [
+        "PND3174"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-Like Peptide-1 Receptor Agonist-Associated Hepatotoxicity",
+      "summary": "Palmer M · Clinical therapeutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791090/",
+      "publisher": "Clinical therapeutics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-Like Peptide-1 Receptor Agonists (GLP-1RAs) in Hidradenitis Suppurativa: A Narrative Review of Emerging Evidence",
+      "summary": "Silberzweig A et al. · Clinics in dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42790605/",
+      "publisher": "Clinics in dermatology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Neurosurgical management of achondroplasia: a systematic review",
+      "summary": "Tatit RT et al. · Journal of neurosurgery. Pediatrics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789991/",
+      "publisher": "Journal of neurosurgery. Pediatrics",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -1956,6 +2040,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Incretin signaling suppresses high glucose-induced β-cell hypoxia through a cAMP/PKA-dependent mechanism",
+      "summary": "Saranaruk P et al. · Biochemical and biophysical research communications",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42790025/",
+      "publisher": "Biochemical and biophysical research communic",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-21T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.21",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
