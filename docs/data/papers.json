@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T23:34:35.242172+09:00",
-  "total": 4586,
+  "updated_at": "2026-09-26T09:14:49.185064+09:00",
+  "total": 4600,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -363,6 +363,22 @@
       "companies": []
     },
     {
+      "title": "An RNA thermogenic therapy to preserve lean mass and enhance metabolic health during GLP-1 weight loss",
+      "summary": "Thorne AK et al. · Proceedings of the National Academy of Sciences of the United States of America",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789307/",
+      "publisher": "Proceedings of the National Academy of Scienc",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Development of 1 month core-shell microspheres combination formulation containing teriparatide for osteoporosis treatment",
       "summary": "Feng H et al. · Biomaterials",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41950644/",
@@ -584,6 +600,56 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Considerations and challenges in microdosing of GLP-1-based receptor agonists",
+      "summary": "Beck H et al. · Expert opinion on pharmacotherapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42788826/",
+      "publisher": "Expert opinion on pharmacotherapy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-Like Peptide-1 Agonist Effects on Weight Loss and Heart Failure Hemodynamics",
+      "summary": "Alvarado A et al. · JACC. Case reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42788915/",
+      "publisher": "JACC. Case reports",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "The QOLA study: psychometric validation of the Quality of Life of Parents of Children with Achondroplasia (QOLA) questionnaire - a multinational study in Germany, Italy, and Portugal",
+      "summary": "Adedeji A et al. · Journal of patient-reported outcomes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789043/",
+      "publisher": "Journal of patient-reported outcomes",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.25",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [
+        "PND3174"
+      ],
       "companies": []
     },
     {
@@ -2947,6 +3013,22 @@
       "companies": []
     },
     {
+      "title": "Biocompatible Nanogels Synthesized via RAFT Polymerization for Long-Acting Onset-Controllable Glucose-Responsive Insulin Delivery in Diabetic Mice",
+      "summary": "Bhattacharya K et al. · Advanced functional materials",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42788086/",
+      "publisher": "Advanced functional materials",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.17",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Cardiometabolic Risk Reduction Through Selective Amylin Receptor Agonism: Emerging Cardiovascular Implications of Eloralintide",
       "summary": "Sigalov A et al. · Cardiology in review",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42745233/",
@@ -5053,6 +5135,24 @@
       "companies": []
     },
     {
+      "title": "Pulsatile liraglutide on a biased tirzepatide background: a hypothesis",
+      "summary": "Kopitovic I · Frontiers in endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787169/",
+      "publisher": "Frontiers in endocrinology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "Current and forthcoming pharmacotherapies for adolescent obesity: Evidence-based review",
       "summary": "Fuentes-Mendoza JM et al. · World journal of clinical pediatrics",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42625929/",
@@ -7008,6 +7108,22 @@
       "summary": "Koutouratsas T et al. · Age and ageing",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42765724/",
       "publisher": "Age and ageing",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-04T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.04",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 Receptor Agonist Coverage for Obesity in Medicaid and Total GLP-1 Receptor Agonist Utilization",
+      "summary": "Khanna R et al. · JAMA health forum",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789287/",
+      "publisher": "JAMA health forum",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -9728,6 +9844,22 @@
       "companies": []
     },
     {
+      "title": "The Role and Mechanism of Incretins in Gynaecologic Diseases",
+      "summary": "Yan J et al. · Endocrinology, diabetes & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789930/",
+      "publisher": "Endocrinology, diabetes & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Neurovascular Actions of Dipeptidyl Peptidase-4 Inhibitors and Their Implications for Cognitive Dysfunction in Type 2 Diabetes Mellitus",
       "summary": "Mohammad AH et al. · Clinical psychopharmacology and neuroscience : the official scientific journal of the Korean College of Neuropsychopharmacology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42528342/",
@@ -12238,6 +12370,22 @@
       "summary": "Tsalouchos A et al. · Journal of clinical medicine",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42739556/",
       "publisher": "Journal of clinical medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Implicit Rationing of Incretin Therapy in Diabetic Kidney Disease: A Call for Deliberate Allocation",
+      "summary": "de Silva D et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787678/",
+      "publisher": "Cureus",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -21683,6 +21831,38 @@
       "companies": []
     },
     {
+      "title": "GLP-1 Receptor Agonists for Stroke Prevention in Type 2 Diabetes or Obesity",
+      "summary": "Keister D MD et al. · American family physician",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789653/",
+      "publisher": "American family physician",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Top 20 Research Studies of 2025 for Primary Care Physicians",
+      "summary": "Ebell MH MD, MS et al. · American family physician",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789649/",
+      "publisher": "American family physician",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.01",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Altered G(i) signaling in enteroendocrine K cells in vivo causes pronounced changes in glucose homeostasis",
       "summary": "Rivera-Gonzalez O et al. · Science advances",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525756/",
@@ -27075,6 +27255,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Real-world Evidence for Improvements in Inflammation and Anemia Biomarkers After the Initiation of GLP-1RA in Patients Receiving Hemodialysis",
+      "summary": "Lama S et al. · Kidney medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787930/",
+      "publisher": "Kidney medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -34515,6 +34711,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Concurrent metformin-associated lactic acidosis and euglycemic diabetic ketoacidosis from tirzepatide starvation ketosis",
+      "summary": "Epitropoulos F et al. · Endocrinology, diabetes & metabolism case reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789768/",
+      "publisher": "Endocrinology, diabetes & metabolism case rep",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -67485,6 +67699,22 @@
       "summary": "Maiese K · International review of neurobiology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42767717/",
       "publisher": "International review of neurobiology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-01-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.01.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Beyond Prescribing: GLP-1 Care and Obesity Prevention in Primary Care",
+      "summary": "Jerjes W et al. · Journal of primary care & community health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789525/",
+      "publisher": "Journal of primary care & community health",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
