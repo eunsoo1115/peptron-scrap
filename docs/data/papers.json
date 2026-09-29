@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T10:21:34.304866+09:00",
-  "total": 4677,
+  "updated_at": "2026-09-29T18:44:41.928958+09:00",
+  "total": 4689,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -603,6 +603,22 @@
       "companies": []
     },
     {
+      "title": "Emulsion-loaded konjac glucomannan/oat β-glucan/alginate hydrogel beads enhance the gastrointestinal and thermal tolerance of Bifidobacterium animalis subsp. lactis BL99",
+      "summary": "Bo Z et al. · International journal of biological macromolecules",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42508784/",
+      "publisher": "International journal of biological macromole",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Physicochemical, structural, and in-vitro release properties of low methoxyl pectin-based particle gel beads incorporating apigenin-loaded porous starch for colon-targeted delivery system",
       "summary": "Jeong Y et al. · Food research international (Ottawa, Ont.)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42409520/",
@@ -615,6 +631,40 @@
       "date": "2026.09.30",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Potential bone marrow-driven reduction of circulating inflammatory monocytes by semaglutide in Type 2 diabetes",
+      "summary": "Teunis CJ et al. · European heart journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806711/",
+      "publisher": "European heart journal",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-29T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.29",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "[The application value of neuroelectrophysiological monitoring in posterior spinal corrective surgery for patients with osteochondrodysplasia complicated by kyphoscoliosis]",
+      "summary": "Liu WY et al. · Zhonghua yi xue za zhi",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778321/",
+      "publisher": "Zhonghua yi xue za zhi",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-29T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.29",
+      "year": 2026,
+      "category": "npr",
       "pipelines": [],
       "companies": []
     },
@@ -715,6 +765,143 @@
       "date": "2026.09.28",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Indirect comparative efficacy and safety of tirzepatide vs semaglutide for the treatment of obesity or overweight in patients without type 2 diabetes",
+      "summary": "Ciudin A et al. · International journal of obesity (2005)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806056/",
+      "publisher": "International journal of obesity (2005)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Beyond weight loss: a narrative review of tirzepatide's impact on muscle and lean mass in people with overweight and obesity",
+      "summary": "Wilkinson T et al. · Current medical research and opinion",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806732/",
+      "publisher": "Current medical research and opinion",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "The Role of Glucagon-Like Peptide-1 Receptor Agonists in Allergic Inflammation and Asthma: A Mechanistic Review",
+      "summary": "Alvarez-Perea A et al. · Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806728/",
+      "publisher": "Clinical and experimental allergy : journal o",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide for Treating Paediatric Craniopharyngioma-Related Obesity: A Multicentre Case Series",
+      "summary": "Dornberger J et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806285/",
+      "publisher": "Diabetes, obesity & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "The diagnostic value of serum glucagon-like peptide-1 (GLP-1) levels in endometrial cancer among obese women",
+      "summary": "Durmuş AB et al. · Gynecologic oncology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805118/",
+      "publisher": "Gynecologic oncology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "The dual incretin agonist tirzepatide blunts nicotine-induced behaviours and neurochemistry in male mice",
+      "summary": "Edvardsson CE et al. · British journal of pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805610/",
+      "publisher": "British journal of pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-like peptide-1 receptor agonists and pulmonary aspiration. Comment on Br J Anaesth 2026; 137: 628-30",
+      "summary": "Vlaeminck N et al. · British journal of anaesthesia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805889/",
+      "publisher": "British journal of anaesthesia",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Single-channel characteristics and regulation of endogenously expressed cation channels in human cardiac microvascular endothelial cells and human aortic endothelial cells",
+      "summary": "Yu L et al. · Biochimica et biophysica acta. General subjects",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805465/",
+      "publisher": "Biochimica et biophysica acta. General subjec",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "npr",
       "pipelines": [],
       "companies": []
     },
@@ -994,6 +1181,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Real-world effectiveness of 6-month tirzepatide therapy on body weight and composition in adults with overweight and obesity",
+      "summary": "Brancato D et al. · Journal of diabetes and its complications",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805130/",
+      "publisher": "Journal of diabetes and its complications",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
