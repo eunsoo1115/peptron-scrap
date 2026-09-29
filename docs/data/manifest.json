@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-29T02:36:10.035240+09:00",
+  "updated_at": "2026-09-29T10:22:36.235655+09:00",
   "dates": [
     {
       "date": "2026-09-29",
-      "total": 2281,
+      "total": 2425,
       "counts": {
-        "core": 305,
-        "obesity": 627,
-        "npr": 319,
-        "platform": 472,
-        "reg": 338,
-        "mkt": 220
+        "core": 311,
+        "obesity": 689,
+        "npr": 321,
+        "platform": 488,
+        "reg": 364,
+        "mkt": 252
       }
     },
     {
@@ -1535,7 +1535,7 @@
     }
   ],
   "papers": {
-    "total": 4671,
+    "total": 4677,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1545,19 +1545,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 852,
+    "total": 853,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7587,
+  "news_recent_total": 7684,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1563,
-      "papers": 442,
+      "news": 1575,
+      "papers": 443,
       "trials": 148,
-      "total": 2153,
+      "total": 2166,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1584,11 +1584,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1238,
-      "papers": 292,
+      "news": 1251,
+      "papers": 293,
       "trials": 117,
-      "total": 1647,
-      "recent": "2026-09-29T01:18:20+09:00",
+      "total": 1661,
+      "recent": "2026-09-29T09:20:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1646,11 +1646,11 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 5,
+      "news": 6,
       "papers": 41,
       "trials": 5,
-      "total": 51,
-      "recent": "2026-09-19T10:00:00+09:00",
+      "total": 52,
+      "recent": "2026-09-29T07:02:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -1679,11 +1679,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 358,
+      "news": 362,
       "papers": 0,
       "trials": 0,
-      "total": 358,
-      "recent": "2026-09-28T17:30:00+09:00",
+      "total": 362,
+      "recent": "2026-09-29T09:28:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1699,31 +1699,31 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 117,
+      "news": 128,
       "papers": 0,
       "trials": 0,
-      "total": 117,
-      "recent": "2026-09-28T15:08:00+09:00",
+      "total": 128,
+      "recent": "2026-09-29T10:14:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 296,
+      "news": 299,
       "papers": 0,
       "trials": 0,
-      "total": 296,
-      "recent": "2026-09-28T23:54:00+09:00",
+      "total": 299,
+      "recent": "2026-09-29T06:06:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 430,
+      "news": 432,
       "papers": 1,
       "trials": 0,
-      "total": 431,
-      "recent": "2026-09-29T00:06:53+09:00",
+      "total": 433,
+      "recent": "2026-09-29T10:10:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1739,19 +1739,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 8,
-      "yesterday": 286
+      "today": 100,
+      "yesterday": 289
     },
     "paper": {
       "today": 0,
-      "yesterday": 1
+      "yesterday": 6
     },
     "trial": {
       "today": 0,
       "yesterday": 4
     },
     "regulatory": {
-      "today": 2,
+      "today": 3,
       "yesterday": 0
     }
   },
@@ -1766,7 +1766,7 @@
     {
       "date": "2026-09-01",
       "news": 282,
-      "paper": 104,
+      "paper": 105,
       "trial": 7,
       "regulatory": 24
     },
@@ -1940,31 +1940,31 @@
     },
     {
       "date": "2026-09-26",
-      "news": 108,
+      "news": 109,
       "paper": 6,
       "trial": 0,
       "regulatory": 9
     },
     {
       "date": "2026-09-27",
-      "news": 87,
+      "news": 88,
       "paper": 4,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-09-28",
-      "news": 286,
-      "paper": 1,
+      "news": 289,
+      "paper": 6,
       "trial": 4,
       "regulatory": 0
     },
     {
       "date": "2026-09-29",
-      "news": 8,
+      "news": 100,
       "paper": 0,
       "trial": 0,
-      "regulatory": 2
+      "regulatory": 3
     }
   ],
   "alerts": [
@@ -2003,6 +2003,21 @@
       "published": "2026-08-31T15:36:00+09:00",
       "date": "2026.08.31",
       "publisher": "medicopharma.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "릴리, 주 1회 인슐린 '온스윅' FDA 승인…노보와 인슐린 경쟁 본격화",
+      "layer": "news",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544971",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [],
+      "published": "2026-09-29T05:52:00+09:00",
+      "date": "2026.09.29",
+      "publisher": "kpanews.co.kr"
     },
     {
       "level": "High",
@@ -2074,20 +2089,6 @@
       "published": "2026-09-21T05:50:00+09:00",
       "date": "2026.09.21",
       "publisher": "sedaily.com"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "Cessation or Reduction of Alcohol Consumption in Veterans: A Randomized, Double-Blind, Placebo-Controlled Phase 3 Trial to Evaluate the Efficacy and Safety of a GLP-1 Receptor Agonist Semaglutide in U.S. Veterans With Alcohol Use Disorder",
-      "layer": "trial",
-      "url": "https://clinicaltrials.gov/study/NCT07218354",
-      "companies": [],
-      "pipelines": [
-        "PT403"
-      ],
-      "published": "2026-07-23T00:00:00+09:00",
-      "date": "2026.07.23",
-      "publisher": "VA Office of Research and Development"
     }
   ],
   "highlights": {
@@ -2235,6 +2236,15 @@
     "PT320": [
       {
         "level": "High",
+        "title": "[더벨]에스바이오메딕스, 파킨슨 3상 연내 IND…FDA와 서면 협의",
+        "layer": "news",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609281613167800104249",
+        "date": "2026.09.29",
+        "published": "2026-09-29T07:02:00+09:00",
+        "publisher": "thebell.co.kr"
+      },
+      {
+        "level": "High",
         "title": "Improvement of Refractory Restless Legs Syndrome in a Parkinson's Disease Patient After Semaglutide Treatment: A Novel Clinical Observation",
         "layer": "paper",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42276762/",
@@ -2268,15 +2278,6 @@
         "date": "2026.05.05",
         "published": "2026-05-05T00:00:00+09:00",
         "publisher": "Frontiers in endocrinology"
-      },
-      {
-        "level": "Medium",
-        "title": "Extended Release Exenatide Versus Placebo In Diabetic Patients With Type 4 Cardiorenal Syndrome",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT02251431",
-        "date": "2026.02.19",
-        "published": "2026-02-19T00:00:00+09:00",
-        "publisher": "Baylor Research Institute"
       }
     ]
   }
