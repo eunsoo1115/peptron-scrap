@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-30T09:51:40.231794+09:00",
+  "updated_at": "2026-09-30T18:37:08.095201+09:00",
   "dates": [
     {
       "date": "2026-09-30",
-      "total": 2435,
+      "total": 2677,
       "counts": {
-        "core": 299,
-        "obesity": 707,
-        "npr": 325,
-        "platform": 474,
-        "reg": 365,
-        "mkt": 265
+        "core": 308,
+        "obesity": 825,
+        "npr": 339,
+        "platform": 483,
+        "reg": 420,
+        "mkt": 302
       }
     },
     {
@@ -1547,7 +1547,7 @@
     }
   ],
   "papers": {
-    "total": 4698,
+    "total": 4720,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1557,19 +1557,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 869,
+    "total": 873,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7931,
+  "news_recent_total": 8140,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1633,
-      "papers": 447,
+      "news": 1679,
+      "papers": 448,
       "trials": 152,
-      "total": 2232,
+      "total": 2279,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1596,11 +1596,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1292,
-      "papers": 298,
+      "news": 1331,
+      "papers": 300,
       "trials": 119,
-      "total": 1709,
-      "recent": "2026-09-30T09:30:00+09:00",
+      "total": 1750,
+      "recent": "2026-09-30T18:04:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1658,11 +1658,11 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 6,
+      "news": 7,
       "papers": 41,
       "trials": 5,
-      "total": 52,
-      "recent": "2026-09-29T07:02:00+09:00",
+      "total": 53,
+      "recent": "2026-09-30T10:28:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -1691,11 +1691,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 382,
+      "news": 387,
       "papers": 0,
       "trials": 0,
-      "total": 382,
-      "recent": "2026-09-30T07:56:00+09:00",
+      "total": 387,
+      "recent": "2026-09-30T15:52:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1711,31 +1711,31 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 134,
+      "news": 136,
       "papers": 0,
       "trials": 0,
-      "total": 134,
-      "recent": "2026-09-30T07:08:00+09:00",
+      "total": 136,
+      "recent": "2026-09-30T17:52:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 334,
+      "news": 344,
       "papers": 0,
       "trials": 0,
-      "total": 334,
-      "recent": "2026-09-30T09:26:00+09:00",
+      "total": 344,
+      "recent": "2026-09-30T16:48:13+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 490,
+      "news": 501,
       "papers": 1,
       "trials": 0,
-      "total": 491,
-      "recent": "2026-09-30T09:26:00+09:00",
+      "total": 502,
+      "recent": "2026-09-30T18:03:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1751,19 +1751,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 123,
-      "yesterday": 326
+      "today": 329,
+      "yesterday": 329
     },
     "paper": {
       "today": 1,
-      "yesterday": 5
+      "yesterday": 22
     },
     "trial": {
       "today": 0,
       "yesterday": 17
     },
     "regulatory": {
-      "today": 15,
+      "today": 19,
       "yesterday": 4
     }
   },
@@ -1820,7 +1820,7 @@
     {
       "date": "2026-09-08",
       "news": 465,
-      "paper": 39,
+      "paper": 40,
       "trial": 9,
       "regulatory": 3
     },
@@ -1869,7 +1869,7 @@
     {
       "date": "2026-09-15",
       "news": 379,
-      "paper": 23,
+      "paper": 25,
       "trial": 11,
       "regulatory": 11
     },
@@ -1890,7 +1890,7 @@
     {
       "date": "2026-09-18",
       "news": 234,
-      "paper": 17,
+      "paper": 18,
       "trial": 5,
       "regulatory": 3
     },
@@ -1918,7 +1918,7 @@
     {
       "date": "2026-09-22",
       "news": 344,
-      "paper": 19,
+      "paper": 20,
       "trial": 7,
       "regulatory": 12
     },
@@ -1966,17 +1966,17 @@
     },
     {
       "date": "2026-09-29",
-      "news": 326,
-      "paper": 5,
+      "news": 329,
+      "paper": 22,
       "trial": 17,
       "regulatory": 4
     },
     {
       "date": "2026-09-30",
-      "news": 123,
+      "news": 329,
       "paper": 1,
       "trial": 0,
-      "regulatory": 15
+      "regulatory": 19
     }
   ],
   "alerts": [
@@ -2015,6 +2015,21 @@
       "published": "2026-08-31T15:36:00+09:00",
       "date": "2026.08.31",
       "publisher": "medicopharma.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "한미약품, 비만약 '에페' 연동 웰니스 앱 출시 예정",
+      "layer": "news",
+      "url": "https://news.mtn.co.kr/news-detail/2026093016280719763",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-09-30T17:44:00+09:00",
+      "date": "2026.09.30",
+      "publisher": "mtn.co.kr"
     },
     {
       "level": "High",
@@ -2084,23 +2099,6 @@
       "published": "2026-08-31T06:02:00+09:00",
       "date": "2026.08.31",
       "publisher": "약업신문"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
-      "layer": "news",
-      "url": "https://www.sedaily.com/article/20093153?ref=naver",
-      "companies": [
-        "lilly"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-09-21T05:50:00+09:00",
-      "date": "2026.09.21",
-      "publisher": "sedaily.com"
     }
   ],
   "highlights": {
@@ -2125,6 +2123,15 @@
       },
       {
         "level": "High",
+        "title": "한미약품, 비만약 '에페' 연동 웰니스 앱 출시 예정",
+        "layer": "news",
+        "url": "https://news.mtn.co.kr/news-detail/2026093016280719763",
+        "date": "2026.09.30",
+        "published": "2026-09-30T17:44:00+09:00",
+        "publisher": "mtn.co.kr"
+      },
+      {
+        "level": "High",
         "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
         "layer": "news",
         "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
@@ -2140,15 +2147,6 @@
         "date": "2026.09.21",
         "published": "2026-09-21T05:50:00+09:00",
         "publisher": "sedaily.com"
-      },
-      {
-        "level": "High",
-        "title": "Cessation or Reduction of Alcohol Consumption in Veterans: A Randomized, Double-Blind, Placebo-Controlled Phase 3 Trial to Evaluate the Efficacy and Safety of a GLP-1 Receptor Agonist Semaglutide in U.S. Veterans With Alcohol Use Disorder",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT07218354",
-        "date": "2026.07.23",
-        "published": "2026-07-23T00:00:00+09:00",
-        "publisher": "VA Office of Research and Development"
       }
     ],
     "PT404": [
@@ -2172,6 +2170,15 @@
       },
       {
         "level": "High",
+        "title": "한미약품, 비만약 '에페' 연동 웰니스 앱 출시 예정",
+        "layer": "news",
+        "url": "https://news.mtn.co.kr/news-detail/2026093016280719763",
+        "date": "2026.09.30",
+        "published": "2026-09-30T17:44:00+09:00",
+        "publisher": "mtn.co.kr"
+      },
+      {
+        "level": "High",
         "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
         "layer": "news",
         "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
@@ -2187,15 +2194,6 @@
         "date": "2026.09.21",
         "published": "2026-09-21T05:50:00+09:00",
         "publisher": "sedaily.com"
-      },
-      {
-        "level": "High",
-        "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
-        "layer": "paper",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
-        "date": "2026.05.14",
-        "published": "2026-05-14T00:00:00+09:00",
-        "publisher": "Cureus"
       }
     ],
     "PND3174": [
