@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T00:40:27.955987+09:00",
-  "total": 4689,
+  "updated_at": "2026-09-30T09:50:39.956582+09:00",
+  "total": 4698,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -669,6 +669,54 @@
       "companies": []
     },
     {
+      "title": "Safety of glucagon-like peptide-1 receptor agonists and other new-generation glucose-lowering agents for the management of type 2 diabetes in pregnancy: a French nationwide population-based study",
+      "summary": "Collier M et al. · Diabetologia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809004/",
+      "publisher": "Diabetologia",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-29T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.29",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Incretins, Mitochondrial Efficiency, and Muscle: Measure It Before We Model It",
+      "summary": "Sparks LM et al. · Obesity (Silver Spring, Md.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42808953/",
+      "publisher": "Obesity (Silver Spring, Md.)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-29T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.29",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Co-designing a Blueprint for Home Delivery of Long-Acting Injectable Pre-exposure Prophylaxis for Sexual Minority Men in Chicago",
+      "summary": "Van Pelt AE et al. · AIDS and behavior",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809090/",
+      "publisher": "AIDS and behavior",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-29T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.29",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Treatment With a GLP-1 Receptor Agonist Versus Reduction of the Gastrojejunal Anastomosis Diameter Using Endoscopic Argon Plasma Coagulation for Recurrent Weight Gain After Roux-en-Y Gastric Bypass",
       "summary": "Mera-Carreiro S et al. · Obesity surgery",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42802300/",
@@ -903,6 +951,24 @@
       "year": 2026,
       "category": "npr",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Non-Arteritic Anterior Ischaemic Optic Neuropathy Associated with Semaglutide use",
+      "summary": "Kearney M et al. · Irish medical journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42808150/",
+      "publisher": "Irish medical journal",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -5053,6 +5119,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Preferences of people living with HIV for treatment regimen attributes: a qualitative interview study",
+      "summary": "Donatti C et al. · Frontiers in public health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42807486/",
+      "publisher": "Frontiers in public health",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-14T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.14",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -11088,6 +11170,38 @@
       "companies": []
     },
     {
+      "title": "Study on the Regulatory Mechanism of GLP-1 Receptor Agonist Liraglutide in Diabetic Corneal Epithelial Wound Healing",
+      "summary": "Liu X et al. · Investigative ophthalmology & visual science",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42808829/",
+      "publisher": "Investigative ophthalmology & visual science",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Benefits of sodium-glucose cotransporter 2 inhibitors versus glucagon-like peptide-1 receptor agonists in older patients with type 2 diabetes",
+      "summary": "Mortada I et al. · Diabetes & vascular disease research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42808164/",
+      "publisher": "Diabetes & vascular disease research",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Neurovascular Actions of Dipeptidyl Peptidase-4 Inhibitors and Their Implications for Cognitive Dysfunction in Type 2 Diabetes Mellitus",
       "summary": "Mohammad AH et al. · Clinical psychopharmacology and neuroscience : the official scientific journal of the Korean College of Neuropsychopharmacology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42528342/",
@@ -12316,6 +12430,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Opioid Toxicity Associated With Tirzepatide in a Patient on Chronic Oral Morphine",
+      "summary": "Mataraarachchi NE et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42807130/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -36153,6 +36285,22 @@
       "pipelines": [
         "PT404"
       ],
+      "companies": []
+    },
+    {
+      "title": "Chilean Multidisciplinary Consensus on the Use of GLP-1 Receptor Agonists: Recommendations Based on the GRADE Methodology",
+      "summary": "Cabrera S et al. · Revista medica de Chile",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809786/",
+      "publisher": "Revista medica de Chile",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
