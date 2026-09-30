@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-09-30T18:37:08.095201+09:00",
+  "updated_at": "2026-10-01T00:51:07.144757+09:00",
   "dates": [
+    {
+      "date": "2026-10-01",
+      "total": 2241,
+      "counts": {
+        "core": 296,
+        "obesity": 580,
+        "npr": 322,
+        "platform": 468,
+        "reg": 341,
+        "mkt": 234
+      }
+    },
     {
       "date": "2026-09-30",
       "total": 2677,
@@ -1547,29 +1559,29 @@
     }
   ],
   "papers": {
-    "total": 4720,
+    "total": 4730,
     "year_min": 2023,
     "year_max": 2027
   },
   "trials": {
-    "total": 1624,
+    "total": 1634,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 873,
+    "total": 876,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8140,
+  "news_recent_total": 7876,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1679,
-      "papers": 448,
-      "trials": 152,
-      "total": 2279,
+      "news": 1653,
+      "papers": 449,
+      "trials": 156,
+      "total": 2258,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1596,11 +1608,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1331,
-      "papers": 300,
+      "news": 1272,
+      "papers": 301,
       "trials": 119,
-      "total": 1750,
-      "recent": "2026-09-30T18:04:00+09:00",
+      "total": 1692,
+      "recent": "2026-10-01T00:10:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1691,51 +1703,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 387,
+      "news": 354,
       "papers": 0,
       "trials": 0,
-      "total": 387,
+      "total": 354,
       "recent": "2026-09-30T15:52:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 89,
+      "news": 87,
       "papers": 0,
       "trials": 0,
-      "total": 89,
+      "total": 87,
       "recent": "2026-09-30T07:54:54+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 136,
+      "news": 131,
       "papers": 0,
       "trials": 0,
-      "total": 136,
+      "total": 131,
       "recent": "2026-09-30T17:52:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 344,
+      "news": 334,
       "papers": 0,
       "trials": 0,
-      "total": 344,
-      "recent": "2026-09-30T16:48:13+09:00",
+      "total": 334,
+      "recent": "2026-10-01T00:10:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 501,
+      "news": 505,
       "papers": 1,
       "trials": 0,
-      "total": 502,
-      "recent": "2026-09-30T18:03:00+09:00",
+      "total": 506,
+      "recent": "2026-09-30T23:45:35+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1751,34 +1763,27 @@
   ],
   "kpi": {
     "news": {
-      "today": 329,
-      "yesterday": 329
+      "today": 4,
+      "yesterday": 402
     },
     "paper": {
-      "today": 1,
-      "yesterday": 22
+      "today": 14,
+      "yesterday": 5
     },
     "trial": {
       "today": 0,
-      "yesterday": 17
+      "yesterday": 12
     },
     "regulatory": {
-      "today": 19,
-      "yesterday": 4
+      "today": 3,
+      "yesterday": 19
     }
   },
   "trend": [
     {
-      "date": "2026-09-01",
-      "news": 282,
-      "paper": 107,
-      "trial": 7,
-      "regulatory": 24
-    },
-    {
       "date": "2026-09-02",
       "news": 273,
-      "paper": 29,
+      "paper": 30,
       "trial": 6,
       "regulatory": 1
     },
@@ -1827,7 +1832,7 @@
     {
       "date": "2026-09-09",
       "news": 352,
-      "paper": 27,
+      "paper": 28,
       "trial": 7,
       "regulatory": 4
     },
@@ -1869,7 +1874,7 @@
     {
       "date": "2026-09-15",
       "news": 379,
-      "paper": 25,
+      "paper": 26,
       "trial": 11,
       "regulatory": 11
     },
@@ -1939,7 +1944,7 @@
     {
       "date": "2026-09-25",
       "news": 123,
-      "paper": 8,
+      "paper": 9,
       "trial": 10,
       "regulatory": 7
     },
@@ -1973,10 +1978,17 @@
     },
     {
       "date": "2026-09-30",
-      "news": 329,
-      "paper": 1,
-      "trial": 0,
+      "news": 402,
+      "paper": 5,
+      "trial": 12,
       "regulatory": 19
+    },
+    {
+      "date": "2026-10-01",
+      "news": 4,
+      "paper": 14,
+      "trial": 0,
+      "regulatory": 3
     }
   ],
   "alerts": [
@@ -1997,24 +2009,6 @@
       "published": "2026-09-01T05:52:00+09:00",
       "date": "2026.09.01",
       "publisher": "kpanews.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 14,
-      "title": "마운자로, 美 FDA 심혈관 적응증 확보…릴리·노보 경쟁 확대",
-      "layer": "news",
-      "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=69350",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-08-31T15:36:00+09:00",
-      "date": "2026.08.31",
-      "publisher": "medicopharma.co.kr"
     },
     {
       "level": "High",
@@ -2072,33 +2066,49 @@
     },
     {
       "level": "High",
-      "score": 12,
-      "title": "8월 28일 주식시장 주요공시",
+      "score": 11,
+      "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
       "layer": "news",
-      "url": "https://www.catchnews.kr/news/articleView.html?idxno=127891",
-      "companies": [],
-      "pipelines": [],
-      "published": "2026-08-31T08:35:00+09:00",
-      "date": "2026.08.31",
-      "publisher": "catchnews.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
-      "layer": "news",
-      "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
+      "url": "https://www.sedaily.com/article/20093153?ref=naver",
       "companies": [
-        "lilly",
-        "novo"
+        "lilly"
       ],
       "pipelines": [
         "PT403",
         "PT404"
       ],
-      "published": "2026-08-31T06:02:00+09:00",
-      "date": "2026.08.31",
-      "publisher": "약업신문"
+      "published": "2026-09-21T05:50:00+09:00",
+      "date": "2026.09.21",
+      "publisher": "sedaily.com"
+    },
+    {
+      "level": "High",
+      "score": 11,
+      "title": "Cessation or Reduction of Alcohol Consumption in Veterans: A Randomized, Double-Blind, Placebo-Controlled Phase 3 Trial to Evaluate the Efficacy and Safety of a GLP-1 Receptor Agonist Semaglutide in U.S. Veterans With Alcohol Use Disorder",
+      "layer": "trial",
+      "url": "https://clinicaltrials.gov/study/NCT07218354",
+      "companies": [],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-07-23T00:00:00+09:00",
+      "date": "2026.07.23",
+      "publisher": "VA Office of Research and Development"
+    },
+    {
+      "level": "High",
+      "score": 11,
+      "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
+      "layer": "paper",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-05-14T00:00:00+09:00",
+      "date": "2026.05.14",
+      "publisher": "Cureus"
     }
   ],
   "highlights": {
@@ -2114,15 +2124,6 @@
       },
       {
         "level": "High",
-        "title": "마운자로, 美 FDA 심혈관 적응증 확보…릴리·노보 경쟁 확대",
-        "layer": "news",
-        "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=69350",
-        "date": "2026.08.31",
-        "published": "2026-08-31T15:36:00+09:00",
-        "publisher": "medicopharma.co.kr"
-      },
-      {
-        "level": "High",
         "title": "한미약품, 비만약 '에페' 연동 웰니스 앱 출시 예정",
         "layer": "news",
         "url": "https://news.mtn.co.kr/news-detail/2026093016280719763",
@@ -2132,21 +2133,30 @@
       },
       {
         "level": "High",
-        "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
-        "layer": "news",
-        "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
-        "date": "2026.08.31",
-        "published": "2026-08-31T06:02:00+09:00",
-        "publisher": "약업신문"
-      },
-      {
-        "level": "High",
         "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
         "layer": "news",
         "url": "https://www.sedaily.com/article/20093153?ref=naver",
         "date": "2026.09.21",
         "published": "2026-09-21T05:50:00+09:00",
         "publisher": "sedaily.com"
+      },
+      {
+        "level": "High",
+        "title": "Cessation or Reduction of Alcohol Consumption in Veterans: A Randomized, Double-Blind, Placebo-Controlled Phase 3 Trial to Evaluate the Efficacy and Safety of a GLP-1 Receptor Agonist Semaglutide in U.S. Veterans With Alcohol Use Disorder",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT07218354",
+        "date": "2026.07.23",
+        "published": "2026-07-23T00:00:00+09:00",
+        "publisher": "VA Office of Research and Development"
+      },
+      {
+        "level": "High",
+        "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
+        "layer": "paper",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
+        "date": "2026.05.14",
+        "published": "2026-05-14T00:00:00+09:00",
+        "publisher": "Cureus"
       }
     ],
     "PT404": [
@@ -2161,15 +2171,6 @@
       },
       {
         "level": "High",
-        "title": "마운자로, 美 FDA 심혈관 적응증 확보…릴리·노보 경쟁 확대",
-        "layer": "news",
-        "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=69350",
-        "date": "2026.08.31",
-        "published": "2026-08-31T15:36:00+09:00",
-        "publisher": "medicopharma.co.kr"
-      },
-      {
-        "level": "High",
         "title": "한미약품, 비만약 '에페' 연동 웰니스 앱 출시 예정",
         "layer": "news",
         "url": "https://news.mtn.co.kr/news-detail/2026093016280719763",
@@ -2179,21 +2180,30 @@
       },
       {
         "level": "High",
-        "title": "‘마운자로’, 심혈관 위험 감소까지…오젬픽과 적응증 경쟁 본격화",
-        "layer": "news",
-        "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331742",
-        "date": "2026.08.31",
-        "published": "2026-08-31T06:02:00+09:00",
-        "publisher": "약업신문"
-      },
-      {
-        "level": "High",
         "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
         "layer": "news",
         "url": "https://www.sedaily.com/article/20093153?ref=naver",
         "date": "2026.09.21",
         "published": "2026-09-21T05:50:00+09:00",
         "publisher": "sedaily.com"
+      },
+      {
+        "level": "High",
+        "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
+        "layer": "paper",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
+        "date": "2026.05.14",
+        "published": "2026-05-14T00:00:00+09:00",
+        "publisher": "Cureus"
+      },
+      {
+        "level": "High",
+        "title": "K비만약 1호 '에페' 등판 임박…'위고비·마운자로' 독주 끝낼까",
+        "layer": "news",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726185",
+        "date": "2026.09.30",
+        "published": "2026-09-30T15:16:00+09:00",
+        "publisher": "ebn.co.kr"
       }
     ],
     "PND3174": [

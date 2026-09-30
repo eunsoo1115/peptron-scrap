@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T18:35:59.704216+09:00",
-  "total": 4720,
+  "updated_at": "2026-10-01T00:49:59.990841+09:00",
+  "total": 4730,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -623,6 +623,72 @@
       "summary": "Jeong Y et al. · Food research international (Ottawa, Ont.)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42409520/",
       "publisher": "Food research international (Ottawa, Ont.)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.30",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "GLP-1-based therapy and early response to advanced treatment in atopic dermatitis with obesity",
+      "summary": "Paolino G et al. · Journal of the European Academy of Dermatology and Venereology : JEADV",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42813691/",
+      "publisher": "Journal of the European Academy of Dermatolog",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "The Effect of Glucagon-Like Peptide 1 Receptor Agonists on Peri- and Postmenopausal Breast Cancer Outcomes",
+      "summary": "Den J et al. · Journal of surgical oncology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42813380/",
+      "publisher": "Journal of surgical oncology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide in type 2 diabetes and chronic kidney disease in Australia: practical clinical considerations from a multidisciplinary panel",
+      "summary": "Pedagogos E et al. · Internal medicine journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42813318/",
+      "publisher": "Internal medicine journal",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "HIV therapeutics in 2026",
+      "summary": "Bacic Lima D et al. · Clinical microbiology reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42813792/",
+      "publisher": "Clinical microbiology reviews",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -1543,6 +1609,22 @@
       "pipelines": [
         "PT404"
       ],
+      "companies": []
+    },
+    {
+      "title": "Genetic Insights Into Protective Effects of GLP-1 Receptor Agonists on Stroke and Alzheimer Disease Across Ancestries",
+      "summary": "Caro-Châtelier I et al. · Neurology. Genetics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42812740/",
+      "publisher": "Neurology. Genetics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -5104,6 +5186,22 @@
       "companies": []
     },
     {
+      "title": "Mitohormesis linking metabolic dysfunction and neurodegeneration: implications for dementia and therapeutic strategies",
+      "summary": "Otoda T et al. · Frontiers in molecular neuroscience",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42812893/",
+      "publisher": "Frontiers in molecular neuroscience",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.15",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "GLP-1 receptor agonist use and mental health outcomes in adolescents with obesity: a retrospective review",
       "summary": "Said J et al. · Journal of pediatric endocrinology & metabolism : JPEM",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42732089/",
@@ -7049,6 +7147,24 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Cardiometabolic and atherosclerotic cardiovascular disease outcomes associated with tirzepatide: insights from a 1-year multicenter observational study",
+      "summary": "Rivera Gutierrez RJ et al. · Journal of the Endocrine Society",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42812847/",
+      "publisher": "Journal of the Endocrine Society",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-09T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.09",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -9818,6 +9934,22 @@
       "companies": []
     },
     {
+      "title": "Recent Studies on the Effectiveness and Safety of Anti-Obesity Medications: A Scoping Review",
+      "summary": "Puspitasari IM et al. · Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42812898/",
+      "publisher": "Diabetes, metabolic syndrome and obesity : ta",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Targeting metabolism to protect fertility and healthy pregnancy with SGLT2 inhibitors and GLP-1RAs",
       "summary": "Flanary SM et al. · Current opinion in physiology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42272808/",
@@ -11548,6 +11680,22 @@
       "summary": "Mortada I et al. · Diabetes & vascular disease research",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42808164/",
       "publisher": "Diabetes & vascular disease research",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Impact of the Four Pillars on Electrolyte Derangements during State-of-the-Art Therapy for Diabetic Kidney Disease",
+      "summary": "Yoo MJ et al. · Electrolyte & blood pressure : E & BP",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42812713/",
+      "publisher": "Electrolyte & blood pressure : E & BP",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -33860,6 +34008,22 @@
       "summary": "Joshi D · Cureus",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42559252/",
       "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Novel cutaneous adverse effects of the increasingly prevalent glucagon-like peptide 1 agonists",
+      "summary": "Carson L et al. · Skin health and disease",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42813201/",
+      "publisher": "Skin health and disease",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
