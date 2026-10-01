@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T19:03:26.064035+09:00",
-  "total": 4752,
+  "updated_at": "2026-10-02T01:17:06.084243+09:00",
+  "total": 4755,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -2349,6 +2349,22 @@
       "companies": []
     },
     {
+      "title": "A Single Suprachoroidal Injection of AXT107 (Gersizangitide), a Multimodal, Long-Acting Integrin-Disrupting Peptide, in Patients with Neovascular Age-Related Macular Degeneration: Results of the Phase 1/2a DISCOVER Trial",
+      "summary": "Pandey NB et al. · medRxiv : the preprint server for health sciences",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818173/",
+      "publisher": "medRxiv : the preprint server for health scie",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-24T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.24",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Beyond Pleasure: Unraveling the Multifaceted Role of Dopamine in Obesity and Metabolic Regulation",
       "summary": "Yang S et al. · Current obesity reports",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42776350/",
@@ -2965,6 +2981,22 @@
       "date": "2026.09.22",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "One-Dose Efficacy of Long-Acting Sorfequiline in a Mouse Model of Tuberculosis Preventive Therapy",
+      "summary": "Li SY et al. · bioRxiv : the preprint server for biology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818190/",
+      "publisher": "bioRxiv : the preprint server for biology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-22T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.22",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
@@ -8162,6 +8194,38 @@
       "date": "2026.09.08",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Obesity in the GLP-1 Era: Clinical Characteristics and Prescribing Patterns in a Large Integrated Health System",
+      "summary": "Wells BJ et al. · medRxiv : the preprint server for health sciences",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818435/",
+      "publisher": "medRxiv : the preprint server for health scie",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-08T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.08",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Dorsomedial striatal GABA dynamics organize palatable reward consumption and are reshaped by GLP-1 receptor agonism",
+      "summary": "Copling AN et al. · bioRxiv : the preprint server for biology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818528/",
+      "publisher": "bioRxiv : the preprint server for biology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-08T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.08",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -77874,24 +77938,6 @@
       "year": 2023,
       "category": "platform",
       "pipelines": [],
-      "companies": []
-    },
-    {
-      "title": "Shedding New Light: Novel Therapies for Achondroplasia and Growth Disorders",
-      "summary": "Merchant N et al. · Pediatric clinics of North America",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/37704353/",
-      "publisher": "Pediatric clinics of North America",
-      "source": "pubmed",
-      "layer": "paper",
-      "region": "",
-      "published": "2023-10-01T00:00:00+09:00",
-      "time": "00:00",
-      "date": "2023.10.01",
-      "year": 2023,
-      "category": "npr",
-      "pipelines": [
-        "PND3174"
-      ],
       "companies": []
     }
   ]
