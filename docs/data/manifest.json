@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-01T09:56:10.052138+09:00",
+  "updated_at": "2026-10-01T19:13:53.530250+09:00",
   "dates": [
     {
       "date": "2026-10-01",
-      "total": 2457,
+      "total": 2700,
       "counts": {
-        "core": 307,
-        "obesity": 701,
-        "npr": 330,
-        "platform": 482,
-        "reg": 358,
-        "mkt": 279
+        "core": 337,
+        "obesity": 817,
+        "npr": 334,
+        "platform": 503,
+        "reg": 381,
+        "mkt": 328
       }
     },
     {
@@ -1559,7 +1559,7 @@
     }
   ],
   "papers": {
-    "total": 4732,
+    "total": 4752,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1569,19 +1569,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 881,
+    "total": 893,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8046,
+  "news_recent_total": 8247,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1704,
-      "papers": 449,
+      "news": 1751,
+      "papers": 453,
       "trials": 156,
-      "total": 2309,
+      "total": 2360,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1608,11 +1608,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1319,
-      "papers": 301,
+      "news": 1371,
+      "papers": 303,
       "trials": 119,
-      "total": 1739,
-      "recent": "2026-10-01T09:48:00+09:00",
+      "total": 1793,
+      "recent": "2026-10-01T18:12:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1641,9 +1641,9 @@
       "id": "PND3174",
       "label": "PND3174",
       "news": 67,
-      "papers": 163,
+      "papers": 164,
       "trials": 42,
-      "total": 272,
+      "total": 273,
       "recent": "2026-10-01T07:56:12+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -1703,79 +1703,79 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 364,
+      "news": 388,
       "papers": 0,
       "trials": 0,
-      "total": 364,
-      "recent": "2026-10-01T09:48:00+09:00",
+      "total": 388,
+      "recent": "2026-10-01T18:12:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 87,
+      "news": 96,
       "papers": 0,
       "trials": 0,
-      "total": 87,
-      "recent": "2026-09-30T07:54:54+09:00",
+      "total": 96,
+      "recent": "2026-10-01T18:12:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 132,
+      "news": 135,
       "papers": 0,
       "trials": 0,
-      "total": 132,
-      "recent": "2026-10-01T04:44:00+09:00",
+      "total": 135,
+      "recent": "2026-10-01T11:38:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 359,
+      "news": 372,
       "papers": 0,
       "trials": 0,
-      "total": 359,
-      "recent": "2026-10-01T09:40:00+09:00",
+      "total": 372,
+      "recent": "2026-10-01T18:05:17+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 516,
+      "news": 527,
       "papers": 1,
       "trials": 0,
-      "total": 517,
-      "recent": "2026-10-01T09:26:00+09:00",
+      "total": 528,
+      "recent": "2026-10-01T18:30:39+09:00",
       "logo": "logos/novo.png"
     },
     {
       "id": "amgen",
       "label": "암젠 (Amgen)",
-      "news": 6,
+      "news": 7,
       "papers": 0,
       "trials": 0,
-      "total": 6,
+      "total": 7,
       "recent": "2026-10-01T04:40:00+09:00",
       "logo": "logos/amgen.png"
     }
   ],
   "kpi": {
     "news": {
-      "today": 157,
-      "yesterday": 417
+      "today": 353,
+      "yesterday": 420
     },
     "paper": {
-      "today": 14,
-      "yesterday": 6
+      "today": 24,
+      "yesterday": 11
     },
     "trial": {
       "today": 0,
       "yesterday": 12
     },
     "regulatory": {
-      "today": 8,
+      "today": 20,
       "yesterday": 19
     }
   },
@@ -1930,7 +1930,7 @@
     {
       "date": "2026-09-23",
       "news": 296,
-      "paper": 17,
+      "paper": 18,
       "trial": 4,
       "regulatory": 2
     },
@@ -1957,7 +1957,7 @@
     },
     {
       "date": "2026-09-27",
-      "news": 88,
+      "news": 89,
       "paper": 4,
       "trial": 0,
       "regulatory": 0
@@ -1971,24 +1971,24 @@
     },
     {
       "date": "2026-09-29",
-      "news": 329,
-      "paper": 23,
+      "news": 330,
+      "paper": 24,
       "trial": 17,
       "regulatory": 4
     },
     {
       "date": "2026-09-30",
-      "news": 417,
-      "paper": 6,
+      "news": 420,
+      "paper": 11,
       "trial": 12,
       "regulatory": 19
     },
     {
       "date": "2026-10-01",
-      "news": 157,
-      "paper": 14,
+      "news": 353,
+      "paper": 24,
       "trial": 0,
-      "regulatory": 8
+      "regulatory": 20
     }
   ],
   "alerts": [
@@ -2009,6 +2009,24 @@
       "published": "2026-09-01T05:52:00+09:00",
       "date": "2026.09.01",
       "publisher": "kpanews.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "펩트론, '마운자로' 성분 터제파타이드 장기지속형 국내 특허 확보",
+      "layer": "news",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026100115521940781",
+      "companies": [
+        "peptron",
+        "lilly"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-01T15:54:00+09:00",
+      "date": "2026.10.01",
+      "publisher": "newsway.co.kr"
     },
     {
       "level": "High",
@@ -2094,21 +2112,6 @@
       "published": "2026-07-23T00:00:00+09:00",
       "date": "2026.07.23",
       "publisher": "VA Office of Research and Development"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
-      "layer": "paper",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-05-14T00:00:00+09:00",
-      "date": "2026.05.14",
-      "publisher": "Cureus"
     }
   ],
   "highlights": {
@@ -2121,6 +2124,15 @@
         "date": "2026.09.01",
         "published": "2026-09-01T05:52:00+09:00",
         "publisher": "kpanews.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "펩트론, '마운자로' 성분 터제파타이드 장기지속형 국내 특허 확보",
+        "layer": "news",
+        "url": "https://www.newsway.co.kr/news/view?ud=2026100115521940781",
+        "date": "2026.10.01",
+        "published": "2026-10-01T15:54:00+09:00",
+        "publisher": "newsway.co.kr"
       },
       {
         "level": "High",
@@ -2148,15 +2160,6 @@
         "date": "2026.07.23",
         "published": "2026-07-23T00:00:00+09:00",
         "publisher": "VA Office of Research and Development"
-      },
-      {
-        "level": "High",
-        "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
-        "layer": "paper",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
-        "date": "2026.05.14",
-        "published": "2026-05-14T00:00:00+09:00",
-        "publisher": "Cureus"
       }
     ],
     "PT404": [
@@ -2168,6 +2171,15 @@
         "date": "2026.09.01",
         "published": "2026-09-01T05:52:00+09:00",
         "publisher": "kpanews.co.kr"
+      },
+      {
+        "level": "High",
+        "title": "펩트론, '마운자로' 성분 터제파타이드 장기지속형 국내 특허 확보",
+        "layer": "news",
+        "url": "https://www.newsway.co.kr/news/view?ud=2026100115521940781",
+        "date": "2026.10.01",
+        "published": "2026-10-01T15:54:00+09:00",
+        "publisher": "newsway.co.kr"
       },
       {
         "level": "High",
@@ -2195,15 +2207,6 @@
         "date": "2026.05.14",
         "published": "2026-05-14T00:00:00+09:00",
         "publisher": "Cureus"
-      },
-      {
-        "level": "High",
-        "title": "K비만약 1호 '에페' 등판 임박…'위고비·마운자로' 독주 끝낼까",
-        "layer": "news",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726185",
-        "date": "2026.09.30",
-        "published": "2026-09-30T15:16:00+09:00",
-        "publisher": "ebn.co.kr"
       }
     ],
     "PND3174": [
