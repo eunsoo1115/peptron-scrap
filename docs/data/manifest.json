@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-02T01:18:01.912569+09:00",
+  "updated_at": "2026-10-02T10:10:24.429207+09:00",
   "dates": [
     {
       "date": "2026-10-02",
-      "total": 2176,
+      "total": 2416,
       "counts": {
-        "core": 277,
-        "obesity": 533,
-        "npr": 323,
-        "platform": 469,
-        "reg": 342,
-        "mkt": 232
+        "core": 286,
+        "obesity": 664,
+        "npr": 328,
+        "platform": 514,
+        "reg": 372,
+        "mkt": 252
       }
     },
     {
@@ -1571,7 +1571,7 @@
     }
   ],
   "papers": {
-    "total": 4755,
+    "total": 4759,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1581,19 +1581,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 903,
+    "total": 905,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8031,
+  "news_recent_total": 8196,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1722,
+      "news": 1775,
       "papers": 453,
       "trials": 156,
-      "total": 2331,
+      "total": 2384,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1620,11 +1620,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1338,
+      "news": 1374,
       "papers": 303,
       "trials": 119,
-      "total": 1760,
-      "recent": "2026-10-02T00:08:00+09:00",
+      "total": 1796,
+      "recent": "2026-10-02T09:52:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1652,10 +1652,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 66,
+      "news": 67,
       "papers": 163,
       "trials": 42,
-      "total": 271,
+      "total": 272,
       "recent": "2026-10-01T07:56:12+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -1715,51 +1715,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 362,
+      "news": 367,
       "papers": 0,
       "trials": 0,
-      "total": 362,
-      "recent": "2026-10-01T18:12:00+09:00",
+      "total": 367,
+      "recent": "2026-10-02T09:24:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 96,
+      "news": 98,
       "papers": 0,
       "trials": 0,
-      "total": 96,
-      "recent": "2026-10-01T21:54:00+09:00",
+      "total": 98,
+      "recent": "2026-10-02T09:12:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 130,
+      "news": 133,
       "papers": 0,
       "trials": 0,
-      "total": 130,
-      "recent": "2026-10-01T11:38:00+09:00",
+      "total": 133,
+      "recent": "2026-10-02T09:20:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 367,
+      "news": 379,
       "papers": 0,
       "trials": 0,
-      "total": 367,
-      "recent": "2026-10-02T00:38:56+09:00",
+      "total": 379,
+      "recent": "2026-10-02T09:20:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 525,
+      "news": 533,
       "papers": 1,
       "trials": 0,
-      "total": 526,
-      "recent": "2026-10-02T00:07:34+09:00",
+      "total": 534,
+      "recent": "2026-10-02T08:30:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1775,8 +1775,8 @@
   ],
   "kpi": {
     "news": {
-      "today": 6,
-      "yesterday": 410
+      "today": 153,
+      "yesterday": 424
     },
     "paper": {
       "today": 0,
@@ -1787,7 +1787,7 @@
       "yesterday": 5
     },
     "regulatory": {
-      "today": 10,
+      "today": 12,
       "yesterday": 20
     }
   },
@@ -1829,7 +1829,7 @@
     },
     {
       "date": "2026-09-08",
-      "news": 465,
+      "news": 466,
       "paper": 42,
       "trial": 9,
       "regulatory": 3
@@ -1886,7 +1886,7 @@
     {
       "date": "2026-09-16",
       "news": 285,
-      "paper": 30,
+      "paper": 33,
       "trial": 4,
       "regulatory": 8
     },
@@ -1927,7 +1927,7 @@
     },
     {
       "date": "2026-09-22",
-      "news": 344,
+      "news": 345,
       "paper": 21,
       "trial": 7,
       "regulatory": 12
@@ -1962,7 +1962,7 @@
     },
     {
       "date": "2026-09-27",
-      "news": 89,
+      "news": 90,
       "paper": 4,
       "trial": 0,
       "regulatory": 0
@@ -1983,24 +1983,24 @@
     },
     {
       "date": "2026-09-30",
-      "news": 422,
+      "news": 423,
       "paper": 11,
       "trial": 12,
       "regulatory": 19
     },
     {
       "date": "2026-10-01",
-      "news": 410,
+      "news": 424,
       "paper": 24,
       "trial": 5,
       "regulatory": 20
     },
     {
       "date": "2026-10-02",
-      "news": 6,
+      "news": 153,
       "paper": 0,
       "trial": 0,
-      "regulatory": 10
+      "regulatory": 12
     }
   ],
   "alerts": [
@@ -2210,12 +2210,12 @@
       },
       {
         "level": "High",
-        "title": "K비만약 1호 '에페' 등판 임박…'위고비·마운자로' 독주 끝낼까",
+        "title": "노보, 위고비 이후 준비···비만·당뇨 넘어 파이프라인 다각화",
         "layer": "news",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726185",
-        "date": "2026.09.30",
-        "published": "2026-09-30T15:16:00+09:00",
-        "publisher": "ebn.co.kr"
+        "url": "https://www.monews.co.kr/news/articleView.html?idxno=414121",
+        "date": "2026.10.02",
+        "published": "2026-10-02T06:00:00+09:00",
+        "publisher": "메디칼옵저버"
       }
     ],
     "PND3174": [
