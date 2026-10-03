@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T09:48:56.862163+09:00",
-  "total": 4804,
+  "updated_at": "2026-10-03T18:05:20.128974+09:00",
+  "total": 4806,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -491,6 +491,40 @@
       "category": "obesity",
       "pipelines": [
         "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Are we at risk of increasing sarcopenia? Implications for osteoarthritis and osteoporosis",
+      "summary": "Pan F et al. · Best practice & research. Clinical rheumatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42827061/",
+      "publisher": "Best practice & research. Clinical rheumatolo",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide attenuates cardiac microvascular injury and ferroptosis-related lipid peroxidation in diabetic mice: endothelial responses in the context of partial PRKN silencing",
+      "summary": "Lu G et al. · European journal of pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826814/",
+      "publisher": "European journal of pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
       ],
       "companies": []
     },
