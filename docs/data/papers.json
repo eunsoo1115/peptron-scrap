@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T00:41:10.417876+09:00",
-  "total": 4793,
+  "updated_at": "2026-10-03T09:48:56.862163+09:00",
+  "total": 4804,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -447,6 +447,40 @@
       "summary": "Tian T et al. · Drug testing and analysis",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42823892/",
       "publisher": "Drug testing and analysis",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Management of Type 2 Diabetes, 2026. A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD)",
+      "summary": "Davies MJ et al. · Diabetes care",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825450/",
+      "publisher": "Diabetes care",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide Demonstrates Benefits Across Frailty Levels",
+      "summary": "Anderer S · JAMA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826015/",
+      "publisher": "JAMA",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -1210,6 +1244,56 @@
       "companies": []
     },
     {
+      "title": "Early closure of cranial base synchondroses in infants with Vosoritide-treated achondroplasia",
+      "summary": "Aoki M et al. · Clinical pediatric endocrinology : case reports and clinical investigations : official journal of the Japanese Society for Pediatric Endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825290/",
+      "publisher": "Clinical pediatric endocrinology : case repor",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [
+        "PND3174"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Diagnostic guide to hypochondroplasia",
+      "summary": "Kubota T et al. · Clinical pediatric endocrinology : case reports and clinical investigations : official journal of the Japanese Society for Pediatric Endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42824983/",
+      "publisher": "Clinical pediatric endocrinology : case repor",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "A case of congenital hyperinsulinism with ABCC8 variants treated with octreotide long-acting release for four years",
+      "summary": "Umeki I et al. · Clinical pediatric endocrinology : case reports and clinical investigations : official journal of the Japanese Society for Pediatric Endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42824987/",
+      "publisher": "Clinical pediatric endocrinology : case repor",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Physicochemical, structural, and in-vitro release properties of low methoxyl pectin-based particle gel beads incorporating apigenin-loaded porous starch for colon-targeted delivery system",
       "summary": "Jeong Y et al. · Food research international (Ottawa, Ont.)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42409520/",
@@ -1405,6 +1489,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Hierarchical Cascade-Activated Microneedle Patches for Photothermal and Chemotherapy",
+      "summary": "Kuang G et al. · Smart medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42824273/",
+      "publisher": "Smart medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.30",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -2366,6 +2466,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide for MASH cirrhosis: a new therapeutic frontier or a false dawn?",
+      "summary": "Zhou XD et al. · eGastroenterology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825265/",
+      "publisher": "eGastroenterology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -5129,6 +5247,58 @@
       "date": "2026.09.17",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Predictors of treatment response to semaglutide for weight management",
+      "summary": "Tzoulis P · Frontiers in endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42824923/",
+      "publisher": "Frontiers in endocrinology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Consensus statement on the management of Achondroplasia in the Middle East",
+      "summary": "Thalange N et al. · Frontiers in endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823987/",
+      "publisher": "Frontiers in endocrinology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.17",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [
+        "PND3174"
+      ],
+      "companies": []
+    },
+    {
+      "title": "ROS-responsive hydrogel delivering liposomal indole-3-propionic acid promotes spinal cord injury repair by enhancing CX3CL1-CX3CR1 mediated neuron-microglia communication",
+      "summary": "Li L et al. · Materials today. Bio",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825088/",
+      "publisher": "Materials today. Bio",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.17",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
@@ -68301,6 +68471,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Therapeutic and Bioactive Peptides in Musculoskeletal Medicine: A Narrative Review",
+      "summary": "Jeyaraman M et al. · Indian journal of orthopaedics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42824576/",
+      "publisher": "Indian journal of orthopaedics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-03-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.03.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
