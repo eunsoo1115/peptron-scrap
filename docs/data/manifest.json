@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-04T09:12:52.035919+09:00",
+  "updated_at": "2026-10-04T18:39:43.841131+09:00",
   "dates": [
     {
       "date": "2026-10-04",
-      "total": 2229,
+      "total": 2345,
       "counts": {
-        "core": 280,
-        "obesity": 580,
-        "npr": 319,
-        "platform": 478,
-        "reg": 346,
-        "mkt": 226
+        "core": 285,
+        "obesity": 654,
+        "npr": 325,
+        "platform": 490,
+        "reg": 355,
+        "mkt": 236
       }
     },
     {
@@ -1595,7 +1595,7 @@
     }
   ],
   "papers": {
-    "total": 4809,
+    "total": 4815,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1609,15 +1609,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7872,
+  "news_recent_total": 7922,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1772,
+      "news": 1792,
       "papers": 460,
       "trials": 157,
-      "total": 2389,
+      "total": 2409,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1644,11 +1644,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1409,
+      "news": 1439,
       "papers": 305,
       "trials": 119,
-      "total": 1833,
-      "recent": "2026-10-04T08:06:00+09:00",
+      "total": 1863,
+      "recent": "2026-10-04T18:30:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1739,20 +1739,20 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 321,
+      "news": 322,
       "papers": 0,
       "trials": 0,
-      "total": 321,
-      "recent": "2026-10-03T14:10:00+09:00",
+      "total": 322,
+      "recent": "2026-10-04T16:14:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 104,
+      "news": 105,
       "papers": 0,
       "trials": 0,
-      "total": 104,
+      "total": 105,
       "recent": "2026-10-03T15:10:00+09:00",
       "logo": "logos/g2gbio.png"
     },
@@ -1799,12 +1799,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 31,
-      "yesterday": 118
+      "today": 78,
+      "yesterday": 119
     },
     "paper": {
       "today": 0,
-      "yesterday": 1
+      "yesterday": 3
     },
     "trial": {
       "today": 0,
@@ -1889,7 +1889,7 @@
     {
       "date": "2026-09-15",
       "news": 379,
-      "paper": 26,
+      "paper": 27,
       "trial": 11,
       "regulatory": 11
     },
@@ -2000,28 +2000,28 @@
     },
     {
       "date": "2026-10-01",
-      "news": 432,
+      "news": 433,
       "paper": 49,
       "trial": 5,
       "regulatory": 20
     },
     {
       "date": "2026-10-02",
-      "news": 365,
+      "news": 366,
       "paper": 8,
       "trial": 10,
       "regulatory": 12
     },
     {
       "date": "2026-10-03",
-      "news": 118,
-      "paper": 1,
+      "news": 119,
+      "paper": 3,
       "trial": 0,
       "regulatory": 3
     },
     {
       "date": "2026-10-04",
-      "news": 31,
+      "news": 78,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
@@ -2234,12 +2234,12 @@
       },
       {
         "level": "High",
-        "title": "위고비-마운자로 맞은뒤…‘이 증상’땐 바로 병원 가야 [바디플랜]",
+        "title": "비만치료제 부작용 신고 잇따르자…日비만협회, 남용 경고",
         "layer": "news",
-        "url": "https://www.donga.com/news/Health/article/all/20261002/134774604/2",
-        "date": "2026.10.02",
-        "published": "2026-10-02T13:57:00+09:00",
-        "publisher": "donga.com"
+        "url": "https://www.sentv.co.kr/article/view/sentv202610040016",
+        "date": "2026.10.04",
+        "published": "2026-10-04T14:30:00+09:00",
+        "publisher": "sentv.co.kr"
       }
     ],
     "PND3174": [
