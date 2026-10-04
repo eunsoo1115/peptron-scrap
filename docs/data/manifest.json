@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-04T18:39:43.841131+09:00",
+  "updated_at": "2026-10-04T23:47:22.535215+09:00",
   "dates": [
     {
       "date": "2026-10-04",
-      "total": 2345,
+      "total": 2402,
       "counts": {
-        "core": 285,
-        "obesity": 654,
-        "npr": 325,
-        "platform": 490,
-        "reg": 355,
-        "mkt": 236
+        "core": 289,
+        "obesity": 682,
+        "npr": 326,
+        "platform": 498,
+        "reg": 362,
+        "mkt": 245
       }
     },
     {
@@ -1595,7 +1595,7 @@
     }
   ],
   "papers": {
-    "total": 4815,
+    "total": 4818,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1609,15 +1609,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7922,
+  "news_recent_total": 7931,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1792,
+      "news": 1796,
       "papers": 460,
       "trials": 157,
-      "total": 2409,
+      "total": 2413,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1644,11 +1644,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1439,
+      "news": 1445,
       "papers": 305,
       "trials": 119,
-      "total": 1863,
-      "recent": "2026-10-04T18:30:00+09:00",
+      "total": 1869,
+      "recent": "2026-10-04T23:43:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1769,11 +1769,11 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 379,
+      "news": 380,
       "papers": 0,
       "trials": 0,
-      "total": 379,
-      "recent": "2026-10-04T08:02:00+09:00",
+      "total": 380,
+      "recent": "2026-10-04T22:35:01+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -1799,7 +1799,7 @@
   ],
   "kpi": {
     "news": {
-      "today": 78,
+      "today": 86,
       "yesterday": 119
     },
     "paper": {
@@ -1987,7 +1987,7 @@
     {
       "date": "2026-09-29",
       "news": 332,
-      "paper": 24,
+      "paper": 25,
       "trial": 17,
       "regulatory": 4
     },
@@ -2007,7 +2007,7 @@
     },
     {
       "date": "2026-10-02",
-      "news": 366,
+      "news": 367,
       "paper": 8,
       "trial": 10,
       "regulatory": 12
@@ -2021,7 +2021,7 @@
     },
     {
       "date": "2026-10-04",
-      "news": 78,
+      "news": 86,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
