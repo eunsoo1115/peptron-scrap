@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-05T09:18:35.396925+09:00",
+  "updated_at": "2026-10-05T19:20:18.637717+09:00",
   "dates": [
     {
       "date": "2026-10-05",
-      "total": 2252,
+      "total": 2382,
       "counts": {
-        "core": 281,
-        "obesity": 604,
-        "npr": 318,
-        "platform": 479,
-        "reg": 346,
-        "mkt": 224
+        "core": 291,
+        "obesity": 672,
+        "npr": 321,
+        "platform": 493,
+        "reg": 353,
+        "mkt": 252
       }
     },
     {
@@ -1607,7 +1607,7 @@
     }
   ],
   "papers": {
-    "total": 4818,
+    "total": 4830,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1621,15 +1621,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7609,
+  "news_recent_total": 7675,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1746,
-      "papers": 460,
+      "news": 1761,
+      "papers": 461,
       "trials": 157,
-      "total": 2363,
+      "total": 2379,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1656,11 +1656,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1406,
-      "papers": 305,
+      "news": 1419,
+      "papers": 306,
       "trials": 119,
-      "total": 1830,
-      "recent": "2026-10-05T09:01:00+09:00",
+      "total": 1844,
+      "recent": "2026-10-05T19:02:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1751,11 +1751,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 295,
+      "news": 297,
       "papers": 0,
       "trials": 0,
-      "total": 295,
-      "recent": "2026-10-05T09:14:00+09:00",
+      "total": 297,
+      "recent": "2026-10-05T15:05:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1771,31 +1771,31 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 121,
+      "news": 122,
       "papers": 0,
       "trials": 0,
-      "total": 121,
-      "recent": "2026-10-02T15:00:00+09:00",
+      "total": 122,
+      "recent": "2026-10-05T15:05:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 377,
+      "news": 383,
       "papers": 0,
       "trials": 0,
-      "total": 377,
-      "recent": "2026-10-05T06:00:00+09:00",
+      "total": 383,
+      "recent": "2026-10-05T18:13:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 536,
+      "news": 539,
       "papers": 1,
       "trials": 0,
-      "total": 537,
-      "recent": "2026-10-05T06:00:00+09:00",
+      "total": 540,
+      "recent": "2026-10-05T18:59:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1811,12 +1811,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 28,
-      "yesterday": 87
+      "today": 89,
+      "yesterday": 88
     },
     "paper": {
-      "today": 0,
-      "yesterday": 0
+      "today": 3,
+      "yesterday": 2
     },
     "trial": {
       "today": 0,
@@ -1915,7 +1915,7 @@
     {
       "date": "2026-09-18",
       "news": 234,
-      "paper": 18,
+      "paper": 19,
       "trial": 5,
       "regulatory": 3
     },
@@ -1950,7 +1950,7 @@
     {
       "date": "2026-09-23",
       "news": 296,
-      "paper": 18,
+      "paper": 19,
       "trial": 4,
       "regulatory": 2
     },
@@ -1999,42 +1999,42 @@
     {
       "date": "2026-09-30",
       "news": 425,
-      "paper": 13,
+      "paper": 15,
       "trial": 12,
       "regulatory": 19
     },
     {
       "date": "2026-10-01",
-      "news": 433,
-      "paper": 49,
+      "news": 434,
+      "paper": 50,
       "trial": 5,
       "regulatory": 20
     },
     {
       "date": "2026-10-02",
-      "news": 368,
+      "news": 370,
       "paper": 8,
       "trial": 10,
       "regulatory": 12
     },
     {
       "date": "2026-10-03",
-      "news": 119,
+      "news": 120,
       "paper": 3,
       "trial": 0,
       "regulatory": 3
     },
     {
       "date": "2026-10-04",
-      "news": 87,
-      "paper": 0,
+      "news": 88,
+      "paper": 2,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-10-05",
-      "news": 28,
-      "paper": 0,
+      "news": 89,
+      "paper": 3,
       "trial": 0,
       "regulatory": 0
     }
@@ -2115,6 +2115,23 @@
     {
       "level": "High",
       "score": 11,
+      "title": "Eli Lilly and Company CEO Dave Ricks tells CNBC-TV18's Shereen Bhan that the launch of cheaper branded generic semaglutide in India — priced far below Mounjaro — hasn't changed the company's trajectory, calling ultra-low price points \"a bit of a fake sig",
+      "layer": "news",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzNpb0JLQktGRm5rdTNNZm94WWwyNmRnRkpZWW1CYUcxOTdUOEJTS0dDNDg3V3NqY1FnWFRmMUlyU2hfZmFXa1VvZ3NGUl9ZU3dlWk9jZWxaelJGSElLV0hoYVVsTWN4MHF3TkdfdE5HOUZwUTZDdUc0QW5RSjNMZTh6VmpxUGJCTHZrSzBybHZ3aWRzamNrMTl3ZmtLM2J5RTA0Z2xmMA?oc=5",
+      "companies": [
+        "lilly"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-05T13:59:41+09:00",
+      "date": "2026.10.05",
+      "publisher": "LinkedIn"
+    },
+    {
+      "level": "High",
+      "score": 11,
       "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
       "layer": "news",
       "url": "https://www.sedaily.com/article/20093153?ref=naver",
@@ -2142,21 +2159,6 @@
       "published": "2026-07-23T00:00:00+09:00",
       "date": "2026.07.23",
       "publisher": "VA Office of Research and Development"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
-      "layer": "paper",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-05-14T00:00:00+09:00",
-      "date": "2026.05.14",
-      "publisher": "Cureus"
     }
   ],
   "highlights": {
@@ -2181,6 +2183,15 @@
       },
       {
         "level": "High",
+        "title": "Eli Lilly and Company CEO Dave Ricks tells CNBC-TV18's Shereen Bhan that the launch of cheaper branded generic semaglutide in India — priced far below Mounjaro — hasn't changed the company's trajectory, calling ultra-low price points \"a bit of a fake sig",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzNpb0JLQktGRm5rdTNNZm94WWwyNmRnRkpZWW1CYUcxOTdUOEJTS0dDNDg3V3NqY1FnWFRmMUlyU2hfZmFXa1VvZ3NGUl9ZU3dlWk9jZWxaelJGSElLV0hoYVVsTWN4MHF3TkdfdE5HOUZwUTZDdUc0QW5RSjNMZTh6VmpxUGJCTHZrSzBybHZ3aWRzamNrMTl3ZmtLM2J5RTA0Z2xmMA?oc=5",
+        "date": "2026.10.05",
+        "published": "2026-10-05T13:59:41+09:00",
+        "publisher": "LinkedIn"
+      },
+      {
+        "level": "High",
         "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
         "layer": "news",
         "url": "https://www.sedaily.com/article/20093153?ref=naver",
@@ -2196,15 +2207,6 @@
         "date": "2026.07.23",
         "published": "2026-07-23T00:00:00+09:00",
         "publisher": "VA Office of Research and Development"
-      },
-      {
-        "level": "High",
-        "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
-        "layer": "paper",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
-        "date": "2026.05.14",
-        "published": "2026-05-14T00:00:00+09:00",
-        "publisher": "Cureus"
       }
     ],
     "PT404": [
@@ -2228,6 +2230,15 @@
       },
       {
         "level": "High",
+        "title": "Eli Lilly and Company CEO Dave Ricks tells CNBC-TV18's Shereen Bhan that the launch of cheaper branded generic semaglutide in India — priced far below Mounjaro — hasn't changed the company's trajectory, calling ultra-low price points \"a bit of a fake sig",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzNpb0JLQktGRm5rdTNNZm94WWwyNmRnRkpZWW1CYUcxOTdUOEJTS0dDNDg3V3NqY1FnWFRmMUlyU2hfZmFXa1VvZ3NGUl9ZU3dlWk9jZWxaelJGSElLV0hoYVVsTWN4MHF3TkdfdE5HOUZwUTZDdUc0QW5RSjNMZTh6VmpxUGJCTHZrSzBybHZ3aWRzamNrMTl3ZmtLM2J5RTA0Z2xmMA?oc=5",
+        "date": "2026.10.05",
+        "published": "2026-10-05T13:59:41+09:00",
+        "publisher": "LinkedIn"
+      },
+      {
+        "level": "High",
         "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
         "layer": "news",
         "url": "https://www.sedaily.com/article/20093153?ref=naver",
@@ -2243,15 +2254,6 @@
         "date": "2026.05.14",
         "published": "2026-05-14T00:00:00+09:00",
         "publisher": "Cureus"
-      },
-      {
-        "level": "High",
-        "title": "비만치료제 부작용 신고 잇따르자…日비만협회, 남용 경고",
-        "layer": "news",
-        "url": "https://www.sentv.co.kr/article/view/sentv202610040016",
-        "date": "2026.10.04",
-        "published": "2026-10-04T14:30:00+09:00",
-        "publisher": "sentv.co.kr"
       }
     ],
     "PND3174": [
