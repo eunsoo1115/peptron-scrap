@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-04T23:47:22.535215+09:00",
+  "updated_at": "2026-10-05T09:18:35.396925+09:00",
   "dates": [
+    {
+      "date": "2026-10-05",
+      "total": 2252,
+      "counts": {
+        "core": 281,
+        "obesity": 604,
+        "npr": 318,
+        "platform": 479,
+        "reg": 346,
+        "mkt": 224
+      }
+    },
     {
       "date": "2026-10-04",
       "total": 2402,
@@ -1609,15 +1621,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7931,
+  "news_recent_total": 7609,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1796,
+      "news": 1746,
       "papers": 460,
       "trials": 157,
-      "total": 2413,
+      "total": 2363,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1644,11 +1656,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1445,
+      "news": 1406,
       "papers": 305,
       "trials": 119,
-      "total": 1869,
-      "recent": "2026-10-04T23:43:00+09:00",
+      "total": 1830,
+      "recent": "2026-10-05T09:01:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1676,10 +1688,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 63,
+      "news": 62,
       "papers": 165,
       "trials": 42,
-      "total": 270,
+      "total": 269,
       "recent": "2026-10-01T07:56:12+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -1706,10 +1718,10 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 7,
+      "news": 5,
       "papers": 41,
       "trials": 5,
-      "total": 53,
+      "total": 51,
       "recent": "2026-09-30T10:28:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
@@ -1739,51 +1751,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 322,
+      "news": 295,
       "papers": 0,
       "trials": 0,
-      "total": 322,
-      "recent": "2026-10-04T16:14:00+09:00",
+      "total": 295,
+      "recent": "2026-10-05T09:14:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 105,
+      "news": 103,
       "papers": 0,
       "trials": 0,
-      "total": 105,
+      "total": 103,
       "recent": "2026-10-03T15:10:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 122,
+      "news": 121,
       "papers": 0,
       "trials": 0,
-      "total": 122,
+      "total": 121,
       "recent": "2026-10-02T15:00:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 380,
+      "news": 377,
       "papers": 0,
       "trials": 0,
-      "total": 380,
-      "recent": "2026-10-04T22:35:01+09:00",
+      "total": 377,
+      "recent": "2026-10-05T06:00:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 538,
+      "news": 536,
       "papers": 1,
       "trials": 0,
-      "total": 539,
-      "recent": "2026-10-04T08:02:00+09:00",
+      "total": 537,
+      "recent": "2026-10-05T06:00:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1799,12 +1811,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 86,
-      "yesterday": 119
+      "today": 28,
+      "yesterday": 87
     },
     "paper": {
       "today": 0,
-      "yesterday": 3
+      "yesterday": 0
     },
     "trial": {
       "today": 0,
@@ -1812,17 +1824,10 @@
     },
     "regulatory": {
       "today": 0,
-      "yesterday": 3
+      "yesterday": 0
     }
   },
   "trend": [
-    {
-      "date": "2026-09-05",
-      "news": 132,
-      "paper": 7,
-      "trial": 0,
-      "regulatory": 6
-    },
     {
       "date": "2026-09-06",
       "news": 145,
@@ -2007,7 +2012,7 @@
     },
     {
       "date": "2026-10-02",
-      "news": 367,
+      "news": 368,
       "paper": 8,
       "trial": 10,
       "regulatory": 12
@@ -2021,7 +2026,14 @@
     },
     {
       "date": "2026-10-04",
-      "news": 86,
+      "news": 87,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 0
+    },
+    {
+      "date": "2026-10-05",
+      "news": 28,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
@@ -2309,15 +2321,6 @@
         "publisher": "Journal of movement disorders"
       },
       {
-        "level": "High",
-        "title": "[굿브레인 2026]\"GLP-1, 뇌질환 치료 블록버스터 가능\"…전문가들 한 목...",
-        "layer": "news",
-        "url": "https://view.asiae.co.kr/article/2026090407261960263",
-        "date": "2026.09.04",
-        "published": "2026-09-04T11:30:00+09:00",
-        "publisher": "view.asiae.co.kr"
-      },
-      {
         "level": "Medium",
         "title": "Efficacy and Safety of Exenatide in the Treatment of Hypothalamic Obesity After Craniopharyngioma Therapy",
         "layer": "trial",
@@ -2334,6 +2337,15 @@
         "date": "2026.05.05",
         "published": "2026-05-05T00:00:00+09:00",
         "publisher": "Frontiers in endocrinology"
+      },
+      {
+        "level": "Medium",
+        "title": "Extended Release Exenatide Versus Placebo In Diabetic Patients With Type 4 Cardiorenal Syndrome",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT02251431",
+        "date": "2026.02.19",
+        "published": "2026-02-19T00:00:00+09:00",
+        "publisher": "Baylor Research Institute"
       }
     ]
   }
