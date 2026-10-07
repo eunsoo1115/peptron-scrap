@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T19:09:29.674488+09:00",
-  "total": 4867,
+  "updated_at": "2026-10-08T01:19:48.428404+09:00",
+  "total": 4874,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -958,6 +958,25 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Cardiovascular outcomes with tirzepatide versus semaglutide in type 2 diabetes",
+      "summary": "Al-Nusair M et al. · Journal of diabetes and metabolic disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840232/",
+      "publisher": "Journal of diabetes and metabolic disorders",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-05T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.05",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -4357,6 +4376,86 @@
       "companies": []
     },
     {
+      "title": "Exposure-driven tolerance modeling of efpeglenatide-induced nausea or vomiting using repeated time-to-event analysis: implications for dose-escalation strategies",
+      "summary": "Seo J et al. · Frontiers in pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840589/",
+      "publisher": "Frontiers in pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-22T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.22",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Microbiota-mediated gut-brain communication following whey protein supplementation and resistance training: current evidence linking gastrointestinal function and cognitive health",
+      "summary": "Li H et al. · Frontiers in cellular and infection microbiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840492/",
+      "publisher": "Frontiers in cellular and infection microbiol",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-22T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.22",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Liraglutide use in congenital generalized lipodystrophy: glycemic and metabolic outcomes",
+      "summary": "Araújo JS et al. · Frontiers in endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840192/",
+      "publisher": "Frontiers in endocrinology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-22T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.22",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "MASLD beyond the liver: decoding the gut-genetic-metabolic nexus",
+      "summary": "Attieh P et al. · Frontiers in gastroenterology (Lausanne, Switzerland)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840576/",
+      "publisher": "Frontiers in gastroenterology (Lausanne, Swit",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-22T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.22",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "ROS-responsive biomaterial delivery of the TCM-derived small molecule coptisine protects stem cells and attenuates intervertebral disc degeneration",
+      "summary": "Xiao S et al. · Frontiers in bioengineering and biotechnology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840758/",
+      "publisher": "Frontiers in bioengineering and biotechnology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-22T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.22",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Quantitative Insights into Tirzepatide and Semaglutide Using Longitudinal Systems Modeling",
       "summary": "Yang B et al. · The Journal of clinical endocrinology and metabolism",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42764204/",
@@ -7118,6 +7217,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide and Glucagon-like Peptide-1/Glucose-dependent Insulinotropic Polypeptide Therapy: Quality of Life, Filipino Diet Culture, and Safe Access",
+      "summary": "Funa AA et al. · JMA journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840407/",
+      "publisher": "JMA journal",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.15",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {

@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-07T19:10:35.754115+09:00",
+  "updated_at": "2026-10-08T01:20:50.354252+09:00",
   "dates": [
+    {
+      "date": "2026-10-08",
+      "total": 2276,
+      "counts": {
+        "core": 291,
+        "obesity": 621,
+        "npr": 325,
+        "platform": 468,
+        "reg": 351,
+        "mkt": 220
+      }
+    },
     {
       "date": "2026-10-07",
       "total": 2715,
@@ -1631,12 +1643,12 @@
     }
   ],
   "papers": {
-    "total": 4867,
+    "total": 4874,
     "year_min": 2023,
     "year_max": 2027
   },
   "trials": {
-    "total": 1667,
+    "total": 1673,
     "year_min": 2023,
     "year_max": 2026
   },
@@ -1645,15 +1657,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8132,
+  "news_recent_total": 7914,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1860,
-      "papers": 464,
-      "trials": 162,
-      "total": 2486,
+      "news": 1816,
+      "papers": 465,
+      "trials": 163,
+      "total": 2444,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1680,11 +1692,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1545,
-      "papers": 307,
-      "trials": 119,
-      "total": 1971,
-      "recent": "2026-10-07T19:06:00+09:00",
+      "news": 1544,
+      "papers": 309,
+      "trials": 120,
+      "total": 1973,
+      "recent": "2026-10-08T00:08:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1712,10 +1724,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 73,
+      "news": 71,
       "papers": 165,
       "trials": 42,
-      "total": 280,
+      "total": 278,
       "recent": "2026-10-07T16:15:17+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -1775,51 +1787,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 349,
+      "news": 345,
       "papers": 0,
       "trials": 0,
-      "total": 349,
-      "recent": "2026-10-07T18:08:00+09:00",
+      "total": 345,
+      "recent": "2026-10-07T22:46:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 114,
+      "news": 115,
       "papers": 0,
       "trials": 0,
-      "total": 114,
-      "recent": "2026-10-07T12:55:00+09:00",
+      "total": 115,
+      "recent": "2026-10-07T19:38:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 135,
+      "news": 133,
       "papers": 0,
       "trials": 0,
-      "total": 135,
+      "total": 133,
       "recent": "2026-10-07T16:18:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 445,
+      "news": 446,
       "papers": 0,
       "trials": 0,
-      "total": 445,
-      "recent": "2026-10-07T18:18:00+09:00",
+      "total": 446,
+      "recent": "2026-10-08T00:06:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 554,
+      "news": 539,
       "papers": 1,
       "trials": 0,
-      "total": 555,
-      "recent": "2026-10-07T18:23:00+09:00",
+      "total": 540,
+      "recent": "2026-10-08T00:06:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1835,30 +1847,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 304,
-      "yesterday": 368
+      "today": 9,
+      "yesterday": 389
     },
     "paper": {
-      "today": 3,
-      "yesterday": 17
+      "today": 0,
+      "yesterday": 3
     },
     "trial": {
       "today": 0,
-      "yesterday": 7
+      "yesterday": 6
     },
     "regulatory": {
-      "today": 14,
-      "yesterday": 6
+      "today": 0,
+      "yesterday": 14
     }
   },
   "trend": [
-    {
-      "date": "2026-09-08",
-      "news": 466,
-      "paper": 43,
-      "trial": 9,
-      "regulatory": 3
-    },
     {
       "date": "2026-09-09",
       "news": 352,
@@ -1896,7 +1901,7 @@
     },
     {
       "date": "2026-09-14",
-      "news": 349,
+      "news": 350,
       "paper": 23,
       "trial": 9,
       "regulatory": 1
@@ -1904,7 +1909,7 @@
     {
       "date": "2026-09-15",
       "news": 379,
-      "paper": 27,
+      "paper": 28,
       "trial": 11,
       "regulatory": 11
     },
@@ -1953,7 +1958,7 @@
     {
       "date": "2026-09-22",
       "news": 345,
-      "paper": 21,
+      "paper": 26,
       "trial": 7,
       "regulatory": 12
     },
@@ -2036,7 +2041,7 @@
     },
     {
       "date": "2026-10-04",
-      "news": 94,
+      "news": 95,
       "paper": 2,
       "trial": 0,
       "regulatory": 0
@@ -2044,7 +2049,7 @@
     {
       "date": "2026-10-05",
       "news": 136,
-      "paper": 14,
+      "paper": 15,
       "trial": 18,
       "regulatory": 0
     },
@@ -2057,13 +2062,35 @@
     },
     {
       "date": "2026-10-07",
-      "news": 304,
+      "news": 389,
       "paper": 3,
-      "trial": 0,
+      "trial": 6,
       "regulatory": 14
+    },
+    {
+      "date": "2026-10-08",
+      "news": 9,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 0
     }
   ],
   "alerts": [
+    {
+      "level": "High",
+      "score": 14,
+      "title": "한국판 위고비·마운자로 나온다… 한미약품 ‘에페’ 식약처 허가",
+      "layer": "news",
+      "url": "https://www.segye.com/newsView/20261007520173?OutUrl=naver",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-07T21:18:00+09:00",
+      "date": "2026.10.07",
+      "publisher": "segye.com"
+    },
     {
       "level": "High",
       "score": 14,
@@ -2084,8 +2111,40 @@
     },
     {
       "level": "High",
+      "score": 13,
+      "title": "국산 비만약 등판… 한미 '에페' 식약처 허가",
+      "layer": "news",
+      "url": "https://www.fnnews.com/news/202610072126486628",
+      "companies": [
+        "lilly"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-07T21:29:00+09:00",
+      "date": "2026.10.07",
+      "publisher": "fnnews.com"
+    },
+    {
+      "level": "High",
       "score": 12,
       "title": "한국판 위고비·마운자로 온다…한미약품 '에페' 식약청 허가",
+      "layer": "news",
+      "url": "https://www.hankyung.com/article/2026100793597",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-07T19:06:00+09:00",
+      "date": "2026.10.07",
+      "publisher": "한국경제"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "한국판 위고비·마운자로 온다…한미약품 '에페' 식약처 허가",
       "layer": "news",
       "url": "https://www.hankyung.com/article/2026100793597",
       "companies": [],
@@ -2147,66 +2206,36 @@
       "published": "2026-10-07T17:41:00+09:00",
       "date": "2026.10.07",
       "publisher": "biz.chosun.com"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "펩트론, '마운자로' 성분 터제파타이드 장기지속형 국내 특허 확보",
-      "layer": "news",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026100115521940781",
-      "companies": [
-        "peptron",
-        "lilly"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-01T15:54:00+09:00",
-      "date": "2026.10.01",
-      "publisher": "newsway.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "한미약품, 비만약 '에페' 연동 웰니스 앱 출시 예정",
-      "layer": "news",
-      "url": "https://news.mtn.co.kr/news-detail/2026093016280719763",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-09-30T17:44:00+09:00",
-      "date": "2026.09.30",
-      "publisher": "mtn.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "릴리, 주 1회 인슐린 '온스윅' FDA 승인…노보와 인슐린 경쟁 본격화",
-      "layer": "news",
-      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544971",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [],
-      "published": "2026-09-29T05:52:00+09:00",
-      "date": "2026.09.29",
-      "publisher": "kpanews.co.kr"
     }
   ],
   "highlights": {
     "PT403": [
       {
         "level": "High",
+        "title": "한국판 위고비·마운자로 나온다… 한미약품 ‘에페’ 식약처 허가",
+        "layer": "news",
+        "url": "https://www.segye.com/newsView/20261007520173?OutUrl=naver",
+        "date": "2026.10.07",
+        "published": "2026-10-07T21:18:00+09:00",
+        "publisher": "segye.com"
+      },
+      {
+        "level": "High",
         "title": "한미약품 ‘국산 첫 GLP-1 비만 신약’, 식약처 허가... 애프터마켓 주가...",
         "layer": "news",
         "url": "https://www.mediawatch.kr/news/article.html?no=261297",
         "date": "2026.10.07",
         "published": "2026-10-07T18:18:00+09:00",
         "publisher": "mediawatch.kr"
+      },
+      {
+        "level": "High",
+        "title": "국산 비만약 등판… 한미 '에페' 식약처 허가",
+        "layer": "news",
+        "url": "https://www.fnnews.com/news/202610072126486628",
+        "date": "2026.10.07",
+        "published": "2026-10-07T21:29:00+09:00",
+        "publisher": "fnnews.com"
       },
       {
         "level": "High",
@@ -2219,41 +2248,41 @@
       },
       {
         "level": "High",
-        "title": "식약처, 한미약품 ‘에페글레나타이드’ 국산 1호 비만치료제로 허가",
+        "title": "한국판 위고비·마운자로 온다…한미약품 '에페' 식약처 허가",
         "layer": "news",
-        "url": "https://www.etoday.co.kr/news/view/2633571",
+        "url": "https://www.hankyung.com/article/2026100793597",
         "date": "2026.10.07",
-        "published": "2026-10-07T17:48:00+09:00",
-        "publisher": "etoday.co.kr"
-      },
-      {
-        "level": "High",
-        "title": "한미약품 비만치료제 '에페글레나타이드' 식약처 허가 획득",
-        "layer": "news",
-        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=882932",
-        "date": "2026.10.07",
-        "published": "2026-10-07T17:42:00+09:00",
-        "publisher": "getnews.co.kr"
-      },
-      {
-        "level": "High",
-        "title": "식약처, GLP-1 K비만약 1호 한미약품 ‘에페’ 출시 허가",
-        "layer": "news",
-        "url": "https://biz.chosun.com/science-chosun/bio/2026/10/07/AXTTXR7XCBDXZOI5ZS4LADEQBM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-        "date": "2026.10.07",
-        "published": "2026-10-07T17:41:00+09:00",
-        "publisher": "biz.chosun.com"
+        "published": "2026-10-07T19:06:00+09:00",
+        "publisher": "한국경제"
       }
     ],
     "PT404": [
       {
         "level": "High",
+        "title": "한국판 위고비·마운자로 나온다… 한미약품 ‘에페’ 식약처 허가",
+        "layer": "news",
+        "url": "https://www.segye.com/newsView/20261007520173?OutUrl=naver",
+        "date": "2026.10.07",
+        "published": "2026-10-07T21:18:00+09:00",
+        "publisher": "segye.com"
+      },
+      {
+        "level": "High",
         "title": "한미약품 ‘국산 첫 GLP-1 비만 신약’, 식약처 허가... 애프터마켓 주가...",
         "layer": "news",
         "url": "https://www.mediawatch.kr/news/article.html?no=261297",
         "date": "2026.10.07",
         "published": "2026-10-07T18:18:00+09:00",
         "publisher": "mediawatch.kr"
+      },
+      {
+        "level": "High",
+        "title": "국산 비만약 등판… 한미 '에페' 식약처 허가",
+        "layer": "news",
+        "url": "https://www.fnnews.com/news/202610072126486628",
+        "date": "2026.10.07",
+        "published": "2026-10-07T21:29:00+09:00",
+        "publisher": "fnnews.com"
       },
       {
         "level": "High",
@@ -2266,30 +2295,12 @@
       },
       {
         "level": "High",
-        "title": "식약처, 한미약품 ‘에페글레나타이드’ 국산 1호 비만치료제로 허가",
+        "title": "한국판 위고비·마운자로 온다…한미약품 '에페' 식약처 허가",
         "layer": "news",
-        "url": "https://www.etoday.co.kr/news/view/2633571",
+        "url": "https://www.hankyung.com/article/2026100793597",
         "date": "2026.10.07",
-        "published": "2026-10-07T17:48:00+09:00",
-        "publisher": "etoday.co.kr"
-      },
-      {
-        "level": "High",
-        "title": "한미약품 비만치료제 '에페글레나타이드' 식약처 허가 획득",
-        "layer": "news",
-        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=882932",
-        "date": "2026.10.07",
-        "published": "2026-10-07T17:42:00+09:00",
-        "publisher": "getnews.co.kr"
-      },
-      {
-        "level": "High",
-        "title": "식약처, GLP-1 K비만약 1호 한미약품 ‘에페’ 출시 허가",
-        "layer": "news",
-        "url": "https://biz.chosun.com/science-chosun/bio/2026/10/07/AXTTXR7XCBDXZOI5ZS4LADEQBM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-        "date": "2026.10.07",
-        "published": "2026-10-07T17:41:00+09:00",
-        "publisher": "biz.chosun.com"
+        "published": "2026-10-07T19:06:00+09:00",
+        "publisher": "한국경제"
       }
     ],
     "PND3174": [
