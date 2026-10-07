@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-07T10:06:35.892132+09:00",
+  "updated_at": "2026-10-07T19:10:35.754115+09:00",
   "dates": [
     {
       "date": "2026-10-07",
-      "total": 2450,
+      "total": 2715,
       "counts": {
-        "core": 295,
-        "obesity": 720,
-        "npr": 335,
-        "platform": 482,
-        "reg": 360,
-        "mkt": 258
+        "core": 332,
+        "obesity": 852,
+        "npr": 349,
+        "platform": 508,
+        "reg": 379,
+        "mkt": 295
       }
     },
     {
@@ -1631,7 +1631,7 @@
     }
   ],
   "papers": {
-    "total": 4856,
+    "total": 4867,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1645,15 +1645,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7928,
+  "news_recent_total": 8132,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1811,
-      "papers": 463,
+      "news": 1860,
+      "papers": 464,
       "trials": 162,
-      "total": 2436,
+      "total": 2486,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1680,11 +1680,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1502,
+      "news": 1545,
       "papers": 307,
       "trials": 119,
-      "total": 1928,
-      "recent": "2026-10-07T09:30:59+09:00",
+      "total": 1971,
+      "recent": "2026-10-07T19:06:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1712,11 +1712,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 69,
+      "news": 73,
       "papers": 165,
       "trials": 42,
-      "total": 276,
-      "recent": "2026-10-07T06:02:00+09:00",
+      "total": 280,
+      "recent": "2026-10-07T16:15:17+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1775,51 +1775,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 315,
+      "news": 349,
       "papers": 0,
       "trials": 0,
-      "total": 315,
-      "recent": "2026-10-07T09:30:00+09:00",
+      "total": 349,
+      "recent": "2026-10-07T18:08:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 111,
+      "news": 114,
       "papers": 0,
       "trials": 0,
-      "total": 111,
-      "recent": "2026-10-07T09:28:00+09:00",
+      "total": 114,
+      "recent": "2026-10-07T12:55:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 127,
+      "news": 135,
       "papers": 0,
       "trials": 0,
-      "total": 127,
-      "recent": "2026-10-07T09:28:00+09:00",
+      "total": 135,
+      "recent": "2026-10-07T16:18:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 408,
+      "news": 445,
       "papers": 0,
       "trials": 0,
-      "total": 408,
-      "recent": "2026-10-07T09:30:00+09:00",
+      "total": 445,
+      "recent": "2026-10-07T18:18:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 540,
+      "news": 554,
       "papers": 1,
       "trials": 0,
-      "total": 541,
-      "recent": "2026-10-07T09:26:05+09:00",
+      "total": 555,
+      "recent": "2026-10-07T18:23:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1835,12 +1835,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 106,
-      "yesterday": 363
+      "today": 304,
+      "yesterday": 368
     },
     "paper": {
-      "today": 0,
-      "yesterday": 10
+      "today": 3,
+      "yesterday": 17
     },
     "trial": {
       "today": 0,
@@ -2022,8 +2022,8 @@
     },
     {
       "date": "2026-10-02",
-      "news": 373,
-      "paper": 8,
+      "news": 374,
+      "paper": 9,
       "trial": 10,
       "regulatory": 12
     },
@@ -2050,20 +2050,104 @@
     },
     {
       "date": "2026-10-06",
-      "news": 363,
-      "paper": 10,
+      "news": 368,
+      "paper": 17,
       "trial": 7,
       "regulatory": 6
     },
     {
       "date": "2026-10-07",
-      "news": 106,
-      "paper": 0,
+      "news": 304,
+      "paper": 3,
       "trial": 0,
       "regulatory": 14
     }
   ],
   "alerts": [
+    {
+      "level": "High",
+      "score": 14,
+      "title": "한미약품 ‘국산 첫 GLP-1 비만 신약’, 식약처 허가... 애프터마켓 주가...",
+      "layer": "news",
+      "url": "https://www.mediawatch.kr/news/article.html?no=261297",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-07T18:18:00+09:00",
+      "date": "2026.10.07",
+      "publisher": "mediawatch.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "한국판 위고비·마운자로 온다…한미약품 '에페' 식약청 허가",
+      "layer": "news",
+      "url": "https://www.hankyung.com/article/2026100793597",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-07T19:06:00+09:00",
+      "date": "2026.10.07",
+      "publisher": "한국경제"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "식약처, 한미약품 ‘에페글레나타이드’ 국산 1호 비만치료제로 허가",
+      "layer": "news",
+      "url": "https://www.etoday.co.kr/news/view/2633571",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-07T17:48:00+09:00",
+      "date": "2026.10.07",
+      "publisher": "etoday.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "한미약품 비만치료제 '에페글레나타이드' 식약처 허가 획득",
+      "layer": "news",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=882932",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-07T17:42:00+09:00",
+      "date": "2026.10.07",
+      "publisher": "getnews.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "식약처, GLP-1 K비만약 1호 한미약품 ‘에페’ 출시 허가",
+      "layer": "news",
+      "url": "https://biz.chosun.com/science-chosun/bio/2026/10/07/AXTTXR7XCBDXZOI5ZS4LADEQBM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-07T17:41:00+09:00",
+      "date": "2026.10.07",
+      "publisher": "biz.chosun.com"
+    },
     {
       "level": "High",
       "score": 12,
@@ -2111,173 +2195,101 @@
       "published": "2026-09-29T05:52:00+09:00",
       "date": "2026.09.29",
       "publisher": "kpanews.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "앱튼, 혈액암 신약 'GPC-100' 글로벌 3상 착수...인허가 절차 돌입",
-      "layer": "news",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=881069",
-      "companies": [],
-      "pipelines": [],
-      "published": "2026-09-17T11:54:00+09:00",
-      "date": "2026.09.17",
-      "publisher": "getnews.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "셀트리온, '키트루다' 이어 '다잘렉스'까지…항암 바이오시밀러 2종 3상...",
-      "layer": "news",
-      "url": "https://news.ifm.kr/news/articleView.html?idxno=478782",
-      "companies": [],
-      "pipelines": [],
-      "published": "2026-09-07T10:56:00+09:00",
-      "date": "2026.09.07",
-      "publisher": "ifm.kr"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "Eli Lilly and Company CEO Dave Ricks tells CNBC-TV18's Shereen Bhan that the launch of cheaper branded generic semaglutide in India — priced far below Mounjaro — hasn't changed the company's trajectory, calling ultra-low price points \"a bit of a fake sig",
-      "layer": "news",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzNpb0JLQktGRm5rdTNNZm94WWwyNmRnRkpZWW1CYUcxOTdUOEJTS0dDNDg3V3NqY1FnWFRmMUlyU2hfZmFXa1VvZ3NGUl9ZU3dlWk9jZWxaelJGSElLV0hoYVVsTWN4MHF3TkdfdE5HOUZwUTZDdUc0QW5RSjNMZTh6VmpxUGJCTHZrSzBybHZ3aWRzamNrMTl3ZmtLM2J5RTA0Z2xmMA?oc=5",
-      "companies": [
-        "lilly"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-05T13:59:41+09:00",
-      "date": "2026.10.05",
-      "publisher": "LinkedIn"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
-      "layer": "news",
-      "url": "https://www.sedaily.com/article/20093153?ref=naver",
-      "companies": [
-        "lilly"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-09-21T05:50:00+09:00",
-      "date": "2026.09.21",
-      "publisher": "sedaily.com"
-    },
-    {
-      "level": "High",
-      "score": 11,
-      "title": "Cessation or Reduction of Alcohol Consumption in Veterans: A Randomized, Double-Blind, Placebo-Controlled Phase 3 Trial to Evaluate the Efficacy and Safety of a GLP-1 Receptor Agonist Semaglutide in U.S. Veterans With Alcohol Use Disorder",
-      "layer": "trial",
-      "url": "https://clinicaltrials.gov/study/NCT07218354",
-      "companies": [],
-      "pipelines": [
-        "PT403"
-      ],
-      "published": "2026-07-23T00:00:00+09:00",
-      "date": "2026.07.23",
-      "publisher": "VA Office of Research and Development"
     }
   ],
   "highlights": {
     "PT403": [
       {
         "level": "High",
-        "title": "펩트론, '마운자로' 성분 터제파타이드 장기지속형 국내 특허 확보",
+        "title": "한미약품 ‘국산 첫 GLP-1 비만 신약’, 식약처 허가... 애프터마켓 주가...",
         "layer": "news",
-        "url": "https://www.newsway.co.kr/news/view?ud=2026100115521940781",
-        "date": "2026.10.01",
-        "published": "2026-10-01T15:54:00+09:00",
-        "publisher": "newsway.co.kr"
+        "url": "https://www.mediawatch.kr/news/article.html?no=261297",
+        "date": "2026.10.07",
+        "published": "2026-10-07T18:18:00+09:00",
+        "publisher": "mediawatch.kr"
       },
       {
         "level": "High",
-        "title": "한미약품, 비만약 '에페' 연동 웰니스 앱 출시 예정",
+        "title": "한국판 위고비·마운자로 온다…한미약품 '에페' 식약청 허가",
         "layer": "news",
-        "url": "https://news.mtn.co.kr/news-detail/2026093016280719763",
-        "date": "2026.09.30",
-        "published": "2026-09-30T17:44:00+09:00",
-        "publisher": "mtn.co.kr"
+        "url": "https://www.hankyung.com/article/2026100793597",
+        "date": "2026.10.07",
+        "published": "2026-10-07T19:06:00+09:00",
+        "publisher": "한국경제"
       },
       {
         "level": "High",
-        "title": "Eli Lilly and Company CEO Dave Ricks tells CNBC-TV18's Shereen Bhan that the launch of cheaper branded generic semaglutide in India — priced far below Mounjaro — hasn't changed the company's trajectory, calling ultra-low price points \"a bit of a fake sig",
+        "title": "식약처, 한미약품 ‘에페글레나타이드’ 국산 1호 비만치료제로 허가",
         "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzNpb0JLQktGRm5rdTNNZm94WWwyNmRnRkpZWW1CYUcxOTdUOEJTS0dDNDg3V3NqY1FnWFRmMUlyU2hfZmFXa1VvZ3NGUl9ZU3dlWk9jZWxaelJGSElLV0hoYVVsTWN4MHF3TkdfdE5HOUZwUTZDdUc0QW5RSjNMZTh6VmpxUGJCTHZrSzBybHZ3aWRzamNrMTl3ZmtLM2J5RTA0Z2xmMA?oc=5",
-        "date": "2026.10.05",
-        "published": "2026-10-05T13:59:41+09:00",
-        "publisher": "LinkedIn"
+        "url": "https://www.etoday.co.kr/news/view/2633571",
+        "date": "2026.10.07",
+        "published": "2026-10-07T17:48:00+09:00",
+        "publisher": "etoday.co.kr"
       },
       {
         "level": "High",
-        "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
+        "title": "한미약품 비만치료제 '에페글레나타이드' 식약처 허가 획득",
         "layer": "news",
-        "url": "https://www.sedaily.com/article/20093153?ref=naver",
-        "date": "2026.09.21",
-        "published": "2026-09-21T05:50:00+09:00",
-        "publisher": "sedaily.com"
+        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=882932",
+        "date": "2026.10.07",
+        "published": "2026-10-07T17:42:00+09:00",
+        "publisher": "getnews.co.kr"
       },
       {
         "level": "High",
-        "title": "Cessation or Reduction of Alcohol Consumption in Veterans: A Randomized, Double-Blind, Placebo-Controlled Phase 3 Trial to Evaluate the Efficacy and Safety of a GLP-1 Receptor Agonist Semaglutide in U.S. Veterans With Alcohol Use Disorder",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT07218354",
-        "date": "2026.07.23",
-        "published": "2026-07-23T00:00:00+09:00",
-        "publisher": "VA Office of Research and Development"
+        "title": "식약처, GLP-1 K비만약 1호 한미약품 ‘에페’ 출시 허가",
+        "layer": "news",
+        "url": "https://biz.chosun.com/science-chosun/bio/2026/10/07/AXTTXR7XCBDXZOI5ZS4LADEQBM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "date": "2026.10.07",
+        "published": "2026-10-07T17:41:00+09:00",
+        "publisher": "biz.chosun.com"
       }
     ],
     "PT404": [
       {
         "level": "High",
-        "title": "펩트론, '마운자로' 성분 터제파타이드 장기지속형 국내 특허 확보",
+        "title": "한미약품 ‘국산 첫 GLP-1 비만 신약’, 식약처 허가... 애프터마켓 주가...",
         "layer": "news",
-        "url": "https://www.newsway.co.kr/news/view?ud=2026100115521940781",
-        "date": "2026.10.01",
-        "published": "2026-10-01T15:54:00+09:00",
-        "publisher": "newsway.co.kr"
+        "url": "https://www.mediawatch.kr/news/article.html?no=261297",
+        "date": "2026.10.07",
+        "published": "2026-10-07T18:18:00+09:00",
+        "publisher": "mediawatch.kr"
       },
       {
         "level": "High",
-        "title": "한미약품, 비만약 '에페' 연동 웰니스 앱 출시 예정",
+        "title": "한국판 위고비·마운자로 온다…한미약품 '에페' 식약청 허가",
         "layer": "news",
-        "url": "https://news.mtn.co.kr/news-detail/2026093016280719763",
-        "date": "2026.09.30",
-        "published": "2026-09-30T17:44:00+09:00",
-        "publisher": "mtn.co.kr"
+        "url": "https://www.hankyung.com/article/2026100793597",
+        "date": "2026.10.07",
+        "published": "2026-10-07T19:06:00+09:00",
+        "publisher": "한국경제"
       },
       {
         "level": "High",
-        "title": "Eli Lilly and Company CEO Dave Ricks tells CNBC-TV18's Shereen Bhan that the launch of cheaper branded generic semaglutide in India — priced far below Mounjaro — hasn't changed the company's trajectory, calling ultra-low price points \"a bit of a fake sig",
+        "title": "식약처, 한미약품 ‘에페글레나타이드’ 국산 1호 비만치료제로 허가",
         "layer": "news",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzNpb0JLQktGRm5rdTNNZm94WWwyNmRnRkpZWW1CYUcxOTdUOEJTS0dDNDg3V3NqY1FnWFRmMUlyU2hfZmFXa1VvZ3NGUl9ZU3dlWk9jZWxaelJGSElLV0hoYVVsTWN4MHF3TkdfdE5HOUZwUTZDdUc0QW5RSjNMZTh6VmpxUGJCTHZrSzBybHZ3aWRzamNrMTl3ZmtLM2J5RTA0Z2xmMA?oc=5",
-        "date": "2026.10.05",
-        "published": "2026-10-05T13:59:41+09:00",
-        "publisher": "LinkedIn"
+        "url": "https://www.etoday.co.kr/news/view/2633571",
+        "date": "2026.10.07",
+        "published": "2026-10-07T17:48:00+09:00",
+        "publisher": "etoday.co.kr"
       },
       {
         "level": "High",
-        "title": "위고비·마운자로…살 빼려 맞은 약에 실명 “6~18개월이 고비”[박시진...",
+        "title": "한미약품 비만치료제 '에페글레나타이드' 식약처 허가 획득",
         "layer": "news",
-        "url": "https://www.sedaily.com/article/20093153?ref=naver",
-        "date": "2026.09.21",
-        "published": "2026-09-21T05:50:00+09:00",
-        "publisher": "sedaily.com"
+        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=882932",
+        "date": "2026.10.07",
+        "published": "2026-10-07T17:42:00+09:00",
+        "publisher": "getnews.co.kr"
       },
       {
         "level": "High",
-        "title": "Ketoacidosis Risk in Non-diabetic Patients Using Semaglutide Versus Tirzepatide for Obesity: A Disproportionality Analysis of the FDA Adverse Event Reporting System",
-        "layer": "paper",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42299163/",
-        "date": "2026.05.14",
-        "published": "2026-05-14T00:00:00+09:00",
-        "publisher": "Cureus"
+        "title": "식약처, GLP-1 K비만약 1호 한미약품 ‘에페’ 출시 허가",
+        "layer": "news",
+        "url": "https://biz.chosun.com/science-chosun/bio/2026/10/07/AXTTXR7XCBDXZOI5ZS4LADEQBM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "date": "2026.10.07",
+        "published": "2026-10-07T17:41:00+09:00",
+        "publisher": "biz.chosun.com"
       }
     ],
     "PND3174": [
@@ -2289,6 +2301,15 @@
         "date": "2026.09.16",
         "published": "2026-09-16T05:56:00+09:00",
         "publisher": "팜뉴스"
+      },
+      {
+        "level": "Medium",
+        "title": "FDA accepts BioMarin sNDA for full VOXZOGO approval",
+        "layer": "news",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOanpYOEFHQU5uOXN5aGdBSlZ4MDN3eDhkMDJNaTBpbGhWWGhVa1NmbTF0RUg0ZUEtYmNELXdfc2UwQTdFekFFVHk5VHRnMjBxVGxlUUg1UkxxamRVd0hvMGJLWGlLTGw1dFZoT3NrU3UyZjNMNldsemoxUEVDeU5sYm1wTkhvY1VYWkYzVXEtR1JXT3doYUFrOXU4bFN4cUxCOThDRFozSGQyVERJ?oc=5",
+        "date": "2026.10.06",
+        "published": "2026-10-06T22:16:24+09:00",
+        "publisher": "scanx.trade"
       },
       {
         "level": "Medium",
@@ -2316,15 +2337,6 @@
         "date": "2026.03.17",
         "published": "2026-03-17T00:00:00+09:00",
         "publisher": "QED Therapeutics, a BridgeBio company"
-      },
-      {
-        "level": "Medium",
-        "title": "Interventional Study of Vosoritide for the Treatment of Children With Hypochondroplasia",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT06455059",
-        "date": "2026.01.20",
-        "published": "2026-01-20T00:00:00+09:00",
-        "publisher": "BioMarin Pharmaceutical"
       }
     ],
     "PT320": [
