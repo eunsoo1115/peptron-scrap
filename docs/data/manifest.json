@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-10T10:33:18.612034+09:00",
+  "updated_at": "2026-10-10T18:44:49.207117+09:00",
   "dates": [
     {
       "date": "2026-10-10",
-      "total": 2436,
+      "total": 2527,
       "counts": {
-        "core": 334,
-        "obesity": 697,
-        "npr": 336,
-        "platform": 485,
-        "reg": 360,
-        "mkt": 224
+        "core": 339,
+        "obesity": 748,
+        "npr": 338,
+        "platform": 494,
+        "reg": 369,
+        "mkt": 239
       }
     },
     {
@@ -1667,7 +1667,7 @@
     }
   ],
   "papers": {
-    "total": 4959,
+    "total": 4974,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1681,15 +1681,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7685,
+  "news_recent_total": 7723,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1775,
-      "papers": 475,
+      "news": 1792,
+      "papers": 476,
       "trials": 165,
-      "total": 2415,
+      "total": 2433,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1716,11 +1716,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1572,
-      "papers": 314,
+      "news": 1582,
+      "papers": 316,
       "trials": 121,
-      "total": 2007,
-      "recent": "2026-10-10T10:01:00+09:00",
+      "total": 2019,
+      "recent": "2026-10-10T17:14:43+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1748,11 +1748,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 69,
+      "news": 70,
       "papers": 165,
       "trials": 42,
-      "total": 276,
-      "recent": "2026-10-10T06:02:00+09:00",
+      "total": 277,
+      "recent": "2026-10-10T16:48:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1811,11 +1811,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 380,
+      "news": 382,
       "papers": 0,
       "trials": 0,
-      "total": 380,
-      "recent": "2026-10-10T09:00:00+09:00",
+      "total": 382,
+      "recent": "2026-10-10T11:04:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1841,11 +1841,11 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 516,
+      "news": 517,
       "papers": 0,
       "trials": 0,
-      "total": 516,
-      "recent": "2026-10-10T08:03:00+09:00",
+      "total": 517,
+      "recent": "2026-10-10T16:51:02+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -1871,12 +1871,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 56,
-      "yesterday": 154
+      "today": 91,
+      "yesterday": 155
     },
     "paper": {
-      "today": 0,
-      "yesterday": 11
+      "today": 4,
+      "yesterday": 20
     },
     "trial": {
       "today": 0,
@@ -1960,7 +1960,7 @@
     },
     {
       "date": "2026-09-21",
-      "news": 356,
+      "news": 357,
       "paper": 26,
       "trial": 12,
       "regulatory": 1
@@ -2059,14 +2059,14 @@
     {
       "date": "2026-10-05",
       "news": 137,
-      "paper": 17,
+      "paper": 18,
       "trial": 18,
       "regulatory": 0
     },
     {
       "date": "2026-10-06",
       "news": 368,
-      "paper": 18,
+      "paper": 19,
       "trial": 7,
       "regulatory": 6
     },
@@ -2079,22 +2079,22 @@
     },
     {
       "date": "2026-10-08",
-      "news": 359,
+      "news": 360,
       "paper": 23,
       "trial": 6,
       "regulatory": 3
     },
     {
       "date": "2026-10-09",
-      "news": 154,
-      "paper": 11,
+      "news": 155,
+      "paper": 20,
       "trial": 7,
       "regulatory": 5
     },
     {
       "date": "2026-10-10",
-      "news": 56,
-      "paper": 0,
+      "news": 91,
+      "paper": 4,
       "trial": 0,
       "regulatory": 5
     }
@@ -2183,6 +2183,21 @@
     {
       "level": "High",
       "score": 12,
+      "title": "fda approved weight loss drugs 2026 tirzepatide semaglutide retatrutide",
+      "layer": "news",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTUyVTFTd1dOTW5JeUxoMHFPYUFVYklzN3hIWWFXT1NrUTE4SFZLX3BUd1dBeTdIeHQ1Wi14amhYSVktclZMWHZLb3J0ZlZQalVBS0RGZU8yRUk2bE9wek4wYzd6bDJyVVZKM1kybmtvZVFSaUNfbHlzX1dCTFduSGdBWmVPcTAxQl9yMFJUQURTczIySk16UTJjV0pvNWVGYVZGZGVCREljclZTYnZVcHR3?oc=5",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-10T17:14:43+09:00",
+      "date": "2026.10.10",
+      "publisher": "BusinessWorld Online"
+    },
+    {
+      "level": "High",
+      "score": 12,
       "title": "식약처, 한미약품 비만약 '에페' 허가···첫 국산 GLP-1 신약",
       "layer": "news",
       "url": "https://www.seoulfn.com/news/articleView.html?idxno=639612",
@@ -2212,21 +2227,6 @@
       "published": "2026-10-08T08:20:00+09:00",
       "date": "2026.10.08",
       "publisher": "kbs.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "한국판 위고비·마운자로 온다…한미약품 '에페' 식약청 허가",
-      "layer": "news",
-      "url": "https://www.hankyung.com/article/2026100793597",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-07T19:06:00+09:00",
-      "date": "2026.10.07",
-      "publisher": "한국경제"
     }
   ],
   "highlights": {
