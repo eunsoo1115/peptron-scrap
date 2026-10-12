@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-12T00:34:45.321257+09:00",
+  "updated_at": "2026-10-12T09:50:00.778238+09:00",
   "dates": [
     {
       "date": "2026-10-12",
-      "total": 2312,
+      "total": 2503,
       "counts": {
-        "core": 325,
-        "obesity": 630,
-        "npr": 330,
-        "platform": 469,
-        "reg": 346,
-        "mkt": 212
+        "core": 340,
+        "obesity": 727,
+        "npr": 336,
+        "platform": 481,
+        "reg": 367,
+        "mkt": 252
       }
     },
     {
@@ -1705,15 +1705,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 7272,
+  "news_recent_total": 7398,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 1742,
+      "news": 1775,
       "papers": 480,
       "trials": 165,
-      "total": 2387,
+      "total": 2420,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1740,11 +1740,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1526,
+      "news": 1541,
       "papers": 318,
       "trials": 121,
-      "total": 1965,
-      "recent": "2026-10-12T00:22:00+09:00",
+      "total": 1980,
+      "recent": "2026-10-12T09:40:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1772,11 +1772,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 56,
+      "news": 57,
       "papers": 165,
       "trials": 42,
-      "total": 263,
-      "recent": "2026-10-10T16:48:00+09:00",
+      "total": 264,
+      "recent": "2026-10-12T06:06:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1835,11 +1835,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 365,
+      "news": 376,
       "papers": 0,
       "trials": 0,
-      "total": 365,
-      "recent": "2026-10-10T11:04:00+09:00",
+      "total": 376,
+      "recent": "2026-10-12T09:38:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1865,21 +1865,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 517,
+      "news": 533,
       "papers": 0,
       "trials": 0,
-      "total": 517,
-      "recent": "2026-10-12T00:06:00+09:00",
+      "total": 533,
+      "recent": "2026-10-12T08:39:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 518,
+      "news": 524,
       "papers": 1,
       "trials": 0,
-      "total": 519,
-      "recent": "2026-10-12T00:06:00+09:00",
+      "total": 525,
+      "recent": "2026-10-12T09:28:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1895,8 +1895,8 @@
   ],
   "kpi": {
     "news": {
-      "today": 5,
-      "yesterday": 123
+      "today": 127,
+      "yesterday": 126
     },
     "paper": {
       "today": 0,
@@ -1928,7 +1928,7 @@
     },
     {
       "date": "2026-09-15",
-      "news": 379,
+      "news": 378,
       "paper": 28,
       "trial": 11,
       "regulatory": 11
@@ -2096,28 +2096,28 @@
     },
     {
       "date": "2026-10-09",
-      "news": 158,
+      "news": 159,
       "paper": 22,
       "trial": 7,
       "regulatory": 5
     },
     {
       "date": "2026-10-10",
-      "news": 115,
+      "news": 116,
       "paper": 10,
       "trial": 0,
       "regulatory": 5
     },
     {
       "date": "2026-10-11",
-      "news": 123,
+      "news": 126,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-10-12",
-      "news": 5,
+      "news": 127,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
@@ -2207,6 +2207,24 @@
     {
       "level": "High",
       "score": 12,
+      "title": "비급여 한계 넘는다… 위고비, 성인 비만 급여 신청 '카드'",
+      "layer": "news",
+      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171102&ref=naverpc",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-12T05:30:00+09:00",
+      "date": "2026.10.12",
+      "publisher": "medicaltimes.com"
+    },
+    {
+      "level": "High",
+      "score": 12,
       "title": "fda approved weight loss drugs 2026 tirzepatide semaglutide retatrutide",
       "layer": "news",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTUyVTFTd1dOTW5JeUxoMHFPYUFVYklzN3hIWWFXT1NrUTE4SFZLX3BUd1dBeTdIeHQ1Wi14amhYSVktclZMWHZLb3J0ZlZQalVBS0RGZU8yRUk2bE9wek4wYzd6bDJyVVZKM1kybmtvZVFSaUNfbHlzX1dCTFduSGdBWmVPcTAxQl9yMFJUQURTczIySk16UTJjV0pvNWVGYVZGZGVCREljclZTYnZVcHR3?oc=5",
@@ -2236,21 +2254,6 @@
       "published": "2026-10-08T08:50:00+09:00",
       "date": "2026.10.08",
       "publisher": "seoulfn.com"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "식약처, 한미약품 ‘GLP-1’ 비만치료제 허가…국내 첫 비만 신약",
-      "layer": "news",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680635&ref=A",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-08T08:20:00+09:00",
-      "date": "2026.10.08",
-      "publisher": "kbs.co.kr"
     }
   ],
   "highlights": {
