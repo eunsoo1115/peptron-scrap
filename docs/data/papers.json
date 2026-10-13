@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T19:25:59.189053+09:00",
-  "total": 5023,
+  "updated_at": "2026-10-14T01:53:32.334809+09:00",
+  "total": 5030,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -4287,6 +4287,38 @@
       "companies": []
     },
     {
+      "title": "Glucagon-like Peptide-1-based and Emerging Cardiometabolic Therapies in Heart Failure with Preserved Ejection Fraction: Linking Molecular Mechanisms to Clinical Outcomes",
+      "summary": "Merolla A et al. · Cardiac failure review",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42865775/",
+      "publisher": "Cardiac failure review",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Comparison of analgesic efficacy and safety between liposomal bupivacaine and ropivacaine for paravertebral block in patients undergoing thoracoscopic lung tumor surgery: a prospective double-blind randomized controlled trial",
+      "summary": "Zhang Y et al. · Journal of thoracic disease",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42865789/",
+      "publisher": "Journal of thoracic disease",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.30",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Potential bone marrow-driven reduction of circulating inflammatory monocytes by semaglutide in Type 2 diabetes",
       "summary": "Teunis CJ et al. · European heart journal",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42806711/",
@@ -4983,6 +5015,88 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Long-term GLP-1 receptor agonist therapy in obesity: expert panel recommendations for good clinical practice",
+      "summary": "Brancato D et al. · Frontiers in endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42865447/",
+      "publisher": "Frontiers in endocrinology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Pancreatic and biliary safety signals of GLP-1 receptor agonists and tirzepatide: a disproportionality analysis of FAERS reports",
+      "summary": "Wu Y et al. · Frontiers in endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42865361/",
+      "publisher": "Frontiers in endocrinology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 receptor agonists in metabolic dysfunction-associated steatohepatitis: protocol for a systematic review and meta-analysis of randomized controlled trials",
+      "summary": "Sun SP et al. · Frontiers in medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42865473/",
+      "publisher": "Frontiers in medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Real-world anatomical and functional outcomes following Faricimab therapy in neovascular age-related macular degeneration: a one-year observational study",
+      "summary": "Rossi S et al. · Frontiers in medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42865394/",
+      "publisher": "Frontiers in medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Mechanism-informed machine learning for interpretable drug release prediction and virtual formulation intervention in polymeric long-acting injectables",
+      "summary": "Ghazwani M et al. · Frontiers in medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42865363/",
+      "publisher": "Frontiers in medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {
