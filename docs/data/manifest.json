@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-14T09:43:40.212864+09:00",
+  "updated_at": "2026-10-14T17:38:37.529809+09:00",
   "dates": [
     {
       "date": "2026-10-14",
-      "total": 2591,
+      "total": 2865,
       "counts": {
-        "core": 347,
-        "obesity": 768,
-        "npr": 329,
-        "platform": 501,
-        "reg": 370,
-        "mkt": 276
+        "core": 363,
+        "obesity": 901,
+        "npr": 337,
+        "platform": 563,
+        "reg": 382,
+        "mkt": 319
       }
     },
     {
@@ -1715,7 +1715,7 @@
     }
   ],
   "papers": {
-    "total": 5041,
+    "total": 5054,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1729,15 +1729,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8070,
+  "news_recent_total": 8305,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2009,
+      "news": 2077,
       "papers": 485,
       "trials": 167,
-      "total": 2661,
+      "total": 2729,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1764,11 +1764,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1677,
+      "news": 1723,
       "papers": 323,
       "trials": 122,
-      "total": 2122,
-      "recent": "2026-10-14T09:37:00+09:00",
+      "total": 2168,
+      "recent": "2026-10-14T17:20:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1796,11 +1796,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 59,
+      "news": 60,
       "papers": 165,
       "trials": 41,
-      "total": 265,
-      "recent": "2026-10-13T19:05:40+09:00",
+      "total": 266,
+      "recent": "2026-10-14T17:34:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1859,51 +1859,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 398,
+      "news": 412,
       "papers": 0,
       "trials": 0,
-      "total": 398,
-      "recent": "2026-10-14T09:18:00+09:00",
+      "total": 412,
+      "recent": "2026-10-14T16:36:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 107,
+      "news": 126,
       "papers": 0,
       "trials": 0,
-      "total": 107,
-      "recent": "2026-10-14T07:12:00+09:00",
+      "total": 126,
+      "recent": "2026-10-14T17:28:53+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 132,
+      "news": 150,
       "papers": 0,
       "trials": 0,
-      "total": 132,
-      "recent": "2026-10-13T15:52:00+09:00",
+      "total": 150,
+      "recent": "2026-10-14T16:10:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 564,
+      "news": 576,
       "papers": 0,
       "trials": 0,
-      "total": 564,
-      "recent": "2026-10-14T09:37:00+09:00",
+      "total": 576,
+      "recent": "2026-10-14T16:56:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 565,
+      "news": 569,
       "papers": 1,
       "trials": 0,
-      "total": 566,
-      "recent": "2026-10-14T09:37:00+09:00",
+      "total": 570,
+      "recent": "2026-10-14T15:16:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1919,12 +1919,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 169,
-      "yesterday": 413
+      "today": 400,
+      "yesterday": 416
     },
     "paper": {
-      "today": 0,
-      "yesterday": 4
+      "today": 2,
+      "yesterday": 10
     },
     "trial": {
       "today": 0,
@@ -2120,7 +2120,7 @@
     },
     {
       "date": "2026-10-11",
-      "news": 131,
+      "news": 132,
       "paper": 2,
       "trial": 0,
       "regulatory": 0
@@ -2128,21 +2128,21 @@
     {
       "date": "2026-10-12",
       "news": 398,
-      "paper": 18,
+      "paper": 19,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-10-13",
-      "news": 413,
-      "paper": 4,
+      "news": 416,
+      "paper": 10,
       "trial": 12,
       "regulatory": 0
     },
     {
       "date": "2026-10-14",
-      "news": 169,
-      "paper": 0,
+      "news": 400,
+      "paper": 2,
       "trial": 0,
       "regulatory": 15
     }
@@ -2216,6 +2216,21 @@
     {
       "level": "High",
       "score": 12,
+      "title": "위고비·마운자로 처방 후 안과질환·급성췌장염 진료…“처방 전 병력...",
+      "layer": "news",
+      "url": "https://www.womennews.co.kr/news/articleView.html?idxno=283289",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-14T12:33:00+09:00",
+      "date": "2026.10.14",
+      "publisher": "womennews.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
       "title": "'위고비' 건강보험 급여 신청…'비만약 삼국지' 본격화",
       "layer": "news",
       "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87416",
@@ -2263,24 +2278,6 @@
       "published": "2026-10-10T17:14:43+09:00",
       "date": "2026.10.10",
       "publisher": "BusinessWorld Online"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "식약처, 한미약품 비만약 '에페' 허가···첫 국산 GLP-1 신약",
-      "layer": "news",
-      "url": "https://www.seoulfn.com/news/articleView.html?idxno=639612",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-08T08:50:00+09:00",
-      "date": "2026.10.08",
-      "publisher": "seoulfn.com"
     }
   ],
   "highlights": {
@@ -2323,12 +2320,12 @@
       },
       {
         "level": "High",
-        "title": "'위고비' 건강보험 급여 신청…'비만약 삼국지' 본격화",
+        "title": "위고비·마운자로 처방 후 안과질환·급성췌장염 진료…“처방 전 병력...",
         "layer": "news",
-        "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87416",
-        "date": "2026.10.13",
-        "published": "2026-10-13T11:16:00+09:00",
-        "publisher": "industrynews.co.kr"
+        "url": "https://www.womennews.co.kr/news/articleView.html?idxno=283289",
+        "date": "2026.10.14",
+        "published": "2026-10-14T12:33:00+09:00",
+        "publisher": "womennews.co.kr"
       }
     ],
     "PT404": [
@@ -2370,12 +2367,12 @@
       },
       {
         "level": "High",
-        "title": "'위고비' 건강보험 급여 신청…'비만약 삼국지' 본격화",
+        "title": "위고비·마운자로 처방 후 안과질환·급성췌장염 진료…“처방 전 병력...",
         "layer": "news",
-        "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87416",
-        "date": "2026.10.13",
-        "published": "2026-10-13T11:16:00+09:00",
-        "publisher": "industrynews.co.kr"
+        "url": "https://www.womennews.co.kr/news/articleView.html?idxno=283289",
+        "date": "2026.10.14",
+        "published": "2026-10-14T12:33:00+09:00",
+        "publisher": "womennews.co.kr"
       }
     ],
     "PND3174": [
