@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T09:11:55.661579+09:00",
-  "total": 5087,
+  "updated_at": "2026-10-15T17:13:05.583826+09:00",
+  "total": 5094,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -479,6 +479,90 @@
       "summary": "Regev-Yehishalom O et al. · Carbohydrate polymers",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42692648/",
       "publisher": "Carbohydrate polymers",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.15",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Changes in Gait Speed During a 12-Month Multidisciplinary Obesity Management Program Including Semaglutide: A Real-World Observational Study in Japanese Adults With Musculoskeletal Disorders",
+      "summary": "Tomita M et al. · Internal medicine (Tokyo, Japan)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875211/",
+      "publisher": "Internal medicine (Tokyo, Japan)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.15",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Akkermansia muciniphila HHAKKα Prevents High-Fat Diet-Induced Obesity in Mice via Gut Microbiota Modulation and Regulation of Hepatic Lipid Metabolism",
+      "summary": "Zhou G et al. · FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42827406/",
+      "publisher": "FASEB journal : official publication of the F",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.15",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Outcomes in patients with diabetes, atherosclerotic cardiovascular disease, and heart failure treated with tirzepatide or dulaglutide: SURPASS-CVOT analysis",
+      "summary": "Nicholls SJ et al. · European journal of preventive cardiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875024/",
+      "publisher": "European journal of preventive cardiology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.15",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Do Glucagon-Like Peptide-1 Receptor Agonists Sabotage Fat Grafts?: A Scoping Review of Glucagon-Like Peptide-1 Receptor Agonist Effects on Adipocyte Biology and Implications for Autologous Fat Transfer",
+      "summary": "Chalhoub X et al. · Aesthetic surgery journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42219269/",
+      "publisher": "Aesthetic surgery journal",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.15",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Long-Acting HIV Therapy in African Adults with Adherence Challenges",
+      "summary": "Cresswell FV et al. · The New England journal of medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874104/",
+      "publisher": "The New England journal of medicine",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -2320,6 +2404,22 @@
       "pipelines": [
         "PT404"
       ],
+      "companies": []
+    },
+    {
+      "title": "Development and validation of qualitative methods for the detection of GLP-1 receptor agonists in serum and dried blood spots by LC-HRMS/MS for doping control purposes",
+      "summary": "Borschel L et al. · Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874322/",
+      "publisher": "Journal of chromatography. B, Analytical tech",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-08T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.08",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -6727,6 +6827,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 receptor agonist use and postoperative complications after body contouring surgery following massive weight loss",
+      "summary": "Djebbara-Bozo N et al. · Journal of plastic, reconstructive & aesthetic surgery : JPRAS",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874170/",
+      "publisher": "Journal of plastic, reconstructive & aestheti",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-24T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.24",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
