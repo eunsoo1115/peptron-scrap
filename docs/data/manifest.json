@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-16T17:06:51.273969+09:00",
+  "updated_at": "2026-10-16T22:56:26.258679+09:00",
   "dates": [
     {
       "date": "2026-10-16",
-      "total": 2496,
+      "total": 2585,
       "counts": {
-        "core": 345,
-        "obesity": 704,
-        "npr": 328,
-        "platform": 510,
-        "reg": 353,
-        "mkt": 256
+        "core": 348,
+        "obesity": 742,
+        "npr": 333,
+        "platform": 516,
+        "reg": 374,
+        "mkt": 272
       }
     },
     {
@@ -1739,29 +1739,29 @@
     }
   ],
   "papers": {
-    "total": 5126,
+    "total": 5148,
     "year_min": 2023,
     "year_max": 2027
   },
   "trials": {
-    "total": 1702,
+    "total": 1705,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 965,
+    "total": 967,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8303,
+  "news_recent_total": 8351,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2147,
+      "news": 2161,
       "papers": 491,
       "trials": 170,
-      "total": 2808,
+      "total": 2822,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1788,11 +1788,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1792,
-      "papers": 327,
+      "news": 1800,
+      "papers": 328,
       "trials": 123,
-      "total": 2242,
-      "recent": "2026-10-16T16:54:00+09:00",
+      "total": 2251,
+      "recent": "2026-10-16T21:12:16+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1820,11 +1820,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 58,
-      "papers": 167,
+      "news": 61,
+      "papers": 169,
       "trials": 41,
-      "total": 266,
-      "recent": "2026-10-16T10:02:00+09:00",
+      "total": 271,
+      "recent": "2026-10-16T21:58:04+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -1883,11 +1883,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 427,
+      "news": 429,
       "papers": 0,
       "trials": 0,
-      "total": 427,
-      "recent": "2026-10-16T16:30:00+09:00",
+      "total": 429,
+      "recent": "2026-10-16T18:52:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -1913,21 +1913,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 569,
+      "news": 576,
       "papers": 0,
       "trials": 0,
-      "total": 569,
-      "recent": "2026-10-16T16:42:00+09:00",
+      "total": 576,
+      "recent": "2026-10-16T22:44:10+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 555,
+      "news": 557,
       "papers": 1,
       "trials": 0,
-      "total": 556,
-      "recent": "2026-10-16T16:42:00+09:00",
+      "total": 558,
+      "recent": "2026-10-16T22:25:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1943,19 +1943,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 191,
+      "today": 238,
       "yesterday": 407
     },
     "paper": {
       "today": 1,
-      "yesterday": 20
+      "yesterday": 21
     },
     "trial": {
-      "today": 0,
+      "today": 3,
       "yesterday": 4
     },
     "regulatory": {
-      "today": 2,
+      "today": 4,
       "yesterday": 7
     }
   },
@@ -1998,35 +1998,35 @@
     {
       "date": "2026-09-22",
       "news": 346,
-      "paper": 28,
+      "paper": 30,
       "trial": 7,
       "regulatory": 12
     },
     {
       "date": "2026-09-23",
       "news": 296,
-      "paper": 23,
+      "paper": 25,
       "trial": 4,
       "regulatory": 2
     },
     {
       "date": "2026-09-24",
       "news": 133,
-      "paper": 30,
+      "paper": 31,
       "trial": 7,
       "regulatory": 6
     },
     {
       "date": "2026-09-25",
       "news": 124,
-      "paper": 14,
+      "paper": 15,
       "trial": 10,
       "regulatory": 7
     },
     {
       "date": "2026-09-26",
       "news": 109,
-      "paper": 7,
+      "paper": 10,
       "trial": 0,
       "regulatory": 9
     },
@@ -2040,7 +2040,7 @@
     {
       "date": "2026-09-28",
       "news": 292,
-      "paper": 25,
+      "paper": 26,
       "trial": 4,
       "regulatory": 0
     },
@@ -2054,35 +2054,35 @@
     {
       "date": "2026-09-30",
       "news": 428,
-      "paper": 23,
+      "paper": 24,
       "trial": 12,
       "regulatory": 19
     },
     {
       "date": "2026-10-01",
       "news": 435,
-      "paper": 66,
+      "paper": 69,
       "trial": 5,
       "regulatory": 20
     },
     {
       "date": "2026-10-02",
       "news": 374,
-      "paper": 10,
+      "paper": 12,
       "trial": 10,
       "regulatory": 12
     },
     {
       "date": "2026-10-03",
       "news": 122,
-      "paper": 4,
+      "paper": 5,
       "trial": 0,
       "regulatory": 3
     },
     {
       "date": "2026-10-04",
       "news": 95,
-      "paper": 2,
+      "paper": 3,
       "trial": 0,
       "regulatory": 0
     },
@@ -2103,14 +2103,14 @@
     {
       "date": "2026-10-07",
       "news": 415,
-      "paper": 23,
+      "paper": 24,
       "trial": 6,
       "regulatory": 14
     },
     {
       "date": "2026-10-08",
       "news": 366,
-      "paper": 28,
+      "paper": 29,
       "trial": 6,
       "regulatory": 3
     },
@@ -2151,7 +2151,7 @@
     },
     {
       "date": "2026-10-14",
-      "news": 514,
+      "news": 515,
       "paper": 23,
       "trial": 5,
       "regulatory": 15
@@ -2159,16 +2159,16 @@
     {
       "date": "2026-10-15",
       "news": 407,
-      "paper": 20,
+      "paper": 21,
       "trial": 4,
       "regulatory": 7
     },
     {
       "date": "2026-10-16",
-      "news": 191,
+      "news": 238,
       "paper": 1,
-      "trial": 0,
-      "regulatory": 2
+      "trial": 3,
+      "regulatory": 4
     }
   ],
   "alerts": [
@@ -2240,6 +2240,24 @@
     {
       "level": "High",
       "score": 12,
+      "title": "국산 비만약 '에페', 마운자로 반값... 출시일은?",
+      "layer": "news",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187364",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-16T19:02:00+09:00",
+      "date": "2026.10.16",
+      "publisher": "ggilbo.com"
+    },
+    {
+      "level": "High",
+      "score": 12,
       "title": "FDA 승인도 안 났는데…차세대 비만약 ‘레타트루타이드’ 버젓이 판매",
       "layer": "news",
       "url": "https://www.koreadaily.com/article/20261015150021320",
@@ -2285,24 +2303,6 @@
       "published": "2026-10-13T11:16:00+09:00",
       "date": "2026.10.13",
       "publisher": "industrynews.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "비급여 한계 넘는다… 위고비, 성인 비만 급여 신청 '카드'",
-      "layer": "news",
-      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171102&ref=naverpc",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-12T05:30:00+09:00",
-      "date": "2026.10.12",
-      "publisher": "medicaltimes.com"
     }
   ],
   "highlights": {
@@ -2345,12 +2345,12 @@
       },
       {
         "level": "High",
-        "title": "FDA 승인도 안 났는데…차세대 비만약 ‘레타트루타이드’ 버젓이 판매",
+        "title": "국산 비만약 '에페', 마운자로 반값... 출시일은?",
         "layer": "news",
-        "url": "https://www.koreadaily.com/article/20261015150021320",
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187364",
         "date": "2026.10.16",
-        "published": "2026-10-16T07:02:00+09:00",
-        "publisher": "koreadaily.com"
+        "published": "2026-10-16T19:02:00+09:00",
+        "publisher": "ggilbo.com"
       }
     ],
     "PT404": [
@@ -2392,12 +2392,12 @@
       },
       {
         "level": "High",
-        "title": "위고비·마운자로 처방 후 안과질환·급성췌장염 진료…“처방 전 병력...",
+        "title": "국산 비만약 '에페', 마운자로 반값... 출시일은?",
         "layer": "news",
-        "url": "https://www.womennews.co.kr/news/articleView.html?idxno=283289",
-        "date": "2026.10.14",
-        "published": "2026-10-14T12:33:00+09:00",
-        "publisher": "womennews.co.kr"
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187364",
+        "date": "2026.10.16",
+        "published": "2026-10-16T19:02:00+09:00",
+        "publisher": "ggilbo.com"
       }
     ],
     "PND3174": [
