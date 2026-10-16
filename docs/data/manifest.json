@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-15T23:07:58.055045+09:00",
+  "updated_at": "2026-10-16T09:00:09.320001+09:00",
   "dates": [
+    {
+      "date": "2026-10-16",
+      "total": 2327,
+      "counts": {
+        "core": 329,
+        "obesity": 624,
+        "npr": 320,
+        "platform": 494,
+        "reg": 340,
+        "mkt": 220
+      }
+    },
     {
       "date": "2026-10-15",
       "total": 2745,
@@ -1727,7 +1739,7 @@
     }
   ],
   "papers": {
-    "total": 5101,
+    "total": 5108,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1737,19 +1749,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 963,
+    "total": 964,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8474,
+  "news_recent_total": 8196,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2151,
-      "papers": 488,
+      "news": 2118,
+      "papers": 489,
       "trials": 170,
-      "total": 2809,
+      "total": 2777,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1776,11 +1788,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1815,
+      "news": 1776,
       "papers": 325,
       "trials": 123,
-      "total": 2263,
-      "recent": "2026-10-15T22:53:10+09:00",
+      "total": 2224,
+      "recent": "2026-10-16T08:02:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1808,10 +1820,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 62,
-      "papers": 165,
+      "news": 57,
+      "papers": 166,
       "trials": 41,
-      "total": 268,
+      "total": 264,
       "recent": "2026-10-15T08:36:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -1838,10 +1850,10 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 7,
+      "news": 6,
       "papers": 45,
       "trials": 5,
-      "total": 57,
+      "total": 56,
       "recent": "2026-10-13T00:00:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
@@ -1871,51 +1883,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 424,
+      "news": 415,
       "papers": 0,
       "trials": 0,
-      "total": 424,
-      "recent": "2026-10-15T16:04:00+09:00",
+      "total": 415,
+      "recent": "2026-10-16T07:02:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 120,
+      "news": 110,
       "papers": 0,
       "trials": 0,
-      "total": 120,
-      "recent": "2026-10-15T09:38:02+09:00",
+      "total": 110,
+      "recent": "2026-10-16T06:44:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 150,
+      "news": 146,
       "papers": 0,
       "trials": 0,
-      "total": 150,
-      "recent": "2026-10-15T15:44:00+09:00",
+      "total": 146,
+      "recent": "2026-10-16T06:31:02+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 596,
+      "news": 566,
       "papers": 0,
       "trials": 0,
-      "total": 596,
-      "recent": "2026-10-15T18:24:00+09:00",
+      "total": 566,
+      "recent": "2026-10-16T07:54:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 572,
+      "news": 553,
       "papers": 1,
       "trials": 0,
-      "total": 573,
-      "recent": "2026-10-15T18:26:00+09:00",
+      "total": 554,
+      "recent": "2026-10-16T08:35:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -1931,30 +1943,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 397,
-      "yesterday": 514
+      "today": 88,
+      "yesterday": 405
     },
     "paper": {
-      "today": 6,
-      "yesterday": 21
+      "today": 1,
+      "yesterday": 7
     },
     "trial": {
-      "today": 4,
-      "yesterday": 5
+      "today": 0,
+      "yesterday": 4
     },
     "regulatory": {
-      "today": 7,
-      "yesterday": 15
+      "today": 1,
+      "yesterday": 7
     }
   },
   "trend": [
-    {
-      "date": "2026-09-16",
-      "news": 285,
-      "paper": 35,
-      "trial": 4,
-      "regulatory": 8
-    },
     {
       "date": "2026-09-17",
       "news": 421,
@@ -2035,7 +2040,7 @@
     {
       "date": "2026-09-28",
       "news": 291,
-      "paper": 24,
+      "paper": 25,
       "trial": 4,
       "regulatory": 0
     },
@@ -2049,7 +2054,7 @@
     {
       "date": "2026-09-30",
       "news": 428,
-      "paper": 20,
+      "paper": 23,
       "trial": 12,
       "regulatory": 19
     },
@@ -2111,7 +2116,7 @@
     },
     {
       "date": "2026-10-09",
-      "news": 163,
+      "news": 165,
       "paper": 26,
       "trial": 7,
       "regulatory": 5
@@ -2132,7 +2137,7 @@
     },
     {
       "date": "2026-10-12",
-      "news": 400,
+      "news": 402,
       "paper": 20,
       "trial": 0,
       "regulatory": 0
@@ -2147,16 +2152,23 @@
     {
       "date": "2026-10-14",
       "news": 514,
-      "paper": 21,
+      "paper": 22,
       "trial": 5,
       "regulatory": 15
     },
     {
       "date": "2026-10-15",
-      "news": 397,
-      "paper": 6,
+      "news": 405,
+      "paper": 7,
       "trial": 4,
       "regulatory": 7
+    },
+    {
+      "date": "2026-10-16",
+      "news": 88,
+      "paper": 1,
+      "trial": 0,
+      "regulatory": 1
     }
   ],
   "alerts": [
@@ -2228,6 +2240,22 @@
     {
       "level": "High",
       "score": 12,
+      "title": "FDA 승인도 안 났는데…차세대 비만약 ‘레타트루타이드’ 버젓이 판매",
+      "layer": "news",
+      "url": "https://www.koreadaily.com/article/20261015150021320",
+      "companies": [
+        "lilly"
+      ],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-10-16T07:02:00+09:00",
+      "date": "2026.10.16",
+      "publisher": "koreadaily.com"
+    },
+    {
+      "level": "High",
+      "score": 12,
       "title": "위고비·마운자로 처방 후 안과질환·급성췌장염 진료…“처방 전 병력...",
       "layer": "news",
       "url": "https://www.womennews.co.kr/news/articleView.html?idxno=283289",
@@ -2275,21 +2303,6 @@
       "published": "2026-10-12T05:30:00+09:00",
       "date": "2026.10.12",
       "publisher": "medicaltimes.com"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "fda approved weight loss drugs 2026 tirzepatide semaglutide retatrutide",
-      "layer": "news",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTUyVTFTd1dOTW5JeUxoMHFPYUFVYklzN3hIWWFXT1NrUTE4SFZLX3BUd1dBeTdIeHQ1Wi14amhYSVktclZMWHZLb3J0ZlZQalVBS0RGZU8yRUk2bE9wek4wYzd6bDJyVVZKM1kybmtvZVFSaUNfbHlzX1dCTFduSGdBWmVPcTAxQl9yMFJUQURTczIySk16UTJjV0pvNWVGYVZGZGVCREljclZTYnZVcHR3?oc=5",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-10T17:14:43+09:00",
-      "date": "2026.10.10",
-      "publisher": "BusinessWorld Online"
     }
   ],
   "highlights": {
@@ -2332,12 +2345,12 @@
       },
       {
         "level": "High",
-        "title": "위고비·마운자로 처방 후 안과질환·급성췌장염 진료…“처방 전 병력...",
+        "title": "FDA 승인도 안 났는데…차세대 비만약 ‘레타트루타이드’ 버젓이 판매",
         "layer": "news",
-        "url": "https://www.womennews.co.kr/news/articleView.html?idxno=283289",
-        "date": "2026.10.14",
-        "published": "2026-10-14T12:33:00+09:00",
-        "publisher": "womennews.co.kr"
+        "url": "https://www.koreadaily.com/article/20261015150021320",
+        "date": "2026.10.16",
+        "published": "2026-10-16T07:02:00+09:00",
+        "publisher": "koreadaily.com"
       }
     ],
     "PT404": [

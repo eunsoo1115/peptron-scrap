@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T23:06:56.180402+09:00",
-  "total": 5101,
+  "updated_at": "2026-10-16T08:59:03.787168+09:00",
+  "total": 5108,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -575,6 +575,22 @@
       "companies": []
     },
     {
+      "title": "Methodological considerations for indirect treatment comparisons of HIV incidence for long-acting injectable pre-exposure prophylaxis",
+      "summary": "Curteis T et al. · Journal of comparative effectiveness research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878002/",
+      "publisher": "Journal of comparative effectiveness research",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.15",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "How lipid ingestion is sensed: the mechanisms underlying intestinal hormone secretion",
       "summary": "Santos-Hernández M et al. · Clinical science (London, England : 1979)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42719962/",
@@ -901,6 +917,22 @@
       "summary": "Koppisetti H et al. · Drug delivery and translational research",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42875717/",
       "publisher": "Drug delivery and translational research",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-14T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.14",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Meningioma regression following depot medroxyprogesterone acetate withdrawal: a case series",
+      "summary": "De John B et al. · BMJ neurology open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877727/",
+      "publisher": "BMJ neurology open",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -5231,6 +5263,56 @@
       "companies": []
     },
     {
+      "title": "GLP-1-Based therapies for obesity-related heart failure with preserved ejection fraction: an umbrella review incorporating broader heart failure and cardiometabolic evidence",
+      "summary": "Li Q et al. · Frontiers in cardiovascular medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876799/",
+      "publisher": "Frontiers in cardiovascular medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Emerging NPR-B agonists for cartilage and bone: from CNP biology to translational compound design",
+      "summary": "Ago Y et al. · Frontiers in chemistry",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877102/",
+      "publisher": "Frontiers in chemistry",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.30",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [
+        "PND3174"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Chemically modified gelatin derivatives: synthetic strategies, physicochemical properties, biodegradation, drug delivery and biomedical applications",
+      "summary": "Kunwar A et al. · Frontiers in pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877048/",
+      "publisher": "Frontiers in pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.30",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Potential bone marrow-driven reduction of circulating inflammatory monocytes by semaglutide in Type 2 diabetes",
       "summary": "Teunis CJ et al. · European heart journal",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42806711/",
@@ -6075,6 +6157,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Cardiometabolic therapy for rhythm control: a case report of refractory atrial fibrillation resolving after initiation of semaglutide for obesity",
+      "summary": "Weitkamp FM et al. · European heart journal. Case reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877389/",
+      "publisher": "European heart journal. Case reports",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -22118,6 +22218,22 @@
       "summary": "Palacek K et al. · Frontiers in psychiatry",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42694803/",
       "publisher": "Frontiers in psychiatry",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-20T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.20",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 receptor agonists and tendon healing: a systematic review and meta-analysis",
+      "summary": "Khayyat MY et al. · Archives of medical science : AMS",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877202/",
+      "publisher": "Archives of medical science : AMS",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
