@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-17T16:44:40.931633+09:00",
+  "updated_at": "2026-10-17T21:55:37.742462+09:00",
   "dates": [
     {
       "date": "2026-10-17",
-      "total": 2475,
+      "total": 2530,
       "counts": {
-        "core": 333,
-        "obesity": 708,
-        "npr": 329,
-        "platform": 504,
-        "reg": 343,
-        "mkt": 258
+        "core": 338,
+        "obesity": 732,
+        "npr": 332,
+        "platform": 514,
+        "reg": 349,
+        "mkt": 265
       }
     },
     {
@@ -1751,7 +1751,7 @@
     }
   ],
   "papers": {
-    "total": 5160,
+    "total": 5163,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1765,15 +1765,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8176,
+  "news_recent_total": 8194,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2137,
-      "papers": 491,
+      "news": 2143,
+      "papers": 492,
       "trials": 170,
-      "total": 2798,
+      "total": 2805,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1800,11 +1800,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1777,
+      "news": 1782,
       "papers": 328,
       "trials": 123,
-      "total": 2228,
-      "recent": "2026-10-17T14:20:27+09:00",
+      "total": 2233,
+      "recent": "2026-10-17T19:53:38+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1832,10 +1832,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 61,
+      "news": 62,
       "papers": 169,
       "trials": 41,
-      "total": 271,
+      "total": 272,
       "recent": "2026-10-17T05:30:12+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -1905,11 +1905,11 @@
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 102,
+      "news": 103,
       "papers": 0,
       "trials": 0,
-      "total": 102,
-      "recent": "2026-10-16T06:44:00+09:00",
+      "total": 103,
+      "recent": "2026-10-17T17:01:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -1955,12 +1955,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 85,
-      "yesterday": 259
+      "today": 102,
+      "yesterday": 260
     },
     "paper": {
       "today": 0,
-      "yesterday": 12
+      "yesterday": 15
     },
     "trial": {
       "today": 0,
@@ -2170,14 +2170,14 @@
     },
     {
       "date": "2026-10-16",
-      "news": 259,
-      "paper": 12,
+      "news": 260,
+      "paper": 15,
       "trial": 3,
       "regulatory": 4
     },
     {
       "date": "2026-10-17",
-      "news": 85,
+      "news": 102,
       "paper": 0,
       "trial": 0,
       "regulatory": 1

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T16:43:32.195267+09:00",
-  "total": 5160,
+  "updated_at": "2026-10-17T21:54:41.440284+09:00",
+  "total": 5163,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -663,6 +663,56 @@
       "date": "2026.10.16",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women",
+      "summary": "Deanfield J et al. · Nature medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42888249/",
+      "publisher": "Nature medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Qualitative Exit Interviews to Characterize the Positive Treatment Experiences of Patients in the Phase III Trial of Orforglipron Versus Oral Semaglutide for the Treatment of Type 2 Diabetes",
+      "summary": "Boye K et al. · The patient",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42888373/",
+      "publisher": "The patient",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "First Report of Biallelic NPPC Variants Causing Acromesomelic Type of Short Stature",
+      "summary": "Amalnath D et al. · American journal of medical genetics. Part A",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42888861/",
+      "publisher": "American journal of medical genetics. Part A",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.16",
+      "year": 2026,
+      "category": "npr",
       "pipelines": [],
       "companies": []
     },
