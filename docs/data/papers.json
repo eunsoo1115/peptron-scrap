@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T17:45:44.792714+09:00",
-  "total": 5205,
+  "updated_at": "2026-10-20T01:25:07.815156+09:00",
+  "total": 5211,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -475,6 +475,56 @@
       "companies": []
     },
     {
+      "title": "Tirzepatide-Associated Lithium Toxicity: A Case Report",
+      "summary": "Davis J et al. · Journal of clinical psychopharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895194/",
+      "publisher": "Journal of clinical psychopharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-19T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.19",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Positioning of Depemokimab in Uncontrolled Severe Asthma",
+      "summary": "Miralles-López JC et al. · Journal of investigational allergology & clinical immunology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895519/",
+      "publisher": "Journal of investigational allergology & clin",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-19T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.19",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Long-acting injectable antipsychotics in schizophrenia management: population-based epidemiological study of longitudinal prescribing practices in Ireland (2014-2024)",
+      "summary": "Fitzgerald I et al. · BJPsych open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894419/",
+      "publisher": "BJPsych open",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-19T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.19",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Targeting the Gut Microbiota-Metabolism Axis: Novel Pharmacological Mechanisms and Translational Application Strategies for Oral Antidiabetic Drugs",
       "summary": "Yang R et al. · Medicinal research reviews",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42893515/",
@@ -568,6 +618,25 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Economic evaluation of tirzepatide, semaglutide, and liraglutide in the treatment of obese and overweight patients without diabetes: a short-term cost-effectiveness analysis in Iran",
+      "summary": "Reiszadeh N et al. · Journal of diabetes and metabolic disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894545/",
+      "publisher": "Journal of diabetes and metabolic disorders",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -5958,6 +6027,38 @@
       "date": "2026.10.01",
       "year": 2026,
       "category": "npr",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Gastrointestinal Symptom Events and Motility Alterations Associated With GLP-1 Receptor Agonists",
+      "summary": "Cisneros JZ et al. · Neurogastroenterology and motility",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894471/",
+      "publisher": "Neurogastroenterology and motility",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Vascular dementia and vascular cognitive impairment-current treatments and future prospects",
+      "summary": "Markus HS · International journal of stroke : official journal of the International Stroke Society",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894468/",
+      "publisher": "International journal of stroke : official jo",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -19040,6 +19141,22 @@
       "summary": "Wheeler AA et al. · Missouri medicine",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42891416/",
       "publisher": "Missouri medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Chronic kidney disease as a systemic disorder: filtration phenotypes, inflammation and cardiovascular risk in the cardio-kidney metabolic era",
+      "summary": "Valtuille RA et al. · Panminerva medica",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895046/",
+      "publisher": "Panminerva medica",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -85276,22 +85393,6 @@
       "pipelines": [
         "PND3174"
       ],
-      "companies": []
-    },
-    {
-      "title": "Development of a depot formulation with an in situ non-lamellar liquid crystal-forming system with phospholipids",
-      "summary": "Todo H et al. · Frontiers in drug delivery",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40838067/",
-      "publisher": "Frontiers in drug delivery",
-      "source": "pubmed",
-      "layer": "paper",
-      "region": "",
-      "published": "2023-10-19T00:00:00+09:00",
-      "time": "00:00",
-      "date": "2023.10.19",
-      "year": 2023,
-      "category": "platform",
-      "pipelines": [],
       "companies": []
     }
   ]
