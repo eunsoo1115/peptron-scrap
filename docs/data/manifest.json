@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-20T23:17:33.994568+09:00",
+  "updated_at": "2026-10-21T09:15:18.312361+09:00",
   "dates": [
+    {
+      "date": "2026-10-21",
+      "total": 2294,
+      "counts": {
+        "core": 324,
+        "obesity": 599,
+        "npr": 315,
+        "platform": 505,
+        "reg": 316,
+        "mkt": 235
+      }
+    },
     {
       "date": "2026-10-20",
       "total": 2852,
@@ -1787,7 +1799,7 @@
     }
   ],
   "papers": {
-    "total": 5237,
+    "total": 5252,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1797,19 +1809,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 985,
+    "total": 991,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8199,
+  "news_recent_total": 8224,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2094,
-      "papers": 499,
+      "news": 2073,
+      "papers": 501,
       "trials": 172,
-      "total": 2765,
+      "total": 2746,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1836,11 +1848,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1701,
+      "news": 1685,
       "papers": 335,
       "trials": 123,
-      "total": 2159,
-      "recent": "2026-10-20T22:45:36+09:00",
+      "total": 2143,
+      "recent": "2026-10-21T08:22:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1935,86 +1947,79 @@
       "papers": 0,
       "trials": 0,
       "total": 412,
-      "recent": "2026-10-20T21:01:00+09:00",
+      "recent": "2026-10-21T06:10:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 185,
+      "news": 193,
       "papers": 0,
       "trials": 0,
-      "total": 185,
-      "recent": "2026-10-20T21:16:00+09:00",
+      "total": 193,
+      "recent": "2026-10-21T08:58:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 131,
+      "news": 132,
       "papers": 0,
       "trials": 0,
-      "total": 131,
-      "recent": "2026-10-20T13:12:00+09:00",
+      "total": 132,
+      "recent": "2026-10-21T06:10:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 573,
+      "news": 575,
       "papers": 0,
       "trials": 0,
-      "total": 573,
-      "recent": "2026-10-20T18:38:56+09:00",
+      "total": 575,
+      "recent": "2026-10-21T07:46:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 523,
+      "news": 532,
       "papers": 1,
       "trials": 0,
-      "total": 524,
-      "recent": "2026-10-20T23:08:00+09:00",
+      "total": 533,
+      "recent": "2026-10-21T08:46:00+09:00",
       "logo": "logos/novo.png"
     },
     {
       "id": "amgen",
       "label": "암젠 (Amgen)",
-      "news": 2,
+      "news": 3,
       "papers": 0,
       "trials": 0,
-      "total": 2,
-      "recent": "2026-10-01T04:40:00+09:00",
+      "total": 3,
+      "recent": "2026-10-21T01:55:00+09:00",
       "logo": "logos/amgen.png"
     }
   ],
   "kpi": {
     "news": {
-      "today": 294,
-      "yesterday": 311
+      "today": 100,
+      "yesterday": 313
     },
     "paper": {
-      "today": 2,
-      "yesterday": 21
+      "today": 0,
+      "yesterday": 6
     },
     "trial": {
-      "today": 7,
-      "yesterday": 13
+      "today": 0,
+      "yesterday": 7
     },
     "regulatory": {
-      "today": 13,
-      "yesterday": 4
+      "today": 6,
+      "yesterday": 13
     }
   },
   "trend": [
-    {
-      "date": "2026-09-21",
-      "news": 357,
-      "paper": 28,
-      "trial": 12,
-      "regulatory": 1
-    },
     {
       "date": "2026-09-22",
       "news": 346,
@@ -2073,7 +2078,7 @@
     },
     {
       "date": "2026-09-30",
-      "news": 428,
+      "news": 429,
       "paper": 24,
       "trial": 12,
       "regulatory": 19
@@ -2081,7 +2086,7 @@
     {
       "date": "2026-10-01",
       "news": 436,
-      "paper": 77,
+      "paper": 78,
       "trial": 5,
       "regulatory": 20
     },
@@ -2109,7 +2114,7 @@
     {
       "date": "2026-10-05",
       "news": 138,
-      "paper": 18,
+      "paper": 22,
       "trial": 18,
       "regulatory": 0
     },
@@ -2123,7 +2128,7 @@
     {
       "date": "2026-10-07",
       "news": 415,
-      "paper": 24,
+      "paper": 25,
       "trial": 6,
       "regulatory": 14
     },
@@ -2137,14 +2142,14 @@
     {
       "date": "2026-10-09",
       "news": 165,
-      "paper": 27,
+      "paper": 28,
       "trial": 7,
       "regulatory": 5
     },
     {
       "date": "2026-10-10",
       "news": 119,
-      "paper": 12,
+      "paper": 13,
       "trial": 0,
       "regulatory": 5
     },
@@ -2172,7 +2177,7 @@
     {
       "date": "2026-10-14",
       "news": 518,
-      "paper": 24,
+      "paper": 25,
       "trial": 5,
       "regulatory": 15
     },
@@ -2185,38 +2190,45 @@
     },
     {
       "date": "2026-10-16",
-      "news": 270,
+      "news": 272,
       "paper": 17,
       "trial": 3,
       "regulatory": 4
     },
     {
       "date": "2026-10-17",
-      "news": 117,
-      "paper": 5,
+      "news": 120,
+      "paper": 6,
       "trial": 0,
       "regulatory": 1
     },
     {
       "date": "2026-10-18",
-      "news": 104,
+      "news": 107,
       "paper": 2,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-10-19",
-      "news": 311,
+      "news": 312,
       "paper": 21,
       "trial": 13,
       "regulatory": 4
     },
     {
       "date": "2026-10-20",
-      "news": 294,
-      "paper": 2,
+      "news": 313,
+      "paper": 6,
       "trial": 7,
       "regulatory": 13
+    },
+    {
+      "date": "2026-10-21",
+      "news": 100,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 6
     }
   ],
   "alerts": [
