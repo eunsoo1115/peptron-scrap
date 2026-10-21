@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T17:29:49.563031+09:00",
-  "total": 5258,
+  "updated_at": "2026-10-21T23:28:15.026496+09:00",
+  "total": 5260,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -688,6 +688,41 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Oral Versus Injectable Incretin-Based Anti-Obesity Therapies: An Integrated Computational and Evidence-Based Comparison of Orforglipron, Semaglutide, and Tirzepatide",
+      "summary": "Sahu L et al. · Omics : a journal of integrative biology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902597/",
+      "publisher": "Omics : a journal of integrative biology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-20T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.20",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Periocular surgery risk after glucagon-like peptide-1 receptor agonist therapy for type 2 diabetes",
+      "summary": "Ahuja AS et al. · Orbit (Amsterdam, Netherlands)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902521/",
+      "publisher": "Orbit (Amsterdam, Netherlands)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-20T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.20",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
