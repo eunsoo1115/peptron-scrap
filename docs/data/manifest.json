@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-25T08:52:59.637045+09:00",
+  "updated_at": "2026-10-25T17:21:37.929287+09:00",
   "dates": [
     {
       "date": "2026-10-25",
-      "total": 2297,
+      "total": 2550,
       "counts": {
-        "core": 329,
-        "obesity": 609,
-        "npr": 320,
-        "platform": 484,
-        "reg": 319,
-        "mkt": 236
+        "core": 336,
+        "obesity": 705,
+        "npr": 343,
+        "platform": 557,
+        "reg": 342,
+        "mkt": 267
       }
     },
     {
@@ -1847,7 +1847,7 @@
     }
   ],
   "papers": {
-    "total": 5342,
+    "total": 5370,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1861,15 +1861,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8178,
+  "news_recent_total": 8257,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2083,
-      "papers": 512,
+      "news": 2110,
+      "papers": 518,
       "trials": 174,
-      "total": 2769,
+      "total": 2802,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1896,11 +1896,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1692,
-      "papers": 342,
+      "news": 1717,
+      "papers": 347,
       "trials": 125,
-      "total": 2159,
-      "recent": "2026-10-25T08:00:00+09:00",
+      "total": 2189,
+      "recent": "2026-10-25T16:24:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2001,11 +2001,11 @@
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 237,
+      "news": 240,
       "papers": 0,
       "trials": 0,
-      "total": 237,
-      "recent": "2026-10-24T12:18:00+09:00",
+      "total": 240,
+      "recent": "2026-10-25T10:36:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -2021,11 +2021,11 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 555,
+      "news": 556,
       "papers": 0,
       "trials": 0,
-      "total": 555,
-      "recent": "2026-10-25T08:00:00+09:00",
+      "total": 556,
+      "recent": "2026-10-25T10:08:07+09:00",
       "logo": "logos/lilly.png"
     },
     {
@@ -2051,12 +2051,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 16,
-      "yesterday": 84
+      "today": 92,
+      "yesterday": 87
     },
     "paper": {
       "today": 0,
-      "yesterday": 1
+      "yesterday": 5
     },
     "trial": {
       "today": 0,
@@ -2092,7 +2092,7 @@
     {
       "date": "2026-09-29",
       "news": 334,
-      "paper": 27,
+      "paper": 28,
       "trial": 17,
       "regulatory": 4
     },
@@ -2106,7 +2106,7 @@
     {
       "date": "2026-10-01",
       "news": 436,
-      "paper": 81,
+      "paper": 83,
       "trial": 5,
       "regulatory": 20
     },
@@ -2134,7 +2134,7 @@
     {
       "date": "2026-10-05",
       "news": 139,
-      "paper": 23,
+      "paper": 24,
       "trial": 18,
       "regulatory": 0
     },
@@ -2155,14 +2155,14 @@
     {
       "date": "2026-10-08",
       "news": 367,
-      "paper": 29,
+      "paper": 30,
       "trial": 6,
       "regulatory": 3
     },
     {
       "date": "2026-10-09",
       "news": 165,
-      "paper": 29,
+      "paper": 31,
       "trial": 7,
       "regulatory": 5
     },
@@ -2211,7 +2211,7 @@
     {
       "date": "2026-10-16",
       "news": 274,
-      "paper": 18,
+      "paper": 19,
       "trial": 3,
       "regulatory": 4
     },
@@ -2246,7 +2246,7 @@
     {
       "date": "2026-10-21",
       "news": 308,
-      "paper": 13,
+      "paper": 14,
       "trial": 3,
       "regulatory": 6
     },
@@ -2260,20 +2260,20 @@
     {
       "date": "2026-10-23",
       "news": 418,
-      "paper": 11,
+      "paper": 16,
       "trial": 11,
       "regulatory": 11
     },
     {
       "date": "2026-10-24",
-      "news": 84,
-      "paper": 1,
+      "news": 87,
+      "paper": 5,
       "trial": 0,
       "regulatory": 4
     },
     {
       "date": "2026-10-25",
-      "news": 16,
+      "news": 92,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
