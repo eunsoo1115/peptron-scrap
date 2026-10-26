@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T17:48:18.328953+09:00",
-  "total": 5376,
+  "updated_at": "2026-10-27T01:04:45.868112+09:00",
+  "total": 5387,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -539,6 +539,56 @@
       "companies": []
     },
     {
+      "title": "Glucagon-Like Peptide-1 Receptor Agonist Use Is Associated With Increased Peripheral Nerve Compression After Bariatric Surgery",
+      "summary": "Biaggi-Ondina A et al. · Hand (New York, N.Y.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42929395/",
+      "publisher": "Hand (New York, N.Y.)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-26T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.26",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Characteristics and Treatment Utilisation Patterns of Individuals Using Tirzepatide for Type 2 Diabetes in Germany",
+      "summary": "Füchtenbusch M et al. · Advances in therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928086/",
+      "publisher": "Advances in therapy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-26T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.26",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Efficacy and Safety of Lonapegsomatropin in Children With Turner Syndrome: 52-Week Results From the New InsiGHTS Trial",
+      "summary": "Davis SM et al. · The Journal of clinical endocrinology and metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42929032/",
+      "publisher": "The Journal of clinical endocrinology and met",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-26T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.26",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "[Efficacy and safety of GLP-1 receptor agonists combined with bariatric surgery for obesity: a timing-stratified systematic review]",
       "summary": "He MC et al. · Zhonghua wei chang wai ke za zhi = Chinese journal of gastrointestinal surgery",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42927970/",
@@ -552,6 +602,40 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Neuropsychiatric Outcomes Associated With GLP-1 Receptor Agonist Use in Medicare Beneficiaries With Type 2 Diabetes: Variation by Treatment Pattern and Obesity Status",
+      "summary": "Baik SH et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928425/",
+      "publisher": "Diabetes, obesity & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Impact of Semaglutide Introduction on the Use of Concomitant Medications: An Interrupted Time Series",
+      "summary": "Roland N et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928048/",
+      "publisher": "Diabetes, obesity & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -1367,6 +1451,22 @@
       "companies": []
     },
     {
+      "title": "Real-World Pharmacological Patterns and Residual Cardiometabolic Risk in Patients with Type 2 Diabetes in Romania",
+      "summary": "Petca BL et al. · Diseases (Basel, Switzerland)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42930014/",
+      "publisher": "Diseases (Basel, Switzerland)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-21T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.21",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Tirzepatide for Obstructive Sleep Apnea: Trial Evidence, Cardiometabolic Effects, and Implications for Cardiovascular Practice",
       "summary": "Arslan FS et al. · Cardiology in review",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42897716/",
@@ -2044,6 +2144,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide Attenuates Pulmonary Vascular Remodeling in Pulmonary Arterial Hypertension: Association with the SIRT1/H4K12la/c-Jun Axis",
+      "summary": "Zhan S et al. · Cells",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42929872/",
+      "publisher": "Cells",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-19T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.19",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -9146,6 +9264,24 @@
       "companies": []
     },
     {
+      "title": "EASL-EASD-EASO guidance on the use of resmetirom and semaglutide as MASH-targeted therapy",
+      "summary": "European Association for the Study of the Liver (EASL) et al. · Journal of hepatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805503/",
+      "publisher": "Journal of hepatology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-29T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.29",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "Treatment With a GLP-1 Receptor Agonist Versus Reduction of the Gastrojejunal Anastomosis Diameter Using Endoscopic Argon Plasma Coagulation for Recurrent Weight Gain After Roux-en-Y Gastric Bypass",
       "summary": "Mera-Carreiro S et al. · Obesity surgery",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42802300/",
@@ -10059,6 +10195,22 @@
       "companies": []
     },
     {
+      "title": "Perioperative Safety Considerations and Surgical Outcomes Associated With GLP-1-Based Therapies: A Systematic Review",
+      "summary": "Rodrigues da Cunha M et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928739/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.25",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Molecular insights into GLP-1 receptor agonists and emerging metabolic-inflammatory targets in Hidradenitis suppurativa",
       "summary": "Brogaard E et al. · Expert opinion on therapeutic targets",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42779274/",
@@ -10569,6 +10721,22 @@
       "summary": "Hu J et al. · Journal of medicinal chemistry",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42916694/",
       "publisher": "Journal of medicinal chemistry",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-24T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.24",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "IcoSema in Weight Management and Glycaemic Control: A Systematic Review and Meta-Analysis",
+      "summary": "Nouh MI et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928846/",
+      "publisher": "Cureus",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -35896,6 +36064,22 @@
       "summary": "Chabassier A et al. · Mayo Clinic proceedings. Digital health",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42746268/",
       "publisher": "Mayo Clinic proceedings. Digital health",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Neuropsychiatric adverse event reporting with GLP-1-based therapies: a post-marketing pharmacovigilance analysis using the WHO global individual case safety report database (VigiBase)",
+      "summary": "Liang J et al. · BMC pharmacology & toxicology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928322/",
+      "publisher": "BMC pharmacology & toxicology",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
