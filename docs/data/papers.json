@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T08:40:40.985439+09:00",
-  "total": 5375,
+  "updated_at": "2026-10-26T17:48:18.328953+09:00",
+  "total": 5376,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -533,6 +533,22 @@
       "published": "2026-10-31T00:00:00+09:00",
       "time": "00:00",
       "date": "2026.10.31",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "[Efficacy and safety of GLP-1 receptor agonists combined with bariatric surgery for obesity: a timing-stratified systematic review]",
+      "summary": "He MC et al. · Zhonghua wei chang wai ke za zhi = Chinese journal of gastrointestinal surgery",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927970/",
+      "publisher": "Zhonghua wei chang wai ke za zhi = Chinese jo",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-25T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.25",
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
