@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-28T09:50:41.143347+09:00",
+  "updated_at": "2026-10-28T18:35:02.724423+09:00",
   "dates": [
     {
       "date": "2026-10-28",
-      "total": 2828,
+      "total": 3188,
       "counts": {
-        "core": 348,
-        "obesity": 915,
-        "npr": 359,
-        "platform": 570,
-        "reg": 339,
-        "mkt": 297
+        "core": 368,
+        "obesity": 1084,
+        "npr": 371,
+        "platform": 617,
+        "reg": 385,
+        "mkt": 363
       }
     },
     {
@@ -1883,7 +1883,7 @@
     }
   ],
   "papers": {
-    "total": 5494,
+    "total": 5512,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1893,19 +1893,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 1023,
+    "total": 1024,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8902,
+  "news_recent_total": 9118,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2232,
-      "papers": 532,
+      "news": 2274,
+      "papers": 534,
       "trials": 175,
-      "total": 2939,
+      "total": 2983,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1932,11 +1932,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1807,
-      "papers": 354,
+      "news": 1861,
+      "papers": 355,
       "trials": 126,
-      "total": 2287,
-      "recent": "2026-10-28T09:34:00+09:00",
+      "total": 2342,
+      "recent": "2026-10-28T18:12:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -1994,11 +1994,11 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 5,
+      "news": 6,
       "papers": 45,
       "trials": 5,
-      "total": 55,
-      "recent": "2026-10-21T15:41:00+09:00",
+      "total": 56,
+      "recent": "2026-10-28T17:48:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -2027,51 +2027,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 442,
+      "news": 450,
       "papers": 0,
       "trials": 0,
-      "total": 442,
-      "recent": "2026-10-28T08:12:00+09:00",
+      "total": 450,
+      "recent": "2026-10-28T18:06:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 273,
+      "news": 281,
       "papers": 0,
       "trials": 0,
-      "total": 273,
-      "recent": "2026-10-28T09:42:00+09:00",
+      "total": 281,
+      "recent": "2026-10-28T16:54:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 99,
+      "news": 119,
       "papers": 0,
       "trials": 0,
-      "total": 99,
-      "recent": "2026-10-28T09:12:00+09:00",
+      "total": 119,
+      "recent": "2026-10-28T18:16:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 626,
+      "news": 631,
       "papers": 0,
       "trials": 0,
-      "total": 626,
-      "recent": "2026-10-28T06:12:00+09:00",
+      "total": 631,
+      "recent": "2026-10-28T18:12:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 439,
+      "news": 445,
       "papers": 1,
       "trials": 0,
-      "total": 440,
-      "recent": "2026-10-28T04:06:51+09:00",
+      "total": 446,
+      "recent": "2026-10-28T18:12:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2087,19 +2087,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 121,
-      "yesterday": 505
+      "today": 299,
+      "yesterday": 542
     },
     "paper": {
-      "today": 0,
-      "yesterday": 11
+      "today": 2,
+      "yesterday": 21
     },
     "trial": {
       "today": 0,
       "yesterday": 4
     },
     "regulatory": {
-      "today": 9,
+      "today": 10,
       "yesterday": 6
     }
   },
@@ -2121,7 +2121,7 @@
     {
       "date": "2026-10-01",
       "news": 436,
-      "paper": 88,
+      "paper": 89,
       "trial": 5,
       "regulatory": 20
     },
@@ -2205,7 +2205,7 @@
     {
       "date": "2026-10-13",
       "news": 424,
-      "paper": 18,
+      "paper": 20,
       "trial": 12,
       "regulatory": 0
     },
@@ -2267,7 +2267,7 @@
     },
     {
       "date": "2026-10-22",
-      "news": 330,
+      "news": 331,
       "paper": 15,
       "trial": 9,
       "regulatory": 3
@@ -2302,17 +2302,17 @@
     },
     {
       "date": "2026-10-27",
-      "news": 505,
-      "paper": 11,
+      "news": 542,
+      "paper": 21,
       "trial": 4,
       "regulatory": 6
     },
     {
       "date": "2026-10-28",
-      "news": 121,
-      "paper": 0,
+      "news": 299,
+      "paper": 2,
       "trial": 0,
-      "regulatory": 9
+      "regulatory": 10
     }
   ],
   "alerts": [
@@ -2436,20 +2436,18 @@
     {
       "level": "High",
       "score": 12,
-      "title": "'한국판 위고비' 에페 출격… 비만약 오남용에도 재경고등 [똑똑한 웰니...",
+      "title": "“피자 덜 먹고 옷도 작게 입고”…美 비만약이 바꾼 소비지도",
       "layer": "news",
-      "url": "https://www.fnnews.com/news/202610231328437394",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04549366645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "companies": [
-        "lilly",
         "novo"
       ],
       "pipelines": [
-        "PT403",
-        "PT404"
+        "PT403"
       ],
-      "published": "2026-10-25T08:00:00+09:00",
-      "date": "2026.10.25",
-      "publisher": "fnnews.com"
+      "published": "2026-10-28T13:51:00+09:00",
+      "date": "2026.10.28",
+      "publisher": "이데일리"
     }
   ],
   "highlights": {
