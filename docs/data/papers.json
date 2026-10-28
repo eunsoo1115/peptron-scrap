@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T18:33:57.449013+09:00",
-  "total": 5512,
+  "updated_at": "2026-10-29T00:55:08.709494+09:00",
+  "total": 5521,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -587,6 +587,38 @@
       "companies": []
     },
     {
+      "title": "A Phase 2, Double-Blind, Randomized, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Acmopatide (CT-868), a Fully Biased GLP-1/GIP Receptor Agonist, in Adults With Type 1 Diabetes and Overweight or Obesity",
+      "summary": "Klein KR et al. · Diabetes care",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949535/",
+      "publisher": "Diabetes care",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Multisystem Outcomes of GLP-1 Receptor Agonists Versus Active Comparators in Type 2 Diabetes: A Multicenter Target Trial Emulation",
+      "summary": "Vashisht R et al. · Journal of diabetes science and technology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949133/",
+      "publisher": "Journal of diabetes science and technology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "The use of glucagon-like peptide-1 agonists as a treatment for obesity in older people: risks and benefits",
       "summary": "Kaşkal M et al. · Current opinion in clinical nutrition and metabolic care",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42935438/",
@@ -931,6 +963,22 @@
       "companies": []
     },
     {
+      "title": "Glucagon-Like Peptide-1 Receptor Agonists and Medicaid: Insights From Policy and Prescription Data",
+      "summary": "Fung RYL et al. · Medical care research and review : MCRR",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948933/",
+      "publisher": "Medical care research and review : MCRR",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-27T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.27",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Glucagon-Like Peptide-1 Receptor Agonist Use Is Associated With Increased Peripheral Nerve Compression After Bariatric Surgery",
       "summary": "Biaggi-Ondina A et al. · Hand (New York, N.Y.)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42929395/",
@@ -1229,6 +1277,22 @@
       "summary": "Hasler G · Neuroscience of consciousness",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42936312/",
       "publisher": "Neuroscience of consciousness",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-26T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.26",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Effect of glucagon-like-peptide-1 receptor agonists on major cardiovascular outcomes: a systematic review and meta-analysis",
+      "summary": "Saleem MF et al. · Monaldi archives for chest disease = Archivio Monaldi per le malattie del torace",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948977/",
+      "publisher": "Monaldi archives for chest disease = Archivio",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -1662,6 +1726,40 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "The Impact of Incretin-Based Therapies on Anthropometric and Metabolic Parameters in Women with Polyendocrine Metabolic Ovarian Syndrome",
+      "summary": "Koceva A et al. · Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948675/",
+      "publisher": "Diabetes, metabolic syndrome and obesity : ta",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Pancreatic and Gallbladder Adverse Events Associated with Tirzepatide in Obesity Management: A Scoping Review",
+      "summary": "Kutsyba T et al. · Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948670/",
+      "publisher": "Diabetes, metabolic syndrome and obesity : ta",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -4130,6 +4228,22 @@
       "date": "2026.10.15",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Prescription denials for GLP-1 receptor agonists across commercial, Medicare, and Medicaid coverage, 2018-2024",
+      "summary": "Jia M et al. · Health affairs scholar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948647/",
+      "publisher": "Health affairs scholar",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.15",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -10153,6 +10267,24 @@
       "companies": []
     },
     {
+      "title": "Starvation-associated high-anion gap metabolic acidosis following short-term oral semaglutide use: A case report",
+      "summary": "Salamat A et al. · The Journal of international medical research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948992/",
+      "publisher": "The Journal of international medical research",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "Physicochemical, structural, and in-vitro release properties of low methoxyl pectin-based particle gel beads incorporating apigenin-loaded porous starch for colon-targeted delivery system",
       "summary": "Jeong Y et al. · Food research international (Ottawa, Ont.)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42409520/",
@@ -11622,6 +11754,22 @@
       "date": "2026.09.27",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Systemic Glucose-Lowering Therapies and Periodontal and Peri-Implant Outcomes in Adults With Type 2 Diabetes Mellitus: A Systematic Review",
+      "summary": "Hakami AA et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948780/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-27T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.27",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
