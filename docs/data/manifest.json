@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-10-31T10:10:35.929182+09:00",
+  "updated_at": "2026-10-31T18:33:18.633370+09:00",
   "dates": [
     {
       "date": "2026-10-31",
-      "total": 2656,
+      "total": 2864,
       "counts": {
-        "core": 359,
-        "obesity": 800,
-        "npr": 344,
-        "platform": 528,
-        "reg": 366,
-        "mkt": 259
+        "core": 365,
+        "obesity": 875,
+        "npr": 366,
+        "platform": 564,
+        "reg": 402,
+        "mkt": 292
       }
     },
     {
@@ -1919,7 +1919,7 @@
     }
   ],
   "papers": {
-    "total": 5589,
+    "total": 5596,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1933,15 +1933,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 9145,
+  "news_recent_total": 9200,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2316,
-      "papers": 540,
+      "news": 2333,
+      "papers": 541,
       "trials": 177,
-      "total": 3033,
+      "total": 3051,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1968,11 +1968,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1907,
-      "papers": 362,
+      "news": 1929,
+      "papers": 363,
       "trials": 128,
-      "total": 2397,
-      "recent": "2026-10-31T10:00:00+09:00",
+      "total": 2420,
+      "recent": "2026-10-31T18:07:09+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2031,10 +2031,10 @@
       "id": "PT320",
       "label": "PT320",
       "news": 4,
-      "papers": 45,
+      "papers": 46,
       "trials": 5,
-      "total": 54,
-      "recent": "2026-10-28T17:48:00+09:00",
+      "total": 55,
+      "recent": "2026-10-30T00:00:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -2093,21 +2093,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 723,
+      "news": 729,
       "papers": 0,
       "trials": 0,
-      "total": 723,
-      "recent": "2026-10-31T08:57:00+09:00",
+      "total": 729,
+      "recent": "2026-10-31T16:37:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 391,
+      "news": 393,
       "papers": 1,
       "trials": 0,
-      "total": 392,
-      "recent": "2026-10-31T05:40:00+09:00",
+      "total": 394,
+      "recent": "2026-10-31T15:01:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2123,12 +2123,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 60,
-      "yesterday": 463
+      "today": 105,
+      "yesterday": 467
     },
     "paper": {
       "today": 2,
-      "yesterday": 7
+      "yesterday": 13
     },
     "trial": {
       "today": 0,
@@ -2276,7 +2276,7 @@
     {
       "date": "2026-10-21",
       "news": 311,
-      "paper": 20,
+      "paper": 21,
       "trial": 3,
       "regulatory": 6
     },
@@ -2310,7 +2310,7 @@
     },
     {
       "date": "2026-10-26",
-      "news": 299,
+      "news": 300,
       "paper": 21,
       "trial": 9,
       "regulatory": 0
@@ -2324,28 +2324,28 @@
     },
     {
       "date": "2026-10-28",
-      "news": 381,
+      "news": 384,
       "paper": 14,
       "trial": 11,
       "regulatory": 10
     },
     {
       "date": "2026-10-29",
-      "news": 444,
+      "news": 446,
       "paper": 20,
       "trial": 4,
       "regulatory": 13
     },
     {
       "date": "2026-10-30",
-      "news": 463,
-      "paper": 7,
+      "news": 467,
+      "paper": 13,
       "trial": 5,
       "regulatory": 23
     },
     {
       "date": "2026-10-31",
-      "news": 60,
+      "news": 105,
       "paper": 2,
       "trial": 0,
       "regulatory": 8
