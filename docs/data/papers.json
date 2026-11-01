@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T19:21:33.848107+09:00",
-  "total": 5624,
+  "updated_at": "2026-11-02T00:58:04.420762+09:00",
+  "total": 5625,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -1192,6 +1192,22 @@
       "date": "2026.10.30",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Change-of-function fibroblast growth factor receptor 3 mutations causing skeletal dysplasias",
+      "summary": "Roy T et al. · Journal of cell communication and signaling",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967007/",
+      "publisher": "Journal of cell communication and signaling",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.30",
+      "year": 2026,
+      "category": "npr",
       "pipelines": [],
       "companies": []
     },
@@ -11760,6 +11776,40 @@
       "companies": []
     },
     {
+      "title": "Restoring Metabolic Architecture in the South Asian Thin-Outside-Fat-Inside (TOFI) Phenotype: A Mechanistic Rationale for Combining Abscisic Acid and β-Aminoisobutyric Acid",
+      "summary": "Bhutani A et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967192/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Non-ST Elevation Myocardial Infarction Following Significant Weight Loss During Tirzepatide Therapy: A Case Report",
+      "summary": "Roy A et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967089/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "Physicochemical, structural, and in-vitro release properties of low methoxyl pectin-based particle gel beads incorporating apigenin-loaded porous starch for colon-targeted delivery system",
       "summary": "Jeong Y et al. · Food research international (Ottawa, Ont.)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42409520/",
@@ -12189,6 +12239,24 @@
       "title": "Lithium Toxicity Following Initiation of Semaglutide in a Patient With Bipolar Disorder: A Case Report",
       "summary": "Dhingra A et al. · Cureus",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42964850/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Cutaneous Adverse Events With Semaglutide: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+      "summary": "Ganjre S et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42966951/",
       "publisher": "Cureus",
       "source": "pubmed",
       "layer": "paper",
@@ -92113,56 +92181,6 @@
       "year": 2023,
       "category": "platform",
       "pipelines": [],
-      "companies": []
-    },
-    {
-      "title": "Natriuretic Peptide Receptor B Protects Against Atrial Fibrillation by Controlling Atrial cAMP Via Phosphodiesterase 2",
-      "summary": "Dorey TW et al. · Circulation. Arrhythmia and electrophysiology",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/37933567/",
-      "publisher": "Circulation. Arrhythmia and electrophysiology",
-      "source": "pubmed",
-      "layer": "paper",
-      "region": "",
-      "published": "2023-11-01T00:00:00+09:00",
-      "time": "00:00",
-      "date": "2023.11.01",
-      "year": 2023,
-      "category": "npr",
-      "pipelines": [],
-      "companies": []
-    },
-    {
-      "title": "Determination of cognitive status and influencing variables in patients with chronic neck pain: A cross-sectional study",
-      "summary": "Oz M et al. · Applied neuropsychology. Adult",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/34597197/",
-      "publisher": "Applied neuropsychology. Adult",
-      "source": "pubmed",
-      "layer": "paper",
-      "region": "",
-      "published": "2023-11-01T00:00:00+09:00",
-      "time": "00:00",
-      "date": "2023.11.01",
-      "year": 2023,
-      "category": "npr",
-      "pipelines": [],
-      "companies": []
-    },
-    {
-      "title": "Vosoritide, a miracle drug, covering unmet need in achondroplasia: A regulatory update",
-      "summary": "Simran et al. · Intractable & rare diseases research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38024582/",
-      "publisher": "Intractable & rare diseases research",
-      "source": "pubmed",
-      "layer": "paper",
-      "region": "",
-      "published": "2023-11-01T00:00:00+09:00",
-      "time": "00:00",
-      "date": "2023.11.01",
-      "year": 2023,
-      "category": "npr",
-      "pipelines": [
-        "PND3174"
-      ],
       "companies": []
     }
   ]
