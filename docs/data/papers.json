@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T19:54:36.800612+09:00",
-  "total": 5640,
+  "updated_at": "2026-11-03T04:25:21.246611+09:00",
+  "total": 5651,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -635,6 +635,90 @@
       "companies": []
     },
     {
+      "title": "PET Imaging of Dual GLP-1R and GIPR Targeting with [18F]AlF-NOTA-Asp2-Tirzepatide",
+      "summary": "Tudi K et al. · Molecular pharmaceutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969740/",
+      "publisher": "Molecular pharmaceutics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "GLP-1 Receptor Agonists Versus Empagliflozin or Dapagliflozin in the MASLD-Heart Failure Phenotype: An Exploratory Propensity-Matched Cohort Study",
+      "summary": "Gautam N et al. · Balkan medical journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969666/",
+      "publisher": "Balkan medical journal",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide and Cardiovascular Death: a Systematic Review and Meta-Analysis Cardioprotective Efficacy of Semaglutide",
+      "summary": "Marino G et al. · Critical pathways in cardiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969445/",
+      "publisher": "Critical pathways in cardiology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Formulations at the Nanoscale: Multi-dimensional Electron Diffraction of Long-Acting Injectable, Cabotegravir",
+      "summary": "Leung HW et al. · Molecular pharmaceutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969722/",
+      "publisher": "Molecular pharmaceutics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.02",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Efinaconazole-Loaded Liposomal Nanocarriers: A Box-Behnken Design Approach in Formulation Designing and Optimization for Onychomycosis",
+      "summary": "Singh M et al. · Drug development and industrial pharmacy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969218/",
+      "publisher": "Drug development and industrial pharmacy",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.02",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Oral Janus nanomotor covalent conjugation rapeseed protein-derived DPP-IV inhibitory peptide and liraglutide: A self-propelled targeted delivery system for promoting insulin secretion and glucose-lowering",
       "summary": "Dong H et al. · Food research international (Ottawa, Ont.)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42692655/",
@@ -877,6 +961,40 @@
       "date": "2026.11.01",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide-associated severe euvolemic hyponatremia with syndrome of inappropriate antidiuretic hormone secretion-compatible biochemical features",
+      "summary": "Prasad NT · Indian journal of pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969999/",
+      "publisher": "Indian journal of pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "The pharmacological frontier in obstructive sleep apnoea: From pathophysiologic endotypes to precision medicine",
+      "summary": "Kumar H et al. · Lung India : official organ of Indian Chest Society",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969596/",
+      "publisher": "Lung India : official organ of Indian Chest S",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.01",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -6349,6 +6467,22 @@
       "date": "2026.10.14",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Relationship Between Osteoarthritis and Metabolic Diseases: A Bibliometric and Visual Analysis",
+      "summary": "Weng Y et al. · Archives of rheumatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969449/",
+      "publisher": "Archives of rheumatology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-14T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.14",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -12497,6 +12631,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Patient-centred outcomes with incretin-based therapies and sodium-glucose cotransporter 2 inhibitors in obesity-related heart failure with preserved ejection fraction: a programme-level systematic review and meta-analysis",
+      "summary": "Khan MD et al. · Cardiology in the young",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969830/",
+      "publisher": "Cardiology in the young",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-09-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.09.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -38392,6 +38542,22 @@
       "summary": "Patankar NM et al. · The Journal of the Association of Physicians of India",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42902671/",
       "publisher": "The Journal of the Association of Physicians ",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Recent evidence for reducing cardiometabolic risk in chronic kidney disease",
+      "summary": "Arora N et al. · Postgraduate medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969252/",
+      "publisher": "Postgraduate medicine",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -84832,6 +84998,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Coverage Criteria vs. Clinical Reality: Navigating Medicaid Barriers to Tirzepatide Access",
+      "summary": "Tovar YE et al. · Journal of health care for the poor and underserved",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969138/",
+      "publisher": "Journal of health care for the poor and under",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-01-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.01.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
