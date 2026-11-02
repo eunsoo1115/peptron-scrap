@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-02T10:07:32.143030+09:00",
+  "updated_at": "2026-11-02T19:55:43.067616+09:00",
   "dates": [
     {
       "date": "2026-11-02",
-      "total": 2748,
+      "total": 3142,
       "counts": {
-        "core": 353,
-        "obesity": 842,
-        "npr": 348,
-        "platform": 543,
-        "reg": 374,
-        "mkt": 288
+        "core": 374,
+        "obesity": 977,
+        "npr": 397,
+        "platform": 648,
+        "reg": 415,
+        "mkt": 331
       }
     },
     {
@@ -1943,7 +1943,7 @@
     }
   ],
   "papers": {
-    "total": 5625,
+    "total": 5640,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -1953,19 +1953,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 1068,
+    "total": 1069,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 8663,
+  "news_recent_total": 8900,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2184,
-      "papers": 547,
+      "news": 2217,
+      "papers": 548,
       "trials": 177,
-      "total": 2908,
+      "total": 2942,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -1992,11 +1992,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1795,
-      "papers": 366,
+      "news": 1822,
+      "papers": 367,
       "trials": 128,
-      "total": 2289,
-      "recent": "2026-11-02T10:02:00+09:00",
+      "total": 2317,
+      "recent": "2026-11-02T19:00:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2087,79 +2087,79 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 361,
+      "news": 379,
       "papers": 0,
       "trials": 0,
-      "total": 361,
-      "recent": "2026-11-02T05:00:00+09:00",
+      "total": 379,
+      "recent": "2026-11-02T16:34:27+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 266,
+      "news": 267,
       "papers": 0,
       "trials": 0,
-      "total": 266,
-      "recent": "2026-11-02T05:00:00+09:00",
+      "total": 267,
+      "recent": "2026-11-02T12:10:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 123,
+      "news": 140,
       "papers": 0,
       "trials": 0,
-      "total": 123,
-      "recent": "2026-11-02T08:10:00+09:00",
+      "total": 140,
+      "recent": "2026-11-02T19:34:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 696,
+      "news": 710,
       "papers": 0,
       "trials": 0,
-      "total": 696,
-      "recent": "2026-11-02T09:20:00+09:00",
+      "total": 710,
+      "recent": "2026-11-02T17:10:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 371,
+      "news": 376,
       "papers": 1,
       "trials": 0,
-      "total": 372,
-      "recent": "2026-11-02T08:52:00+09:00",
+      "total": 377,
+      "recent": "2026-11-02T16:07:30+09:00",
       "logo": "logos/novo.png"
     },
     {
       "id": "amgen",
       "label": "암젠 (Amgen)",
-      "news": 3,
+      "news": 5,
       "papers": 0,
       "trials": 0,
-      "total": 3,
-      "recent": "2026-11-01T06:01:00+09:00",
+      "total": 5,
+      "recent": "2026-11-02T17:01:00+09:00",
       "logo": "logos/amgen.png"
     }
   ],
   "kpi": {
     "news": {
-      "today": 116,
-      "yesterday": 128
+      "today": 349,
+      "yesterday": 129
     },
     "paper": {
-      "today": 0,
-      "yesterday": 9
+      "today": 3,
+      "yesterday": 15
     },
     "trial": {
       "today": 0,
       "yesterday": 0
     },
     "regulatory": {
-      "today": 0,
+      "today": 1,
       "yesterday": 0
     }
   },
@@ -2222,7 +2222,7 @@
     },
     {
       "date": "2026-10-12",
-      "news": 406,
+      "news": 405,
       "paper": 33,
       "trial": 0,
       "regulatory": 0
@@ -2313,7 +2313,7 @@
     },
     {
       "date": "2026-10-25",
-      "news": 129,
+      "news": 130,
       "paper": 3,
       "trial": 0,
       "regulatory": 0
@@ -2327,7 +2327,7 @@
     },
     {
       "date": "2026-10-27",
-      "news": 559,
+      "news": 560,
       "paper": 24,
       "trial": 4,
       "regulatory": 6
@@ -2342,13 +2342,13 @@
     {
       "date": "2026-10-29",
       "news": 449,
-      "paper": 20,
+      "paper": 21,
       "trial": 4,
       "regulatory": 13
     },
     {
       "date": "2026-10-30",
-      "news": 470,
+      "news": 472,
       "paper": 18,
       "trial": 5,
       "regulatory": 23
@@ -2356,23 +2356,23 @@
     {
       "date": "2026-10-31",
       "news": 123,
-      "paper": 12,
+      "paper": 15,
       "trial": 0,
       "regulatory": 8
     },
     {
       "date": "2026-11-01",
-      "news": 128,
-      "paper": 9,
+      "news": 129,
+      "paper": 15,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-11-02",
-      "news": 116,
-      "paper": 0,
+      "news": 349,
+      "paper": 3,
       "trial": 0,
-      "regulatory": 0
+      "regulatory": 1
     }
   ],
   "alerts": [
