@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T04:25:21.418002+09:00",
-  "total": 1778,
+  "updated_at": "2026-11-03T12:08:47.691034+09:00",
+  "total": 1779,
   "year_min": 2023,
   "year_max": 2026,
   "items": [
@@ -8507,6 +8507,26 @@
       "companies": [],
       "ct_status": "완료",
       "ct_phase": "1상"
+    },
+    {
+      "title": "A Dose Escalation Trial Evaluating Safety, Efficacy, and Pharmacokinetics of Multiple Subcutaneous Doses of TransCon CNP Administered Once Weekly in Children With Achondroplasia",
+      "summary": "완료 · 2상 · Achondroplasia",
+      "url": "https://clinicaltrials.gov/study/NCT05246033",
+      "publisher": "Visen Pharmaceuticals (Shanghai) Co., Ltd.",
+      "source": "ctgov",
+      "layer": "trial",
+      "region": "",
+      "published": "2026-08-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.10",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [
+        "PND3174"
+      ],
+      "companies": [],
+      "ct_status": "완료",
+      "ct_phase": "2상"
     },
     {
       "title": "Safety and Efficacy of ABBV-295 in Adults With Obesity or Overweight With Weight-Related Comorbidities",
