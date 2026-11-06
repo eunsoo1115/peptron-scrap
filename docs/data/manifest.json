@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-06T19:44:36.732310+09:00",
+  "updated_at": "2026-11-07T01:44:29.447030+09:00",
   "dates": [
+    {
+      "date": "2026-11-07",
+      "total": 2213,
+      "counts": {
+        "core": 319,
+        "obesity": 660,
+        "npr": 287,
+        "platform": 426,
+        "reg": 294,
+        "mkt": 227
+      }
+    },
     {
       "date": "2026-11-06",
       "total": 2635,
@@ -1991,29 +2003,29 @@
     }
   ],
   "papers": {
-    "total": 5764,
+    "total": 5789,
     "year_min": 2023,
     "year_max": 2027
   },
   "trials": {
-    "total": 1798,
+    "total": 1806,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 1095,
+    "total": 1097,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 9724,
+  "news_recent_total": 9349,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2326,
+      "news": 2230,
       "papers": 558,
       "trials": 181,
-      "total": 3065,
+      "total": 2969,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2040,11 +2052,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1779,
-      "papers": 379,
+      "news": 1705,
+      "papers": 381,
       "trials": 129,
-      "total": 2287,
-      "recent": "2026-11-06T18:05:23+09:00",
+      "total": 2215,
+      "recent": "2026-11-07T00:33:45+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2072,11 +2084,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 54,
+      "news": 48,
       "papers": 174,
       "trials": 41,
-      "total": 269,
-      "recent": "2026-11-06T06:54:04+09:00",
+      "total": 263,
+      "recent": "2026-11-06T22:12:59+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -2135,51 +2147,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 399,
+      "news": 353,
       "papers": 0,
       "trials": 0,
-      "total": 399,
-      "recent": "2026-11-06T18:00:00+09:00",
+      "total": 353,
+      "recent": "2026-11-06T21:44:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 289,
+      "news": 285,
       "papers": 0,
       "trials": 0,
-      "total": 289,
+      "total": 285,
       "recent": "2026-11-06T15:50:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 155,
+      "news": 144,
       "papers": 0,
       "trials": 0,
-      "total": 155,
+      "total": 144,
       "recent": "2026-11-06T17:44:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 716,
+      "news": 682,
       "papers": 0,
       "trials": 0,
-      "total": 716,
-      "recent": "2026-11-06T13:31:00+09:00",
+      "total": 682,
+      "recent": "2026-11-07T01:29:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 461,
+      "news": 447,
       "papers": 1,
       "trials": 0,
-      "total": 462,
-      "recent": "2026-11-06T16:10:00+09:00",
+      "total": 448,
+      "recent": "2026-11-07T00:50:34+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2195,30 +2207,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 288,
-      "yesterday": 404
+      "today": 8,
+      "yesterday": 322
     },
     "paper": {
       "today": 0,
-      "yesterday": 22
+      "yesterday": 7
     },
     "trial": {
       "today": 0,
-      "yesterday": 9
+      "yesterday": 11
     },
     "regulatory": {
-      "today": 8,
-      "yesterday": 3
+      "today": 2,
+      "yesterday": 8
     }
   },
   "trend": [
-    {
-      "date": "2026-10-08",
-      "news": 367,
-      "paper": 29,
-      "trial": 6,
-      "regulatory": 3
-    },
     {
       "date": "2026-10-09",
       "news": 166,
@@ -2313,7 +2318,7 @@
     {
       "date": "2026-10-22",
       "news": 331,
-      "paper": 15,
+      "paper": 19,
       "trial": 9,
       "regulatory": 3
     },
@@ -2334,7 +2339,7 @@
     {
       "date": "2026-10-25",
       "news": 130,
-      "paper": 4,
+      "paper": 5,
       "trial": 0,
       "regulatory": 0
     },
@@ -2376,14 +2381,14 @@
     {
       "date": "2026-10-31",
       "news": 126,
-      "paper": 16,
+      "paper": 17,
       "trial": 0,
       "regulatory": 8
     },
     {
       "date": "2026-11-01",
       "news": 135,
-      "paper": 22,
+      "paper": 26,
       "trial": 0,
       "regulatory": 0
     },
@@ -2403,24 +2408,31 @@
     },
     {
       "date": "2026-11-04",
-      "news": 396,
+      "news": 398,
       "paper": 8,
-      "trial": 6,
+      "trial": 5,
       "regulatory": 15
     },
     {
       "date": "2026-11-05",
-      "news": 404,
-      "paper": 22,
+      "news": 405,
+      "paper": 25,
       "trial": 9,
       "regulatory": 3
     },
     {
       "date": "2026-11-06",
-      "news": 288,
+      "news": 322,
+      "paper": 7,
+      "trial": 11,
+      "regulatory": 8
+    },
+    {
+      "date": "2026-11-07",
+      "news": 8,
       "paper": 0,
       "trial": 0,
-      "regulatory": 8
+      "regulatory": 2
     }
   ],
   "alerts": [
@@ -2459,39 +2471,6 @@
     },
     {
       "level": "High",
-      "score": 14,
-      "title": "한국판 위고비·마운자로 나온다… 한미약품 ‘에페’ 식약처 허가",
-      "layer": "news",
-      "url": "https://www.segye.com/newsView/20261007520173?OutUrl=naver",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-07T21:18:00+09:00",
-      "date": "2026.10.07",
-      "publisher": "segye.com"
-    },
-    {
-      "level": "High",
-      "score": 14,
-      "title": "한미약품 ‘국산 첫 GLP-1 비만 신약’, 식약처 허가... 애프터마켓 주가...",
-      "layer": "news",
-      "url": "https://www.mediawatch.kr/news/article.html?no=261297",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-07T18:18:00+09:00",
-      "date": "2026.10.07",
-      "publisher": "mediawatch.kr"
-    },
-    {
-      "level": "High",
       "score": 13,
       "title": "\"위고비·마운자로 긴장해라\"...비만약 '춘추전국시대' 열린다",
       "layer": "news",
@@ -2526,23 +2505,6 @@
     },
     {
       "level": "High",
-      "score": 13,
-      "title": "국산 비만약 등판… 한미 '에페' 식약처 허가",
-      "layer": "news",
-      "url": "https://www.fnnews.com/news/202610072126486628",
-      "companies": [
-        "lilly"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-07T21:29:00+09:00",
-      "date": "2026.10.07",
-      "publisher": "fnnews.com"
-    },
-    {
-      "level": "High",
       "score": 12,
       "title": "“피자 덜 먹고 옷도 작게 입고”…美 비만약이 바꾼 소비지도",
       "layer": "news",
@@ -2556,6 +2518,58 @@
       "published": "2026-10-28T13:51:00+09:00",
       "date": "2026.10.28",
       "publisher": "이데일리"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "'한국판 위고비' 에페 출격… 비만약 오남용에도 재경고등 [똑똑한 웰니...",
+      "layer": "news",
+      "url": "https://www.fnnews.com/news/202610231328437394",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-25T08:00:00+09:00",
+      "date": "2026.10.25",
+      "publisher": "fnnews.com"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "국산 비만약 '에페', 마운자로 반값... 출시일은?",
+      "layer": "news",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187364",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-16T19:02:00+09:00",
+      "date": "2026.10.16",
+      "publisher": "ggilbo.com"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "FDA 승인도 안 났는데…차세대 비만약 ‘레타트루타이드’ 버젓이 판매",
+      "layer": "news",
+      "url": "https://www.koreadaily.com/article/20261015150021320",
+      "companies": [
+        "lilly"
+      ],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-10-16T07:02:00+09:00",
+      "date": "2026.10.16",
+      "publisher": "koreadaily.com"
     }
   ],
   "highlights": {
@@ -2580,30 +2594,30 @@
       },
       {
         "level": "High",
-        "title": "한국판 위고비·마운자로 나온다… 한미약품 ‘에페’ 식약처 허가",
-        "layer": "news",
-        "url": "https://www.segye.com/newsView/20261007520173?OutUrl=naver",
-        "date": "2026.10.07",
-        "published": "2026-10-07T21:18:00+09:00",
-        "publisher": "segye.com"
-      },
-      {
-        "level": "High",
-        "title": "한미약품 ‘국산 첫 GLP-1 비만 신약’, 식약처 허가... 애프터마켓 주가...",
-        "layer": "news",
-        "url": "https://www.mediawatch.kr/news/article.html?no=261297",
-        "date": "2026.10.07",
-        "published": "2026-10-07T18:18:00+09:00",
-        "publisher": "mediawatch.kr"
-      },
-      {
-        "level": "High",
         "title": "\"위고비·마운자로 긴장해라\"...비만약 '춘추전국시대' 열린다",
         "layer": "news",
         "url": "https://magazine.hankyung.com/business/article/202610228118b",
         "date": "2026.10.22",
         "published": "2026-10-22T17:05:00+09:00",
         "publisher": "한국경제"
+      },
+      {
+        "level": "High",
+        "title": "위고비·마운자로 다음 주자는…차세대 비만약, 한국서 임상 경쟁",
+        "layer": "news",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=557219",
+        "date": "2026.10.22",
+        "published": "2026-10-22T09:06:00+09:00",
+        "publisher": "joongangenews.com"
+      },
+      {
+        "level": "High",
+        "title": "“피자 덜 먹고 옷도 작게 입고”…美 비만약이 바꾼 소비지도",
+        "layer": "news",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=04549366645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "date": "2026.10.28",
+        "published": "2026-10-28T13:51:00+09:00",
+        "publisher": "이데일리"
       }
     ],
     "PT404": [
@@ -2627,30 +2641,30 @@
       },
       {
         "level": "High",
-        "title": "한국판 위고비·마운자로 나온다… 한미약품 ‘에페’ 식약처 허가",
-        "layer": "news",
-        "url": "https://www.segye.com/newsView/20261007520173?OutUrl=naver",
-        "date": "2026.10.07",
-        "published": "2026-10-07T21:18:00+09:00",
-        "publisher": "segye.com"
-      },
-      {
-        "level": "High",
-        "title": "한미약품 ‘국산 첫 GLP-1 비만 신약’, 식약처 허가... 애프터마켓 주가...",
-        "layer": "news",
-        "url": "https://www.mediawatch.kr/news/article.html?no=261297",
-        "date": "2026.10.07",
-        "published": "2026-10-07T18:18:00+09:00",
-        "publisher": "mediawatch.kr"
-      },
-      {
-        "level": "High",
         "title": "\"위고비·마운자로 긴장해라\"...비만약 '춘추전국시대' 열린다",
         "layer": "news",
         "url": "https://magazine.hankyung.com/business/article/202610228118b",
         "date": "2026.10.22",
         "published": "2026-10-22T17:05:00+09:00",
         "publisher": "한국경제"
+      },
+      {
+        "level": "High",
+        "title": "위고비·마운자로 다음 주자는…차세대 비만약, 한국서 임상 경쟁",
+        "layer": "news",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=557219",
+        "date": "2026.10.22",
+        "published": "2026-10-22T09:06:00+09:00",
+        "publisher": "joongangenews.com"
+      },
+      {
+        "level": "High",
+        "title": "'한국판 위고비' 에페 출격… 비만약 오남용에도 재경고등 [똑똑한 웰니...",
+        "layer": "news",
+        "url": "https://www.fnnews.com/news/202610231328437394",
+        "date": "2026.10.25",
+        "published": "2026-10-25T08:00:00+09:00",
+        "publisher": "fnnews.com"
       }
     ],
     "PND3174": [
