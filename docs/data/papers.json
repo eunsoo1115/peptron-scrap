@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T10:53:39.462185+09:00",
-  "total": 5760,
+  "updated_at": "2026-11-06T19:43:27.695968+09:00",
+  "total": 5764,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -887,6 +887,74 @@
       "date": "2026.11.05",
       "year": 2026,
       "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide Versus Diet-Based Weight Loss in Obesity and Heart Failure with Reduced Ejection Fraction (FIT-HF): Protocol for a Randomized Controlled Trial",
+      "summary": "El-Sheikh M et al. · Clinical nutrition ESPEN",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988221/",
+      "publisher": "Clinical nutrition ESPEN",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-05T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.05",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Associations between Antidiabetic Drug Classes and Aortic Aneurysm Risk in Patients with Type 2 Diabetes: A Nationwide Cohort Study",
+      "summary": "Lu YW et al. · European journal of vascular and endovascular surgery : the official journal of the European Society for Vascular Surgery",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988105/",
+      "publisher": "European journal of vascular and endovascular",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-05T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.05",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "The effect of subcutaneous semaglutide injection on blood pressure: a systematic review and meta-analysis of randomized controlled trials",
+      "summary": "Ahmadi N et al. · Diabetes research and clinical practice",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987980/",
+      "publisher": "Diabetes research and clinical practice",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-05T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.05",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "An injectable dynamic double-network hydrogel induces synergistic tumor pyroptosis and immune activation for potent anti-cancer immunity",
+      "summary": "Zhou X et al. · Journal of controlled release : official journal of the Controlled Release Society",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988054/",
+      "publisher": "Journal of controlled release : official jour",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-05T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.05",
+      "year": 2026,
+      "category": "platform",
       "pipelines": [],
       "companies": []
     },
