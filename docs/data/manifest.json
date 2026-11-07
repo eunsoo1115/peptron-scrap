@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-07T18:56:35.578245+09:00",
+  "updated_at": "2026-11-08T00:38:22.330302+09:00",
   "dates": [
+    {
+      "date": "2026-11-08",
+      "total": 2171,
+      "counts": {
+        "core": 319,
+        "obesity": 651,
+        "npr": 282,
+        "platform": 413,
+        "reg": 279,
+        "mkt": 227
+      }
+    },
     {
       "date": "2026-11-07",
       "total": 2450,
@@ -2017,15 +2029,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 9440,
+  "news_recent_total": 9081,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2254,
+      "news": 2165,
       "papers": 560,
       "trials": 181,
-      "total": 2995,
+      "total": 2906,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2052,10 +2064,10 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1723,
+      "news": 1635,
       "papers": 381,
       "trials": 129,
-      "total": 2233,
+      "total": 2145,
       "recent": "2026-11-07T17:01:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2084,10 +2096,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 48,
+      "news": 47,
       "papers": 174,
       "trials": 41,
-      "total": 263,
+      "total": 262,
       "recent": "2026-11-06T22:12:59+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -2147,50 +2159,50 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 354,
+      "news": 288,
       "papers": 0,
       "trials": 0,
-      "total": 354,
+      "total": 288,
       "recent": "2026-11-07T12:48:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 286,
+      "news": 283,
       "papers": 0,
       "trials": 0,
-      "total": 286,
+      "total": 283,
       "recent": "2026-11-07T13:24:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 144,
+      "news": 141,
       "papers": 0,
       "trials": 0,
-      "total": 144,
+      "total": 141,
       "recent": "2026-11-06T17:44:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 693,
+      "news": 625,
       "papers": 0,
       "trials": 0,
-      "total": 693,
+      "total": 625,
       "recent": "2026-11-07T09:54:51+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 450,
+      "news": 434,
       "papers": 1,
       "trials": 0,
-      "total": 451,
+      "total": 435,
       "recent": "2026-11-07T18:17:16+09:00",
       "logo": "logos/novo.png"
     },
@@ -2207,30 +2219,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 86,
-      "yesterday": 330
+      "today": 0,
+      "yesterday": 92
     },
     "paper": {
       "today": 0,
-      "yesterday": 16
+      "yesterday": 0
     },
     "trial": {
       "today": 0,
-      "yesterday": 11
+      "yesterday": 0
     },
     "regulatory": {
-      "today": 22,
-      "yesterday": 8
+      "today": 0,
+      "yesterday": 22
     }
   },
   "trend": [
-    {
-      "date": "2026-10-09",
-      "news": 166,
-      "paper": 39,
-      "trial": 7,
-      "regulatory": 5
-    },
     {
       "date": "2026-10-10",
       "news": 119,
@@ -2408,7 +2413,7 @@
     },
     {
       "date": "2026-11-04",
-      "news": 398,
+      "news": 400,
       "paper": 9,
       "trial": 5,
       "regulatory": 15
@@ -2429,10 +2434,17 @@
     },
     {
       "date": "2026-11-07",
-      "news": 86,
+      "news": 92,
       "paper": 0,
       "trial": 0,
       "regulatory": 22
+    },
+    {
+      "date": "2026-11-08",
+      "news": 0,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 0
     }
   ],
   "alerts": [
@@ -2453,21 +2465,6 @@
       "published": "2026-10-22T15:18:00+09:00",
       "date": "2026.10.22",
       "publisher": "segyebiz.com"
-    },
-    {
-      "level": "High",
-      "score": 14,
-      "title": "한미약품 국산 비만신약 허가…‘위고비·마운자로’ 양강시장 흔드나",
-      "layer": "news",
-      "url": "https://www.naeil.com/news/read/604546?ref=naver",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-08T13:02:00+09:00",
-      "date": "2026.10.08",
-      "publisher": "naeil.com"
     },
     {
       "level": "High",
@@ -2570,6 +2567,21 @@
       "published": "2026-10-16T07:02:00+09:00",
       "date": "2026.10.16",
       "publisher": "koreadaily.com"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "위고비·마운자로 처방 후 안과질환·급성췌장염 진료…“처방 전 병력...",
+      "layer": "news",
+      "url": "https://www.womennews.co.kr/news/articleView.html?idxno=283289",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-10-14T12:33:00+09:00",
+      "date": "2026.10.14",
+      "publisher": "womennews.co.kr"
     }
   ],
   "highlights": {
@@ -2582,15 +2594,6 @@
         "date": "2026.10.22",
         "published": "2026-10-22T15:18:00+09:00",
         "publisher": "segyebiz.com"
-      },
-      {
-        "level": "High",
-        "title": "한미약품 국산 비만신약 허가…‘위고비·마운자로’ 양강시장 흔드나",
-        "layer": "news",
-        "url": "https://www.naeil.com/news/read/604546?ref=naver",
-        "date": "2026.10.08",
-        "published": "2026-10-08T13:02:00+09:00",
-        "publisher": "naeil.com"
       },
       {
         "level": "High",
@@ -2618,6 +2621,15 @@
         "date": "2026.10.28",
         "published": "2026-10-28T13:51:00+09:00",
         "publisher": "이데일리"
+      },
+      {
+        "level": "High",
+        "title": "'한국판 위고비' 에페 출격… 비만약 오남용에도 재경고등 [똑똑한 웰니...",
+        "layer": "news",
+        "url": "https://www.fnnews.com/news/202610231328437394",
+        "date": "2026.10.25",
+        "published": "2026-10-25T08:00:00+09:00",
+        "publisher": "fnnews.com"
       }
     ],
     "PT404": [
@@ -2629,15 +2641,6 @@
         "date": "2026.10.22",
         "published": "2026-10-22T15:18:00+09:00",
         "publisher": "segyebiz.com"
-      },
-      {
-        "level": "High",
-        "title": "한미약품 국산 비만신약 허가…‘위고비·마운자로’ 양강시장 흔드나",
-        "layer": "news",
-        "url": "https://www.naeil.com/news/read/604546?ref=naver",
-        "date": "2026.10.08",
-        "published": "2026-10-08T13:02:00+09:00",
-        "publisher": "naeil.com"
       },
       {
         "level": "High",
@@ -2665,6 +2668,15 @@
         "date": "2026.10.25",
         "published": "2026-10-25T08:00:00+09:00",
         "publisher": "fnnews.com"
+      },
+      {
+        "level": "High",
+        "title": "국산 비만약 '에페', 마운자로 반값... 출시일은?",
+        "layer": "news",
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187364",
+        "date": "2026.10.16",
+        "published": "2026-10-16T19:02:00+09:00",
+        "publisher": "ggilbo.com"
       }
     ],
     "PND3174": [
