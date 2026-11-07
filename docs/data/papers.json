@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T01:43:22.966745+09:00",
-  "total": 5789,
+  "updated_at": "2026-11-07T10:22:08.873353+09:00",
+  "total": 5793,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -712,6 +712,72 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Metabolic and biochemical predictors of glycemic response after bariatric surgery: a scoping review",
+      "summary": "Netto MPS et al. · Updates in surgery",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993473/",
+      "publisher": "Updates in surgery",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Clinical pharmacology of antidiabetic drugs: an update",
+      "summary": "Wichaiyo S · European journal of clinical pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993255/",
+      "publisher": "European journal of clinical pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Combination of ezetimibe and sericin attenuates cadmium chloride-induced neurotoxicity in an experimental rat model by suppressing oxidative stress and neuroinflammation",
+      "summary": "Temgire P et al. · Molecular biology reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993387/",
+      "publisher": "Molecular biology reports",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Disproportionality analysis of ventricular extrasystoles reported with semaglutide in VigiBase and the FDA Adverse Event Monitoring System",
+      "summary": "Wu D et al. · Naunyn-Schmiedeberg's archives of pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993217/",
+      "publisher": "Naunyn-Schmiedeberg's archives of pharmacolog",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
