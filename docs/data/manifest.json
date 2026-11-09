@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-09T20:19:59.297107+09:00",
+  "updated_at": "2026-11-10T04:44:49.188265+09:00",
   "dates": [
+    {
+      "date": "2026-11-10",
+      "total": 2147,
+      "counts": {
+        "core": 302,
+        "obesity": 626,
+        "npr": 289,
+        "platform": 418,
+        "reg": 269,
+        "mkt": 243
+      }
+    },
     {
       "date": "2026-11-09",
       "total": 2582,
@@ -2027,29 +2039,29 @@
     }
   ],
   "papers": {
-    "total": 5838,
+    "total": 5850,
     "year_min": 2023,
     "year_max": 2027
   },
   "trials": {
-    "total": 1805,
+    "total": 1814,
     "year_min": 2023,
     "year_max": 2026
   },
   "regulatory": {
-    "total": 1121,
+    "total": 1125,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 9343,
+  "news_recent_total": 9305,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2210,
-      "papers": 566,
-      "trials": 181,
-      "total": 2957,
+      "news": 2182,
+      "papers": 568,
+      "trials": 183,
+      "total": 2933,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2076,11 +2088,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1630,
+      "news": 1611,
       "papers": 383,
-      "trials": 129,
-      "total": 2142,
-      "recent": "2026-11-09T19:49:33+09:00",
+      "trials": 130,
+      "total": 2124,
+      "recent": "2026-11-10T03:14:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2108,11 +2120,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 42,
+      "news": 41,
       "papers": 174,
-      "trials": 41,
+      "trials": 42,
       "total": 257,
-      "recent": "2026-11-09T10:49:00+09:00",
+      "recent": "2026-11-10T00:08:50+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -2171,11 +2183,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 313,
+      "news": 310,
       "papers": 0,
       "trials": 0,
-      "total": 313,
-      "recent": "2026-11-09T16:52:00+09:00",
+      "total": 310,
+      "recent": "2026-11-10T01:06:47+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -2201,21 +2213,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 623,
+      "news": 624,
       "papers": 0,
       "trials": 0,
-      "total": 623,
-      "recent": "2026-11-09T20:10:00+09:00",
+      "total": 624,
+      "recent": "2026-11-10T03:24:35+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 449,
+      "news": 452,
       "papers": 1,
       "trials": 0,
-      "total": 450,
-      "recent": "2026-11-09T20:10:00+09:00",
+      "total": 453,
+      "recent": "2026-11-10T03:13:41+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2231,30 +2243,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 331,
-      "yesterday": 83
+      "today": 40,
+      "yesterday": 370
     },
     "paper": {
-      "today": 1,
-      "yesterday": 7
+      "today": 0,
+      "yesterday": 6
     },
     "trial": {
       "today": 0,
-      "yesterday": 0
+      "yesterday": 9
     },
     "regulatory": {
       "today": 4,
-      "yesterday": 0
+      "yesterday": 4
     }
   },
   "trend": [
-    {
-      "date": "2026-10-11",
-      "news": 132,
-      "paper": 4,
-      "trial": 0,
-      "regulatory": 0
-    },
     {
       "date": "2026-10-12",
       "news": 405,
@@ -2383,7 +2388,7 @@
     },
     {
       "date": "2026-10-30",
-      "news": 481,
+      "news": 482,
       "paper": 22,
       "trial": 5,
       "regulatory": 23
@@ -2398,7 +2403,7 @@
     {
       "date": "2026-11-01",
       "news": 135,
-      "paper": 28,
+      "paper": 29,
       "trial": 0,
       "regulatory": 0
     },
@@ -2432,7 +2437,7 @@
     },
     {
       "date": "2026-11-06",
-      "news": 339,
+      "news": 340,
       "paper": 17,
       "trial": 11,
       "regulatory": 8
@@ -2447,14 +2452,21 @@
     {
       "date": "2026-11-08",
       "news": 83,
-      "paper": 7,
+      "paper": 11,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-11-09",
-      "news": 331,
-      "paper": 1,
+      "news": 370,
+      "paper": 6,
+      "trial": 9,
+      "regulatory": 4
+    },
+    {
+      "date": "2026-11-10",
+      "news": 40,
+      "paper": 0,
       "trial": 0,
       "regulatory": 4
     }
@@ -2693,6 +2705,15 @@
     ],
     "PND3174": [
       {
+        "level": "High",
+        "title": "Phase 3 Clinical Trial Evaluating the Efficacy and Safety of Navepegritide and Lonapegsomatropin in Achondroplasia",
+        "layer": "trial",
+        "url": "https://clinicaltrials.gov/study/NCT07924059",
+        "date": "2026.11.09",
+        "published": "2026-11-09T00:00:00+09:00",
+        "publisher": "Ascendis Pharma A/S"
+      },
+      {
         "level": "Medium",
         "title": "ASND Shares Shrug Off Positive European Opinion For FDA-Approved Achondroplasia Drug",
         "layer": "news",
@@ -2727,15 +2748,6 @@
         "date": "2026.05.07",
         "published": "2026-05-07T00:00:00+09:00",
         "publisher": "BioMarin Pharmaceutical"
-      },
-      {
-        "level": "Medium",
-        "title": "A Study to Evaluate the Efficacy and Safety of Infigratinib in Children and Adolescents With Achondroplasia",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT06164951",
-        "date": "2026.03.17",
-        "published": "2026-03-17T00:00:00+09:00",
-        "publisher": "QED Therapeutics, a BridgeBio company"
       }
     ],
     "PT320": [
