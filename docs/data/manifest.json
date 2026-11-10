@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-10T04:44:49.188265+09:00",
+  "updated_at": "2026-11-10T12:54:38.153700+09:00",
   "dates": [
     {
       "date": "2026-11-10",
-      "total": 2147,
+      "total": 2400,
       "counts": {
-        "core": 302,
-        "obesity": 626,
-        "npr": 289,
-        "platform": 418,
-        "reg": 269,
-        "mkt": 243
+        "core": 319,
+        "obesity": 785,
+        "npr": 299,
+        "platform": 431,
+        "reg": 281,
+        "mkt": 285
       }
     },
     {
@@ -2039,7 +2039,7 @@
     }
   ],
   "papers": {
-    "total": 5850,
+    "total": 5855,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2049,19 +2049,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 1125,
+    "total": 1143,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 9305,
+  "news_recent_total": 9517,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2182,
+      "news": 2277,
       "papers": 568,
       "trials": 183,
-      "total": 2933,
+      "total": 3028,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2088,11 +2088,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1611,
+      "news": 1665,
       "papers": 383,
       "trials": 130,
-      "total": 2124,
-      "recent": "2026-11-10T03:14:00+09:00",
+      "total": 2178,
+      "recent": "2026-11-10T12:42:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2183,51 +2183,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 310,
+      "news": 325,
       "papers": 0,
       "trials": 0,
-      "total": 310,
-      "recent": "2026-11-10T01:06:47+09:00",
+      "total": 325,
+      "recent": "2026-11-10T12:02:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 287,
+      "news": 289,
       "papers": 0,
       "trials": 0,
-      "total": 287,
-      "recent": "2026-11-09T15:14:00+09:00",
+      "total": 289,
+      "recent": "2026-11-10T12:10:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 145,
+      "news": 146,
       "papers": 0,
       "trials": 0,
-      "total": 145,
-      "recent": "2026-11-09T14:36:00+09:00",
+      "total": 146,
+      "recent": "2026-11-10T10:54:02+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 624,
+      "news": 646,
       "papers": 0,
       "trials": 0,
-      "total": 624,
-      "recent": "2026-11-10T03:24:35+09:00",
+      "total": 646,
+      "recent": "2026-11-10T12:41:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 452,
+      "news": 466,
       "papers": 1,
       "trials": 0,
-      "total": 453,
-      "recent": "2026-11-10T03:13:41+09:00",
+      "total": 467,
+      "recent": "2026-11-10T12:41:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2243,19 +2243,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 40,
-      "yesterday": 370
+      "today": 249,
+      "yesterday": 371
     },
     "paper": {
       "today": 0,
-      "yesterday": 6
+      "yesterday": 10
     },
     "trial": {
       "today": 0,
       "yesterday": 9
     },
     "regulatory": {
-      "today": 4,
+      "today": 22,
       "yesterday": 4
     }
   },
@@ -2437,7 +2437,7 @@
     },
     {
       "date": "2026-11-06",
-      "news": 340,
+      "news": 341,
       "paper": 17,
       "trial": 11,
       "regulatory": 8
@@ -2451,24 +2451,24 @@
     },
     {
       "date": "2026-11-08",
-      "news": 83,
+      "news": 84,
       "paper": 11,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-11-09",
-      "news": 370,
-      "paper": 6,
+      "news": 371,
+      "paper": 10,
       "trial": 9,
       "regulatory": 4
     },
     {
       "date": "2026-11-10",
-      "news": 40,
+      "news": 249,
       "paper": 0,
       "trial": 0,
-      "regulatory": 4
+      "regulatory": 22
     }
   ],
   "alerts": [
@@ -2489,6 +2489,40 @@
       "published": "2026-10-22T15:18:00+09:00",
       "date": "2026.10.22",
       "publisher": "segyebiz.com"
+    },
+    {
+      "level": "High",
+      "score": 13,
+      "title": "“비만치료제, 시력상실 위험”… 미국 FDA, 경고문구 의무화",
+      "layer": "news",
+      "url": "https://www.munhwa.com/article/11630251?ref=naver",
+      "companies": [
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-11-10T12:09:00+09:00",
+      "date": "2026.11.10",
+      "publisher": "munhwa.com"
+    },
+    {
+      "level": "High",
+      "score": 13,
+      "title": "FDA, 비만약 시력상실 경고 의무화",
+      "layer": "news",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365941",
+      "companies": [
+        "novo"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-11-10T10:54:00+09:00",
+      "date": "2026.11.10",
+      "publisher": "이데일리"
     },
     {
       "level": "High",
@@ -2527,25 +2561,9 @@
     {
       "level": "High",
       "score": 12,
-      "title": "“피자 덜 먹고 옷도 작게 입고”…美 비만약이 바꾼 소비지도",
+      "title": "미국 FDA, 비만약 '시력 손상' 경고 문구 의무화...마운자로·위고비 등...",
       "layer": "news",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=04549366645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "companies": [
-        "novo"
-      ],
-      "pipelines": [
-        "PT403"
-      ],
-      "published": "2026-10-28T13:51:00+09:00",
-      "date": "2026.10.28",
-      "publisher": "이데일리"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "'한국판 위고비' 에페 출격… 비만약 오남용에도 재경고등 [똑똑한 웰니...",
-      "layer": "news",
-      "url": "https://www.fnnews.com/news/202610231328437394",
+      "url": "https://news.jtbc.co.kr/article/NB12327335?influxDiv=NAVER",
       "companies": [
         "lilly",
         "novo"
@@ -2554,58 +2572,39 @@
         "PT403",
         "PT404"
       ],
-      "published": "2026-10-25T08:00:00+09:00",
-      "date": "2026.10.25",
-      "publisher": "fnnews.com"
+      "published": "2026-11-10T12:41:00+09:00",
+      "date": "2026.11.10",
+      "publisher": "jtbc.co.kr"
     },
     {
       "level": "High",
       "score": 12,
-      "title": "국산 비만약 '에페', 마운자로 반값... 출시일은?",
+      "title": "美 FDA, 위고비·마운자로에 시신경병증 위험 경고 요구",
       "layer": "news",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187364",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-16T19:02:00+09:00",
-      "date": "2026.10.16",
-      "publisher": "ggilbo.com"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "FDA 승인도 안 났는데…차세대 비만약 ‘레타트루타이드’ 버젓이 판매",
-      "layer": "news",
-      "url": "https://www.koreadaily.com/article/20261015150021320",
-      "companies": [
-        "lilly"
-      ],
-      "pipelines": [
-        "PT403"
-      ],
-      "published": "2026-10-16T07:02:00+09:00",
-      "date": "2026.10.16",
-      "publisher": "koreadaily.com"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "위고비·마운자로 처방 후 안과질환·급성췌장염 진료…“처방 전 병력...",
-      "layer": "news",
-      "url": "https://www.womennews.co.kr/news/articleView.html?idxno=283289",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=139742",
       "companies": [],
       "pipelines": [
         "PT403",
         "PT404"
       ],
-      "published": "2026-10-14T12:33:00+09:00",
-      "date": "2026.10.14",
-      "publisher": "womennews.co.kr"
+      "published": "2026-11-10T11:12:00+09:00",
+      "date": "2026.11.10",
+      "publisher": "newslock.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "미국 FDA, 위고비·마운자로에 '시력상실 위험' 경고문구 추가 요구",
+      "layer": "news",
+      "url": "https://news.mtn.co.kr/article/2026111009202668131",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-11-10T09:22:00+09:00",
+      "date": "2026.11.10",
+      "publisher": "mtn.co.kr"
     }
   ],
   "highlights": {
@@ -2621,6 +2620,24 @@
       },
       {
         "level": "High",
+        "title": "“비만치료제, 시력상실 위험”… 미국 FDA, 경고문구 의무화",
+        "layer": "news",
+        "url": "https://www.munhwa.com/article/11630251?ref=naver",
+        "date": "2026.11.10",
+        "published": "2026-11-10T12:09:00+09:00",
+        "publisher": "munhwa.com"
+      },
+      {
+        "level": "High",
+        "title": "FDA, 비만약 시력상실 경고 의무화",
+        "layer": "news",
+        "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365941",
+        "date": "2026.11.10",
+        "published": "2026-11-10T10:54:00+09:00",
+        "publisher": "이데일리"
+      },
+      {
+        "level": "High",
         "title": "\"위고비·마운자로 긴장해라\"...비만약 '춘추전국시대' 열린다",
         "layer": "news",
         "url": "https://magazine.hankyung.com/business/article/202610228118b",
@@ -2636,24 +2653,6 @@
         "date": "2026.10.22",
         "published": "2026-10-22T09:06:00+09:00",
         "publisher": "joongangenews.com"
-      },
-      {
-        "level": "High",
-        "title": "“피자 덜 먹고 옷도 작게 입고”…美 비만약이 바꾼 소비지도",
-        "layer": "news",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=04549366645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-        "date": "2026.10.28",
-        "published": "2026-10-28T13:51:00+09:00",
-        "publisher": "이데일리"
-      },
-      {
-        "level": "High",
-        "title": "'한국판 위고비' 에페 출격… 비만약 오남용에도 재경고등 [똑똑한 웰니...",
-        "layer": "news",
-        "url": "https://www.fnnews.com/news/202610231328437394",
-        "date": "2026.10.25",
-        "published": "2026-10-25T08:00:00+09:00",
-        "publisher": "fnnews.com"
       }
     ],
     "PT404": [
@@ -2668,6 +2667,24 @@
       },
       {
         "level": "High",
+        "title": "“비만치료제, 시력상실 위험”… 미국 FDA, 경고문구 의무화",
+        "layer": "news",
+        "url": "https://www.munhwa.com/article/11630251?ref=naver",
+        "date": "2026.11.10",
+        "published": "2026-11-10T12:09:00+09:00",
+        "publisher": "munhwa.com"
+      },
+      {
+        "level": "High",
+        "title": "FDA, 비만약 시력상실 경고 의무화",
+        "layer": "news",
+        "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365941",
+        "date": "2026.11.10",
+        "published": "2026-11-10T10:54:00+09:00",
+        "publisher": "이데일리"
+      },
+      {
+        "level": "High",
         "title": "\"위고비·마운자로 긴장해라\"...비만약 '춘추전국시대' 열린다",
         "layer": "news",
         "url": "https://magazine.hankyung.com/business/article/202610228118b",
@@ -2683,24 +2700,6 @@
         "date": "2026.10.22",
         "published": "2026-10-22T09:06:00+09:00",
         "publisher": "joongangenews.com"
-      },
-      {
-        "level": "High",
-        "title": "'한국판 위고비' 에페 출격… 비만약 오남용에도 재경고등 [똑똑한 웰니...",
-        "layer": "news",
-        "url": "https://www.fnnews.com/news/202610231328437394",
-        "date": "2026.10.25",
-        "published": "2026-10-25T08:00:00+09:00",
-        "publisher": "fnnews.com"
-      },
-      {
-        "level": "High",
-        "title": "국산 비만약 '에페', 마운자로 반값... 출시일은?",
-        "layer": "news",
-        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187364",
-        "date": "2026.10.16",
-        "published": "2026-10-16T19:02:00+09:00",
-        "publisher": "ggilbo.com"
       }
     ],
     "PND3174": [
