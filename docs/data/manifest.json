@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-10T12:54:38.153700+09:00",
+  "updated_at": "2026-11-10T20:01:09.384381+09:00",
   "dates": [
     {
       "date": "2026-11-10",
-      "total": 2400,
+      "total": 2600,
       "counts": {
-        "core": 319,
-        "obesity": 785,
-        "npr": 299,
-        "platform": 431,
-        "reg": 281,
-        "mkt": 285
+        "core": 331,
+        "obesity": 906,
+        "npr": 305,
+        "platform": 442,
+        "reg": 297,
+        "mkt": 319
       }
     },
     {
@@ -2039,7 +2039,7 @@
     }
   ],
   "papers": {
-    "total": 5855,
+    "total": 5867,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2049,19 +2049,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 1143,
+    "total": 1144,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 9517,
+  "news_recent_total": 9688,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2277,
-      "papers": 568,
+      "news": 2357,
+      "papers": 571,
       "trials": 183,
-      "total": 3028,
+      "total": 3111,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2088,11 +2088,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1665,
-      "papers": 383,
+      "news": 1714,
+      "papers": 384,
       "trials": 130,
-      "total": 2178,
-      "recent": "2026-11-10T12:42:00+09:00",
+      "total": 2228,
+      "recent": "2026-11-10T19:57:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2183,21 +2183,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 325,
+      "news": 333,
       "papers": 0,
       "trials": 0,
-      "total": 325,
-      "recent": "2026-11-10T12:02:00+09:00",
+      "total": 333,
+      "recent": "2026-11-10T16:48:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 289,
+      "news": 293,
       "papers": 0,
       "trials": 0,
-      "total": 289,
-      "recent": "2026-11-10T12:10:00+09:00",
+      "total": 293,
+      "recent": "2026-11-10T18:28:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -2213,21 +2213,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 646,
+      "news": 656,
       "papers": 0,
       "trials": 0,
-      "total": 646,
-      "recent": "2026-11-10T12:41:00+09:00",
+      "total": 656,
+      "recent": "2026-11-10T17:52:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 466,
+      "news": 470,
       "papers": 1,
       "trials": 0,
-      "total": 467,
-      "recent": "2026-11-10T12:41:00+09:00",
+      "total": 471,
+      "recent": "2026-11-10T16:58:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2243,19 +2243,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 249,
+      "today": 420,
       "yesterday": 371
     },
     "paper": {
-      "today": 0,
-      "yesterday": 10
+      "today": 1,
+      "yesterday": 21
     },
     "trial": {
       "today": 0,
       "yesterday": 9
     },
     "regulatory": {
-      "today": 22,
+      "today": 23,
       "yesterday": 4
     }
   },
@@ -2438,7 +2438,7 @@
     {
       "date": "2026-11-06",
       "news": 341,
-      "paper": 17,
+      "paper": 16,
       "trial": 11,
       "regulatory": 8
     },
@@ -2459,16 +2459,16 @@
     {
       "date": "2026-11-09",
       "news": 371,
-      "paper": 10,
+      "paper": 21,
       "trial": 9,
       "regulatory": 4
     },
     {
       "date": "2026-11-10",
-      "news": 249,
-      "paper": 0,
+      "news": 420,
+      "paper": 1,
       "trial": 0,
-      "regulatory": 22
+      "regulatory": 23
     }
   ],
   "alerts": [
@@ -2489,6 +2489,20 @@
       "published": "2026-10-22T15:18:00+09:00",
       "date": "2026.10.22",
       "publisher": "segyebiz.com"
+    },
+    {
+      "level": "High",
+      "score": 13,
+      "title": "비만치료제 시장 커지자 안전성 경고도…美 FDA, 시신경 질환 주의",
+      "layer": "news",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=325937",
+      "companies": [],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-11-10T17:00:00+09:00",
+      "date": "2026.11.10",
+      "publisher": "thepublic.kr"
     },
     {
       "level": "High",
@@ -2561,50 +2575,32 @@
     {
       "level": "High",
       "score": 12,
-      "title": "미국 FDA, 비만약 '시력 손상' 경고 문구 의무화...마운자로·위고비 등...",
+      "title": "미 FDA \"위고비·마운자로, '시력 손상 위험' 표기하라\"…식약처 \"검토 ...",
       "layer": "news",
-      "url": "https://news.jtbc.co.kr/article/NB12327335?influxDiv=NAVER",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-11-10T12:41:00+09:00",
-      "date": "2026.11.10",
-      "publisher": "jtbc.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "美 FDA, 위고비·마운자로에 시신경병증 위험 경고 요구",
-      "layer": "news",
-      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=139742",
+      "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5230125",
       "companies": [],
       "pipelines": [
         "PT403",
         "PT404"
       ],
-      "published": "2026-11-10T11:12:00+09:00",
+      "published": "2026-11-10T19:57:00+09:00",
       "date": "2026.11.10",
-      "publisher": "newslock.co.kr"
+      "publisher": "mbn.co.kr"
     },
     {
       "level": "High",
       "score": 12,
-      "title": "미국 FDA, 위고비·마운자로에 '시력상실 위험' 경고문구 추가 요구",
+      "title": "美 FDA, 위고비·마운자로에 '시력 상실' 부작용 기재 의무화",
       "layer": "news",
-      "url": "https://news.mtn.co.kr/article/2026111009202668131",
+      "url": "https://www.dailian.co.kr/news/view/1713304/?sc=Naver",
       "companies": [],
       "pipelines": [
         "PT403",
         "PT404"
       ],
-      "published": "2026-11-10T09:22:00+09:00",
+      "published": "2026-11-10T18:50:00+09:00",
       "date": "2026.11.10",
-      "publisher": "mtn.co.kr"
+      "publisher": "dailian.co.kr"
     }
   ],
   "highlights": {
@@ -2617,6 +2613,15 @@
         "date": "2026.10.22",
         "published": "2026-10-22T15:18:00+09:00",
         "publisher": "segyebiz.com"
+      },
+      {
+        "level": "High",
+        "title": "비만치료제 시장 커지자 안전성 경고도…美 FDA, 시신경 질환 주의",
+        "layer": "news",
+        "url": "https://www.thepublic.kr/news/articleView.html?idxno=325937",
+        "date": "2026.11.10",
+        "published": "2026-11-10T17:00:00+09:00",
+        "publisher": "thepublic.kr"
       },
       {
         "level": "High",
@@ -2644,15 +2649,6 @@
         "date": "2026.10.22",
         "published": "2026-10-22T17:05:00+09:00",
         "publisher": "한국경제"
-      },
-      {
-        "level": "High",
-        "title": "위고비·마운자로 다음 주자는…차세대 비만약, 한국서 임상 경쟁",
-        "layer": "news",
-        "url": "https://www.joongangenews.com/news/articleView.html?idxno=557219",
-        "date": "2026.10.22",
-        "published": "2026-10-22T09:06:00+09:00",
-        "publisher": "joongangenews.com"
       }
     ],
     "PT404": [
