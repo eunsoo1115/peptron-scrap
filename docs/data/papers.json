@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T11:35:55.608805+09:00",
-  "total": 5927,
+  "updated_at": "2026-11-12T19:54:40.671523+09:00",
+  "total": 5939,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -619,6 +619,86 @@
       "companies": []
     },
     {
+      "title": "Glucagon-like peptide-1 receptor agonist exposure is associated with lower secondary malignancy risk during watch-and-wait in chronic lymphocytic leukemia: a timevarying analysis",
+      "summary": "Shaked S et al. · Haematologica",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016386/",
+      "publisher": "Haematologica",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-12T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.12",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Neuroprotective effects of combination of ezetimibe and sericin against lead-induced neurotoxicity",
+      "summary": "Temgire P et al. · Naunyn-Schmiedeberg's archives of pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015452/",
+      "publisher": "Naunyn-Schmiedeberg's archives of pharmacolog",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-12T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.12",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "GLP-1-based Therapies in MASH: From Metabolic Benefits to an Improvement in Liver Fibrosis",
+      "summary": "Takami T · Internal medicine (Tokyo, Japan)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014742/",
+      "publisher": "Internal medicine (Tokyo, Japan)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-12T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.12",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Alginate-based long-acting injectable formulations: recent advances, biomedical applications, and translational challenges",
+      "summary": "Mukherjee S et al. · Therapeutic delivery",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016252/",
+      "publisher": "Therapeutic delivery",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-12T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.12",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Preventing Malaria Infections and Moving toward Malaria Elimination",
+      "summary": "Tchouatieu AM et al. · The New England journal of medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013819/",
+      "publisher": "The New England journal of medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-12T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.12",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "GLP-1/GLP-1R signalling in infectious diseases: basic biology, immunometabolic mechanisms, and therapeutic translation",
       "summary": "Yue X et al. · Molecular biomedicine",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43009698/",
@@ -718,6 +798,93 @@
       "category": "obesity",
       "pipelines": [
         "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Rare GLP1R variants attenuate weight loss with semaglutide but not tirzepatide",
+      "summary": "Levy ME et al. · Nature metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015368/",
+      "publisher": "Nature metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Trevogrumab (anti-GDF8) with or without garetosmab (anti-activin A) for prevention of muscle loss during semaglutide-induced weight reduction in people with obesity (COURAGE): a two-part, phase 2, double-blind, placebo-controlled, randomised trial",
+      "summary": "Mosenzon O et al. · Lancet (London, England)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014326/",
+      "publisher": "Lancet (London, England)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "From insulin resistance to neurovascular breakdown: mTOR signaling as a convergence point in Alzheimer's disease",
+      "summary": "Sharma C et al. · Neuroscience",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014439/",
+      "publisher": "Neuroscience",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Safety and efficacy of weekly pemvidutide versus placebo for metabolic dysfunction-associated steatohepatitis (IMPACT): 48-week results from a multicentre, randomised, double-blind, phase 2b study",
+      "summary": "Noureddin M et al. · The lancet. Gastroenterology & hepatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014327/",
+      "publisher": "The lancet. Gastroenterology & hepatology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide, Salivary Function, and Complete Dentures in Older Adults: Are we Overlooking the Denture-Saliva-Mucosa Interface?",
+      "summary": "Miranda DA et al. · Oral diseases",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016228/",
+      "publisher": "Oral diseases",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
       ],
       "companies": []
     },
@@ -13286,6 +13453,22 @@
       "companies": []
     },
     {
+      "title": "Use of contemporary cardiometabolic therapies in cardiac amyloidosis treated with tafamidis: A real-world propensity-matched analysis",
+      "summary": "Obaidat O et al. · Archives of cardiovascular diseases",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015149/",
+      "publisher": "Archives of cardiovascular diseases",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Semaglutide, independent of weight loss, attenuates cardiac and hepatic remodelling in experimental heart failure with preserved ejection fraction",
       "summary": "Elbatreek MH et al. · European heart journal",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42830666/",
@@ -15901,6 +16084,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Early renal injury in children and adolescents with type 1 versus type 2 diabetes mellitus: a comparative narrative review",
+      "summary": "Soliman AT et al. · Childhood kidney diseases",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016256/",
+      "publisher": "Childhood kidney diseases",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
