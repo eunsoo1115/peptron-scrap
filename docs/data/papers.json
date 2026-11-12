@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T02:02:26.577343+09:00",
-  "total": 5925,
+  "updated_at": "2026-11-12T11:35:55.608805+09:00",
+  "total": 5927,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -682,6 +682,43 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Follow-up discrepancies in a TriNetX-based comparison of preoperative tirzepatide or semaglutide use and postoperative total hip/knee arthroplasty outcomes",
+      "summary": "Wang J · European journal of orthopaedic surgery & traumatology : orthopedie traumatologie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012889/",
+      "publisher": "European journal of orthopaedic surgery & tra",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "First and Subsequent Major Cardiovascular Events With Oral Semaglutide in High-Risk Type 2 Diabetes: A Secondary Analysis of the SOUL Randomized Clinical Trial",
+      "summary": "Marx N et al. · JAMA cardiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013292/",
+      "publisher": "JAMA cardiology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {

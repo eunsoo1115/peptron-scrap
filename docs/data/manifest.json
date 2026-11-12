@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-12T02:03:30.724566+09:00",
+  "updated_at": "2026-11-12T11:36:57.758337+09:00",
   "dates": [
     {
       "date": "2026-11-12",
-      "total": 2126,
+      "total": 2398,
       "counts": {
-        "core": 316,
-        "obesity": 583,
-        "npr": 291,
-        "platform": 414,
-        "reg": 276,
-        "mkt": 246
+        "core": 323,
+        "obesity": 734,
+        "npr": 300,
+        "platform": 461,
+        "reg": 306,
+        "mkt": 274
       }
     },
     {
@@ -2063,7 +2063,7 @@
     }
   ],
   "papers": {
-    "total": 5925,
+    "total": 5927,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2077,15 +2077,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 9707,
+  "news_recent_total": 9899,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2436,
-      "papers": 575,
+      "news": 2497,
+      "papers": 577,
       "trials": 184,
-      "total": 3195,
+      "total": 3258,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2112,11 +2112,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1804,
-      "papers": 390,
+      "news": 1858,
+      "papers": 391,
       "trials": 131,
-      "total": 2325,
-      "recent": "2026-11-12T00:47:00+09:00",
+      "total": 2380,
+      "recent": "2026-11-12T11:24:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2207,11 +2207,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 321,
+      "news": 325,
       "papers": 0,
       "trials": 0,
-      "total": 321,
-      "recent": "2026-11-11T16:40:00+09:00",
+      "total": 325,
+      "recent": "2026-11-12T10:30:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -2237,21 +2237,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 638,
+      "news": 643,
       "papers": 0,
       "trials": 0,
-      "total": 638,
-      "recent": "2026-11-11T23:47:13+09:00",
+      "total": 643,
+      "recent": "2026-11-12T11:33:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 443,
+      "news": 451,
       "papers": 1,
       "trials": 0,
-      "total": 444,
-      "recent": "2026-11-11T17:06:00+09:00",
+      "total": 452,
+      "recent": "2026-11-12T11:32:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2267,12 +2267,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 12,
-      "yesterday": 463
+      "today": 187,
+      "yesterday": 471
     },
     "paper": {
       "today": 0,
-      "yesterday": 4
+      "yesterday": 6
     },
     "trial": {
       "today": 0,
@@ -2293,7 +2293,7 @@
     },
     {
       "date": "2026-10-15",
-      "news": 418,
+      "news": 419,
       "paper": 31,
       "trial": 4,
       "regulatory": 6
@@ -2321,7 +2321,7 @@
     },
     {
       "date": "2026-10-19",
-      "news": 317,
+      "news": 318,
       "paper": 32,
       "trial": 13,
       "regulatory": 4
@@ -2461,7 +2461,7 @@
     },
     {
       "date": "2026-11-08",
-      "news": 84,
+      "news": 85,
       "paper": 11,
       "trial": 0,
       "regulatory": 0
@@ -2475,21 +2475,21 @@
     },
     {
       "date": "2026-11-10",
-      "news": 495,
+      "news": 501,
       "paper": 19,
       "trial": 14,
       "regulatory": 23
     },
     {
       "date": "2026-11-11",
-      "news": 463,
-      "paper": 4,
+      "news": 471,
+      "paper": 6,
       "trial": 0,
       "regulatory": 28
     },
     {
       "date": "2026-11-12",
-      "news": 12,
+      "news": 187,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
@@ -2617,20 +2617,17 @@
     {
       "level": "High",
       "score": 12,
-      "title": "美 FDA, GLP-1 12개 제품에 희귀 시신경병증 경고 추가 지시",
+      "title": "위고비·마운자로 등 비만치료제 시력 손상 주의보",
       "layer": "news",
-      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548695",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
+      "url": "http://www.kjdaily.com/article.php?aid=1794417486691888276",
+      "companies": [],
       "pipelines": [
         "PT403",
         "PT404"
       ],
-      "published": "2026-11-11T16:54:00+09:00",
-      "date": "2026.11.11",
-      "publisher": "kpanews.co.kr"
+      "published": "2026-11-12T02:20:00+09:00",
+      "date": "2026.11.12",
+      "publisher": "kjdaily.com"
     }
   ],
   "highlights": {
