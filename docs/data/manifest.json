@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-13T02:33:23.329428+09:00",
+  "updated_at": "2026-11-13T11:14:09.149634+09:00",
   "dates": [
     {
       "date": "2026-11-13",
-      "total": 2167,
+      "total": 2395,
       "counts": {
-        "core": 323,
-        "obesity": 595,
-        "npr": 294,
-        "platform": 446,
-        "reg": 276,
-        "mkt": 233
+        "core": 330,
+        "obesity": 731,
+        "npr": 301,
+        "platform": 469,
+        "reg": 292,
+        "mkt": 272
       }
     },
     {
@@ -2075,7 +2075,7 @@
     }
   ],
   "papers": {
-    "total": 5952,
+    "total": 5955,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2085,19 +2085,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 1178,
+    "total": 1187,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 9852,
+  "news_recent_total": 10007,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2441,
+      "news": 2476,
       "papers": 579,
       "trials": 187,
-      "total": 3207,
+      "total": 3242,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2124,11 +2124,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1879,
+      "news": 1912,
       "papers": 393,
       "trials": 134,
-      "total": 2406,
-      "recent": "2026-11-13T01:20:33+09:00",
+      "total": 2439,
+      "recent": "2026-11-13T10:59:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2157,9 +2157,9 @@
       "id": "PND3174",
       "label": "PND3174",
       "news": 38,
-      "papers": 174,
+      "papers": 175,
       "trials": 43,
-      "total": 255,
+      "total": 256,
       "recent": "2026-11-13T01:42:42+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -2186,11 +2186,11 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 16,
+      "news": 17,
       "papers": 47,
       "trials": 5,
-      "total": 68,
-      "recent": "2026-11-11T07:42:00+09:00",
+      "total": 69,
+      "recent": "2026-11-13T09:40:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -2219,21 +2219,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 318,
+      "news": 321,
       "papers": 0,
       "trials": 0,
-      "total": 318,
-      "recent": "2026-11-12T16:30:00+09:00",
+      "total": 321,
+      "recent": "2026-11-13T09:36:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 291,
+      "news": 294,
       "papers": 0,
       "trials": 0,
-      "total": 291,
-      "recent": "2026-11-12T18:12:00+09:00",
+      "total": 294,
+      "recent": "2026-11-13T10:44:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -2249,21 +2249,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 668,
+      "news": 692,
       "papers": 0,
       "trials": 0,
-      "total": 668,
-      "recent": "2026-11-13T02:15:00+09:00",
+      "total": 692,
+      "recent": "2026-11-13T10:55:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 452,
+      "news": 459,
       "papers": 1,
       "trials": 0,
-      "total": 453,
-      "recent": "2026-11-13T01:42:30+09:00",
+      "total": 460,
+      "recent": "2026-11-13T10:52:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2279,19 +2279,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 34,
-      "yesterday": 519
+      "today": 181,
+      "yesterday": 524
     },
     "paper": {
       "today": 0,
-      "yesterday": 15
+      "yesterday": 18
     },
     "trial": {
       "today": 0,
       "yesterday": 19
     },
     "regulatory": {
-      "today": 6,
+      "today": 15,
       "yesterday": 0
     }
   },
@@ -2305,7 +2305,7 @@
     },
     {
       "date": "2026-10-16",
-      "news": 275,
+      "news": 276,
       "paper": 29,
       "trial": 3,
       "regulatory": 4
@@ -2480,7 +2480,7 @@
     },
     {
       "date": "2026-11-10",
-      "news": 504,
+      "news": 506,
       "paper": 19,
       "trial": 14,
       "regulatory": 23
@@ -2494,17 +2494,17 @@
     },
     {
       "date": "2026-11-12",
-      "news": 519,
-      "paper": 15,
+      "news": 524,
+      "paper": 18,
       "trial": 19,
       "regulatory": 0
     },
     {
       "date": "2026-11-13",
-      "news": 34,
+      "news": 181,
       "paper": 0,
       "trial": 0,
-      "regulatory": 6
+      "regulatory": 15
     }
   ],
   "alerts": [
@@ -2629,17 +2629,17 @@
     {
       "level": "High",
       "score": 12,
-      "title": "실명 부른다는 비만약 맞아도 될까…당뇨 환자라면 전문의와 상담해야",
+      "title": "“10㎏ 뺐지만 한쪽 눈 실명”…대만 오젬픽 사용자 피해 구제 신청",
       "layer": "news",
-      "url": "https://www.fnnews.com/news/202611121819127138",
+      "url": "https://www.donga.com/news/Health/article/all/20261113/135018589/2",
       "companies": [],
       "pipelines": [
         "PT403",
         "PT404"
       ],
-      "published": "2026-11-12T18:20:00+09:00",
-      "date": "2026.11.12",
-      "publisher": "fnnews.com"
+      "published": "2026-11-13T09:50:00+09:00",
+      "date": "2026.11.13",
+      "publisher": "donga.com"
     }
   ],
   "highlights": {
