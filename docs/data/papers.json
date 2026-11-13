@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T19:51:42.027012+09:00",
-  "total": 5968,
+  "updated_at": "2026-11-14T02:07:26.981614+09:00",
+  "total": 5973,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -2187,6 +2187,24 @@
       "companies": []
     },
     {
+      "title": "Clinical Outcomes of Tirzepatide After Metabolic Bariatric Surgery: A Systematic Review",
+      "summary": "Alfuhaydi GL et al. · Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022657/",
+      "publisher": "Diabetes, metabolic syndrome and obesity : ta",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-08T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.08",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "Phase 3 clinical development of semaglutide (2015-2026): a comprehensive evidence-based review of trial designs, therapeutic outcomes and global clinical experience",
       "summary": "Patel SK et al. · Diabetes research and clinical practice",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42998725/",
@@ -3097,6 +3115,22 @@
       "summary": "Nejhaddadgar N et al. · Neuropeptides",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42998653/",
       "publisher": "Neuropeptides",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-04T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.04",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Utilization of a Lifestyle Medicine Program for Presurgical Health Optimization: Impact on Early Postoperative Outcomes of Hip and Knee Arthroplasty",
+      "summary": "Prather H et al. · Arthroplasty today",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022359/",
+      "publisher": "Arthroplasty today",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -4310,6 +4344,22 @@
       "companies": []
     },
     {
+      "title": "Injectable Thermoresponsive Hydrogels Modified Utilizing Novel Non-Covalent Complexation Strategies for Sustained Release of 3DNA Nanocarriers",
+      "summary": "Vardar C et al. · Journal of biomedical materials research. Part B, Applied biomaterials",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023656/",
+      "publisher": "Journal of biomedical materials research. Par",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.01",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Postbiotic of Bifidobacterium breve i1088 alleviates type 2 diabetes by promoting GLP-1 secretion: identification of 5-hydroxyindoleacetic acid as a key active metabolite",
       "summary": "Niu X et al. · Food research international (Ottawa, Ont.)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42629077/",
@@ -4964,6 +5014,25 @@
       "year": 2026,
       "category": "platform",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Cardiovascular outcomes with semaglutide versus tirzepatide in patients with obesity and atherosclerotic cardiovascular disease without diabetes",
+      "summary": "Doma M et al. · American heart journal plus : cardiology research and practice",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022342/",
+      "publisher": "American heart journal plus : cardiology rese",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -5659,6 +5728,22 @@
       "summary": "Li X et al. · Frontiers in pharmacology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43017408/",
       "publisher": "Frontiers in pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-28T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.28",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Pharmacokinetics of HDM7006, a high-potency balanced GLP-1/GIP dual agonist, in healthy domestic cats",
+      "summary": "Zhang Z et al. · Frontiers in veterinary science",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022460/",
+      "publisher": "Frontiers in veterinary science",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
