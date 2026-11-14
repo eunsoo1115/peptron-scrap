@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-14T10:56:18.991650+09:00",
+  "updated_at": "2026-11-14T19:06:47.064335+09:00",
   "dates": [
     {
       "date": "2026-11-14",
-      "total": 2292,
+      "total": 2425,
       "counts": {
-        "core": 338,
-        "obesity": 678,
-        "npr": 297,
-        "platform": 431,
-        "reg": 295,
-        "mkt": 253
+        "core": 341,
+        "obesity": 735,
+        "npr": 302,
+        "platform": 447,
+        "reg": 318,
+        "mkt": 282
       }
     },
     {
@@ -2087,7 +2087,7 @@
     }
   ],
   "papers": {
-    "total": 5977,
+    "total": 5986,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2101,15 +2101,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 9781,
+  "news_recent_total": 9843,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2388,
-      "papers": 580,
+      "news": 2395,
+      "papers": 582,
       "trials": 187,
-      "total": 3155,
+      "total": 3164,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2136,11 +2136,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1859,
-      "papers": 396,
+      "news": 1875,
+      "papers": 397,
       "trials": 134,
-      "total": 2389,
-      "recent": "2026-11-14T10:30:00+09:00",
+      "total": 2406,
+      "recent": "2026-11-14T16:21:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2251,30 +2251,30 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 128,
+      "news": 129,
       "papers": 0,
       "trials": 0,
-      "total": 128,
+      "total": 129,
       "recent": "2026-11-14T09:16:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 693,
+      "news": 695,
       "papers": 0,
       "trials": 0,
-      "total": 693,
+      "total": 695,
       "recent": "2026-11-14T07:58:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 451,
+      "news": 452,
       "papers": 1,
       "trials": 0,
-      "total": 452,
+      "total": 453,
       "recent": "2026-11-14T05:56:00+09:00",
       "logo": "logos/novo.png"
     },
@@ -2291,12 +2291,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 76,
-      "yesterday": 391
+      "today": 132,
+      "yesterday": 396
     },
     "paper": {
       "today": 0,
-      "yesterday": 5
+      "yesterday": 10
     },
     "trial": {
       "today": 0,
@@ -2409,7 +2409,7 @@
     {
       "date": "2026-10-30",
       "news": 482,
-      "paper": 24,
+      "paper": 25,
       "trial": 5,
       "regulatory": 23
     },
@@ -2443,7 +2443,7 @@
     },
     {
       "date": "2026-11-04",
-      "news": 401,
+      "news": 402,
       "paper": 11,
       "trial": 5,
       "regulatory": 15
@@ -2479,14 +2479,14 @@
     {
       "date": "2026-11-09",
       "news": 378,
-      "paper": 26,
+      "paper": 27,
       "trial": 9,
       "regulatory": 4
     },
     {
       "date": "2026-11-10",
-      "news": 506,
-      "paper": 19,
+      "news": 507,
+      "paper": 20,
       "trial": 14,
       "regulatory": 23
     },
@@ -2499,21 +2499,21 @@
     },
     {
       "date": "2026-11-12",
-      "news": 528,
-      "paper": 26,
+      "news": 527,
+      "paper": 27,
       "trial": 19,
       "regulatory": 0
     },
     {
       "date": "2026-11-13",
-      "news": 391,
-      "paper": 5,
+      "news": 396,
+      "paper": 10,
       "trial": 6,
       "regulatory": 15
     },
     {
       "date": "2026-11-14",
-      "news": 76,
+      "news": 132,
       "paper": 0,
       "trial": 0,
       "regulatory": 3
@@ -2641,17 +2641,17 @@
     {
       "level": "High",
       "score": 12,
-      "title": "“10㎏ 뺐지만 한쪽 눈 실명”…대만 오젬픽 사용자 피해 구제 신청",
+      "title": "\"대만 남성, 비만치료제 맞은 뒤 실명 주장\"…첫 피해 구제 신청",
       "layer": "news",
-      "url": "https://www.donga.com/news/Health/article/all/20261113/135018589/2",
+      "url": "https://biz.sbs.co.kr/article_hub/20000346024?division=NAVER",
       "companies": [],
       "pipelines": [
         "PT403",
         "PT404"
       ],
-      "published": "2026-11-13T09:50:00+09:00",
-      "date": "2026.11.13",
-      "publisher": "donga.com"
+      "published": "2026-11-14T12:30:00+09:00",
+      "date": "2026.11.14",
+      "publisher": "biz.sbs.co.kr"
     }
   ],
   "highlights": {

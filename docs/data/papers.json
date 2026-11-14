@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T10:55:09.221166+09:00",
-  "total": 5977,
+  "updated_at": "2026-11-14T19:05:39.025742+09:00",
+  "total": 5986,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -699,6 +699,90 @@
       "companies": []
     },
     {
+      "title": "Comparative Effectiveness of GLP-1 Receptor Agonists versus DPP-4 and SGLT2 Inhibitors in Patients with Bronchiectasis and Type 2 Diabetes",
+      "summary": "Liao KM et al. · Chest",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025805/",
+      "publisher": "Chest",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-13T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.13",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Neuroprotective actions of GLP-1 receptor agonists in Neurodegeneration: From mechanisms to clinical translation",
+      "summary": "Lin Y et al. · Neuroscience",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025540/",
+      "publisher": "Neuroscience",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-13T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.13",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Kidney effects of tirzepatide across albuminuria, filtration markers, and clinical outcomes: a parent-trial-level systematic review and meta-analysis",
+      "summary": "Li S et al. · Diabetes research and clinical practice",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025465/",
+      "publisher": "Diabetes research and clinical practice",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-13T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.13",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Weight loss at a cost: Semaglutide and PYY3-36 aggravate pre-existing metabolic osteoporosis in female Wistar rats",
+      "summary": "Kloock S et al. · Bone",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025770/",
+      "publisher": "Bone",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-13T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.13",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Sustained delivery of TNF-α inhibitors using HAP/PDA-functionalized porous PLGA-based microspheres for rheumatoid arthritis therapy",
+      "summary": "Ma R et al. · International journal of pharmaceutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025523/",
+      "publisher": "International journal of pharmaceutics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-13T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.13",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Glucagon-like peptide-1 receptor agonist exposure is associated with lower secondary malignancy risk during watch-and-wait in chronic lymphocytic leukemia: a timevarying analysis",
       "summary": "Shaked S et al. · Haematologica",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43016386/",
@@ -1107,6 +1191,22 @@
       "summary": "van Hulst IA et al. · International journal of pharmaceutics",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43020206/",
       "publisher": "International journal of pharmaceutics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-12T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.12",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Physiological and fertility responses to alternative puberty induction strategies and fixed-time artificial insemination protocols in Bos indicus replacement heifers",
+      "summary": "Fontes PLP et al. · Theriogenology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025124/",
+      "publisher": "Theriogenology",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -1637,6 +1737,24 @@
       "companies": []
     },
     {
+      "title": "Evaluation of semaglutide in an ex vivo human placental perfusion model to estimate maternal-fetal transfer",
+      "summary": "Chan E et al. · Placenta",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025349/",
+      "publisher": "Placenta",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
       "title": "Long-acting growth hormone therapy in Chinese children with idiopathic short stature: efficacy evaluation and influencing factors",
       "summary": "Ye Y et al. · Journal of pediatric endocrinology & metabolism : JPEM",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42992838/",
@@ -2054,6 +2172,22 @@
       "summary": "Akif A et al. · International journal of endocrinology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43011569/",
       "publisher": "International journal of endocrinology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-09T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.09",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Natural polysaccharides targeting gut microbiota in renal fibrosis: Novel molecular mechanisms and therapeutic strategies",
+      "summary": "Yu QQ et al. · Microbiological research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025159/",
+      "publisher": "Microbiological research",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -5097,6 +5231,22 @@
         "PT403",
         "PT404"
       ],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-like peptide-1 receptor agonist use in patients with gynecologic cancer: not if, but how, is the question",
+      "summary": "Fumagalli D et al. · International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43024997/",
+      "publisher": "International journal of gynecological cancer",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
