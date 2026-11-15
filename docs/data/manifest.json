@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-15T10:25:00.014298+09:00",
+  "updated_at": "2026-11-15T19:42:12.535562+09:00",
   "dates": [
     {
       "date": "2026-11-15",
-      "total": 2288,
+      "total": 2401,
       "counts": {
-        "core": 330,
-        "obesity": 663,
-        "npr": 293,
-        "platform": 450,
-        "reg": 294,
-        "mkt": 258
+        "core": 334,
+        "obesity": 725,
+        "npr": 299,
+        "platform": 459,
+        "reg": 299,
+        "mkt": 285
       }
     },
     {
@@ -2099,7 +2099,7 @@
     }
   ],
   "papers": {
-    "total": 6015,
+    "total": 6024,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2113,15 +2113,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 9501,
+  "news_recent_total": 9566,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2319,
-      "papers": 586,
+      "news": 2332,
+      "papers": 587,
       "trials": 187,
-      "total": 3092,
+      "total": 3106,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2148,11 +2148,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1801,
-      "papers": 401,
+      "news": 1815,
+      "papers": 402,
       "trials": 134,
-      "total": 2336,
-      "recent": "2026-11-15T10:04:00+09:00",
+      "total": 2351,
+      "recent": "2026-11-15T18:11:15+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2243,11 +2243,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 290,
+      "news": 292,
       "papers": 0,
       "trials": 0,
-      "total": 290,
-      "recent": "2026-11-14T21:32:00+09:00",
+      "total": 292,
+      "recent": "2026-11-15T14:30:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -2263,31 +2263,31 @@
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 126,
+      "news": 127,
       "papers": 0,
       "trials": 0,
-      "total": 126,
-      "recent": "2026-11-14T21:32:00+09:00",
+      "total": 127,
+      "recent": "2026-11-15T14:30:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 687,
+      "news": 694,
       "papers": 0,
       "trials": 0,
-      "total": 687,
-      "recent": "2026-11-15T08:38:00+09:00",
+      "total": 694,
+      "recent": "2026-11-15T18:57:57+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 446,
+      "news": 451,
       "papers": 1,
       "trials": 0,
-      "total": 447,
-      "recent": "2026-11-15T08:38:00+09:00",
+      "total": 452,
+      "recent": "2026-11-15T16:53:46+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2303,12 +2303,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 56,
+      "today": 119,
       "yesterday": 151
     },
     "paper": {
       "today": 0,
-      "yesterday": 2
+      "yesterday": 9
     },
     "trial": {
       "today": 0,
@@ -2414,7 +2414,7 @@
     {
       "date": "2026-10-30",
       "news": 482,
-      "paper": 25,
+      "paper": 26,
       "trial": 5,
       "regulatory": 23
     },
@@ -2434,7 +2434,7 @@
     },
     {
       "date": "2026-11-02",
-      "news": 410,
+      "news": 411,
       "paper": 21,
       "trial": 13,
       "regulatory": 1
@@ -2504,7 +2504,7 @@
     },
     {
       "date": "2026-11-12",
-      "news": 527,
+      "news": 528,
       "paper": 27,
       "trial": 19,
       "regulatory": 0
@@ -2512,20 +2512,20 @@
     {
       "date": "2026-11-13",
       "news": 396,
-      "paper": 12,
+      "paper": 13,
       "trial": 6,
       "regulatory": 15
     },
     {
       "date": "2026-11-14",
       "news": 151,
-      "paper": 2,
+      "paper": 9,
       "trial": 0,
       "regulatory": 3
     },
     {
       "date": "2026-11-15",
-      "news": 56,
+      "news": 119,
       "paper": 0,
       "trial": 0,
       "regulatory": 0
@@ -2567,6 +2567,23 @@
       "published": "2026-10-22T15:18:00+09:00",
       "date": "2026.10.22",
       "publisher": "segyebiz.com"
+    },
+    {
+      "level": "High",
+      "score": 13,
+      "title": "릴리, 中서 '먹는 비만약' 먼저 뚫었다…글로벌 시장 선점 '속도'",
+      "layer": "news",
+      "url": "https://www.asiatime.co.kr/article/20261113500241",
+      "companies": [
+        "lilly",
+        "novo"
+      ],
+      "pipelines": [
+        "PT403"
+      ],
+      "published": "2026-11-15T11:12:00+09:00",
+      "date": "2026.11.15",
+      "publisher": "asiatime.co.kr"
     },
     {
       "level": "High",
@@ -2649,21 +2666,6 @@
       "published": "2026-10-22T09:06:00+09:00",
       "date": "2026.10.22",
       "publisher": "joongangenews.com"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "\"대만 남성, 비만치료제 맞은 뒤 실명 주장\"…첫 피해 구제 신청",
-      "layer": "news",
-      "url": "https://biz.sbs.co.kr/article_hub/20000346024?division=NAVER",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-11-14T12:30:00+09:00",
-      "date": "2026.11.14",
-      "publisher": "biz.sbs.co.kr"
     }
   ],
   "highlights": {
@@ -2688,6 +2690,15 @@
       },
       {
         "level": "High",
+        "title": "릴리, 中서 '먹는 비만약' 먼저 뚫었다…글로벌 시장 선점 '속도'",
+        "layer": "news",
+        "url": "https://www.asiatime.co.kr/article/20261113500241",
+        "date": "2026.11.15",
+        "published": "2026-11-15T11:12:00+09:00",
+        "publisher": "asiatime.co.kr"
+      },
+      {
+        "level": "High",
         "title": "비만치료제 시장 커지자 안전성 경고도…美 FDA, 시신경 질환 주의",
         "layer": "news",
         "url": "https://www.thepublic.kr/news/articleView.html?idxno=325937",
@@ -2703,15 +2714,6 @@
         "date": "2026.11.10",
         "published": "2026-11-10T12:09:00+09:00",
         "publisher": "munhwa.com"
-      },
-      {
-        "level": "High",
-        "title": "FDA, 비만약 시력상실 경고 의무화",
-        "layer": "news",
-        "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365941",
-        "date": "2026.11.10",
-        "published": "2026-11-10T10:54:00+09:00",
-        "publisher": "이데일리"
       }
     ],
     "PT404": [
