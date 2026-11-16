@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T10:29:24.548677+09:00",
-  "total": 6028,
+  "updated_at": "2026-11-16T19:59:02.521533+09:00",
+  "total": 6043,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -613,6 +613,140 @@
       "published": "2026-11-30T00:00:00+09:00",
       "time": "00:00",
       "date": "2026.11.30",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "GLP-1(9-37) Improves Left Ventricular Function in a Murine Model of Cardiac Pressure Overload by Promoting Mitochondrial Biogenesis",
+      "summary": "Moellmann J et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036293/",
+      "publisher": "Diabetes, obesity & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Once-Weekly Ribupatide for Weight Loss in Adults in China With Overweight or Obesity: The GEMINI-1 Randomized Clinical Trial",
+      "summary": "Zhao L et al. · JAMA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035098/",
+      "publisher": "JAMA",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.15",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide in Adolescents With Obesity: The SURMOUNT-ADOLESCENTS Randomized Clinical Trial",
+      "summary": "Kelly AS et al. · JAMA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035096/",
+      "publisher": "JAMA",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.15",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Tirzepatide in Adolescents With Obesity: Research Summary",
+      "summary": "JAMA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035094/",
+      "publisher": "JAMA",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.15",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Disordered Eating Attitudes and Behaviors in Individuals With BMI > 27 kg/m(2) Treated by Semaglutide: A 60-Week Randomized Placebo-Controlled Trial",
+      "summary": "Allison KC et al. · The International journal of eating disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035836/",
+      "publisher": "The International journal of eating disorders",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.15",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Ursodeoxycholic Acid Prophylaxis During Incretin-Based Obesity Management: An Evidence Gap Worth Addressing?",
+      "summary": "Kermansaravi M et al. · Diabetes, obesity & metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035401/",
+      "publisher": "Diabetes, obesity & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.15",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Rifampicin and long-acting cabotegravir-rilpivirine: Therapeutic drug monitoring-guided management of a major drug-drug interaction-A case report",
+      "summary": "Ciullini L et al. · British journal of clinical pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035988/",
+      "publisher": "British journal of clinical pharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.15",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Porcine Placenta Extract-Loaded Transethosomes for Skin Delivery and Anti-Melanogenic Applications",
+      "summary": "Tanyapanyachon P et al. · Chemistry and physics of lipids",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035137/",
+      "publisher": "Chemistry and physics of lipids",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.15",
       "year": 2026,
       "category": "platform",
       "pipelines": [],
@@ -1658,6 +1792,22 @@
       "companies": []
     },
     {
+      "title": "Visceral and Ectopic Fat Remodeling with Incretin-Based Therapies in Type 2 Diabetes: Human Imaging Evidence",
+      "summary": "Zhang Q et al. · Journal of multidisciplinary healthcare",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036571/",
+      "publisher": "Journal of multidisciplinary healthcare",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-11T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.11",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "GLP-1-Based Therapies Across the Menopausal Transition: Dermatologic Considerations and Practical Management",
       "summary": "Sanchez-Melendez S et al. · Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43002621/",
@@ -2430,6 +2580,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Tibiofibular Relationships in Children With Achondroplasia: A Comparative Radiographic Study",
+      "summary": "Rovira Martí MP et al. · Journal of pediatric orthopedics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036862/",
+      "publisher": "Journal of pediatric orthopedics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-09T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.09",
+      "year": 2026,
+      "category": "npr",
+      "pipelines": [
+        "PND3174"
+      ],
       "companies": []
     },
     {
@@ -9764,6 +9932,22 @@
       "companies": []
     },
     {
+      "title": "Development of a chlorpromazine hydrochloride-containing extra-fine dry powder inhaler for targeted pulmonary delivery in tuberculosis therapy: in vitro and in vivo characterization",
+      "summary": "Piszman ZI et al. · International journal of pharmaceutics: X",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036372/",
+      "publisher": "International journal of pharmaceutics: X",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-19T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.19",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Targeting the Gut Microbiota-Metabolism Axis: Novel Pharmacological Mechanisms and Translational Application Strategies for Oral Antidiabetic Drugs",
       "summary": "Yang R et al. · Medicinal research reviews",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42893515/",
@@ -12408,6 +12592,22 @@
       "companies": []
     },
     {
+      "title": "[Treatment options and new perspectives in psychosis]",
+      "summary": "Vernal DL et al. · Ugeskrift for laeger",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036157/",
+      "publisher": "Ugeskrift for laeger",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-12T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.12",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "The Power of Two: Harnessing Dual Glucagon and Incretin Signaling for Treatment of Obesity and Metabolic Dysfunction-Associated Steatohepatitis-A Narrative Review with a Translational Focus",
       "summary": "Ard JD et al. · Obesity reviews : an official journal of the International Association for the Study of Obesity",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42860310/",
@@ -14441,6 +14641,24 @@
       "companies": []
     },
     {
+      "title": "Cardiovascular promise requires endpoint discipline: interpreting tirzepatide after SURPASS-CVOT",
+      "summary": "Vijayasimha M et al. · Therapeutic advances in endocrinology and metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036406/",
+      "publisher": "Therapeutic advances in endocrinology and met",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-07T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.07",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "An RNA thermogenic therapy to preserve lean mass and enhance metabolic health during GLP-1 weight loss",
       "summary": "Thorne AK et al. · Proceedings of the National Academy of Sciences of the United States of America",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42789307/",
@@ -15446,6 +15664,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Multisystem adverse drug events of low-dose tirzepatide in a normal - Weight individual: A case report and literature review",
+      "summary": "Li M et al. · Therapeutic advances in drug safety",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036412/",
+      "publisher": "Therapeutic advances in drug safety",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-03T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.03",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -42431,6 +42667,22 @@
       "date": "2026.08.04",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Analysis of drug development risks for metabolic dysfunction-associated steatotic liver disease from a sustainable accounting perspective",
+      "summary": "Liu X et al. · Cost effectiveness and resource allocation : C/E",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035758/",
+      "publisher": "Cost effectiveness and resource allocation : ",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-04T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.04",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
