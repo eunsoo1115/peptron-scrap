@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T20:42:41.071696+09:00",
-  "total": 6071,
+  "updated_at": "2026-11-18T03:24:11.635003+09:00",
+  "total": 6086,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -653,6 +653,70 @@
       "companies": []
     },
     {
+      "title": "Toward a Healthier Future Through Obesity Prevention and Care: The JAMA Summit Report on Obesity",
+      "summary": "Cappola AR et al. · JAMA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042892/",
+      "publisher": "JAMA",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Effects of Anti-Diabetic Drugs on Satellite Cell Function: A Mini Review",
+      "summary": "Skiles CM et al. · American journal of physiology. Cell physiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043123/",
+      "publisher": "American journal of physiology. Cell physiolo",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Alginate-DNA Core-Shell Hydrogel Microspheres Program Antigen Release Kinetics for Potent Single-Dose Subunit Vaccination",
+      "summary": "Shen F et al. · Small (Weinheim an der Bergstrasse, Germany)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042745/",
+      "publisher": "Small (Weinheim an der Bergstrasse, Germany)",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.17",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Membrane-Context Screening Identifies a Functionally Active Peptide for Targeted Nanodelivery in Triple-Negative Breast Cancer",
+      "summary": "Li Y et al. · ACS nano",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043229/",
+      "publisher": "ACS nano",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.17",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "GLP-1(9-37) Improves Left Ventricular Function in a Murine Model of Cardiac Pressure Overload by Promoting Mitochondrial Biogenesis",
       "summary": "Moellmann J et al. · Diabetes, obesity & metabolism",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43036293/",
@@ -1111,6 +1175,22 @@
       "date": "2026.11.15",
       "year": 2026,
       "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Ocular Safety of GLP-1 Receptor Agonists: A Comprehensive Review",
+      "summary": "Hanna E et al. · Obesity science & practice",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041449/",
+      "publisher": "Obesity science & practice",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-15T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.15",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -2993,6 +3073,24 @@
       "category": "obesity",
       "pipelines": [
         "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Perioperative Management of a Breastfed Child Whose Mother Was Receiving Injectable Semaglutide: A Case Report Outlining Use of Gastric Point-of-Care Ultrasound",
+      "summary": "Akhter N et al. · Journal of medical cases",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042167/",
+      "publisher": "Journal of medical cases",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-09T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.09",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
       ],
       "companies": []
     },
@@ -4994,6 +5092,38 @@
       "companies": []
     },
     {
+      "title": "Metabolic reprogramming in PTSD: GLP-1 receptor agonists and cardiometabolic drug repurposing for precision therapeutics",
+      "summary": "Halabitska I et al. · Frontiers in behavioral neuroscience",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041846/",
+      "publisher": "Frontiers in behavioral neuroscience",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Potential synergy between GLP-1 receptor agonists and follicle-stimulating hormone in improving spermatogenesis: biological rationale and future directions",
+      "summary": "La Vignera S et al. · Frontiers in endocrinology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041828/",
+      "publisher": "Frontiers in endocrinology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-02T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.02",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Oral Janus nanomotor covalent conjugation rapeseed protein-derived DPP-IV inhibitory peptide and liraglutide: A self-propelled targeted delivery system for promoting insulin secretion and glucose-lowering",
       "summary": "Dong H et al. · Food research international (Ottawa, Ont.)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42692655/",
@@ -5574,6 +5704,22 @@
       "summary": "Talmor B et al. · Endocrine-related cancer",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42980483/",
       "publisher": "Endocrine-related cancer",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Nine-Year Trends in Treatment Patterns, Comorbidities, and Healthcare Utilization in Type 2 Diabetes in France: Insights From Integrated Health Data",
+      "summary": "Le Goff R et al. · Clinical and translational science",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042779/",
+      "publisher": "Clinical and translational science",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -7975,6 +8121,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Prescribe, Co-Manage, or Refer? A Practical Approach for Incretin-Based Obesity Therapy in Gastroenterology Practice",
+      "summary": "Salem G et al. · Gastroenterology research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042433/",
+      "publisher": "Gastroenterology research",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-26T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.26",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -10557,6 +10719,22 @@
       "companies": []
     },
     {
+      "title": "Predictors of Successful Prandial Insulin Withdrawal Following the Initiation of Therapy Based on Glucagon-Like Peptide-1 (GLP-1) in Adults With Type 2 Diabetes (T2D): A Systematic Review of Clinical, Biochemical, and Treatment-Related Factors",
+      "summary": "Elhassan LA et al. · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042329/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "A \"Progenitor Cell Ark\" hydrogel system for intervertebral disc regeneration via mitochondrial targeting and mitophagy enhancement",
       "summary": "Yang Y et al. · Science advances",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42873876/",
@@ -12103,6 +12281,22 @@
       "summary": "Palmer Z et al. · bioRxiv : the preprint server for biology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42999341/",
       "publisher": "bioRxiv : the preprint server for biology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-14T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.14",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Novel Compounds as Glucagon-Like Peptide‑1 Receptor Agonists for Treating Type 2 Diabetes Mellitus and Obesity",
+      "summary": "Sabnis RW · ACS medicinal chemistry letters",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042138/",
+      "publisher": "ACS medicinal chemistry letters",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -18176,6 +18370,22 @@
       "date": "2026.10.01",
       "year": 2026,
       "category": "npr",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Advancing Our Understanding of Hidradenitis Suppurativa: A Comprehensive Guide for Clinicians Designed to Improve Therapeutic Outcomes for Patients-Part 3",
+      "summary": "Del Rosso JQ et al. · The Journal of clinical and aesthetic dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042353/",
+      "publisher": "The Journal of clinical and aesthetic dermato",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "obesity",
       "pipelines": [],
       "companies": []
     },
@@ -49997,6 +50207,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-Like Peptide-1 Receptor Agonists and Outcomes in Transthyretin Amyloid Cardiomyopathy with Type 2 Diabetes Mellitus",
+      "summary": "Jain H et al. · CJC open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042232/",
+      "publisher": "CJC open",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-07-20T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.07.20",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -88858,6 +89084,22 @@
       "summary": "Jeyaraman M et al. · Indian journal of orthopaedics",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42824576/",
       "publisher": "Indian journal of orthopaedics",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-03-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.03.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "On the potential of group-specific component (GC) inhibition for treating metabolic disease",
+      "summary": "Gill R et al. · Metabolism and target organ damage",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041898/",
+      "publisher": "Metabolism and target organ damage",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
