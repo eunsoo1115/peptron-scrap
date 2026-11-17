@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-17T04:31:20.095819+09:00",
+  "updated_at": "2026-11-17T13:16:28.347198+09:00",
   "dates": [
     {
       "date": "2026-11-17",
-      "total": 2140,
+      "total": 2437,
       "counts": {
-        "core": 328,
-        "obesity": 619,
-        "npr": 278,
-        "platform": 393,
-        "reg": 284,
-        "mkt": 238
+        "core": 339,
+        "obesity": 784,
+        "npr": 288,
+        "platform": 428,
+        "reg": 315,
+        "mkt": 283
       }
     },
     {
@@ -2123,7 +2123,7 @@
     }
   ],
   "papers": {
-    "total": 6046,
+    "total": 6054,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2133,19 +2133,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 1193,
+    "total": 1196,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 9650,
+  "news_recent_total": 9862,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2361,
+      "news": 2429,
       "papers": 590,
       "trials": 187,
-      "total": 3138,
+      "total": 3206,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2172,11 +2172,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1872,
+      "news": 1911,
       "papers": 407,
       "trials": 134,
-      "total": 2413,
-      "recent": "2026-11-17T00:23:21+09:00",
+      "total": 2452,
+      "recent": "2026-11-17T11:42:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2204,11 +2204,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 27,
+      "news": 28,
       "papers": 177,
       "trials": 43,
-      "total": 247,
-      "recent": "2026-11-16T22:12:09+09:00",
+      "total": 248,
+      "recent": "2026-11-17T08:12:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -2234,11 +2234,11 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 17,
+      "news": 18,
       "papers": 47,
       "trials": 5,
-      "total": 69,
-      "recent": "2026-11-13T09:40:00+09:00",
+      "total": 70,
+      "recent": "2026-11-17T11:48:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -2267,51 +2267,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 284,
+      "news": 287,
       "papers": 0,
       "trials": 0,
-      "total": 284,
-      "recent": "2026-11-16T22:24:00+09:00",
+      "total": 287,
+      "recent": "2026-11-17T10:46:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 290,
+      "news": 291,
       "papers": 0,
       "trials": 0,
-      "total": 290,
-      "recent": "2026-11-16T17:08:00+09:00",
+      "total": 291,
+      "recent": "2026-11-17T07:00:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 127,
+      "news": 130,
       "papers": 0,
       "trials": 0,
-      "total": 127,
-      "recent": "2026-11-16T14:04:00+09:00",
+      "total": 130,
+      "recent": "2026-11-17T10:22:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 705,
+      "news": 715,
       "papers": 0,
       "trials": 0,
-      "total": 705,
-      "recent": "2026-11-17T04:03:00+09:00",
+      "total": 715,
+      "recent": "2026-11-17T11:46:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 467,
+      "news": 479,
       "papers": 1,
       "trials": 0,
-      "total": 468,
-      "recent": "2026-11-17T02:35:24+09:00",
+      "total": 480,
+      "recent": "2026-11-17T12:12:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2327,19 +2327,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 34,
-      "yesterday": 413
+      "today": 239,
+      "yesterday": 417
     },
     "paper": {
       "today": 0,
-      "yesterday": 4
+      "yesterday": 10
     },
     "trial": {
       "today": 0,
       "yesterday": 6
     },
     "regulatory": {
-      "today": 3,
+      "today": 12,
       "yesterday": 0
     }
   },
@@ -2356,7 +2356,7 @@
       "news": 329,
       "paper": 25,
       "trial": 7,
-      "regulatory": 13
+      "regulatory": 12
     },
     {
       "date": "2026-10-21",
@@ -2409,10 +2409,10 @@
     },
     {
       "date": "2026-10-28",
-      "news": 386,
+      "news": 387,
       "paper": 21,
       "trial": 11,
-      "regulatory": 10
+      "regulatory": 9
     },
     {
       "date": "2026-10-29",
@@ -2438,7 +2438,7 @@
     {
       "date": "2026-11-01",
       "news": 136,
-      "paper": 35,
+      "paper": 36,
       "trial": 0,
       "regulatory": 0
     },
@@ -2461,7 +2461,7 @@
       "news": 402,
       "paper": 13,
       "trial": 5,
-      "regulatory": 15
+      "regulatory": 13
     },
     {
       "date": "2026-11-05",
@@ -2528,7 +2528,7 @@
     },
     {
       "date": "2026-11-14",
-      "news": 152,
+      "news": 154,
       "paper": 10,
       "trial": 0,
       "regulatory": 3
@@ -2542,17 +2542,17 @@
     },
     {
       "date": "2026-11-16",
-      "news": 413,
-      "paper": 4,
+      "news": 417,
+      "paper": 10,
       "trial": 6,
       "regulatory": 0
     },
     {
       "date": "2026-11-17",
-      "news": 34,
+      "news": 239,
       "paper": 0,
       "trial": 0,
-      "regulatory": 3
+      "regulatory": 12
     }
   ],
   "alerts": [
@@ -2846,6 +2846,15 @@
       },
       {
         "level": "High",
+        "title": "제약업계 3분기 외형 성장, 신약 개발에도 속도 [뉴스큐]",
+        "layer": "news",
+        "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500923",
+        "date": "2026.11.17",
+        "published": "2026-11-17T11:48:00+09:00",
+        "publisher": "newsq.co.kr"
+      },
+      {
+        "level": "High",
         "title": "[특징주] SK바이오팜, '어닝 서프라이즈'와 차세대 신약 모멘텀에 9만 원...",
         "layer": "news",
         "url": "https://www.widedaily.com/news/articleView.html?idxno=302958",
@@ -2870,15 +2879,6 @@
         "date": "2026.05.22",
         "published": "2026-05-22T00:00:00+09:00",
         "publisher": "University Hospital, Bordeaux"
-      },
-      {
-        "level": "Medium",
-        "title": "The novel GLP-1/GIP dual receptor agonist DA5-CH is superior to tirzepatide and exendin-4 in the 6-OHDA Parkinson rat model",
-        "layer": "paper",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42165019/",
-        "date": "2026.05.05",
-        "published": "2026-05-05T00:00:00+09:00",
-        "publisher": "Frontiers in endocrinology"
       }
     ]
   }
