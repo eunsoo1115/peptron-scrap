@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-17T13:16:28.347198+09:00",
+  "updated_at": "2026-11-17T20:43:41.459114+09:00",
   "dates": [
     {
       "date": "2026-11-17",
-      "total": 2437,
+      "total": 2646,
       "counts": {
-        "core": 339,
-        "obesity": 784,
-        "npr": 288,
-        "platform": 428,
-        "reg": 315,
-        "mkt": 283
+        "core": 346,
+        "obesity": 911,
+        "npr": 295,
+        "platform": 436,
+        "reg": 333,
+        "mkt": 325
       }
     },
     {
@@ -2123,7 +2123,7 @@
     }
   ],
   "papers": {
-    "total": 6054,
+    "total": 6071,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2137,15 +2137,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 9862,
+  "news_recent_total": 10030,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2429,
-      "papers": 590,
+      "news": 2478,
+      "papers": 593,
       "trials": 187,
-      "total": 3206,
+      "total": 3258,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2172,11 +2172,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1911,
-      "papers": 407,
+      "news": 1939,
+      "papers": 409,
       "trials": 134,
-      "total": 2452,
-      "recent": "2026-11-17T11:42:00+09:00",
+      "total": 2482,
+      "recent": "2026-11-17T18:28:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2204,11 +2204,11 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 28,
+      "news": 29,
       "papers": 177,
       "trials": 43,
-      "total": 248,
-      "recent": "2026-11-17T08:12:00+09:00",
+      "total": 249,
+      "recent": "2026-11-17T19:30:00+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
       "stage": "IND Preparation",
@@ -2234,10 +2234,10 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 18,
+      "news": 19,
       "papers": 47,
       "trials": 5,
-      "total": 70,
+      "total": 71,
       "recent": "2026-11-17T11:48:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
@@ -2267,11 +2267,11 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 287,
+      "news": 292,
       "papers": 0,
       "trials": 0,
-      "total": 287,
-      "recent": "2026-11-17T10:46:00+09:00",
+      "total": 292,
+      "recent": "2026-11-17T19:36:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
@@ -2297,21 +2297,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 715,
+      "news": 720,
       "papers": 0,
       "trials": 0,
-      "total": 715,
-      "recent": "2026-11-17T11:46:00+09:00",
+      "total": 720,
+      "recent": "2026-11-17T17:54:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 479,
+      "news": 484,
       "papers": 1,
       "trials": 0,
-      "total": 480,
-      "recent": "2026-11-17T12:12:00+09:00",
+      "total": 485,
+      "recent": "2026-11-17T19:56:49+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2327,12 +2327,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 239,
+      "today": 405,
       "yesterday": 417
     },
     "paper": {
-      "today": 0,
-      "yesterday": 10
+      "today": 2,
+      "yesterday": 21
     },
     "trial": {
       "today": 0,
@@ -2494,7 +2494,7 @@
     {
       "date": "2026-11-09",
       "news": 379,
-      "paper": 28,
+      "paper": 29,
       "trial": 9,
       "regulatory": 4
     },
@@ -2514,15 +2514,15 @@
     },
     {
       "date": "2026-11-12",
-      "news": 531,
+      "news": 532,
       "paper": 27,
       "trial": 19,
       "regulatory": 0
     },
     {
       "date": "2026-11-13",
-      "news": 399,
-      "paper": 14,
+      "news": 400,
+      "paper": 15,
       "trial": 6,
       "regulatory": 15
     },
@@ -2543,14 +2543,14 @@
     {
       "date": "2026-11-16",
       "news": 417,
-      "paper": 10,
+      "paper": 21,
       "trial": 6,
       "regulatory": 0
     },
     {
       "date": "2026-11-17",
-      "news": 239,
-      "paper": 0,
+      "news": 405,
+      "paper": 2,
       "trial": 0,
       "regulatory": 12
     }
@@ -2855,6 +2855,15 @@
       },
       {
         "level": "High",
+        "title": "제약업계 3분기 실적, 신약 개발 속도 [뉴스Q]",
+        "layer": "news",
+        "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500923",
+        "date": "2026.11.17",
+        "published": "2026-11-17T11:48:00+09:00",
+        "publisher": "newsq.co.kr"
+      },
+      {
+        "level": "High",
         "title": "[특징주] SK바이오팜, '어닝 서프라이즈'와 차세대 신약 모멘텀에 9만 원...",
         "layer": "news",
         "url": "https://www.widedaily.com/news/articleView.html?idxno=302958",
@@ -2870,15 +2879,6 @@
         "date": "2026.06.12",
         "published": "2026-06-12T00:00:00+09:00",
         "publisher": "Journal of movement disorders"
-      },
-      {
-        "level": "Medium",
-        "title": "Efficacy and Safety of Exenatide in the Treatment of Hypothalamic Obesity After Craniopharyngioma Therapy",
-        "layer": "trial",
-        "url": "https://clinicaltrials.gov/study/NCT02860923",
-        "date": "2026.05.22",
-        "published": "2026-05-22T00:00:00+09:00",
-        "publisher": "University Hospital, Bordeaux"
       }
     ]
   }
