@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-18T12:13:43.978822+09:00",
+  "updated_at": "2026-11-18T20:31:05.672568+09:00",
   "dates": [
     {
       "date": "2026-11-18",
-      "total": 2436,
+      "total": 2631,
       "counts": {
-        "core": 336,
-        "obesity": 750,
-        "npr": 288,
-        "platform": 434,
-        "reg": 331,
-        "mkt": 297
+        "core": 345,
+        "obesity": 862,
+        "npr": 293,
+        "platform": 455,
+        "reg": 339,
+        "mkt": 337
       }
     },
     {
@@ -2135,7 +2135,7 @@
     }
   ],
   "papers": {
-    "total": 6092,
+    "total": 6106,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2149,15 +2149,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 10150,
+  "news_recent_total": 10306,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2531,
-      "papers": 594,
+      "news": 2558,
+      "papers": 595,
       "trials": 187,
-      "total": 3312,
+      "total": 3340,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2184,11 +2184,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 1975,
-      "papers": 409,
+      "news": 2013,
+      "papers": 410,
       "trials": 134,
-      "total": 2518,
-      "recent": "2026-11-18T12:04:00+09:00",
+      "total": 2557,
+      "recent": "2026-11-18T20:10:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2279,51 +2279,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 291,
+      "news": 299,
       "papers": 0,
       "trials": 0,
-      "total": 291,
-      "recent": "2026-11-18T08:10:00+09:00",
+      "total": 299,
+      "recent": "2026-11-18T18:28:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 292,
+      "news": 303,
       "papers": 0,
       "trials": 0,
-      "total": 292,
-      "recent": "2026-11-18T11:54:00+09:00",
+      "total": 303,
+      "recent": "2026-11-18T18:30:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 131,
+      "news": 135,
       "papers": 0,
       "trials": 0,
-      "total": 131,
-      "recent": "2026-11-18T08:08:00+09:00",
+      "total": 135,
+      "recent": "2026-11-18T15:56:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 724,
+      "news": 730,
       "papers": 0,
       "trials": 0,
-      "total": 724,
-      "recent": "2026-11-18T11:08:00+09:00",
+      "total": 730,
+      "recent": "2026-11-18T19:31:46+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 496,
+      "news": 502,
       "papers": 1,
       "trials": 0,
-      "total": 497,
-      "recent": "2026-11-18T11:54:00+09:00",
+      "total": 503,
+      "recent": "2026-11-18T17:50:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2339,12 +2339,12 @@
   ],
   "kpi": {
     "news": {
-      "today": 178,
+      "today": 333,
       "yesterday": 455
     },
     "paper": {
-      "today": 0,
-      "yesterday": 12
+      "today": 3,
+      "yesterday": 17
     },
     "trial": {
       "today": 0,
@@ -2443,7 +2443,7 @@
     {
       "date": "2026-11-01",
       "news": 136,
-      "paper": 37,
+      "paper": 38,
       "trial": 0,
       "regulatory": 0
     },
@@ -2513,14 +2513,14 @@
     {
       "date": "2026-11-11",
       "news": 482,
-      "paper": 13,
+      "paper": 14,
       "trial": 0,
       "regulatory": 28
     },
     {
       "date": "2026-11-12",
       "news": 532,
-      "paper": 27,
+      "paper": 28,
       "trial": 19,
       "regulatory": 0
     },
@@ -2540,7 +2540,7 @@
     },
     {
       "date": "2026-11-15",
-      "news": 142,
+      "news": 143,
       "paper": 8,
       "trial": 0,
       "regulatory": 0
@@ -2555,14 +2555,14 @@
     {
       "date": "2026-11-17",
       "news": 455,
-      "paper": 12,
+      "paper": 17,
       "trial": 5,
       "regulatory": 12
     },
     {
       "date": "2026-11-18",
-      "news": 178,
-      "paper": 0,
+      "news": 333,
+      "paper": 3,
       "trial": 0,
       "regulatory": 11
     }
@@ -2603,6 +2603,23 @@
       "published": "2026-10-22T15:18:00+09:00",
       "date": "2026.10.22",
       "publisher": "segyebiz.com"
+    },
+    {
+      "level": "High",
+      "score": 13,
+      "title": "인벤티지랩, 제조 플랫폼 '패러다임X' 첫선···마이크로스피어 양산 한...",
+      "layer": "news",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=354925",
+      "companies": [
+        "inventage"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-11-18T13:22:00+09:00",
+      "date": "2026.11.18",
+      "publisher": "greened.kr"
     },
     {
       "level": "High",
@@ -2685,23 +2702,6 @@
       "published": "2026-10-22T17:05:00+09:00",
       "date": "2026.10.22",
       "publisher": "한국경제"
-    },
-    {
-      "level": "High",
-      "score": 13,
-      "title": "위고비·마운자로 다음 주자는…차세대 비만약, 한국서 임상 경쟁",
-      "layer": "news",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=557219",
-      "companies": [
-        "lilly"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-22T09:06:00+09:00",
-      "date": "2026.10.22",
-      "publisher": "joongangenews.com"
     }
   ],
   "highlights": {
@@ -2726,6 +2726,15 @@
       },
       {
         "level": "High",
+        "title": "인벤티지랩, 제조 플랫폼 '패러다임X' 첫선···마이크로스피어 양산 한...",
+        "layer": "news",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=354925",
+        "date": "2026.11.18",
+        "published": "2026-11-18T13:22:00+09:00",
+        "publisher": "greened.kr"
+      },
+      {
+        "level": "High",
         "title": "릴리, 中서 '먹는 비만약' 먼저 뚫었다…글로벌 시장 선점 '속도'",
         "layer": "news",
         "url": "https://www.asiatime.co.kr/article/20261113500241",
@@ -2741,15 +2750,6 @@
         "date": "2026.11.10",
         "published": "2026-11-10T17:00:00+09:00",
         "publisher": "thepublic.kr"
-      },
-      {
-        "level": "High",
-        "title": "“비만치료제, 시력상실 위험”… 미국 FDA, 경고문구 의무화",
-        "layer": "news",
-        "url": "https://www.munhwa.com/article/11630251?ref=naver",
-        "date": "2026.11.10",
-        "published": "2026-11-10T12:09:00+09:00",
-        "publisher": "munhwa.com"
       }
     ],
     "PT404": [
@@ -2773,6 +2773,15 @@
       },
       {
         "level": "High",
+        "title": "인벤티지랩, 제조 플랫폼 '패러다임X' 첫선···마이크로스피어 양산 한...",
+        "layer": "news",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=354925",
+        "date": "2026.11.18",
+        "published": "2026-11-18T13:22:00+09:00",
+        "publisher": "greened.kr"
+      },
+      {
+        "level": "High",
         "title": "“비만치료제, 시력상실 위험”… 미국 FDA, 경고문구 의무화",
         "layer": "news",
         "url": "https://www.munhwa.com/article/11630251?ref=naver",
@@ -2788,15 +2797,6 @@
         "date": "2026.11.10",
         "published": "2026-11-10T10:54:00+09:00",
         "publisher": "이데일리"
-      },
-      {
-        "level": "High",
-        "title": "\"위고비·마운자로 긴장해라\"...비만약 '춘추전국시대' 열린다",
-        "layer": "news",
-        "url": "https://magazine.hankyung.com/business/article/202610228118b",
-        "date": "2026.10.22",
-        "published": "2026-10-22T17:05:00+09:00",
-        "publisher": "한국경제"
       }
     ],
     "PND3174": [
