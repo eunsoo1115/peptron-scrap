@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T20:29:57.874307+09:00",
-  "total": 6106,
+  "updated_at": "2026-11-19T02:57:59.367500+09:00",
+  "total": 6121,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -683,6 +683,22 @@
       "companies": []
     },
     {
+      "title": "From Discussion to Treatment, and From Treatment to Persistence: The Two Leaky Joints of Incretin Therapy in Obesity-Related HFpEF",
+      "summary": "Zhan ZQ · Cardiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049753/",
+      "publisher": "Cardiology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-18T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "KASL Consensus Statement for Pharmacologic Treatment of Metabolic Dysfunction-Associated Steatohepatitis: Focus on Semaglutide",
       "summary": "Kim JH et al. · Clinical and molecular hepatology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43041053/",
@@ -956,6 +972,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "New-onset depersonalization-derealization syndrome following semaglutide therapy",
+      "summary": "Prasad S et al. · JCEM case reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43048071/",
+      "publisher": "JCEM case reports",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-17T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.17",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -1850,6 +1884,22 @@
       "companies": []
     },
     {
+      "title": "Interplay of Insulin Resistance, Hyperandrogenism, and Obesity in Polycystic Ovary Syndrome: Pathogenesis and Therapeutic Insights",
+      "summary": "Bao F et al. · Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43048285/",
+      "publisher": "Diabetes, metabolic syndrome and obesity : ta",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-13T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.13",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Glucagon-like peptide-1 receptor agonist exposure is associated with lower secondary malignancy risk during watch-and-wait in chronic lymphocytic leukemia: a timevarying analysis",
       "summary": "Shaked S et al. · Haematologica",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43016386/",
@@ -2290,6 +2340,22 @@
       "summary": "Chen KN et al. · Journal of chromatography. A",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43044564/",
       "publisher": "Journal of chromatography. A",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-12T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.12",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "All-cause mortality and associated factors according to age at diagnosis of type 2 diabetes in Finland",
+      "summary": "Mustalahti J et al. · BMJ open diabetes research & care",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020528/",
+      "publisher": "BMJ open diabetes research & care",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -5011,6 +5077,58 @@
       "summary": "Li D et al. · International journal of nanomedicine",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42999822/",
       "publisher": "International journal of nanomedicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-03T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.03",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Semaglutide and optic neuritis in the FDA adverse event reporting system: a comparator-based, time-calibrated pharmacovigilance analysis",
+      "summary": "Xu F et al. · Frontiers in immunology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047309/",
+      "publisher": "Frontiers in immunology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-03T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.03",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Case Report: Resolution of severe hypertriglyceridemia and cessation of exogenous insulin during ketogenic-range therapeutic carbohydrate reduction, insulin deprescribing, and tirzepatide",
+      "summary": "Calkins M et al. · Frontiers in nutrition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047647/",
+      "publisher": "Frontiers in nutrition",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-03T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.03",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
+      "title": "Advances in injectable liposome-microspheres platforms for osteoarthritis therapy: from sustained delivery to multifunctional disease modification",
+      "summary": "Atawula A et al. · Frontiers in bioengineering and biotechnology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43048464/",
+      "publisher": "Frontiers in bioengineering and biotechnology",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -10896,6 +11014,22 @@
       "companies": []
     },
     {
+      "title": "Food Noise in Obesity: Current Evidence, Measurement, and Clinical Implications",
+      "summary": "Ortiz-Martínez Y · Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43048585/",
+      "publisher": "Cureus",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-18T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Glucose-Lowering Therapies in Type 2 Diabetes-Associated Sarcopenia: Mechanisms, Clinical Evidence and a Muscle-Centred Framework",
       "summary": "Zhang J et al. · Drugs",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42892668/",
@@ -11497,6 +11631,25 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Dual Versus Single Incretin Receptor Agonism and Outcomes After Arthroscopic Rotator Cuff Repair: Comparing Tirzepatide Versus Semaglutide",
+      "summary": "Thota PK et al. · Orthopaedic journal of sports medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047762/",
+      "publisher": "Orthopaedic journal of sports medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-16T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.16",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -13888,6 +14041,25 @@
       "companies": []
     },
     {
+      "title": "Cardiovascular and Kidney Outcomes of Tirzepatide versus Semaglutide in Stage 2 Cardiovascular-Kidney-Metabolic Syndrome: A Propensity Score-matched Cohort Study",
+      "summary": "Qadeer A et al. · Clinical Medicine Insights. Cardiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43048463/",
+      "publisher": "Clinical Medicine Insights. Cardiology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.10",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "GLP-1 receptor agonists and serious adverse events: Evidence, uncertainty and clinical implications",
       "summary": "Ueda P · Journal of internal medicine",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42851139/",
@@ -15030,6 +15202,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Impulse control symptoms associated with aripiprazole long-acting injectable: A prospective cohort study",
+      "summary": "López García FJ et al. · Therapeutic advances in psychopharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047689/",
+      "publisher": "Therapeutic advances in psychopharmacology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-08T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.08",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
       "companies": []
     },
     {
@@ -18670,6 +18858,22 @@
       "summary": "Del Rosso JQ et al. · The Journal of clinical and aesthetic dermatology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43042353/",
       "publisher": "The Journal of clinical and aesthetic dermato",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Glucagon-like peptide-1 receptor agonists in the perioperative period: Navigating the evidence, minimizing harm, and finding the way forward",
+      "summary": "Trikha A et al. · Journal of anaesthesiology, clinical pharmacology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43048413/",
+      "publisher": "Journal of anaesthesiology, clinical pharmaco",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -45524,6 +45728,38 @@
       "summary": "Arora N et al. · Postgraduate medicine",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42969252/",
       "publisher": "Postgraduate medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Dermatological, Trichological and Quality of Life Consequences of GLP-1 Receptor Agonist-Mediated Weight Loss: A US Cross-Sectional Survey",
+      "summary": "Olivero JW et al. · Journal of cosmetic dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047060/",
+      "publisher": "Journal of cosmetic dermatology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-08-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.08.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Mechanotransduction of Collagen Biostimulators: Comparative Signaling and Implications for GLP-1 RA-Associated Facial Aging",
+      "summary": "Cho CH et al. · Journal of cosmetic dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047236/",
+      "publisher": "Journal of cosmetic dermatology",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -73686,6 +73922,22 @@
       "summary": "Jędrysik M et al. · Clinical and experimental hepatology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42724836/",
       "publisher": "Clinical and experimental hepatology",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-06-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.06.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Alopecia Risk With GLP-1 Receptor Agonists: A Disproportionality Analysis Using the FDA Adverse Event Reporting System (FAERS)",
+      "summary": "Gupta AK et al. · Journal of cosmetic dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047049/",
+      "publisher": "Journal of cosmetic dermatology",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
