@@ -43,8 +43,20 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-21T19:55:23.158309+09:00",
+  "updated_at": "2026-11-22T01:45:59.826446+09:00",
   "dates": [
+    {
+      "date": "2026-11-22",
+      "total": 2178,
+      "counts": {
+        "core": 296,
+        "obesity": 647,
+        "npr": 285,
+        "platform": 431,
+        "reg": 277,
+        "mkt": 242
+      }
+    },
     {
       "date": "2026-11-21",
       "total": 2579,
@@ -2171,7 +2183,7 @@
     }
   ],
   "papers": {
-    "total": 6198,
+    "total": 6197,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2185,15 +2197,15 @@
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 10266,
+  "news_recent_total": 9959,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2674,
+      "news": 2587,
       "papers": 608,
       "trials": 191,
-      "total": 3473,
+      "total": 3386,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2220,11 +2232,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 2066,
+      "news": 1975,
       "papers": 415,
       "trials": 137,
-      "total": 2618,
-      "recent": "2026-11-21T17:06:00+09:00",
+      "total": 2527,
+      "recent": "2026-11-21T22:22:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2252,10 +2264,10 @@
     {
       "id": "PND3174",
       "label": "PND3174",
-      "news": 27,
+      "news": 25,
       "papers": 177,
       "trials": 43,
-      "total": 247,
+      "total": 245,
       "recent": "2026-11-20T15:01:06+09:00",
       "desc": "NPR-B · 연골무형성증",
       "area": "Achondroplasia",
@@ -2315,50 +2327,50 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 334,
+      "news": 320,
       "papers": 0,
       "trials": 0,
-      "total": 334,
-      "recent": "2026-11-21T14:32:00+09:00",
+      "total": 320,
+      "recent": "2026-11-22T00:30:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 200,
+      "news": 184,
       "papers": 0,
       "trials": 0,
-      "total": 200,
+      "total": 184,
       "recent": "2026-11-20T17:50:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 132,
+      "news": 131,
       "papers": 0,
       "trials": 0,
-      "total": 132,
+      "total": 131,
       "recent": "2026-11-21T14:42:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 720,
+      "news": 708,
       "papers": 0,
       "trials": 0,
-      "total": 720,
+      "total": 708,
       "recent": "2026-11-20T23:39:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 459,
+      "news": 446,
       "papers": 1,
       "trials": 0,
-      "total": 460,
+      "total": 447,
       "recent": "2026-11-21T06:42:00+09:00",
       "logo": "logos/novo.png"
     },
@@ -2375,30 +2387,23 @@
   ],
   "kpi": {
     "news": {
-      "today": 80,
-      "yesterday": 265
+      "today": 3,
+      "yesterday": 88
     },
     "paper": {
-      "today": 1,
-      "yesterday": 12
+      "today": 0,
+      "yesterday": 1
     },
     "trial": {
       "today": 0,
-      "yesterday": 5
+      "yesterday": 0
     },
     "regulatory": {
-      "today": 4,
-      "yesterday": 3
+      "today": 0,
+      "yesterday": 4
     }
   },
   "trend": [
-    {
-      "date": "2026-10-23",
-      "news": 425,
-      "paper": 29,
-      "trial": 11,
-      "regulatory": 11
-    },
     {
       "date": "2026-10-24",
       "news": 90,
@@ -2464,14 +2469,14 @@
     },
     {
       "date": "2026-11-02",
-      "news": 413,
+      "news": 414,
       "paper": 23,
       "trial": 13,
       "regulatory": 1
     },
     {
       "date": "2026-11-03",
-      "news": 374,
+      "news": 375,
       "paper": 26,
       "trial": 5,
       "regulatory": 1
@@ -2485,7 +2490,7 @@
     },
     {
       "date": "2026-11-05",
-      "news": 409,
+      "news": 410,
       "paper": 30,
       "trial": 9,
       "regulatory": 3
@@ -2513,7 +2518,7 @@
     },
     {
       "date": "2026-11-09",
-      "news": 380,
+      "news": 383,
       "paper": 30,
       "trial": 9,
       "regulatory": 4
@@ -2534,14 +2539,14 @@
     },
     {
       "date": "2026-11-12",
-      "news": 534,
+      "news": 535,
       "paper": 30,
       "trial": 19,
       "regulatory": 0
     },
     {
       "date": "2026-11-13",
-      "news": 403,
+      "news": 404,
       "paper": 18,
       "trial": 6,
       "regulatory": 15
@@ -2562,7 +2567,7 @@
     },
     {
       "date": "2026-11-16",
-      "news": 422,
+      "news": 424,
       "paper": 22,
       "trial": 6,
       "regulatory": 0
@@ -2576,7 +2581,7 @@
     },
     {
       "date": "2026-11-18",
-      "news": 376,
+      "news": 378,
       "paper": 18,
       "trial": 14,
       "regulatory": 11
@@ -2590,17 +2595,24 @@
     },
     {
       "date": "2026-11-20",
-      "news": 265,
+      "news": 266,
       "paper": 12,
       "trial": 5,
       "regulatory": 3
     },
     {
       "date": "2026-11-21",
-      "news": 80,
+      "news": 88,
       "paper": 1,
       "trial": 0,
       "regulatory": 4
+    },
+    {
+      "date": "2026-11-22",
+      "news": 3,
+      "paper": 0,
+      "trial": 0,
+      "regulatory": 0
     }
   ],
   "alerts": [
@@ -2621,24 +2633,6 @@
       "published": "2026-11-11T07:42:00+09:00",
       "date": "2026.11.11",
       "publisher": "메디파나뉴스"
-    },
-    {
-      "level": "High",
-      "score": 14,
-      "title": "글로벌 제약사, 연이어 한국서 비만약 임상3상… 알약 제형·달라진 기...",
-      "layer": "news",
-      "url": "http://www.segyebiz.com/newsView/20261022516631?OutUrl=naver",
-      "companies": [
-        "lilly",
-        "novo"
-      ],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-10-22T15:18:00+09:00",
-      "date": "2026.10.22",
-      "publisher": "segyebiz.com"
     },
     {
       "level": "High",
@@ -2724,20 +2718,33 @@
     },
     {
       "level": "High",
-      "score": 13,
-      "title": "\"위고비·마운자로 긴장해라\"...비만약 '춘추전국시대' 열린다",
+      "score": 12,
+      "title": "\"대만 남성, 비만치료제 맞은 뒤 실명 주장\"…첫 피해 구제 신청",
       "layer": "news",
-      "url": "https://magazine.hankyung.com/business/article/202610228118b",
-      "companies": [
-        "lilly"
-      ],
+      "url": "https://biz.sbs.co.kr/article_hub/20000346024?division=NAVER",
+      "companies": [],
       "pipelines": [
         "PT403",
         "PT404"
       ],
-      "published": "2026-10-22T17:05:00+09:00",
-      "date": "2026.10.22",
-      "publisher": "한국경제"
+      "published": "2026-11-14T12:30:00+09:00",
+      "date": "2026.11.14",
+      "publisher": "biz.sbs.co.kr"
+    },
+    {
+      "level": "High",
+      "score": 12,
+      "title": "“10㎏ 뺐지만 한쪽 눈 실명”…대만 오젬픽 사용자 피해 구제 신청",
+      "layer": "news",
+      "url": "https://www.donga.com/news/Health/article/all/20261113/135018589/2",
+      "companies": [],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-11-13T09:50:00+09:00",
+      "date": "2026.11.13",
+      "publisher": "donga.com"
     }
   ],
   "highlights": {
@@ -2750,15 +2757,6 @@
         "date": "2026.11.11",
         "published": "2026-11-11T07:42:00+09:00",
         "publisher": "메디파나뉴스"
-      },
-      {
-        "level": "High",
-        "title": "글로벌 제약사, 연이어 한국서 비만약 임상3상… 알약 제형·달라진 기...",
-        "layer": "news",
-        "url": "http://www.segyebiz.com/newsView/20261022516631?OutUrl=naver",
-        "date": "2026.10.22",
-        "published": "2026-10-22T15:18:00+09:00",
-        "publisher": "segyebiz.com"
       },
       {
         "level": "High",
@@ -2786,6 +2784,15 @@
         "date": "2026.11.10",
         "published": "2026-11-10T17:00:00+09:00",
         "publisher": "thepublic.kr"
+      },
+      {
+        "level": "High",
+        "title": "“비만치료제, 시력상실 위험”… 미국 FDA, 경고문구 의무화",
+        "layer": "news",
+        "url": "https://www.munhwa.com/article/11630251?ref=naver",
+        "date": "2026.11.10",
+        "published": "2026-11-10T12:09:00+09:00",
+        "publisher": "munhwa.com"
       }
     ],
     "PT404": [
@@ -2797,15 +2804,6 @@
         "date": "2026.11.11",
         "published": "2026-11-11T07:42:00+09:00",
         "publisher": "메디파나뉴스"
-      },
-      {
-        "level": "High",
-        "title": "글로벌 제약사, 연이어 한국서 비만약 임상3상… 알약 제형·달라진 기...",
-        "layer": "news",
-        "url": "http://www.segyebiz.com/newsView/20261022516631?OutUrl=naver",
-        "date": "2026.10.22",
-        "published": "2026-10-22T15:18:00+09:00",
-        "publisher": "segyebiz.com"
       },
       {
         "level": "High",
@@ -2833,6 +2831,15 @@
         "date": "2026.11.10",
         "published": "2026-11-10T10:54:00+09:00",
         "publisher": "이데일리"
+      },
+      {
+        "level": "High",
+        "title": "\"대만 남성, 비만치료제 맞은 뒤 실명 주장\"…첫 피해 구제 신청",
+        "layer": "news",
+        "url": "https://biz.sbs.co.kr/article_hub/20000346024?division=NAVER",
+        "date": "2026.11.14",
+        "published": "2026-11-14T12:30:00+09:00",
+        "publisher": "biz.sbs.co.kr"
       }
     ],
     "PND3174": [
