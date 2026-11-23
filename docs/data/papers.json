@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T21:12:35.877583+09:00",
-  "total": 6230,
+  "updated_at": "2026-11-24T06:09:40.293344+09:00",
+  "total": 6232,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -744,6 +744,40 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "An Integrated Ligand- and Structure-Based Virtual Screening and Experimental Strategy for the Prediction of Chemically Diverse GLP-1R Agonists",
+      "summary": "Murcia-García E et al. · Journal of chemical information and modeling",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070945/",
+      "publisher": "Journal of chemical information and modeling",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Kidney Effect of Tirzepatide in Pediatric Type 2 Diabetes",
+      "summary": "Bjornstad P et al. · Diabetes care",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070923/",
+      "publisher": "Diabetes care",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-23T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.23",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT404"
+      ],
       "companies": []
     },
     {
@@ -7583,6 +7617,22 @@
       "summary": "Varghese RT et al. · Endocrinology, diabetes & metabolism",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43068476/",
       "publisher": "Endocrinology, diabetes & metabolism",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Therapeutic Potential of GLP-1 Receptor Agonists in Stroke Management: Evidence From Bench to Bedside",
+      "summary": "Wang L et al. · CNS neuroscience & therapeutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070843/",
+      "publisher": "CNS neuroscience & therapeutics",
       "source": "pubmed",
       "layer": "paper",
       "region": "",
@@ -102076,22 +102126,6 @@
       "date": "2023.12.01",
       "year": 2023,
       "category": "platform",
-      "pipelines": [],
-      "companies": []
-    },
-    {
-      "title": "Unveiling the pathogenic mechanisms of NPR2 missense variants: insights into the genotype-associated severity in acromesomelic dysplasia and short stature",
-      "summary": "Badawi S et al. · Frontiers in cell and developmental biology",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38078000/",
-      "publisher": "Frontiers in cell and developmental biology",
-      "source": "pubmed",
-      "layer": "paper",
-      "region": "",
-      "published": "2023-11-23T00:00:00+09:00",
-      "time": "00:00",
-      "date": "2023.11.23",
-      "year": 2023,
-      "category": "npr",
       "pipelines": [],
       "companies": []
     }
