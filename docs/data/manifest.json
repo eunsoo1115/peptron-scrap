@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-25T05:07:18.326709+09:00",
+  "updated_at": "2026-11-25T13:41:42.594515+09:00",
   "dates": [
     {
       "date": "2026-11-25",
-      "total": 2296,
+      "total": 2853,
       "counts": {
-        "core": 305,
-        "obesity": 698,
-        "npr": 286,
-        "platform": 464,
-        "reg": 298,
-        "mkt": 245
+        "core": 336,
+        "obesity": 924,
+        "npr": 331,
+        "platform": 563,
+        "reg": 364,
+        "mkt": 335
       }
     },
     {
@@ -2219,7 +2219,7 @@
     }
   ],
   "papers": {
-    "total": 6259,
+    "total": 6261,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2229,19 +2229,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 1240,
+    "total": 1241,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 10186,
+  "news_recent_total": 10370,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2616,
+      "news": 2666,
       "papers": 618,
       "trials": 193,
-      "total": 3427,
+      "total": 3477,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2268,11 +2268,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 2079,
+      "news": 2135,
       "papers": 419,
       "trials": 137,
-      "total": 2635,
-      "recent": "2026-11-25T04:35:00+09:00",
+      "total": 2691,
+      "recent": "2026-11-25T13:35:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2363,51 +2363,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 320,
+      "news": 334,
       "papers": 0,
       "trials": 0,
-      "total": 320,
-      "recent": "2026-11-24T18:44:00+09:00",
+      "total": 334,
+      "recent": "2026-11-25T13:18:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 174,
+      "news": 177,
       "papers": 0,
       "trials": 0,
-      "total": 174,
-      "recent": "2026-11-24T21:33:00+09:00",
+      "total": 177,
+      "recent": "2026-11-25T10:56:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 152,
+      "news": 156,
       "papers": 0,
       "trials": 0,
-      "total": 152,
-      "recent": "2026-11-23T23:22:00+09:00",
+      "total": 156,
+      "recent": "2026-11-25T13:18:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 720,
+      "news": 732,
       "papers": 0,
       "trials": 0,
-      "total": 720,
-      "recent": "2026-11-25T00:35:02+09:00",
+      "total": 732,
+      "recent": "2026-11-25T13:00:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 444,
+      "news": 451,
       "papers": 1,
       "trials": 0,
-      "total": 445,
-      "recent": "2026-11-24T18:36:00+09:00",
+      "total": 452,
+      "recent": "2026-11-25T12:09:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2423,19 +2423,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 25,
-      "yesterday": 329
+      "today": 201,
+      "yesterday": 333
     },
     "paper": {
       "today": 0,
-      "yesterday": 4
+      "yesterday": 6
     },
     "trial": {
       "today": 0,
       "yesterday": 13
     },
     "regulatory": {
-      "today": 5,
+      "today": 6,
       "yesterday": 14
     }
   },
@@ -2624,31 +2624,31 @@
     },
     {
       "date": "2026-11-22",
-      "news": 104,
+      "news": 106,
       "paper": 4,
       "trial": 0,
       "regulatory": 0
     },
     {
       "date": "2026-11-23",
-      "news": 366,
+      "news": 368,
       "paper": 18,
       "trial": 3,
       "regulatory": 1
     },
     {
       "date": "2026-11-24",
-      "news": 329,
-      "paper": 4,
+      "news": 333,
+      "paper": 6,
       "trial": 13,
       "regulatory": 14
     },
     {
       "date": "2026-11-25",
-      "news": 25,
+      "news": 201,
       "paper": 0,
       "trial": 0,
-      "regulatory": 5
+      "regulatory": 6
     }
   ],
   "alerts": [
@@ -2669,6 +2669,23 @@
       "published": "2026-11-11T07:42:00+09:00",
       "date": "2026.11.11",
       "publisher": "메디파나뉴스"
+    },
+    {
+      "level": "High",
+      "score": 13,
+      "title": "위고비·마운자로 등 572개 의약품 특허정보 공개",
+      "layer": "news",
+      "url": "https://biz.sbs.co.kr/article_hub/20000348741?division=NAVER",
+      "companies": [
+        "lilly"
+      ],
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "published": "2026-11-25T11:14:00+09:00",
+      "date": "2026.11.25",
+      "publisher": "biz.sbs.co.kr"
     },
     {
       "level": "High",
@@ -2766,21 +2783,6 @@
       "published": "2026-11-14T12:30:00+09:00",
       "date": "2026.11.14",
       "publisher": "biz.sbs.co.kr"
-    },
-    {
-      "level": "High",
-      "score": 12,
-      "title": "“10㎏ 뺐지만 한쪽 눈 실명”…대만 오젬픽 사용자 피해 구제 신청",
-      "layer": "news",
-      "url": "https://www.donga.com/news/Health/article/all/20261113/135018589/2",
-      "companies": [],
-      "pipelines": [
-        "PT403",
-        "PT404"
-      ],
-      "published": "2026-11-13T09:50:00+09:00",
-      "date": "2026.11.13",
-      "publisher": "donga.com"
     }
   ],
   "highlights": {
@@ -2793,6 +2795,15 @@
         "date": "2026.11.11",
         "published": "2026-11-11T07:42:00+09:00",
         "publisher": "메디파나뉴스"
+      },
+      {
+        "level": "High",
+        "title": "위고비·마운자로 등 572개 의약품 특허정보 공개",
+        "layer": "news",
+        "url": "https://biz.sbs.co.kr/article_hub/20000348741?division=NAVER",
+        "date": "2026.11.25",
+        "published": "2026-11-25T11:14:00+09:00",
+        "publisher": "biz.sbs.co.kr"
       },
       {
         "level": "High",
@@ -2820,15 +2831,6 @@
         "date": "2026.11.10",
         "published": "2026-11-10T17:00:00+09:00",
         "publisher": "thepublic.kr"
-      },
-      {
-        "level": "High",
-        "title": "“비만치료제, 시력상실 위험”… 미국 FDA, 경고문구 의무화",
-        "layer": "news",
-        "url": "https://www.munhwa.com/article/11630251?ref=naver",
-        "date": "2026.11.10",
-        "published": "2026-11-10T12:09:00+09:00",
-        "publisher": "munhwa.com"
       }
     ],
     "PT404": [
@@ -2840,6 +2842,15 @@
         "date": "2026.11.11",
         "published": "2026-11-11T07:42:00+09:00",
         "publisher": "메디파나뉴스"
+      },
+      {
+        "level": "High",
+        "title": "위고비·마운자로 등 572개 의약품 특허정보 공개",
+        "layer": "news",
+        "url": "https://biz.sbs.co.kr/article_hub/20000348741?division=NAVER",
+        "date": "2026.11.25",
+        "published": "2026-11-25T11:14:00+09:00",
+        "publisher": "biz.sbs.co.kr"
       },
       {
         "level": "High",
@@ -2867,15 +2878,6 @@
         "date": "2026.11.10",
         "published": "2026-11-10T10:54:00+09:00",
         "publisher": "이데일리"
-      },
-      {
-        "level": "High",
-        "title": "\"대만 남성, 비만치료제 맞은 뒤 실명 주장\"…첫 피해 구제 신청",
-        "layer": "news",
-        "url": "https://biz.sbs.co.kr/article_hub/20000346024?division=NAVER",
-        "date": "2026.11.14",
-        "published": "2026-11-14T12:30:00+09:00",
-        "publisher": "biz.sbs.co.kr"
       }
     ],
     "PND3174": [
