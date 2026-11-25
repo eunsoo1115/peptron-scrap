@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-25T13:41:42.594515+09:00",
+  "updated_at": "2026-11-25T21:35:16.208402+09:00",
   "dates": [
     {
       "date": "2026-11-25",
-      "total": 2853,
+      "total": 3152,
       "counts": {
-        "core": 336,
-        "obesity": 924,
-        "npr": 331,
-        "platform": 563,
-        "reg": 364,
-        "mkt": 335
+        "core": 343,
+        "obesity": 1055,
+        "npr": 360,
+        "platform": 609,
+        "reg": 380,
+        "mkt": 405
       }
     },
     {
@@ -2219,7 +2219,7 @@
     }
   ],
   "papers": {
-    "total": 6261,
+    "total": 6278,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2229,19 +2229,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 1241,
+    "total": 1242,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 10370,
+  "news_recent_total": 10519,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2666,
-      "papers": 618,
+      "news": 2706,
+      "papers": 621,
       "trials": 193,
-      "total": 3477,
+      "total": 3520,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2268,11 +2268,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 2135,
-      "papers": 419,
+      "news": 2187,
+      "papers": 420,
       "trials": 137,
-      "total": 2691,
-      "recent": "2026-11-25T13:35:00+09:00",
+      "total": 2744,
+      "recent": "2026-11-25T20:43:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2330,11 +2330,11 @@
     {
       "id": "PT320",
       "label": "PT320",
-      "news": 20,
+      "news": 22,
       "papers": 48,
       "trials": 6,
-      "total": 74,
-      "recent": "2026-11-24T20:14:00+09:00",
+      "total": 76,
+      "recent": "2026-11-25T18:01:00+09:00",
       "desc": "엑세나타이드 서방형 · 파킨슨",
       "area": "Neurology",
       "stage": "Clinical",
@@ -2363,51 +2363,51 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 334,
+      "news": 337,
       "papers": 0,
       "trials": 0,
-      "total": 334,
-      "recent": "2026-11-25T13:18:00+09:00",
+      "total": 337,
+      "recent": "2026-11-25T17:02:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 177,
+      "news": 180,
       "papers": 0,
       "trials": 0,
-      "total": 177,
-      "recent": "2026-11-25T10:56:00+09:00",
+      "total": 180,
+      "recent": "2026-11-25T16:04:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
       "id": "inventage",
       "label": "인벤티지랩 (Inventage Lab)",
-      "news": 156,
+      "news": 160,
       "papers": 0,
       "trials": 0,
-      "total": 156,
-      "recent": "2026-11-25T13:18:00+09:00",
+      "total": 160,
+      "recent": "2026-11-25T14:58:00+09:00",
       "logo": "logos/inventage.png"
     },
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 732,
+      "news": 735,
       "papers": 0,
       "trials": 0,
-      "total": 732,
-      "recent": "2026-11-25T13:00:00+09:00",
+      "total": 735,
+      "recent": "2026-11-25T18:01:00+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 451,
+      "news": 455,
       "papers": 1,
       "trials": 0,
-      "total": 452,
-      "recent": "2026-11-25T12:09:00+09:00",
+      "total": 456,
+      "recent": "2026-11-25T18:12:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2423,19 +2423,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 201,
+      "today": 348,
       "yesterday": 333
     },
     "paper": {
-      "today": 0,
-      "yesterday": 6
+      "today": 2,
+      "yesterday": 15
     },
     "trial": {
       "today": 0,
       "yesterday": 13
     },
     "regulatory": {
-      "today": 6,
+      "today": 7,
       "yesterday": 14
     }
   },
@@ -2541,7 +2541,7 @@
     {
       "date": "2026-11-10",
       "news": 514,
-      "paper": 20,
+      "paper": 21,
       "trial": 14,
       "regulatory": 23
     },
@@ -2603,7 +2603,7 @@
     },
     {
       "date": "2026-11-19",
-      "news": 508,
+      "news": 509,
       "paper": 17,
       "trial": 12,
       "regulatory": 6
@@ -2611,13 +2611,13 @@
     {
       "date": "2026-11-20",
       "news": 279,
-      "paper": 16,
+      "paper": 17,
       "trial": 5,
       "regulatory": 3
     },
     {
       "date": "2026-11-21",
-      "news": 90,
+      "news": 91,
       "paper": 8,
       "trial": 0,
       "regulatory": 4
@@ -2639,16 +2639,16 @@
     {
       "date": "2026-11-24",
       "news": 333,
-      "paper": 6,
+      "paper": 15,
       "trial": 13,
       "regulatory": 14
     },
     {
       "date": "2026-11-25",
-      "news": 201,
-      "paper": 0,
+      "news": 348,
+      "paper": 2,
       "trial": 0,
-      "regulatory": 6
+      "regulatory": 7
     }
   ],
   "alerts": [
@@ -2772,17 +2772,17 @@
     {
       "level": "High",
       "score": 12,
-      "title": "\"대만 남성, 비만치료제 맞은 뒤 실명 주장\"…첫 피해 구제 신청",
+      "title": "식약처, 펙수클루·위고비 등 572개 품목 특허정보 공개",
       "layer": "news",
-      "url": "https://biz.sbs.co.kr/article_hub/20000346024?division=NAVER",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=422656",
       "companies": [],
       "pipelines": [
         "PT403",
         "PT404"
       ],
-      "published": "2026-11-14T12:30:00+09:00",
-      "date": "2026.11.14",
-      "publisher": "biz.sbs.co.kr"
+      "published": "2026-11-25T15:58:00+09:00",
+      "date": "2026.11.25",
+      "publisher": "메디파나뉴스"
     }
   ],
   "highlights": {
