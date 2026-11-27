@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T21:01:34.098289+09:00",
-  "total": 6375,
+  "updated_at": "2026-11-28T03:50:19.055819+09:00",
+  "total": 6381,
   "year_min": 2023,
   "year_max": 2027,
   "items": [
@@ -3074,6 +3074,25 @@
       "companies": []
     },
     {
+      "title": "Comparative Effectiveness of Tirzepatide Versus Oral Semaglutide in Patients With Diabetes and Heart Failure With Preserved Ejection Fraction",
+      "summary": "Mortada I et al. · Reviews in cardiovascular medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101590/",
+      "publisher": "Reviews in cardiovascular medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-18T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.18",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403",
+        "PT404"
+      ],
+      "companies": []
+    },
+    {
       "title": "KASL Consensus Statement for Pharmacologic Treatment of Metabolic Dysfunction-Associated Steatohepatitis: Focus on Semaglutide",
       "summary": "Kim JH et al. · Clinical and molecular hepatology",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43041053/",
@@ -4287,6 +4306,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Oral Wegovy super-responders are characterized by greater pretreatment weight gain, faster early dose escalation, and larger on-treatment blood pressure reductions",
+      "summary": "Murugadoss K et al. · Biology methods & protocols",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101840/",
+      "publisher": "Biology methods & protocols",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-14T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.14",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -5919,6 +5956,22 @@
       "companies": []
     },
     {
+      "title": "Mechanistic Insights and Characteristics of Levofloxacin HCl-Loaded Solvent Exchange-Triggered Myristic-Based In Situ Forming Matrix",
+      "summary": "Puyathorn N et al. · ACS omega",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101309/",
+      "publisher": "ACS omega",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-10T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.10",
+      "year": 2026,
+      "category": "platform",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Long-acting growth hormone therapy in Chinese children with idiopathic short stature: efficacy evaluation and influencing factors",
       "summary": "Ye Y et al. · Journal of pediatric endocrinology & metabolism : JPEM",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42992838/",
@@ -7202,6 +7255,24 @@
       "year": 2026,
       "category": "obesity",
       "pipelines": [],
+      "companies": []
+    },
+    {
+      "title": "Atrial Fibrillation in Patients Treated With Semaglutide: A Systematic Review and Meta-Analysis",
+      "summary": "Marino G et al. · Reviews in cardiovascular medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101591/",
+      "publisher": "Reviews in cardiovascular medicine",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-06T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.06",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [
+        "PT403"
+      ],
       "companies": []
     },
     {
@@ -9623,6 +9694,22 @@
       "companies": []
     },
     {
+      "title": "The Protective Effects of Sodium-Glucose Co-transporter 2 Inhibitors and Glucagon-Like Peptide-1 Receptor Agonists to Reduce the Risk of New-Onset Atrial Fibrillation",
+      "summary": "Huang CW et al. · Acta Cardiologica Sinica",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101041/",
+      "publisher": "Acta Cardiologica Sinica",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-11-01T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.11.01",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
+      "companies": []
+    },
+    {
       "title": "Postbiotic of Bifidobacterium breve i1088 alleviates type 2 diabetes by promoting GLP-1 secretion: identification of 5-hydroxyindoleacetic acid as a key active metabolite",
       "summary": "Niu X et al. · Food research international (Ottawa, Ont.)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42629077/",
@@ -10380,6 +10467,22 @@
       "pipelines": [
         "PT403"
       ],
+      "companies": []
+    },
+    {
+      "title": "Community awareness and misconceptions regarding GLP-1 receptor agonists for weight management among adults in the Aseer Region, Saudi Arabia: a cross-sectional study",
+      "summary": "Alshahrani AM et al. · Frontiers in public health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43101639/",
+      "publisher": "Frontiers in public health",
+      "source": "pubmed",
+      "layer": "paper",
+      "region": "",
+      "published": "2026-10-30T00:00:00+09:00",
+      "time": "00:00",
+      "date": "2026.10.30",
+      "year": 2026,
+      "category": "obesity",
+      "pipelines": [],
       "companies": []
     },
     {
