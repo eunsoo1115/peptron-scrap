@@ -43,18 +43,18 @@
     "reg",
     "mkt"
   ],
-  "updated_at": "2026-11-28T03:51:34.001498+09:00",
+  "updated_at": "2026-11-28T12:38:52.536448+09:00",
   "dates": [
     {
       "date": "2026-11-28",
-      "total": 2274,
+      "total": 2635,
       "counts": {
-        "core": 317,
-        "obesity": 698,
-        "npr": 314,
-        "platform": 378,
-        "reg": 330,
-        "mkt": 237
+        "core": 336,
+        "obesity": 828,
+        "npr": 355,
+        "platform": 460,
+        "reg": 363,
+        "mkt": 293
       }
     },
     {
@@ -2255,7 +2255,7 @@
     }
   ],
   "papers": {
-    "total": 6381,
+    "total": 6385,
     "year_min": 2023,
     "year_max": 2027
   },
@@ -2265,19 +2265,19 @@
     "year_max": 2026
   },
   "regulatory": {
-    "total": 1250,
+    "total": 1251,
     "year_min": null,
     "year_max": null
   },
-  "news_recent_total": 10133,
+  "news_recent_total": 10201,
   "pipelines": [
     {
       "id": "PT403",
       "label": "PT403",
-      "news": 2585,
+      "news": 2600,
       "papers": 635,
       "trials": 194,
-      "total": 3414,
+      "total": 3429,
       "recent": "2026-12-31T00:00:00+09:00",
       "desc": "세마글루티드 (위고비·오젬픽) 계열 · 장기지속형",
       "area": "Obesity",
@@ -2304,11 +2304,11 @@
     {
       "id": "PT404",
       "label": "PT404",
-      "news": 2174,
+      "news": 2190,
       "papers": 427,
       "trials": 137,
-      "total": 2738,
-      "recent": "2026-11-28T02:48:45+09:00",
+      "total": 2754,
+      "recent": "2026-11-28T11:30:00+09:00",
       "desc": "티르제파타이드 (마운자로·젭바운드) 계열 · 장기지속형",
       "area": "Obesity",
       "stage": "Nonclinical",
@@ -2399,21 +2399,21 @@
     {
       "id": "peptron",
       "label": "펩트론 (Peptron)",
-      "news": 388,
+      "news": 391,
       "papers": 0,
       "trials": 0,
-      "total": 388,
-      "recent": "2026-11-27T23:27:00+09:00",
+      "total": 391,
+      "recent": "2026-11-28T11:24:00+09:00",
       "logo": "logos/peptron.png"
     },
     {
       "id": "g2gbio",
       "label": "지투지바이오 (G2GBIO)",
-      "news": 154,
+      "news": 157,
       "papers": 0,
       "trials": 0,
-      "total": 154,
-      "recent": "2026-11-27T16:10:00+09:00",
+      "total": 157,
+      "recent": "2026-11-28T07:32:00+09:00",
       "logo": "logos/g2gbio.png"
     },
     {
@@ -2429,21 +2429,21 @@
     {
       "id": "lilly",
       "label": "일라이릴리 (Eli Lilly)",
-      "news": 665,
+      "news": 666,
       "papers": 0,
       "trials": 0,
-      "total": 665,
-      "recent": "2026-11-28T00:35:00+09:00",
+      "total": 666,
+      "recent": "2026-11-28T09:08:42+09:00",
       "logo": "logos/lilly.png"
     },
     {
       "id": "novo",
       "label": "노보노디스크 (Novo Nordisk)",
-      "news": 442,
+      "news": 447,
       "papers": 1,
       "trials": 0,
-      "total": 443,
-      "recent": "2026-11-27T23:09:58+09:00",
+      "total": 448,
+      "recent": "2026-11-28T11:09:00+09:00",
       "logo": "logos/novo.png"
     },
     {
@@ -2459,19 +2459,19 @@
   ],
   "kpi": {
     "news": {
-      "today": 14,
-      "yesterday": 408
+      "today": 77,
+      "yesterday": 411
     },
     "paper": {
       "today": 0,
-      "yesterday": 3
+      "yesterday": 7
     },
     "trial": {
       "today": 0,
       "yesterday": 7
     },
     "regulatory": {
-      "today": 0,
+      "today": 1,
       "yesterday": 3
     }
   },
@@ -2653,7 +2653,7 @@
     },
     {
       "date": "2026-11-24",
-      "news": 348,
+      "news": 349,
       "paper": 16,
       "trial": 13,
       "regulatory": 14
@@ -2667,24 +2667,24 @@
     },
     {
       "date": "2026-11-26",
-      "news": 395,
+      "news": 396,
       "paper": 16,
       "trial": 0,
       "regulatory": 5
     },
     {
       "date": "2026-11-27",
-      "news": 408,
-      "paper": 3,
+      "news": 411,
+      "paper": 7,
       "trial": 7,
       "regulatory": 3
     },
     {
       "date": "2026-11-28",
-      "news": 14,
+      "news": 77,
       "paper": 0,
       "trial": 0,
-      "regulatory": 0
+      "regulatory": 1
     }
   ],
   "alerts": [
